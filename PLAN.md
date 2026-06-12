@@ -97,6 +97,7 @@ Ohne Login, zwei Optionen (beide möglich):
 6. ✅ Klassen-Paket: `English-Trainer-2AHB.zip` (9,7 MB) – entpacken, index.html doppelklicken, fertig (siehe ANLEITUNG.txt)
 7. ✅ Karaoke-Modus: Beim Vorlesen werden aktueller Satz + aktuelles Wort live hervorgehoben (echte ElevenLabs-Zeitstempel in `timings.js`)
 8. ✅ Lernfortschritt erweitert: gehörte Sätze werden getrackt (grüner ▶-Button), Hör-Balken pro Text und Thema, Statistik-Dashboard auf der Startseite (Punkte, Streak, Themen-Abzeichen, Prüfungen)
+9. ✅ **Buch-Tab (Nachtrag der Professorin, 12.6. abends):** Tab „📖 Buch (Schularbeit)" mit Untertabs Conditionals (S. 31), Modal Verbs (S. 57), Reported Speech (S. 89), Mixed Tenses (S. 126–127) – alle 95 Aufgaben von den Original-Buchseiten gelöst (gedruckte Seitennummern, Scans direkt gelesen), 12 vertonte Beispielsätze, Lösungen in `loesungen/buch.md`. Verteil-Pakete neu: ZIP aktualisiert, `github-upload-neu/` (3 Schritte). Engine kann jetzt generell Untertabs (auch im Skill).
 
 ## Offene Punkte
 

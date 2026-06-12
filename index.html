@@ -34,6 +34,8 @@
   .seg{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 14px}
   .seg button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;padding:8px 13px;font-size:13.5px;font-weight:600;cursor:pointer}
   .seg button.active{background:var(--acc);border-color:var(--acc);color:#fff}
+  .seg.subbar{margin:10px 0 0}
+  .seg.subbar button{padding:6px 11px;font-size:12.5px;border-radius:999px}
   .bar{height:9px;background:var(--line);border-radius:99px;overflow:hidden}
   .bar>i{display:block;height:100%;background:linear-gradient(90deg,var(--acc),var(--acc2));border-radius:99px;transition:width .5s}
   .bar.gold>i{background:linear-gradient(90deg,#f2b01e,#f7d154)}
@@ -318,14 +320,24 @@ function renderTopic(v,t){
   v.appendChild(head);
   head.querySelectorAll(".seg button").forEach(b=>{ if(b.dataset.s===CUR.sub) b.classList.add("active");
     b.onclick=()=>{ CUR.sub=b.dataset.s; render(); }; });
+  if(Array.isArray(t.subtabs) && t.subtabs.length && CUR.sub!=="pruefung"){
+    if(!t.subtabs.some(s=>s.id===CUR.subtab)) CUR.subtab=t.subtabs[0].id;
+    const sb=document.createElement("div"); sb.className="seg subbar";
+    t.subtabs.forEach(s=>{ const b=document.createElement("button"); b.textContent=s.title;
+      if(s.id===CUR.subtab) b.classList.add("active");
+      b.onclick=()=>{ CUR.subtab=s.id; render(); }; sb.appendChild(b); });
+    head.appendChild(sb);
+  }
   if(CUR.sub==="lernen") renderBirkenbihl(v,t);
   else if(CUR.sub==="ueben") renderExercises(v,t);
   else renderExam(v,t);
 }
 /* ---------- Birkenbihl ---------- */
+function subFilter(t,x){ return !Array.isArray(t.subtabs)||!t.subtabs.length||!x.sub||x.sub===CUR.subtab; }
 function renderBirkenbihl(v,t){
-  if(!(t.birkenbihl||[]).length){ const c=document.createElement("div"); c.className="card";
-    c.innerHTML='<p class="muted">Für dieses Thema gibt es keinen Lesetext – ab zu den Übungen! ✏️</p>'; v.appendChild(c); return; }
+  const texts=(t.birkenbihl||[]).filter(x=>subFilter(t,x));
+  if(!texts.length){ const c=document.createElement("div"); c.className="card";
+    c.innerHTML='<p class="muted">Für diesen Bereich gibt es keinen Lesetext – ab zu den Übungen! ✏️</p>'; v.appendChild(c); return; }
   const lvl=document.createElement("div"); lvl.className="card";
   lvl.innerHTML=`<h3>Lernstufe</h3><div class="seg" style="margin-bottom:4px">
     <button data-l="1">1 · Alles anzeigen</button>
@@ -337,7 +349,7 @@ function renderBirkenbihl(v,t){
     lvl.querySelectorAll("button").forEach(b=>b.classList.toggle("active", +b.dataset.l===l)); };
   lvl.querySelectorAll("button").forEach(b=> b.onclick=()=>setLvl(+b.dataset.l));
   setLvl(S.level||1);
-  (t.birkenbihl||[]).forEach(text=>{
+  texts.forEach(text=>{
     const c=document.createElement("div"); c.className="card";
     const ids=text.sentences.map(s=>s.id);
     c.innerHTML=`<div class="exhead"><h3>${esc(text.title)}</h3>
@@ -358,7 +370,7 @@ function renderBirkenbihl(v,t){
 }
 /* ---------- Übungen ---------- */
 function renderExercises(v,t){
-  (t.exercises||[]).forEach(ex=>{
+  (t.exercises||[]).filter(x=>subFilter(t,x)).forEach(ex=>{
     const c=document.createElement("div"); c.className="ex";
     c.innerHTML=`<div class="exhead"><h3>${esc(ex.title)}</h3><span class="src">${esc(ex.source||"")}</span></div>
       <div class="small muted">${esc(ex.instruction||"")}</div>`;
