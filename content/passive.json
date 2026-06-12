@@ -1,0 +1,545 @@
+{
+  "id": "passive",
+  "title": "Passive Voice",
+  "icon": "🔄",
+  "phase": 1,
+  "birkenbihl": [
+    {
+      "id": "pas_t1",
+      "title": "Passiv-Beispielsätze (alle Zeiten)",
+      "sentences": [
+        {
+          "id": "pas_t1_s01",
+          "en": "The letters are delivered.",
+          "decode": [["The","Die"],["letters","Briefe"],["are delivered.","werden-zugestellt."]],
+          "de": "(Aktiv: He delivers the letters.) Die Briefe werden zugestellt. – Present Simple"
+        },
+        {
+          "id": "pas_t1_s02",
+          "en": "The letters were delivered.",
+          "decode": [["The","Die"],["letters","Briefe"],["were delivered.","wurden-zugestellt."]],
+          "de": "(Aktiv: He delivered the letters.) Die Briefe wurden zugestellt. – Past Simple"
+        },
+        {
+          "id": "pas_t1_s03",
+          "en": "The letters have been delivered.",
+          "decode": [["The","Die"],["letters","Briefe"],["have been delivered.","sind-zugestellt-worden."]],
+          "de": "(Aktiv: He has delivered the letters.) Die Briefe sind zugestellt worden. – Present Perfect"
+        },
+        {
+          "id": "pas_t1_s04",
+          "en": "The new library will be opened by the Queen.",
+          "decode": [["The","Die"],["new","neue"],["library","Bibliothek"],["will be opened","wird-eröffnet-werden"],["by","von"],["the","der"],["Queen.","Königin."]],
+          "de": "(Aktiv: The Queen will open the new library.) Die neue Bibliothek wird von der Königin eröffnet werden. – will-Future"
+        },
+        {
+          "id": "pas_t1_s05",
+          "en": "This book was written by Agatha Christie.",
+          "decode": [["This","Dieses"],["book","Buch"],["was written","wurde-geschrieben"],["by","von"],["Agatha","Agatha"],["Christie.","Christie."]],
+          "de": "(Aktiv: Agatha Christie wrote this book.) Dieses Buch wurde von Agatha Christie geschrieben."
+        },
+        {
+          "id": "pas_t1_s06",
+          "en": "I was given this book by Rick.",
+          "decode": [["I","Ich"],["was given","wurde-gegeben"],["this","dieses"],["book","Buch"],["by","von"],["Rick.","Rick."]],
+          "de": "(Aktiv: Rick gave me this book.) Mir wurde dieses Buch von Rick gegeben. – persönliches Passiv!"
+        },
+        {
+          "id": "pas_t1_s07",
+          "en": "The door was opened with a key.",
+          "decode": [["The","Die"],["door","Tür"],["was opened","wurde-geöffnet"],["with","mit"],["a","einem"],["key.","Schlüssel."]],
+          "de": "(Aktiv: Someone opened the door with a key.) Die Tür wurde mit einem Schlüssel geöffnet. – with = Werkzeug, by = Täter!"
+        }
+      ]
+    },
+    {
+      "id": "pas_t2",
+      "title": "Die Fiat-Story im Passiv",
+      "sentences": [
+        {
+          "id": "pas_t2_s01",
+          "en": "Fiat was started by a group of Italian businessmen in 1899.",
+          "decode": [["Fiat","Fiat"],["was started","wurde-gegründet"],["by","von"],["a","einer"],["group","Gruppe"],["of","von"],["Italian","italienischen"],["businessmen","Geschäftsleuten"],["in","in"],["1899.","1899."]],
+          "de": "(Aktiv: A group of Italian businessmen started Fiat in 1899.) Fiat wurde 1899 von einer Gruppe italienischer Geschäftsleute gegründet."
+        },
+        {
+          "id": "pas_t2_s02",
+          "en": "Some of these cars were exported to the United States and Britain.",
+          "decode": [["Some","Einige"],["of","von"],["these","diesen"],["cars","Autos"],["were exported","wurden-exportiert"],["to","in"],["the","die"],["United States","USA"],["and","und"],["Britain.","Großbritannien."]],
+          "de": "(Aktiv: The company exported some of these cars to the United States and Britain.) Einige dieser Autos wurden in die USA und nach Großbritannien exportiert."
+        },
+        {
+          "id": "pas_t2_s03",
+          "en": "The cars were tested by technicians on the roof.",
+          "decode": [["The","Die"],["cars","Autos"],["were tested","wurden-getestet"],["by","von"],["technicians","Technikern"],["on","auf"],["the","dem"],["roof.","Dach."]],
+          "de": "(Aktiv: Technicians tested the cars on the roof.) Die Autos wurden von Technikern auf dem Dach getestet."
+        },
+        {
+          "id": "pas_t2_s04",
+          "en": "This car was called the Topolino.",
+          "decode": [["This","Dieses"],["car","Auto"],["was called","wurde-genannt"],["the","der"],["Topolino.","Topolino."]],
+          "de": "(Aktiv: They called this car the Topolino.) Dieses Auto wurde 'Topolino' genannt – der italienische Name für Micky Maus."
+        },
+        {
+          "id": "pas_t2_s05",
+          "en": "Today, Fiat's cars are sold all over the world.",
+          "decode": [["Today,","Heute,"],["Fiat's","Fiats"],["cars","Autos"],["are sold","werden-verkauft"],["all","überall"],["over","auf"],["the","der"],["world.","Welt."]],
+          "de": "(Aktiv: Today, Fiat sells its cars all over the world.) Heute werden Fiats Autos auf der ganzen Welt verkauft."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "pas_ex01",
+      "title": "Present Simple Passive",
+      "source": "The Passive Voice – Ex. 1",
+      "type": "build",
+      "instruction": "Setze die richtige Passivform im Present Simple ein: am/is/are + past participle.",
+      "questions": [
+        {
+          "parts": [
+            "English ",
+            {"opts": ["is", "are", "was"], "decode": ["wird", "werden", "wurde"], "correct": 0},
+            " ",
+            {"opts": ["spoken", "speak", "spoke"], "decode": ["gesprochen", "sprechen", "sprach"], "correct": 0},
+            " in many countries. (speak)"
+          ],
+          "solutionEn": "English is spoken in many countries.",
+          "solutionDe": "Englisch wird in vielen Ländern gesprochen.",
+          "explain": "Present Simple Passive: is + past participle; speak–spoke–spoken. 'English' = Singular → is."
+        },
+        {
+          "parts": [
+            "The post ",
+            {"opts": ["is", "are", "does"], "decode": ["wird", "werden", "tut"], "correct": 0},
+            " ",
+            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            " at about 7 o'clock every morning. (deliver)"
+          ],
+          "solutionEn": "The post is delivered at about 7 o'clock every morning.",
+          "solutionDe": "Die Post wird jeden Morgen gegen 7 Uhr zugestellt.",
+          "explain": "is + delivered. 'every morning' → Present Simple."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["Is", "Does", "Has"], "decode": ["Wird", "Tut", "Hat"], "correct": 0},
+            " the building ",
+            {"opts": ["used", "use", "using"], "decode": ["benutzt", "benutzen", "benutzend"], "correct": 0},
+            " any more? (the building / use)"
+          ],
+          "solutionEn": "Is the building used any more?",
+          "solutionDe": "Wird das Gebäude noch benutzt?",
+          "explain": "Passivfrage: Is + Subjekt + past participle. KEIN do/does im Passiv!"
+        },
+        {
+          "parts": [
+            "How often ",
+            {"opts": ["are", "is", "do"], "decode": ["werden", "wird", "tun"], "correct": 0},
+            " the Olympic Games ",
+            {"opts": ["held", "hold", "holded"], "decode": ["abgehalten", "abhalten", "hielt"], "correct": 0},
+            "? (the Olympic Games / hold)"
+          ],
+          "solutionEn": "How often are the Olympic Games held?",
+          "solutionDe": "Wie oft werden die Olympischen Spiele abgehalten?",
+          "explain": "'the Olympic Games' = Plural → are; hold–held–held."
+        },
+        {
+          "parts": [
+            "How ",
+            {"opts": ["is", "are", "does"], "decode": ["wird", "werden", "tut"], "correct": 0},
+            " your name ",
+            {"opts": ["spelled", "spell", "spelling"], "decode": ["buchstabiert", "buchstabieren", "buchstabierend"], "correct": 0},
+            "? (your name / spell)"
+          ],
+          "solutionEn": "How is your name spelled?",
+          "solutionDe": "Wie wird dein Name geschrieben/buchstabiert?",
+          "explain": "is + spelled (britisch auch: spelt). 'your name' = Singular → is."
+        },
+        {
+          "parts": [
+            "My salary ",
+            {"opts": ["is", "are", "have"], "decode": ["wird", "werden", "haben"], "correct": 0},
+            " ",
+            {"opts": ["paid", "payed", "pay"], "decode": ["bezahlt", "zahlte", "bezahlen"], "correct": 0},
+            " every month. (pay)"
+          ],
+          "solutionEn": "My salary is paid every month.",
+          "solutionDe": "Mein Gehalt wird jeden Monat bezahlt.",
+          "explain": "is + paid. Achtung Schreibung: pay–paid–paid (NICHT payed)."
+        },
+        {
+          "parts": [
+            "These cars ",
+            {"opts": ["are not", "is not", "do not"], "decode": ["werden nicht", "wird nicht", "tun nicht"], "correct": 0},
+            " ",
+            {"opts": ["made", "make", "maked"], "decode": ["hergestellt", "herstellen", "machte"], "correct": 0},
+            " in Japan. (not make)"
+          ],
+          "solutionEn": "These cars are not made in Japan.",
+          "solutionDe": "Diese Autos werden nicht in Japan hergestellt.",
+          "explain": "Verneinung: are not + made; make–made–made. 'cars' = Plural → are."
+        },
+        {
+          "parts": [
+            "The name of the people who committed the crime ",
+            {"opts": ["is not", "are not", "does not"], "decode": ["ist nicht", "sind nicht", "tut nicht"], "correct": 0},
+            " ",
+            {"opts": ["known", "knew", "know"], "decode": ["bekannt", "wusste", "wissen"], "correct": 0},
+            ". (not know)"
+          ],
+          "solutionEn": "The name of the people who committed the crime is not known.",
+          "solutionDe": "Der Name der Leute, die das Verbrechen begangen haben, ist nicht bekannt.",
+          "explain": "Falle! Subjekt ist 'The name' (Singular) → is not; know–knew–known."
+        },
+        {
+          "parts": [
+            "His travel expenses ",
+            {"opts": ["are not", "is not", "have not"], "decode": ["werden nicht", "wird nicht", "haben nicht"], "correct": 0},
+            " ",
+            {"opts": ["paid", "payed", "paying"], "decode": ["bezahlt", "zahlte", "bezahlend"], "correct": 0},
+            " by his company. (not pay)"
+          ],
+          "solutionEn": "His travel expenses are not paid by his company.",
+          "solutionDe": "Seine Reisekosten werden nicht von seiner Firma bezahlt.",
+          "explain": "'expenses' = Plural → are not + paid; Täter mit by (by his company)."
+        }
+      ]
+    },
+    {
+      "id": "pas_ex02",
+      "title": "Past Simple Passive",
+      "source": "The Passive Voice – Ex. 2",
+      "type": "build",
+      "instruction": "Setze die richtige Passivform im Past Simple ein: was/were + past participle.",
+      "questions": [
+        {
+          "parts": [
+            "My car ",
+            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            " ",
+            {"opts": ["repaired", "repair", "repairing"], "decode": ["repariert", "reparieren", "reparierend"], "correct": 0},
+            " last week. (repair)"
+          ],
+          "solutionEn": "My car was repaired last week.",
+          "solutionDe": "Mein Auto wurde letzte Woche repariert.",
+          "explain": "Past Simple Passive: was + past participle. 'last week' → Past."
+        },
+        {
+          "parts": [
+            "This song ",
+            {"opts": ["was not", "were not", "did not"], "decode": ["wurde nicht", "wurden nicht", "tat nicht"], "correct": 0},
+            " ",
+            {"opts": ["written", "wrote", "write"], "decode": ["geschrieben", "schrieb", "schreiben"], "correct": 0},
+            " by John Lennon. (not write)"
+          ],
+          "solutionEn": "This song was not written by John Lennon.",
+          "solutionDe": "Dieses Lied wurde nicht von John Lennon geschrieben.",
+          "explain": "was not + written; write–wrote–written; Täter mit by."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["Was", "Did", "Were"], "decode": ["Wurde", "Tat", "Wurden"], "correct": 0},
+            " the phone ",
+            {"opts": ["answered", "answer", "answering"], "decode": ["abgehoben", "abheben", "abhebend"], "correct": 0},
+            " by a young girl? (the phone / answer)"
+          ],
+          "solutionEn": "Was the phone answered by a young girl?",
+          "solutionDe": "Wurde das Telefon von einem jungen Mädchen abgehoben?",
+          "explain": "Passivfrage im Past: Was + Subjekt + past participle. 'the phone' = Singular → was; kein did im Passiv."
+        },
+        {
+          "parts": [
+            "The film ",
+            {"opts": ["was", "has been", "were"], "decode": ["wurde", "ist worden", "wurden"], "correct": 0},
+            " ",
+            {"opts": ["made", "make", "making"], "decode": ["gedreht", "drehen", "drehend"], "correct": 0},
+            " ten years ago. (make)"
+          ],
+          "solutionEn": "The film was made ten years ago.",
+          "solutionDe": "Der Film wurde vor zehn Jahren gedreht.",
+          "explain": "'ten years ago' → Past Simple (NICHT Present Perfect): was + made."
+        },
+        {
+          "parts": [
+            "When ",
+            {"opts": ["was", "did", "were"], "decode": ["wurde", "tat", "wurden"], "correct": 0},
+            " tennis ",
+            {"opts": ["invented", "invent", "inventing"], "decode": ["erfunden", "erfinden", "erfindend"], "correct": 0},
+            "? (tennis / invent)"
+          ],
+          "solutionEn": "When was tennis invented?",
+          "solutionDe": "Wann wurde Tennis erfunden?",
+          "explain": "Frage: When + was + Subjekt + past participle."
+        },
+        {
+          "parts": [
+            "The car ",
+            {"opts": ["was not", "were not", "has not been"], "decode": ["wurde nicht", "wurden nicht", "ist nicht worden"], "correct": 0},
+            " ",
+            {"opts": ["damaged", "damage", "damaging"], "decode": ["beschädigt", "beschädigen", "beschädigend"], "correct": 0},
+            " in the accident. (not damage)"
+          ],
+          "solutionEn": "The car was not damaged in the accident.",
+          "solutionDe": "Das Auto wurde bei dem Unfall nicht beschädigt.",
+          "explain": "was not + damaged. 'in the accident' → abgeschlossene Vergangenheit."
+        },
+        {
+          "parts": [
+            "The original building ",
+            {"opts": ["was", "were", "had"], "decode": ["wurde", "wurden", "hatte"], "correct": 0},
+            " ",
+            {"opts": ["pulled", "pull", "pulling"], "decode": ["abgerissen", "abreißen", "abreißend"], "correct": 0},
+            " down in 1965. (pull)"
+          ],
+          "solutionEn": "The original building was pulled down in 1965.",
+          "solutionDe": "Das ursprüngliche Gebäude wurde 1965 abgerissen.",
+          "explain": "was + pulled down (= abgerissen); Jahreszahl → Past Simple."
+        },
+        {
+          "parts": [
+            "Where ",
+            {"opts": ["was", "did", "were"], "decode": ["wurde", "tat", "wurden"], "correct": 0},
+            " this pot ",
+            {"opts": ["made", "make", "making"], "decode": ["hergestellt", "herstellen", "herstellend"], "correct": 0},
+            "? (this pot / make)"
+          ],
+          "solutionEn": "Where was this pot made?",
+          "solutionDe": "Wo wurde dieser Topf hergestellt?",
+          "explain": "Where + was + Subjekt + past participle; kein did im Passiv."
+        },
+        {
+          "parts": [
+            "When ",
+            {"opts": ["was", "were", "did"], "decode": ["wurde", "wurden", "tat"], "correct": 0},
+            " this bridge ",
+            {"opts": ["built", "build", "builded"], "decode": ["gebaut", "bauen", "baute"], "correct": 0},
+            "? (this bridge / build)"
+          ],
+          "solutionEn": "When was this bridge built?",
+          "solutionDe": "Wann wurde diese Brücke gebaut?",
+          "explain": "When + was + Subjekt + built; build–built–built."
+        }
+      ]
+    },
+    {
+      "id": "pas_ex03",
+      "title": "Fiat – Aktiv oder Passiv?",
+      "source": "The Passive Voice – Ex. 3 (Fiat-Text)",
+      "type": "mc",
+      "instruction": "Aktiv oder Passiv? Wähle die richtige Verbform für den Fiat-Text.",
+      "questions": [
+        {
+          "parts": [
+            "Fiat was started by a group of Italian businessmen in 1899. In 1903, Fiat ",
+            {"opts": ["produced", "was produced"], "decode": ["produzierte", "wurde produziert"], "correct": 0},
+            " 132 cars."
+          ],
+          "solutionEn": "In 1903, Fiat produced 132 cars.",
+          "solutionDe": "1903 produzierte Fiat 132 Autos.",
+          "explain": "Fiat handelt selbst (stellt die Autos her) und hat ein Objekt (132 cars) → Aktiv."
+        },
+        {
+          "parts": [
+            "Some of these cars ",
+            {"opts": ["were exported", "exported"], "decode": ["wurden exportiert", "exportierten"], "correct": 0},
+            " by the company to the United States and Britain."
+          ],
+          "solutionEn": "Some of these cars were exported by the company to the United States and Britain.",
+          "solutionDe": "Einige dieser Autos wurden von der Firma in die USA und nach Großbritannien exportiert.",
+          "explain": "Die Autos exportieren nicht selbst – sie WERDEN exportiert. 'by the company' verrät das Passiv."
+        },
+        {
+          "parts": [
+            "In 1920, Fiat ",
+            {"opts": ["started", "was started"], "decode": ["begann", "wurde gegründet"], "correct": 0},
+            " making cars at a new factory at Lingotto, near Turin."
+          ],
+          "solutionEn": "In 1920, Fiat started making cars at a new factory at Lingotto, near Turin.",
+          "solutionDe": "1920 begann Fiat, in einer neuen Fabrik in Lingotto bei Turin Autos zu bauen.",
+          "explain": "Fiat beginnt selbst etwas zu tun → Aktiv."
+        },
+        {
+          "parts": [
+            "There was a track on the roof where the cars ",
+            {"opts": ["were tested", "tested"], "decode": ["wurden getestet", "testeten"], "correct": 0},
+            " by technicians."
+          ],
+          "solutionEn": "There was a track on the roof where the cars were tested by technicians.",
+          "solutionDe": "Auf dem Dach gab es eine Teststrecke, wo die Autos von Technikern getestet wurden.",
+          "explain": "'by technicians' → Passiv: were tested."
+        },
+        {
+          "parts": [
+            "In 1936, Fiat launched the Fiat 500. This car ",
+            {"opts": ["was called", "called"], "decode": ["wurde genannt", "nannte"], "correct": 0},
+            " the Topolino – the Italian name for Mickey Mouse."
+          ],
+          "solutionEn": "This car was called the Topolino.",
+          "solutionDe": "Dieses Auto wurde 'Topolino' genannt.",
+          "explain": "Das Auto nennt sich nicht selbst – es WIRD genannt → Passiv."
+        },
+        {
+          "parts": [
+            "The company grew, and in 1963 Fiat ",
+            {"opts": ["exported", "was exported"], "decode": ["exportierte", "wurde exportiert"], "correct": 0},
+            " more than 300,000 vehicles."
+          ],
+          "solutionEn": "In 1963 Fiat exported more than 300,000 vehicles.",
+          "solutionDe": "1963 exportierte Fiat mehr als 300.000 Fahrzeuge.",
+          "explain": "Fiat exportiert selbst und hat ein Objekt (vehicles) → Aktiv."
+        },
+        {
+          "parts": [
+            "Today, Fiat is based in Turin, and its cars ",
+            {"opts": ["are sold", "sold", "are selling"], "decode": ["werden verkauft", "verkauften", "verkaufen gerade"], "correct": 0},
+            " all over the world."
+          ],
+          "solutionEn": "Today, Fiat is based in Turin, and its cars are sold all over the world.",
+          "solutionDe": "Heute sitzt Fiat in Turin, und seine Autos werden auf der ganzen Welt verkauft.",
+          "explain": "Die Autos verkaufen nicht selbst → Passiv; 'Today' → Present Simple: are sold."
+        }
+      ]
+    },
+    {
+      "id": "pas_ex04",
+      "title": "Aktiv → Passiv umformen",
+      "source": "The Passive Voice – Ex. 4",
+      "type": "build",
+      "instruction": "Forme den Aktivsatz ins Passiv um. Das Objekt wird zum Subjekt!",
+      "questions": [
+        {
+          "parts": [
+            "Aktiv: We sell tickets for all shows at the Box Office. → Tickets for all shows ",
+            {"opts": ["are", "is", "were"], "decode": ["werden", "wird", "wurden"], "correct": 0},
+            " ",
+            {"opts": ["sold", "selled", "sell"], "decode": ["verkauft", "verkaufte", "verkaufen"], "correct": 0},
+            " at the Box Office."
+          ],
+          "solutionEn": "Tickets for all shows are sold at the Box Office.",
+          "solutionDe": "Karten für alle Vorstellungen werden an der Kasse verkauft.",
+          "explain": "Objekt (tickets) wird Subjekt; Zeit bleibt Present Simple: are + sold (sell–sold–sold). 'We' fällt weg."
+        },
+        {
+          "parts": [
+            "Aktiv: Thomas Edison invented the electric light bulb. → The electric light bulb ",
+            {"opts": ["was", "is", "has been"], "decode": ["wurde", "wird", "ist worden"], "correct": 0},
+            " ",
+            {"opts": ["invented", "invent", "inventing"], "decode": ["erfunden", "erfinden", "erfindend"], "correct": 0},
+            " ",
+            {"opts": ["by", "with", "from"], "decode": ["von", "mit", "aus"], "correct": 0},
+            " Thomas Edison."
+          ],
+          "solutionEn": "The electric light bulb was invented by Thomas Edison.",
+          "solutionDe": "Die Glühbirne wurde von Thomas Edison erfunden.",
+          "explain": "Past Simple bleibt: was + invented; der Täter (agent) wird mit BY angehängt."
+        },
+        {
+          "parts": [
+            "Aktiv: Someone painted the office last week. → The office ",
+            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            " ",
+            {"opts": ["painted", "paint", "painting"], "decode": ["gestrichen", "streichen", "streichend"], "correct": 0},
+            " last week."
+          ],
+          "solutionEn": "The office was painted last week.",
+          "solutionDe": "Das Büro wurde letzte Woche gestrichen.",
+          "explain": "'someone' ist unwichtig/unbekannt → der Täter wird im Passiv WEGGELASSEN (kein 'by someone')."
+        },
+        {
+          "parts": [
+            "Aktiv: Several people saw the accident. → The accident ",
+            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            " ",
+            {"opts": ["seen", "saw", "see"], "decode": ["gesehen", "sah", "sehen"], "correct": 0},
+            " by several people."
+          ],
+          "solutionEn": "The accident was seen by several people.",
+          "solutionDe": "Der Unfall wurde von mehreren Leuten gesehen.",
+          "explain": "Neues Subjekt 'the accident' = Singular → was; see–saw–seen; Täter mit by."
+        },
+        {
+          "parts": [
+            "Aktiv: Where do they make these video recorders? → Where ",
+            {"opts": ["are", "do", "is"], "decode": ["werden", "tun", "wird"], "correct": 0},
+            " these video recorders ",
+            {"opts": ["made", "make", "making"], "decode": ["hergestellt", "herstellen", "herstellend"], "correct": 0},
+            "?"
+          ],
+          "solutionEn": "Where are these video recorders made?",
+          "solutionDe": "Wo werden diese Videorekorder hergestellt?",
+          "explain": "Passivfrage: Where + are + Subjekt + made. Das 'do' aus der Aktivfrage verschwindet, 'they' fällt weg."
+        }
+      ]
+    },
+    {
+      "id": "pas_ex05",
+      "title": "Passiv-Zeiten-Mix",
+      "source": "Zeitentabellen beider Grammatik-Blätter",
+      "type": "build",
+      "instruction": "Passiv in allen Zeiten: Wähle die richtige be-Form und die Verbform.",
+      "questions": [
+        {
+          "parts": [
+            "will-Future – Aktiv: He will deliver the letters. → The letters ",
+            {"opts": ["will be", "will", "will been"], "decode": ["werden ... werden", "werden", "werden gewesen"], "correct": 0},
+            " ",
+            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "The letters will be delivered.",
+          "solutionDe": "Die Briefe werden zugestellt werden.",
+          "explain": "will-Future Passiv: will + BE + past participle."
+        },
+        {
+          "parts": [
+            "Present Perfect – Aktiv: The police have arrested him. → He ",
+            {"opts": ["has been", "has", "is been"], "decode": ["ist ... worden", "hat", "ist gewesen"], "correct": 0},
+            " ",
+            {"opts": ["arrested", "arrest", "arresting"], "decode": ["verhaftet", "verhaften", "verhaftend"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "He has been arrested.",
+          "solutionDe": "Er ist verhaftet worden.",
+          "explain": "Present Perfect Passiv: has/have + BEEN + past participle. Täter (Polizei) ist offensichtlich → weglassen."
+        },
+        {
+          "parts": [
+            "Modalverb – Aktiv: He must deliver the letters. → The letters ",
+            {"opts": ["must be", "must", "must been"], "decode": ["müssen ... werden", "müssen", "müssen gewesen"], "correct": 0},
+            " ",
+            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "The letters must be delivered.",
+          "solutionDe": "Die Briefe müssen zugestellt werden.",
+          "explain": "Modalverb-Passiv: must/can/may + BE + past participle."
+        },
+        {
+          "parts": [
+            "Present Continuous – Aktiv: He is delivering the letters. → The letters ",
+            {"opts": ["are being", "are", "is being"], "decode": ["werden gerade", "werden", "wird gerade"], "correct": 0},
+            " ",
+            {"opts": ["delivered", "delivering", "deliver"], "decode": ["zugestellt", "zustellend", "zustellen"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "The letters are being delivered.",
+          "solutionDe": "Die Briefe werden gerade zugestellt.",
+          "explain": "Present Continuous Passiv: am/is/are + BEING + past participle; 'letters' = Plural → are."
+        },
+        {
+          "parts": [
+            "going-to-Future – Aktiv: You are going to help him. → He is going to ",
+            {"opts": ["be helped", "helped", "be help"], "decode": ["geholfen werden", "geholfen", "helfen werden"], "correct": 0},
+            " by you."
+          ],
+          "solutionEn": "He is going to be helped by you.",
+          "solutionDe": "Ihm wird von dir geholfen werden.",
+          "explain": "going-to-Future Passiv: is/are going to + BE + past participle."
+        }
+      ]
+    }
+  ]
+}

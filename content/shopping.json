@@ -1,0 +1,339 @@
+{
+  "id": "shopping",
+  "title": "Shopping",
+  "icon": "🛒",
+  "phase": 2,
+  "birkenbihl": [
+    {
+      "id": "shop_t1",
+      "title": "Shopping Vocabulary in Context",
+      "sentences": [
+        {
+          "id": "shop_t1_s01",
+          "en": "I always shop around before I buy something expensive.",
+          "decode": [["I","ich"],["always","immer"],["shop around","vergleiche die Preise"],["before","bevor"],["I","ich"],["buy","kaufe"],["something","etwas"],["expensive.","Teures."]],
+          "de": "Ich vergleiche immer die Preise in mehreren Geschäften, bevor ich etwas Teures kaufe."
+        },
+        {
+          "id": "shop_t1_s02",
+          "en": "Last week I had to return a jumper to the store because it was too small.",
+          "decode": [["Last week","letzte Woche"],["I","ich"],["had to","musste"],["return","zurückbringen"],["a","einen"],["jumper","Pullover"],["to the store","ins Geschäft"],["because","weil"],["it","er"],["was","war"],["too","zu"],["small.","klein."]],
+          "de": "Letzte Woche musste ich einen Pullover ins Geschäft zurückbringen, weil er zu klein war."
+        },
+        {
+          "id": "shop_t1_s03",
+          "en": "I have a points card for my favourite supermarket and use my points regularly.",
+          "decode": [["I","ich"],["have","habe"],["a","eine"],["points card","Punktekarte"],["for","für"],["my","meinen"],["favourite","Lieblings-"],["supermarket","Supermarkt"],["and","und"],["use","nutze"],["my","meine"],["points","Punkte"],["regularly.","regelmäßig."]],
+          "de": "Ich habe eine Punktekarte für meinen Lieblingssupermarkt und nutze meine Punkte regelmäßig."
+        },
+        {
+          "id": "shop_t1_s04",
+          "en": "Many people take advantage of major shopping days like Black Friday.",
+          "decode": [["Many","viele"],["people","Leute"],["take advantage of","nutzen die Vorteile von"],["major","großen"],["shopping days","Einkaufstagen"],["like","wie"],["Black Friday.","dem Black Friday."]],
+          "de": "Viele Leute nutzen große Einkaufstage wie den Black Friday aus."
+        },
+        {
+          "id": "shop_t1_s05",
+          "en": "My dad does most of the grocery shopping in our home because he loves cooking.",
+          "decode": [["My","mein"],["dad","Papa"],["does","erledigt"],["most of","den Großteil"],["the","des"],["grocery shopping","Lebensmitteleinkaufs"],["in our home","bei uns zu Hause"],["because","weil"],["he","er"],["loves","liebt"],["cooking.","das-Kochen."]],
+          "de": "Mein Papa erledigt den Großteil des Lebensmitteleinkaufs bei uns zu Hause, weil er das Kochen liebt."
+        },
+        {
+          "id": "shop_t1_s06",
+          "en": "On Saturdays we like to go window shopping in the main shopping street.",
+          "decode": [["On Saturdays","samstags"],["we","wir"],["like to go","gehen gerne"],["window shopping","Schaufenster-bummeln"],["in the main","in der Haupt-"],["shopping street.","Einkaufsstraße."]],
+          "de": "Samstags machen wir gerne einen Schaufensterbummel in der Haupteinkaufsstraße."
+        },
+        {
+          "id": "shop_t1_s07",
+          "en": "The bargain shopper hunts for special offers, while the impulse buyer buys things spontaneously.",
+          "decode": [["The","der"],["bargain shopper","Schnäppchenjäger"],["hunts for","jagt nach"],["special offers,","Sonderangeboten,"],["while","während"],["the","der"],["impulse buyer","Impulskäufer"],["buys","kauft"],["things","Dinge"],["spontaneously.","spontan."]],
+          "de": "Der Schnäppchenjäger jagt nach Sonderangeboten, während der Impulskäufer Dinge spontan kauft."
+        },
+        {
+          "id": "shop_t1_s08",
+          "en": "You can buy fresh fish at the fishmonger's and fruit and vegetables at the greengrocer's.",
+          "decode": [["You","du"],["can","kannst"],["buy","kaufen"],["fresh","frischen"],["fish","Fisch"],["at the fishmonger's","beim Fischhändler"],["and","und"],["fruit","Obst"],["and","und"],["vegetables","Gemüse"],["at the greengrocer's.","beim Obst- und Gemüsehändler."]],
+          "de": "Frischen Fisch kannst du beim Fischhändler kaufen und Obst und Gemüse beim Gemüsehändler."
+        },
+        {
+          "id": "shop_t1_s09",
+          "en": "The florist sells flowers, the optician sells glasses, and the off licence sells alcoholic drinks.",
+          "decode": [["The","der"],["florist","Blumenhändler"],["sells","verkauft"],["flowers,","Blumen,"],["the","der"],["optician","Optiker"],["sells","verkauft"],["glasses,","Brillen,"],["and","und"],["the","die"],["off licence","Spirituosenhandlung"],["sells","verkauft"],["alcoholic drinks.","alkoholische Getränke."]],
+          "de": "Der Blumenhändler verkauft Blumen, der Optiker verkauft Brillen und die Spirituosenhandlung verkauft alkoholische Getränke."
+        },
+        {
+          "id": "shop_t1_s10",
+          "en": "On my shopping list there are a loaf of bread, some cheese and half a pound of grapes.",
+          "decode": [["On","auf"],["my","meiner"],["shopping list","Einkaufsliste"],["there are","stehen"],["a","ein"],["loaf","Laib"],["of bread,","Brot,"],["some","etwas"],["cheese","Käse"],["and","und"],["half a pound","ein halbes Pfund"],["of grapes.","Weintrauben."]],
+          "de": "Auf meiner Einkaufsliste stehen ein Laib Brot, etwas Käse und ein halbes Pfund Weintrauben."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "shop_ex01",
+      "title": "Shopping Vocabulary Quiz",
+      "source": "Quiz_ShoppingVocab (allthingstopics) – Fragen 1–14",
+      "type": "mc",
+      "instruction": "Wähle die richtige Antwort.",
+      "questions": [
+        {
+          "parts": [
+            "Which of the following things can an 'advertisement' do? ",
+            {"opts": ["put things in a bag for you","tell you how much something costs","spend a lot of money","all of the above"], "decode": ["Dinge für dich einpacken","dir sagen, wie viel etwas kostet","viel Geld ausgeben","alles oben Genannte"], "correct": 1}
+          ],
+          "solutionEn": "tell you how much something costs",
+          "solutionDe": "dir sagen, wie viel etwas kostet",
+          "explain": "advertisement = Werbung. Werbung informiert (z. B. über den Preis) – sie packt nichts ein und gibt kein Geld aus."
+        },
+        {
+          "parts": [
+            "If something you bought was a 'bargain', it wasn't … ",
+            {"opts": ["expensive","on sale","big","bought with cash"], "decode": ["teuer","im Angebot","groß","bar bezahlt"], "correct": 0}
+          ],
+          "solutionEn": "expensive",
+          "solutionDe": "teuer",
+          "explain": "bargain = Schnäppchen. Ein Schnäppchen ist gerade NICHT teuer."
+        },
+        {
+          "parts": [
+            "Which of the following things does a 'cashier' usually do? ",
+            {"opts": ["give away things for free","browse","go shopping","take your money"], "decode": ["Dinge gratis hergeben","stöbern","einkaufen gehen","dein Geld entgegennehmen"], "correct": 3}
+          ],
+          "solutionEn": "take your money",
+          "solutionDe": "dein Geld entgegennehmen",
+          "explain": "cashier = Kassier/Kassiererin. An der Kassa nimmt er/sie dein Geld entgegen."
+        },
+        {
+          "parts": [
+            "A book costs $5.99 and you pay $6. What should you get? ",
+            {"opts": ["special offers","change","a clerk","a cash register"], "decode": ["Sonderangebote","Wechselgeld","einen Verkäufer","eine Registrierkasse"], "correct": 1}
+          ],
+          "solutionEn": "change",
+          "solutionDe": "Wechselgeld",
+          "explain": "change = Wechselgeld. Du bekommst 1 Cent zurück. Achtung: change heißt auch 'wechseln/ändern'."
+        },
+        {
+          "parts": [
+            "Which of the following things can you do with a 'debit card'? ",
+            {"opts": ["find a clerk to help you","find out someone's name","buy a bag of apples","find out the price of a sweater"], "decode": ["einen Verkäufer finden, der dir hilft","den Namen von jemandem herausfinden","ein Sackerl Äpfel kaufen","den Preis eines Pullovers herausfinden"], "correct": 2}
+          ],
+          "solutionEn": "buy a bag of apples",
+          "solutionDe": "ein Sackerl Äpfel kaufen",
+          "explain": "debit card = Bankomatkarte. Damit bezahlt man – also kann man damit etwas kaufen."
+        },
+        {
+          "parts": [
+            "What do you do when you 'exchange' a product? ",
+            {"opts": ["you replace it with another product","you look at it very carefully","you sell it to a customer","you put it inside a box"], "decode": ["du ersetzt es durch ein anderes Produkt","du schaust es dir sehr genau an","du verkaufst es an einen Kunden","du legst es in eine Schachtel"], "correct": 0}
+          ],
+          "solutionEn": "you replace it with another product",
+          "solutionDe": "du ersetzt es durch ein anderes Produkt",
+          "explain": "exchange = umtauschen, also ein Produkt durch ein anderes ersetzen."
+        },
+        {
+          "parts": [
+            "Which of the following things do people usually do in a 'fitting room'? ",
+            {"opts": ["they look at bar codes","they talk to other customers","they try on clothes","they buy things"], "decode": ["sie schauen sich Strichcodes an","sie reden mit anderen Kunden","sie probieren Kleidung an","sie kaufen Dinge"], "correct": 2}
+          ],
+          "solutionEn": "they try on clothes",
+          "solutionDe": "sie probieren Kleidung an",
+          "explain": "fitting room = Umkleidekabine; try on = anprobieren."
+        },
+        {
+          "parts": [
+            "Which of the following things do you do when you 'purchase' something? ",
+            {"opts": ["you return it","you advertise it","you sell it","you buy it"], "decode": ["du gibst es zurück","du bewirbst es","du verkaufst es","du kaufst es"], "correct": 3}
+          ],
+          "solutionEn": "you buy it",
+          "solutionDe": "du kaufst es",
+          "explain": "purchase = kaufen (formelleres Wort für buy). Als Nomen: a purchase = ein Kauf."
+        },
+        {
+          "parts": [
+            "When do people usually get a 'receipt'? ",
+            {"opts": ["before they buy a used car","before they check out","when they get a shopping basket","after they buy something"], "decode": ["bevor sie einen Gebrauchtwagen kaufen","bevor sie zur Kassa gehen","wenn sie einen Einkaufskorb nehmen","nachdem sie etwas gekauft haben"], "correct": 3}
+          ],
+          "solutionEn": "after they buy something",
+          "solutionDe": "nachdem sie etwas gekauft haben",
+          "explain": "receipt = Kassenbeleg/Rechnung. Den bekommt man NACH dem Bezahlen."
+        },
+        {
+          "parts": [
+            "Which of the following words is closest in meaning to 'shoplift'? ",
+            {"opts": ["steal","break","buy","use"], "decode": ["stehlen","zerbrechen","kaufen","benutzen"], "correct": 0}
+          ],
+          "solutionEn": "steal",
+          "solutionDe": "stehlen",
+          "explain": "shoplift = Ladendiebstahl begehen, also etwas aus einem Geschäft stehlen. shoplifter = Ladendieb."
+        },
+        {
+          "parts": [
+            "Which of the following things can you do with a 'shopping cart'? ",
+            {"opts": ["you can give it your credit card","you can put things in it","you can ask it to help you","you can drive it"], "decode": ["du kannst ihm deine Kreditkarte geben","du kannst Dinge hineinlegen","du kannst ihn um Hilfe bitten","du kannst ihn fahren (wie ein Auto)"], "correct": 1}
+          ],
+          "solutionEn": "you can put things in it",
+          "solutionDe": "du kannst Dinge hineinlegen",
+          "explain": "shopping cart = Einkaufswagen (BE: trolley). Man legt seine Waren hinein."
+        },
+        {
+          "parts": [
+            "What does 'store hours' mean? ",
+            {"opts": ["the time when the store is open","the time when there is a sale","the time when the store is closed","the time when the store is very busy"], "decode": ["die Zeit, in der das Geschäft offen ist","die Zeit, in der es einen Ausverkauf gibt","die Zeit, in der das Geschäft geschlossen ist","die Zeit, in der das Geschäft sehr voll ist"], "correct": 0}
+          ],
+          "solutionEn": "the time when the store is open",
+          "solutionDe": "die Zeit, in der das Geschäft geöffnet ist",
+          "explain": "store hours = Öffnungszeiten (BE auch: opening hours)."
+        },
+        {
+          "parts": [
+            "Which of the following things is an example of 'weight'? ",
+            {"opts": ["55 grams","14 kilograms","12 ounces","all of the above"], "decode": ["55 Gramm","14 Kilogramm","12 Unzen","alles oben Genannte"], "correct": 3}
+          ],
+          "solutionEn": "all of the above",
+          "solutionDe": "alles oben Genannte",
+          "explain": "weight = Gewicht. Gramm, Kilogramm und Unzen (ounces) sind alle Gewichtseinheiten."
+        },
+        {
+          "parts": [
+            "When they go 'window shopping', people usually … ",
+            {"opts": ["buy windows","spend a lot of money","buy nothing","none of the above"], "decode": ["kaufen Fenster","geben viel Geld aus","kaufen nichts","nichts davon"], "correct": 2}
+          ],
+          "solutionEn": "buy nothing",
+          "solutionDe": "kaufen nichts",
+          "explain": "window shopping = Schaufensterbummel: nur schauen, nichts kaufen."
+        }
+      ]
+    },
+    {
+      "id": "shop_ex02",
+      "title": "Shops and Services",
+      "source": "Shopping_Part1 – Geschäfte (eigene Übungssätze)",
+      "type": "gap",
+      "instruction": "Wähle das passende Geschäft.",
+      "questions": [
+        {
+          "parts": [
+            "If you want fresh salmon for dinner, go to the ",
+            {"opts": ["greengrocer's","fishmonger's","florist"], "decode": ["Obst- und Gemüsehändler","Fischhändler","Blumenhändler"], "correct": 1},
+            "."
+          ],
+          "solutionEn": "fishmonger's",
+          "solutionDe": "Fischhändler / Fischgeschäft",
+          "explain": "salmon = Lachs → frischen Fisch kauft man beim fishmonger's."
+        },
+        {
+          "parts": [
+            "I never buy fruit at the supermarket – I prefer the ",
+            {"opts": ["greengrocer's","off licence","optician"], "decode": ["Obst- und Gemüsehändler","Spirituosenhandlung","Optiker"], "correct": 0},
+            " around the corner."
+          ],
+          "solutionEn": "greengrocer's",
+          "solutionDe": "Obst- und Gemüsehändler",
+          "explain": "greengrocer's = Obst- und Gemüsegeschäft. Merkhilfe: green = Gemüse/Obst."
+        },
+        {
+          "parts": [
+            "She bought a beautiful bunch of roses for her mum at the ",
+            {"opts": ["fishmonger's","florist","optician"], "decode": ["Fischhändler","Blumenhändler","Optiker"], "correct": 1},
+            "."
+          ],
+          "solutionEn": "florist",
+          "solutionDe": "Blumenhändler / Blumengeschäft",
+          "explain": "a bunch of roses = ein Rosenstrauß → den kauft man beim florist (Blumengeschäft)."
+        },
+        {
+          "parts": [
+            "In Britain you can only buy wine and beer to take home at an ",
+            {"opts": ["outdoor market","optician","off licence"], "decode": ["Markt im Freien","Optiker","Spirituosenhandlung"], "correct": 2},
+            "."
+          ],
+          "solutionEn": "off licence",
+          "solutionDe": "Wein- und Spirituosenhandlung",
+          "explain": "off licence = britisches Geschäft mit Lizenz, Alkohol zum Mitnehmen ('off' the premises) zu verkaufen."
+        },
+        {
+          "parts": [
+            "My eyesight has got worse, so I'm going to the ",
+            {"opts": ["florist","optician","cashier"], "decode": ["Blumenhändler","Optiker","Kassier"], "correct": 1},
+            " to get new glasses."
+          ],
+          "solutionEn": "optician",
+          "solutionDe": "Optiker",
+          "explain": "eyesight = Sehkraft, glasses = Brille → optician = Optiker."
+        }
+      ]
+    },
+    {
+      "id": "shop_ex03",
+      "title": "Shopping Habits",
+      "source": "Shopping_Part1 – Vokabeln in Kontextsätzen (eigene Übungssätze)",
+      "type": "gap",
+      "instruction": "Wähle das Wort oder den Ausdruck, der in den Satz passt.",
+      "questions": [
+        {
+          "parts": [
+            "Before buying a new laptop, you should ",
+            {"opts": ["check out","shop around","shoplift"], "decode": ["an der Kassa bezahlen","Preise vergleichen","Ladendiebstahl begehen"], "correct": 1},
+            " and compare prices in different stores."
+          ],
+          "solutionEn": "shop around",
+          "solutionDe": "sich umsehen / Preise vergleichen",
+          "explain": "shop around = in mehreren Geschäften Preise und Angebote vergleichen, bevor man kauft."
+        },
+        {
+          "parts": [
+            "We didn't want to buy anything – we just went ",
+            {"opts": ["window shopping","grocery shopping","online shopping"], "decode": ["Schaufensterbummeln","Lebensmittel einkaufen","online einkaufen"], "correct": 0},
+            " and looked at the beautiful shop windows."
+          ],
+          "solutionEn": "window shopping",
+          "solutionDe": "Schaufensterbummel",
+          "explain": "go window shopping = einen Schaufensterbummel machen – schauen ohne zu kaufen."
+        },
+        {
+          "parts": [
+            "I didn't plan to buy this T-shirt at all – it was a typical ",
+            {"opts": ["special offer","shopping list","impulse purchase"], "decode": ["Sonderangebot","Einkaufsliste","Impulskauf"], "correct": 2},
+            "."
+          ],
+          "solutionEn": "impulse purchase",
+          "solutionDe": "Impulskauf / Spontankauf",
+          "explain": "impulse purchase = ungeplanter Spontankauf. Person dazu: impulse buyer."
+        },
+        {
+          "parts": [
+            "The fridge is empty, so I have to do the ",
+            {"opts": ["window shopping","grocery shopping","Christmas shopping"], "decode": ["Schaufensterbummel","Lebensmitteleinkauf","Weihnachtseinkäufe"], "correct": 1},
+            " this afternoon."
+          ],
+          "solutionEn": "grocery shopping",
+          "solutionDe": "Lebensmitteleinkauf",
+          "explain": "grocery shopping = shopping for food, also der Einkauf von Lebensmitteln. fridge = Kühlschrank."
+        },
+        {
+          "parts": [
+            "The trousers didn't fit, so I had to ",
+            {"opts": ["purchase","exchange","return"], "decode": ["kaufen","umtauschen","zurückbringen"], "correct": 2},
+            " them to the store."
+          ],
+          "solutionEn": "return",
+          "solutionDe": "zurückbringen",
+          "explain": "return something to the store = etwas ins Geschäft zurückbringen. 'exchange' passt grammatikalisch nicht zu 'to the store' (man sagt: exchange it FOR something else)."
+        },
+        {
+          "parts": [
+            "Many people take advantage of major shopping days like ",
+            {"opts": ["Boxing Day","Black Friday","Easter Monday"], "decode": ["Stefanitag (26.12.)","Black Friday","Ostermontag"], "correct": 1},
+            " in November."
+          ],
+          "solutionEn": "Black Friday",
+          "solutionDe": "Black Friday (großer Rabatt-Tag Ende November)",
+          "explain": "take advantage of = ausnutzen/profitieren von. Der Black Friday ist Ende November – Boxing Day (26.12.) und Easter Monday passen nicht zu 'in November'."
+        }
+      ]
+    }
+  ]
+}

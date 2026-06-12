@@ -1,0 +1,354 @@
+{
+  "id": "presentation",
+  "title": "Presentations",
+  "icon": "🎤",
+  "phase": 2,
+  "birkenbihl": [
+    {
+      "id": "pres_t1",
+      "title": "Opening: Welcome, Topic, Structure",
+      "sentences": [
+        {
+          "id": "pres_t1_s01",
+          "en": "Good morning, ladies and gentlemen – it's a pleasure to welcome you today.",
+          "decode": [["Good morning,","guten Morgen,"],["ladies","Damen"],["and","und"],["gentlemen","Herren"],["–","–"],["it's","es ist"],["a","eine"],["pleasure","Freude"],["to welcome","zu begrüßen"],["you","Sie"],["today.","heute."]],
+          "de": "Guten Morgen, meine Damen und Herren – es ist mir eine Freude, Sie heute zu begrüßen."
+        },
+        {
+          "id": "pres_t1_s02",
+          "en": "First of all, let me thank you all for coming here today.",
+          "decode": [["First of all,","zuallererst"],["let me","lassen Sie mich"],["thank","danken"],["you all","Ihnen allen"],["for coming","für das Kommen"],["here","hierher"],["today.","heute."]],
+          "de": "Zuallererst möchte ich Ihnen allen dafür danken, dass Sie heute hierhergekommen sind."
+        },
+        {
+          "id": "pres_t1_s03",
+          "en": "Let me introduce myself – my name is Ann Brown.",
+          "decode": [["Let me","lassen Sie mich"],["introduce","vorstellen"],["myself","mich selbst"],["–","–"],["my","mein"],["name","Name"],["is","ist"],["Ann Brown.","Ann Brown."]],
+          "de": "Darf ich mich vorstellen – mein Name ist Ann Brown."
+        },
+        {
+          "id": "pres_t1_s04",
+          "en": "Today I'm going to talk about music streaming.",
+          "decode": [["Today","heute"],["I'm going to","werde ich"],["talk about","sprechen über"],["music streaming.","Musik-Streaming."]],
+          "de": "Heute werde ich über Musik-Streaming sprechen."
+        },
+        {
+          "id": "pres_t1_s05",
+          "en": "I've divided my presentation into three main parts.",
+          "decode": [["I've divided","ich habe unterteilt"],["my","meine"],["presentation","Präsentation"],["into","in"],["three","drei"],["main","Haupt-"],["parts.","Teile."]],
+          "de": "Ich habe meine Präsentation in drei Hauptteile gegliedert."
+        },
+        {
+          "id": "pres_t1_s06",
+          "en": "I'll begin by looking at the first point, and then I'll move on to the second.",
+          "decode": [["I'll begin","ich beginne"],["by looking at","mit dem Betrachten von"],["the first","dem ersten"],["point,","Punkt,"],["and then","und dann"],["I'll move on","gehe ich weiter"],["to the second.","zum zweiten."]],
+          "de": "Ich beginne mit dem ersten Punkt und gehe dann zum zweiten über."
+        },
+        {
+          "id": "pres_t1_s07",
+          "en": "If you have any questions, feel free to interrupt me at any time.",
+          "decode": [["If","falls"],["you","Sie"],["have","haben"],["any","irgendwelche"],["questions,","Fragen,"],["feel free","zögern Sie nicht"],["to interrupt","zu unterbrechen"],["me","mich"],["at any time.","jederzeit."]],
+          "de": "Wenn Sie Fragen haben, unterbrechen Sie mich gerne jederzeit."
+        }
+      ]
+    },
+    {
+      "id": "pres_t2",
+      "title": "Main Part: Transitions and Visuals",
+      "sentences": [
+        {
+          "id": "pres_t2_s01",
+          "en": "This brings me to the end of my first point.",
+          "decode": [["This","das"],["brings","bringt"],["me","mich"],["to the end","zum Ende"],["of my","meines"],["first","ersten"],["point.","Punktes."]],
+          "de": "Das bringt mich zum Ende meines ersten Punktes."
+        },
+        {
+          "id": "pres_t2_s02",
+          "en": "Let's now move on to the next question.",
+          "decode": [["Let's","lassen Sie uns"],["now","jetzt"],["move on","weitergehen"],["to the next","zur nächsten"],["question.","Frage."]],
+          "de": "Gehen wir jetzt zur nächsten Frage über."
+        },
+        {
+          "id": "pres_t2_s03",
+          "en": "As I mentioned earlier, this point is particularly important.",
+          "decode": [["As","wie"],["I","ich"],["mentioned","erwähnte"],["earlier,","vorhin,"],["this","dieser"],["point","Punkt"],["is","ist"],["particularly","besonders"],["important.","wichtig."]],
+          "de": "Wie ich vorhin erwähnt habe, ist dieser Punkt besonders wichtig."
+        },
+        {
+          "id": "pres_t2_s04",
+          "en": "Let's now look at the next slide, which shows the sales figures.",
+          "decode": [["Let's","lassen Sie uns"],["now","jetzt"],["look at","ansehen"],["the next","die nächste"],["slide,","Folie,"],["which","die"],["shows","zeigt"],["the","die"],["sales figures.","Verkaufszahlen."]],
+          "de": "Schauen wir uns jetzt die nächste Folie an, die die Verkaufszahlen zeigt."
+        },
+        {
+          "id": "pres_t2_s05",
+          "en": "As you can see here, sales increased slightly in summer.",
+          "decode": [["As","wie"],["you","Sie"],["can","können"],["see","sehen"],["here,","hier,"],["sales","die Verkäufe"],["increased","stiegen"],["slightly","leicht"],["in summer.","im Sommer."]],
+          "de": "Wie Sie hier sehen können, stiegen die Verkäufe im Sommer leicht an."
+        }
+      ]
+    },
+    {
+      "id": "pres_t3",
+      "title": "Conclusion and Questions",
+      "sentences": [
+        {
+          "id": "pres_t3_s01",
+          "en": "Well, this brings me to the end of my presentation.",
+          "decode": [["Well,","nun,"],["this","das"],["brings","bringt"],["me","mich"],["to the end","zum Ende"],["of my","meiner"],["presentation.","Präsentation."]],
+          "de": "Nun, das bringt mich zum Ende meiner Präsentation."
+        },
+        {
+          "id": "pres_t3_s02",
+          "en": "Before I stop, let me go over the key issues again.",
+          "decode": [["Before","bevor"],["I","ich"],["stop,","aufhöre,"],["let me","lassen Sie mich"],["go over","durchgehen"],["the key issues","die Kernpunkte"],["again.","noch einmal."]],
+          "de": "Bevor ich zum Schluss komme, möchte ich die Kernpunkte noch einmal durchgehen."
+        },
+        {
+          "id": "pres_t3_s03",
+          "en": "And now I'll be happy to answer any questions you may have.",
+          "decode": [["And","und"],["now","jetzt"],["I'll be happy","beantworte ich gerne"],["to answer","–"],["any","alle"],["questions","Fragen"],["you may have.","die Sie haben."]],
+          "de": "Und jetzt beantworte ich gerne alle Fragen, die Sie haben."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "pres_ex01",
+      "title": "Welche Phrase gehört zu welcher Phase?",
+      "source": "Useful Phrases (Cornelsen) – Zuordnungsübung",
+      "type": "mc",
+      "instruction": "Zu welcher Phase der Präsentation gehört diese Phrase?",
+      "questions": [
+        {
+          "parts": [
+            "'First of all, let me thank you all for coming here today.' ",
+            {"opts": ["moving to the next point","welcoming the audience","ending the talk"], "decode": ["Übergang zum nächsten Punkt","Begrüßung des Publikums","Ende des Vortrags"], "correct": 1}
+          ],
+          "solutionEn": "welcoming the audience",
+          "solutionDe": "Begrüßung des Publikums (Einleitung)",
+          "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation."
+        },
+        {
+          "parts": [
+            "'This leads directly to my next point.' ",
+            {"opts": ["moving to the next point","dealing with questions","welcoming the audience"], "decode": ["Übergang zum nächsten Punkt","Umgang mit Fragen","Begrüßung des Publikums"], "correct": 0}
+          ],
+          "solutionEn": "moving to the next point",
+          "solutionDe": "Übergang zum nächsten Punkt (Hauptteil)",
+          "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'"
+        },
+        {
+          "parts": [
+            "'Let's now look at the next slide, which shows our results.' ",
+            {"opts": ["introducing yourself","quoting a well-known person","introducing a visual"], "decode": ["sich vorstellen","eine berühmte Person zitieren","eine Folie/Grafik einführen"], "correct": 2}
+          ],
+          "solutionEn": "introducing a visual",
+          "solutionDe": "eine Folie/Grafik einführen",
+          "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'"
+        },
+        {
+          "parts": [
+            "'To conclude, I'd like to run through my main points again.' ",
+            {"opts": ["stating your purpose","summarizing at the end","using an interesting fact as an opener"], "decode": ["das Ziel nennen","Zusammenfassung am Schluss","mit einem interessanten Fakt einsteigen"], "correct": 1}
+          ],
+          "solutionEn": "summarizing at the end",
+          "solutionDe": "Zusammenfassung am Schluss",
+          "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'"
+        },
+        {
+          "parts": [
+            "'I'm sorry, could you repeat your question, please?' ",
+            {"opts": ["dealing with questions","explaining a visual","introducing your topic"], "decode": ["Umgang mit Fragen","eine Grafik erklären","das Thema vorstellen"], "correct": 0}
+          ],
+          "solutionEn": "dealing with questions",
+          "solutionDe": "Umgang mit Fragen (nach der Präsentation)",
+          "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'"
+        },
+        {
+          "parts": [
+            "'The purpose of this presentation is to give you an overview of our project.' ",
+            {"opts": ["indicating the end of your talk","going back to an earlier point","stating your purpose"], "decode": ["das Ende ankündigen","auf einen früheren Punkt zurückkommen","das Ziel/den Zweck nennen"], "correct": 2}
+          ],
+          "solutionEn": "stating your purpose",
+          "solutionDe": "das Ziel/den Zweck der Präsentation nennen (Einleitung)",
+          "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'"
+        }
+      ]
+    },
+    {
+      "id": "pres_ex02",
+      "title": "Complete the Phrase",
+      "source": "Useful Phrases (Cornelsen) – Lückentexte",
+      "type": "gap",
+      "instruction": "Vervollständige die Präsentationsphrase mit dem richtigen Wort.",
+      "questions": [
+        {
+          "parts": [
+            "Let me ",
+            {"opts": ["welcome","introduce","present"], "decode": ["begrüßen","vorstellen","präsentieren"], "correct": 1},
+            " myself. My name is Lisa Berger."
+          ],
+          "solutionEn": "introduce",
+          "solutionDe": "vorstellen",
+          "explain": "Let me introduce myself = Darf ich mich vorstellen. 'welcome myself' und 'present myself' sagt man nicht."
+        },
+        {
+          "parts": [
+            "I've ",
+            {"opts": ["divided","cut","broken"], "decode": ["unterteilt","geschnitten","zerbrochen"], "correct": 0},
+            " my presentation into three main parts."
+          ],
+          "solutionEn": "divided",
+          "solutionDe": "unterteilt/gegliedert",
+          "explain": "divide into = unterteilen in. Feste Phrase: 'I've divided my presentation into three (main) parts.'"
+        },
+        {
+          "parts": [
+            "Let's now move ",
+            {"opts": ["over","on","up"], "decode": ["hinüber","weiter","hinauf"], "correct": 1},
+            " to my next point."
+          ],
+          "solutionEn": "on",
+          "solutionDe": "weiter – move on to = übergehen zu",
+          "explain": "move on to = zum nächsten Punkt übergehen. Auch: 'Let's now turn to …'"
+        },
+        {
+          "parts": [
+            "By the ",
+            {"opts": ["end","finish","stop"], "decode": ["Ende","Ziel(einlauf)","Halt"], "correct": 0},
+            " of this talk you will be familiar with the topic."
+          ],
+          "solutionEn": "end",
+          "solutionDe": "Ende – by the end of = am Ende von",
+          "explain": "'By the end of this talk you will be familiar with …' = Am Ende dieses Vortrags werden Sie … kennen. be familiar with = vertraut sein mit."
+        },
+        {
+          "parts": [
+            "As you can ",
+            {"opts": ["watch","look","see"], "decode": ["zuschauen","schauen","sehen"], "correct": 2},
+            " here, prices went up significantly."
+          ],
+          "solutionEn": "see",
+          "solutionDe": "sehen – as you can see = wie Sie sehen können",
+          "explain": "Feste Phrase: 'As you can see here, …'. 'look' bräuchte 'look at' und 'watch' passt nur bei bewegten Bildern."
+        },
+        {
+          "parts": [
+            "This ",
+            {"opts": ["brings","carries","puts"], "decode": ["bringt","trägt","setzt"], "correct": 0},
+            " me to the end of my presentation."
+          ],
+          "solutionEn": "brings",
+          "solutionDe": "bringt – this brings me to = das bringt mich zu",
+          "explain": "Feste Phrase: 'This brings me to the end of my presentation.' Auch für Übergänge: 'This brings us to the next question.'"
+        },
+        {
+          "parts": [
+            "I'd like to draw your ",
+            {"opts": ["eyes","attention","interest"], "decode": ["Augen","Aufmerksamkeit","Interesse"], "correct": 1},
+            " to this chart."
+          ],
+          "solutionEn": "attention",
+          "solutionDe": "Aufmerksamkeit – draw attention to = Aufmerksamkeit lenken auf",
+          "explain": "draw someone's attention to = jemandes Aufmerksamkeit auf etwas lenken. chart = Diagramm/Grafik."
+        },
+        {
+          "parts": [
+            "Feel ",
+            {"opts": ["free","happy","glad"], "decode": ["frei","glücklich","froh"], "correct": 0},
+            " to ask questions at any time."
+          ],
+          "solutionEn": "free",
+          "solutionDe": "feel free to = Sie können gerne …",
+          "explain": "'Feel free to ask questions at any time.' = Stellen Sie jederzeit gerne Fragen. Feste Wendung: feel free to + Infinitiv."
+        }
+      ]
+    },
+    {
+      "id": "pres_ex03",
+      "title": "Aufbau einer Präsentation",
+      "source": "How to give a Presentation (PPTX), Folien 6–13",
+      "type": "order",
+      "instruction": "Bringe die Teile in die richtige Reihenfolge (Schritt 1 bis Schritt 4).",
+      "questions": [
+        {
+          "parts": [
+            "So beginnt die Einleitung – Schritt 1: ",
+            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 0},
+            " → Schritt 2: ",
+            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 1},
+            " → Schritt 3: ",
+            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 2},
+            " → Schritt 4: ",
+            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 3}
+          ],
+          "solutionEn": "1. Greeting and introducing yourself → 2. Introducing the topic and why you chose it → 3. Giving a short overview → 4. Saying when the audience can ask questions",
+          "solutionDe": "1. Begrüßung + Vorstellung → 2. Thema + Warum dieses Thema? → 3. Kurzer Überblick → 4. Fragen-Regelung",
+          "explain": "Typische Reihenfolge der Einleitung laut Folien: Greeting → Topic (+ why this topic?) → Short overview ('What will I talk about?') → Hinweis, wann Fragen erlaubt sind."
+        },
+        {
+          "parts": [
+            "Die ganze Präsentation – Teil 1: ",
+            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 0},
+            " → Teil 2: ",
+            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 1},
+            " → Teil 3: ",
+            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 2},
+            " → Teil 4: ",
+            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 3}
+          ],
+          "solutionEn": "1. Introduction → 2. Main part (point 1, 2, 3 – each with explanation and example/fact) → 3. Conclusion (short summary, final thought) → 4. Questions",
+          "solutionDe": "1. Einleitung → 2. Hauptteil (Punkt 1–3, je mit Erklärung und Beispiel/Fakt; ggf. Vor-/Nachteile und eigene Meinung) → 3. Schluss (kurze Zusammenfassung, Schlussgedanke) → 4. Fragen",
+          "explain": "Laut Folien: Im Hauptteil jeder Punkt mit Explanation + Example/Fact. Im Schluss: Signal, dass die Präsentation endet, Zusammenfassung ODER Kernbotschaft wiederholen, dann Fragen zulassen."
+        }
+      ]
+    },
+    {
+      "id": "pres_ex04",
+      "title": "How to Present: Tipps aus den Folien",
+      "source": "How to give a Presentation (PPTX), Folien 15–21",
+      "type": "mc",
+      "instruction": "Was empfehlen die Folien? Wähle die richtige Antwort.",
+      "questions": [
+        {
+          "parts": [
+            "According to the slides, your slides should … ",
+            {"opts": ["be crowded and full of text","use minimal text and meaningful visuals","use as many animations and transitions as possible"], "decode": ["überladen und voller Text sein","wenig Text und aussagekräftige Bilder verwenden","so viele Animationen und Übergänge wie möglich verwenden"], "correct": 1}
+          ],
+          "solutionEn": "use minimal text and meaningful visuals",
+          "solutionDe": "wenig Text und aussagekräftige Bilder verwenden",
+          "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen."
+        },
+        {
+          "parts": [
+            "What is a 'hook' in a presentation? ",
+            {"opts": ["a strategy to gain and maintain the audience's interest","a cable for the projector","a difficult question from the audience"], "decode": ["eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten","ein Kabel für den Beamer","eine schwierige Frage aus dem Publikum"], "correct": 0}
+          ],
+          "solutionEn": "a strategy to gain and maintain the audience's interest",
+          "solutionDe": "eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten",
+          "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'."
+        },
+        {
+          "parts": [
+            "Good body language during a presentation means … ",
+            {"opts": ["reading from your notes all the time","an open stance, facial expressions and eye contact","standing completely still with your hands in your pockets"], "decode": ["die ganze Zeit von den Notizen ablesen","eine offene Haltung, Mimik und Blickkontakt","völlig still stehen mit den Händen in den Taschen"], "correct": 1}
+          ],
+          "solutionEn": "an open stance, facial expressions and eye contact",
+          "solutionDe": "eine offene Haltung, Mimik und Blickkontakt",
+          "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt."
+        },
+        {
+          "parts": [
+            "Why is repetition useful in a presentation? ",
+            {"opts": ["It makes the talk longer.","It helps memory and creates emphasis.","It replaces the conclusion."], "decode": ["sie macht den Vortrag länger","sie hilft dem Gedächtnis und betont Wichtiges","sie ersetzt den Schluss"], "correct": 1}
+          ],
+          "solutionEn": "It helps memory and creates emphasis.",
+          "solutionDe": "Sie hilft dem Gedächtnis und betont Wichtiges.",
+          "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation."
+        }
+      ]
+    }
+  ]
+}

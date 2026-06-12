@@ -1,0 +1,11 @@
+# macOS system files / macOS-Systemdateien
+.DS_Store
+
+# Distribution ZIP (duplicate of the app) / Verteil-ZIP (Duplikat der App)
+English-Trainer-2AHB.zip
+
+# Manual upload helper folders (duplicates) / Hilfsordner fuer manuellen Upload (Duplikate)
+github-upload/
+
+# Local tooling / Lokales Werkzeug
+lernstoff-trainer.skill

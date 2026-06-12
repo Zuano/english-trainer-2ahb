@@ -1,0 +1,628 @@
+{
+  "id": "media",
+  "title": "(Social) Media & Fake News",
+  "icon": "📱",
+  "phase": 1,
+  "birkenbihl": [
+    {
+      "id": "media_t1",
+      "title": "Traditional Media and New Media",
+      "sentences": [
+        {
+          "id": "media_t1_s01",
+          "en": "Today, people can choose from many different ways to get information.",
+          "decode": [["Today,","heute"],["people","Menschen"],["can","können"],["choose","wählen"],["from","aus"],["many","vielen"],["different","verschiedenen"],["ways","Wegen"],["to get","zu bekommen"],["information.","Information."]],
+          "de": "Heute können Menschen aus vielen verschiedenen Wegen wählen, um an Informationen zu kommen."
+        },
+        {
+          "id": "media_t1_s02",
+          "en": "In the past, traditional media such as newspapers, radio, and television were the main sources of news.",
+          "decode": [["In the past,","früher"],["traditional","traditionelle"],["media","Medien"],["such as","wie zum Beispiel"],["newspapers,","Zeitungen,"],["radio,","Radio,"],["and","und"],["television","Fernsehen"],["were","waren"],["the","die"],["main","Haupt-"],["sources","Quellen"],["of","der"],["news.","Nachrichten."]],
+          "de": "Früher waren traditionelle Medien wie Zeitungen, Radio und Fernsehen die Hauptquellen der Nachrichten."
+        },
+        {
+          "id": "media_t1_s03",
+          "en": "However, new media, like social media and online platforms, have become more and more popular.",
+          "decode": [["However,","jedoch"],["new","neue"],["media,","Medien,"],["like","wie"],["social media","soziale Medien"],["and","und"],["online platforms,","Online-Plattformen,"],["have become","sind geworden"],["more and more","immer mehr"],["popular.","beliebt."]],
+          "de": "Jedoch sind neue Medien wie soziale Medien und Online-Plattformen immer beliebter geworden."
+        },
+        {
+          "id": "media_t1_s04",
+          "en": "One important difference between traditional and new media is the lead time.",
+          "decode": [["One","ein"],["important","wichtiger"],["difference","Unterschied"],["between","zwischen"],["traditional","traditionellen"],["and","und"],["new","neuen"],["media","Medien"],["is","ist"],["the","die"],["lead time.","Vorlaufzeit."]],
+          "de": "Ein wichtiger Unterschied zwischen traditionellen und neuen Medien ist die Vorlaufzeit ('lead time')."
+        },
+        {
+          "id": "media_t1_s05",
+          "en": "Traditional media usually needs more time to prepare news.",
+          "decode": [["Traditional","traditionelle"],["media","Medien"],["usually","normalerweise"],["needs","brauchen"],["more","mehr"],["time","Zeit"],["to prepare","um vorzubereiten"],["news.","Nachrichten."]],
+          "de": "Traditionelle Medien brauchen normalerweise mehr Zeit, um Nachrichten vorzubereiten."
+        },
+        {
+          "id": "media_t1_s06",
+          "en": "Journalists research their topics, write articles, and check the facts before publishing them.",
+          "decode": [["Journalists","Journalisten"],["research","recherchieren"],["their","ihre"],["topics,","Themen,"],["write","schreiben"],["articles,","Artikel,"],["and","und"],["check","prüfen"],["the","die"],["facts","Fakten"],["before publishing them.","bevor sie sie veröffentlichen."]],
+          "de": "Journalisten recherchieren ihre Themen, schreiben Artikel und prüfen die Fakten, bevor sie sie veröffentlichen."
+        },
+        {
+          "id": "media_t1_s07",
+          "en": "Because of this, it can take hours or even a whole day before the news can reach the audience.",
+          "decode": [["Because of this,","deswegen"],["it","es"],["can","kann"],["take","dauern"],["hours","Stunden"],["or","oder"],["even","sogar"],["a","einen"],["whole","ganzen"],["day","Tag"],["before","bevor"],["the","die"],["news","Nachrichten"],["can","können"],["reach","erreichen"],["the","das"],["audience.","Publikum."]],
+          "de": "Deswegen kann es Stunden oder sogar einen ganzen Tag dauern, bevor die Nachrichten das Publikum erreichen können."
+        },
+        {
+          "id": "media_t1_s08",
+          "en": "In contrast, new media is much faster.",
+          "decode": [["In contrast,","im Gegensatz dazu"],["new","neue"],["media","Medien"],["is","sind"],["much","viel"],["faster.","schneller."]],
+          "de": "Im Gegensatz dazu sind neue Medien viel schneller."
+        },
+        {
+          "id": "media_t1_s09",
+          "en": "People can post information online immediately, and others can read it within seconds.",
+          "decode": [["People","Menschen"],["can","können"],["post","posten"],["information","Informationen"],["online","online"],["immediately,","sofort,"],["and","und"],["others","andere"],["can","können"],["read","lesen"],["it","sie"],["within","innerhalb-von"],["seconds.","Sekunden."]],
+          "de": "Menschen können Informationen sofort online posten, und andere können sie innerhalb von Sekunden lesen."
+        },
+        {
+          "id": "media_t1_s10",
+          "en": "Another difference is the commitment to quality.",
+          "decode": [["Another","ein-weiterer"],["difference","Unterschied"],["is","ist"],["the","die"],["commitment","Verpflichtung"],["to","zur"],["quality.","Qualität."]],
+          "de": "Ein weiterer Unterschied ist die Verpflichtung zur Qualität ('commitment to quality')."
+        },
+        {
+          "id": "media_t1_s11",
+          "en": "Traditional media companies often feel responsible for giving correct and reliable information.",
+          "decode": [["Traditional","traditionelle"],["media","Medien-"],["companies","Unternehmen"],["often","oft"],["feel","fühlen-sich"],["responsible","verantwortlich"],["for giving","für das Liefern von"],["correct","korrekten"],["and","und"],["reliable","zuverlässigen"],["information.","Informationen."]],
+          "de": "Traditionelle Medienunternehmen fühlen sich oft dafür verantwortlich, korrekte und zuverlässige Informationen zu liefern."
+        },
+        {
+          "id": "media_t1_s12",
+          "en": "This is why their reports usually have a longer longevity, as people trust them over time.",
+          "decode": [["This is why","deshalb"],["their","ihre"],["reports","Berichte"],["usually","normalerweise"],["have","haben"],["a","eine"],["longer","längere"],["longevity,","Lebensdauer,"],["as","da"],["people","Menschen"],["trust","vertrauen"],["them","ihnen"],["over time.","mit der Zeit."]],
+          "de": "Deshalb haben ihre Berichte normalerweise eine längere Lebensdauer ('longevity'), da die Menschen ihnen mit der Zeit vertrauen."
+        },
+        {
+          "id": "media_t1_s13",
+          "en": "On the other hand, new media is often less controlled.",
+          "decode": [["On the other hand,","andererseits"],["new","neue"],["media","Medien"],["is","sind"],["often","oft"],["less","weniger"],["controlled.","kontrolliert."]],
+          "de": "Andererseits sind neue Medien oft weniger kontrolliert."
+        },
+        {
+          "id": "media_t1_s14",
+          "en": "Anyone can publish content, which means that some information might not be true or complete.",
+          "decode": [["Anyone","jeder"],["can","kann"],["publish","veröffentlichen"],["content,","Inhalte,"],["which means","was bedeutet"],["that","dass"],["some","manche"],["information","Informationen"],["might","könnten"],["not","nicht"],["be","sein"],["true","wahr"],["or","oder"],["complete.","vollständig."]],
+          "de": "Jeder kann Inhalte veröffentlichen, was bedeutet, dass manche Informationen vielleicht nicht wahr oder vollständig sind."
+        },
+        {
+          "id": "media_t1_s15",
+          "en": "New media also has a strong cumulative effect.",
+          "decode": [["New","neue"],["media","Medien"],["also","auch"],["has","haben"],["a","einen"],["strong","starken"],["cumulative","kumulativen"],["effect.","Effekt."]],
+          "de": "Neue Medien haben auch einen starken kumulativen Effekt ('cumulative effect' = Anhäufungs-Effekt)."
+        },
+        {
+          "id": "media_t1_s16",
+          "en": "Users can collect information from many different sources and share it with others.",
+          "decode": [["Users","Nutzer"],["can","können"],["collect","sammeln"],["information","Informationen"],["from","aus"],["many","vielen"],["different","verschiedenen"],["sources","Quellen"],["and","und"],["share","teilen"],["it","sie"],["with","mit"],["others.","anderen."]],
+          "de": "Nutzer können Informationen aus vielen verschiedenen Quellen sammeln und sie mit anderen teilen."
+        },
+        {
+          "id": "media_t1_s17",
+          "en": "This makes it easier to follow and track a story as it develops.",
+          "decode": [["This","das"],["makes","macht"],["it","es"],["easier","einfacher"],["to follow","zu verfolgen"],["and","und"],["track","nachverfolgen"],["a","eine"],["story","Geschichte"],["as","während"],["it","sie"],["develops.","sich-entwickelt."]],
+          "de": "Das macht es einfacher, eine Geschichte zu verfolgen und nachzuverfolgen, während sie sich entwickelt."
+        },
+        {
+          "id": "media_t1_s18",
+          "en": "For example, people can read updates about an event, watch videos, and discuss it online at the same time.",
+          "decode": [["For example,","zum Beispiel"],["people","Menschen"],["can","können"],["read","lesen"],["updates","Updates"],["about","über"],["an","ein"],["event,","Ereignis,"],["watch","schauen"],["videos,","Videos,"],["and","und"],["discuss","diskutieren"],["it","es"],["online","online"],["at the same time.","zur gleichen Zeit."]],
+          "de": "Zum Beispiel können Menschen Updates über ein Ereignis lesen, Videos schauen und gleichzeitig online darüber diskutieren."
+        },
+        {
+          "id": "media_t1_s19",
+          "en": "A big advantage of new media is that it is instant and interactive.",
+          "decode": [["A","ein"],["big","großer"],["advantage","Vorteil"],["of","der"],["new","neuen"],["media","Medien"],["is","ist"],["that","dass"],["it","sie"],["is","sind"],["instant","sofortig"],["and","und"],["interactive.","interaktiv."]],
+          "de": "Ein großer Vorteil der neuen Medien ist, dass sie sofortig ('instant') und interaktiv sind."
+        },
+        {
+          "id": "media_t1_s20",
+          "en": "Users can comment, like, and share content with others.",
+          "decode": [["Users","Nutzer"],["can","können"],["comment,","kommentieren,"],["like,","liken,"],["and","und"],["share","teilen"],["content","Inhalte"],["with","mit"],["others.","anderen."]],
+          "de": "Nutzer können Inhalte kommentieren, liken und mit anderen teilen."
+        },
+        {
+          "id": "media_t1_s21",
+          "en": "This creates a fast exchange of ideas.",
+          "decode": [["This","das"],["creates","erzeugt"],["a","einen"],["fast","schnellen"],["exchange","Austausch"],["of","von"],["ideas.","Ideen."]],
+          "de": "Das erzeugt einen schnellen Austausch von Ideen."
+        },
+        {
+          "id": "media_t1_s22",
+          "en": "However, this speed can also be a problem.",
+          "decode": [["However,","jedoch"],["this","diese"],["speed","Geschwindigkeit"],["can","kann"],["also","auch"],["be","sein"],["a","ein"],["problem.","Problem."]],
+          "de": "Jedoch kann diese Geschwindigkeit auch ein Problem sein."
+        },
+        {
+          "id": "media_t1_s23",
+          "en": "Because information is shared so quickly, it is sometimes not checked properly, which can lead to misunderstandings.",
+          "decode": [["Because","weil"],["information","Information"],["is shared","geteilt wird"],["so","so"],["quickly,","schnell,"],["it","sie"],["is","wird"],["sometimes","manchmal"],["not","nicht"],["checked","geprüft"],["properly,","richtig,"],["which","was"],["can","kann"],["lead to","führen zu"],["misunderstandings.","Missverständnissen."]],
+          "de": "Weil Informationen so schnell geteilt werden, werden sie manchmal nicht richtig geprüft, was zu Missverständnissen führen kann."
+        },
+        {
+          "id": "media_t1_s24",
+          "en": "Both traditional and new media have their strengths and weaknesses.",
+          "decode": [["Both","sowohl"],["traditional","traditionelle"],["and","als-auch"],["new","neue"],["media","Medien"],["have","haben"],["their","ihre"],["strengths","Stärken"],["and","und"],["weaknesses.","Schwächen."]],
+          "de": "Sowohl traditionelle als auch neue Medien haben ihre Stärken und Schwächen."
+        },
+        {
+          "id": "media_t1_s25",
+          "en": "Traditional media is often slower but more reliable, while new media is faster and more interactive.",
+          "decode": [["Traditional","traditionelle"],["media","Medien"],["is","sind"],["often","oft"],["slower","langsamer"],["but","aber"],["more reliable,","zuverlässiger,"],["while","während"],["new","neue"],["media","Medien"],["is","sind"],["faster","schneller"],["and","und"],["more interactive.","interaktiver."]],
+          "de": "Traditionelle Medien sind oft langsamer, aber zuverlässiger, während neue Medien schneller und interaktiver sind."
+        },
+        {
+          "id": "media_t1_s26",
+          "en": "For this reason, it is important to use both carefully and think critically about the information we receive.",
+          "decode": [["For this reason,","aus diesem Grund"],["it","es"],["is","ist"],["important","wichtig"],["to use","zu nutzen"],["both","beide"],["carefully","sorgfältig"],["and","und"],["think","nachzudenken"],["critically","kritisch"],["about","über"],["the","die"],["information","Informationen"],["we","wir"],["receive.","erhalten."]],
+          "de": "Aus diesem Grund ist es wichtig, beide sorgfältig zu nutzen und kritisch über die Informationen nachzudenken, die wir erhalten."
+        }
+      ]
+    },
+    {
+      "id": "media_t2",
+      "title": "Fake News: Key Vocabulary",
+      "sentences": [
+        {
+          "id": "media_t2_s01",
+          "en": "Fake news is false information that looks like real news.",
+          "decode": [["Fake news","Falschnachrichten"],["is","sind"],["false","falsche"],["information","Informationen"],["that","die"],["looks like","aussehen wie"],["real","echte"],["news.","Nachrichten."]],
+          "de": "Fake News sind falsche Informationen, die wie echte Nachrichten aussehen."
+        },
+        {
+          "id": "media_t2_s02",
+          "en": "Confirmation bias means that people prefer information that confirms their existing beliefs.",
+          "decode": [["Confirmation bias","Bestätigungsfehler"],["means","bedeutet"],["that","dass"],["people","Menschen"],["prefer","bevorzugen"],["information","Informationen"],["that","die"],["confirms","bestätigen"],["their","ihre"],["existing","bestehenden"],["beliefs.","Überzeugungen."]],
+          "de": "Confirmation Bias (Bestätigungsfehler) bedeutet, dass Menschen Informationen bevorzugen, die ihre bestehenden Überzeugungen bestätigen."
+        },
+        {
+          "id": "media_t2_s03",
+          "en": "Misinformation is information that is simply wrong or misleading.",
+          "decode": [["Misinformation","Fehlinformation"],["is","ist"],["information","Information"],["that","die"],["is","ist"],["simply","einfach"],["wrong","falsch"],["or","oder"],["misleading.","irreführend."]],
+          "de": "Misinformation ist Information, die einfach falsch oder irreführend ist."
+        },
+        {
+          "id": "media_t2_s04",
+          "en": "Disinformation is false information that is spread deliberately to manipulate people.",
+          "decode": [["Disinformation","Desinformation"],["is","ist"],["false","falsche"],["information","Information"],["that","die"],["is spread","verbreitet wird"],["deliberately","absichtlich"],["to manipulate","um zu manipulieren"],["people.","Menschen."]],
+          "de": "Desinformation ist falsche Information, die absichtlich verbreitet wird, um Menschen zu manipulieren."
+        },
+        {
+          "id": "media_t2_s05",
+          "en": "In post-truth politics, emotions are more important than facts and evidence.",
+          "decode": [["In","in"],["post-truth politics,","postfaktischer Politik,"],["emotions","Emotionen"],["are","sind"],["more important","wichtiger"],["than","als"],["facts","Fakten"],["and","und"],["evidence.","Beweise."]],
+          "de": "In der postfaktischen Politik ('post-truth politics') sind Emotionen wichtiger als Fakten und Beweise."
+        },
+        {
+          "id": "media_t2_s06",
+          "en": "Propaganda is information that supports a political cause and is often biased or false.",
+          "decode": [["Propaganda","Propaganda"],["is","ist"],["information","Information"],["that","die"],["supports","unterstützt"],["a","eine"],["political","politische"],["cause","Sache"],["and","und"],["is","ist"],["often","oft"],["biased","voreingenommen"],["or","oder"],["false.","falsch."]],
+          "de": "Propaganda ist Information, die eine politische Sache unterstützt, und sie ist oft voreingenommen oder falsch."
+        },
+        {
+          "id": "media_t2_s07",
+          "en": "Satire imitates something to make fun of it, often as a political statement.",
+          "decode": [["Satire","Satire"],["imitates","imitiert"],["something","etwas"],["to make fun of","um sich lustig zu machen über"],["it,","es,"],["often","oft"],["as","als"],["a","ein"],["political","politisches"],["statement.","Statement."]],
+          "de": "Satire imitiert etwas, um sich darüber lustig zu machen – oft als politisches Statement."
+        },
+        {
+          "id": "media_t2_s08",
+          "en": "A fact-checker is a person or a system that checks facts and information on the internet.",
+          "decode": [["A","ein"],["fact-checker","Faktenprüfer"],["is","ist"],["a","eine"],["person","Person"],["or","oder"],["a","ein"],["system","System"],["that","das"],["checks","überprüft"],["facts","Fakten"],["and","und"],["information","Informationen"],["on the","im"],["internet.","Internet."]],
+          "de": "Ein Fact-Checker (Faktenprüfer) ist eine Person oder ein System, das Fakten und Informationen im Internet überprüft."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "media_ex01",
+      "title": "Fake News Vocabulary",
+      "source": "fake news.pdf – Aufgabe 2",
+      "type": "gap",
+      "instruction": "Wähle das passende Fake-News-Wort aus dem Dropdown. Achte auf die richtige Form (z. B. Plural).",
+      "questions": [
+        {
+          "parts": [
+            "Facebook and Twitter introduced ",
+            {"opts": ["fact-checkers","confirmation biases","satires"], "decode": ["Fakten-Prüfer","Bestätigungs-Fehler","Satiren"], "correct": 0},
+            " to flag up any posts deemed to contain incorrect or misleading information."
+          ],
+          "solutionEn": "Facebook and Twitter introduced fact-checkers to flag up any posts deemed to contain incorrect or misleading information.",
+          "solutionDe": "Facebook und Twitter führten Faktenprüfer ein, um Beiträge zu markieren, die falsche oder irreführende Informationen enthalten.",
+          "explain": "to factcheck / fact-checker = Fakten online überprüfen / jemand oder ein System, das das tut. Hier ist der Plural nötig (fact-checkers)."
+        },
+        {
+          "parts": [
+            "In the era of ",
+            {"opts": ["propaganda","post-truth politics","fact-checkers"], "decode": ["Propaganda","postfaktische Politik","Faktenprüfer"], "correct": 1},
+            ", supporters of Brexit continued to refer to a potential £350 million extra per week for the health service even after this figure was widely proven to be false."
+          ],
+          "solutionEn": "In the era of post-truth politics, supporters of Brexit continued to refer to a potential £350 million extra per week for the health service even after this figure was widely proven to be false.",
+          "solutionDe": "Im Zeitalter der postfaktischen Politik beriefen sich Brexit-Befürworter weiterhin auf mögliche 350 Millionen Pfund extra pro Woche für das Gesundheitssystem, obwohl diese Zahl längst als falsch bewiesen war.",
+          "explain": "post-truth politics = Fakten und Beweise zählen weniger als Emotionen. Genau das passiert hier: Die Zahl ist widerlegt, wird aber trotzdem weiterverwendet."
+        },
+        {
+          "parts": [
+            "Ofcom threw out hundreds of complaints against Channel 4's alternative Christmas speech, which depicted a 'deepfake' Queen Elizabeth II joking about her family and dancing, saying it was clearly ",
+            {"opts": ["satirical","disinformation","propaganda"], "decode": ["satirisch","Desinformation","Propaganda"], "correct": 0},
+            " and no one would have believed it was real."
+          ],
+          "solutionEn": "Ofcom threw out hundreds of complaints against Channel 4's alternative Christmas speech, saying it was clearly satirical and no one would have believed it was real.",
+          "solutionDe": "Ofcom wies Hunderte Beschwerden gegen die alternative Weihnachtsansprache von Channel 4 (mit einer 'Deepfake'-Queen) ab, weil sie eindeutig satirisch war und niemand sie für echt gehalten hätte.",
+          "explain": "satire (Nomen) / satirical (Adjektiv) = etwas imitieren, um sich darüber lustig zu machen. Niemand sollte die Deepfake-Queen für echt halten – also Satire, keine Täuschungsabsicht. Auch das Nomen 'satire' wäre hier sprachlich möglich."
+        },
+        {
+          "parts": [
+            "Due to ",
+            {"opts": ["confirmation bias","post-truth politics","satire"], "decode": ["Bestätigungsfehler","postfaktische Politik","Satire"], "correct": 0},
+            ", even when it is proved that information is false, people will continue to believe that it is true."
+          ],
+          "solutionEn": "Due to confirmation bias, even when it is proved that information is false, people will continue to believe that it is true.",
+          "solutionDe": "Wegen des Bestätigungsfehlers glauben Menschen weiterhin, dass eine Information wahr ist, selbst wenn bewiesen wurde, dass sie falsch ist.",
+          "explain": "confirmation bias = die Tendenz, Informationen zu bevorzugen, die die eigene Überzeugung bestätigen – egal, ob sie wahr sind."
+        },
+        {
+          "parts": [
+            "Ricky Vaughn, a social media troll, was charged with conspiring to disseminate ",
+            {"opts": ["misinformation","disinformation","satire"], "decode": ["Fehlinformation (unabsichtlich falsch)","Desinformation (absichtlich täuschend)","Satire"], "correct": 1},
+            " with the intention of depriving people of their legal right to vote. His posts encouraged people to vote in the 2016 election by text or by social media posts, neither of which are legally valid ways of voting."
+          ],
+          "solutionEn": "Ricky Vaughn was charged with conspiring to disseminate disinformation with the intention of depriving people of their legal right to vote.",
+          "solutionDe": "Ricky Vaughn wurde angeklagt, Desinformation verbreitet zu haben – mit der Absicht, Menschen ihr legales Wahlrecht zu nehmen.",
+          "explain": "'with the intention' = Absicht! Absichtlich irreführende Information = DISinformation. Misinformation ist auch falsch, aber OHNE Täuschungsabsicht."
+        },
+        {
+          "parts": [
+            "Government ",
+            {"opts": ["satire","propaganda","confirmation bias"], "decode": ["Satire","Propaganda","Bestätigungsfehler"], "correct": 1},
+            " was seen as a vital part of the war effort during World War 2 to increase public support for the allies of the United States and to foster hatred of the enemy."
+          ],
+          "solutionEn": "Government propaganda was seen as a vital part of the war effort during World War 2 to increase public support for the allies of the United States and to foster hatred of the enemy.",
+          "solutionDe": "Regierungspropaganda galt im Zweiten Weltkrieg als wichtiger Teil der Kriegsanstrengungen, um die öffentliche Unterstützung für die Verbündeten der USA zu erhöhen und Hass auf den Feind zu schüren.",
+          "explain": "propaganda = Information zur Unterstützung einer politischen Sache, oft einseitig, irreführend oder falsch – klassisches Beispiel: Kriegszeiten."
+        }
+      ]
+    },
+    {
+      "id": "media_ex02",
+      "title": "Media Vocabulary: Welcher Begriff passt?",
+      "source": "media_vocabulary_worksheet.pdf – Task 1 (Match the words with their meanings)",
+      "type": "mc",
+      "instruction": "Lies die Situation und wähle den passenden Medien-Begriff aus dem Dropdown.",
+      "questions": [
+        {
+          "parts": [
+            "Maria heard about a new series because several of her friends kept recommending it to her in conversations. → ",
+            {"opts": ["press","word of mouth","broadcast media"], "decode": ["Presse","Mundpropaganda","Rundfunkmedien (TV/Radio)"], "correct": 1}
+          ],
+          "solutionEn": "word of mouth = information spreads through personal conversations and recommendations. (Scenario T)",
+          "solutionDe": "word of mouth = Mundpropaganda: Informationen verbreiten sich durch persönliche Gespräche und Empfehlungen.",
+          "explain": "Maria erfährt von der Serie durch Empfehlungen von Freunden im Gespräch – wörtlich 'von Mund zu Mund'."
+        },
+        {
+          "parts": [
+            "An elderly man prefers reading the newspaper every morning instead of using his phone for news. → ",
+            {"opts": ["print media","broadcast media","media outlets"], "decode": ["Printmedien","Rundfunkmedien (TV/Radio)","Medienhäuser"], "correct": 0}
+          ],
+          "solutionEn": "print media = printed news like newspapers and magazines. (Scenario Q)",
+          "solutionDe": "print media = Printmedien: gedruckte Medien wie Zeitungen und Zeitschriften.",
+          "explain": "Zeitung auf Papier = print media. Fernsehen und Radio wären broadcast media."
+        },
+        {
+          "parts": [
+            "A family watches the evening news on TV to stay updated about current events. → ",
+            {"opts": ["print media","word of mouth","broadcast media"], "decode": ["Printmedien","Mundpropaganda","Rundfunkmedien (TV/Radio)"], "correct": 2}
+          ],
+          "solutionEn": "broadcast media = TV and radio. (Scenario P)",
+          "solutionDe": "broadcast media = Rundfunkmedien: Fernsehen und Radio.",
+          "explain": "to broadcast = senden/ausstrahlen. Abendnachrichten im Fernsehen = broadcast media."
+        },
+        {
+          "parts": [
+            "Different news companies report the same political event, but each presents it in a slightly different way. → ",
+            {"opts": ["media outlets","echo chamber","press"], "decode": ["Medienhäuser / Nachrichtenanbieter","Echokammer","Presse"], "correct": 0}
+          ],
+          "solutionEn": "media outlets = the different companies that publish news (newspapers, TV stations, news websites). (Scenario O)",
+          "solutionDe": "media outlets = Medienhäuser/Nachrichtenanbieter: die verschiedenen Unternehmen, die Nachrichten veröffentlichen.",
+          "explain": "Mehrere Nachrichten-FIRMEN berichten unterschiedlich über dasselbe Ereignis – jedes dieser Unternehmen ist ein 'media outlet'."
+        },
+        {
+          "parts": [
+            "While scrolling through Instagram, Tom accidentally finds an interesting article he wasn't looking for. → ",
+            {"opts": ["to skim","to stumble upon","to cover"], "decode": ["überfliegen","zufällig stoßen auf","berichten über"], "correct": 1}
+          ],
+          "solutionEn": "to stumble upon = to find something by chance, without looking for it. (Scenario E)",
+          "solutionDe": "to stumble upon = zufällig auf etwas stoßen, ohne danach zu suchen.",
+          "explain": "'accidentally finds' = zufällig finden → to stumble upon (wörtlich: darüber stolpern)."
+        },
+        {
+          "parts": [
+            "Sarah quickly reads through an online article to understand the main idea without focusing on details. → ",
+            {"opts": ["to skim","to stumble upon","to cover"], "decode": ["überfliegen","zufällig stoßen auf","berichten über"], "correct": 0}
+          ],
+          "solutionEn": "to skim = to read something quickly to get the main idea. (Scenario G)",
+          "solutionDe": "to skim = einen Text überfliegen, um die Hauptidee zu erfassen.",
+          "explain": "Schnell lesen, Details überspringen = skimmen. Wichtige Lesetechnik – auch für deine Schularbeit!"
+        },
+        {
+          "parts": [
+            "A website spreads a completely false story about a celebrity to influence people's opinions. → ",
+            {"opts": ["soft news","clickbait","fake news"], "decode": ["leichte Unterhaltungs-Nachrichten","Klickköder","Falschnachrichten"], "correct": 2}
+          ],
+          "solutionEn": "fake news = completely false stories that are presented as real news, often to influence people. (Scenario L)",
+          "solutionDe": "fake news = komplett falsche Geschichten, die wie echte Nachrichten präsentiert werden – oft, um Meinungen zu beeinflussen.",
+          "explain": "Die Geschichte ist 'completely false' und soll Meinungen beeinflussen → fake news. Clickbait will nur Klicks, soft news ist harmlose Unterhaltung."
+        },
+        {
+          "parts": [
+            "A headline says: 'You won't believe what happened next!' to make people curious enough to click. → ",
+            {"opts": ["clickbait","fake news","soft news"], "decode": ["Klickköder","Falschnachrichten","leichte Unterhaltungs-Nachrichten"], "correct": 0}
+          ],
+          "solutionEn": "clickbait = a sensational headline whose only goal is to make you click. (Scenario K)",
+          "solutionDe": "clickbait = Klickköder: eine reißerische Überschrift, deren einziges Ziel es ist, Klicks zu erzeugen.",
+          "explain": "'You won't believe...!' ist DIE typische Clickbait-Formel: neugierig machen → klicken."
+        },
+        {
+          "parts": [
+            "Lisa notices that her social media feed only shows posts that match her opinions and interests. → ",
+            {"opts": ["algorithms","filter bubble","echo chamber"], "decode": ["Algorithmen","Filterblase","Echokammer"], "correct": 1}
+          ],
+          "solutionEn": "filter bubble = you only see content that matches your own interests and opinions. (Scenario J)",
+          "solutionDe": "filter bubble = Filterblase: Du siehst nur noch Inhalte, die zu deinen eigenen Interessen und Meinungen passen.",
+          "explain": "Merkhilfe: algorithms = die Technik dahinter, filter bubble = das Ergebnis für DEINEN Feed, echo chamber = die Gruppe, in der alle gleich denken."
+        },
+        {
+          "parts": [
+            "A platform decides which posts appear in your feed based on what you liked and searched before. → ",
+            {"opts": ["algorithms","filter bubble","echo chamber"], "decode": ["Algorithmen","Filterblase","Echokammer"], "correct": 0}
+          ],
+          "solutionEn": "algorithms = computer programs that decide which content you see. (Scenario I)",
+          "solutionDe": "algorithms = Algorithmen: Programme, die entscheiden, welche Inhalte du siehst.",
+          "explain": "Hier ENTSCHEIDET die Plattform aktiv (basierend auf Likes und Suchverlauf) – das machen die Algorithmen. Die Filterblase ist nur die Folge davon."
+        },
+        {
+          "parts": [
+            "On the bus, Anna watches 30-second videos and reads mini-posts – content that is short and easy to consume in between. → ",
+            {"opts": ["snackable content","soft news","print media"], "decode": ["leicht konsumierbare Kurz-Inhalte","leichte Unterhaltungs-Nachrichten","Printmedien"], "correct": 0}
+          ],
+          "solutionEn": "snackable content = short, easy-to-consume content (like a snack). (No scenario on the worksheet – own example)",
+          "solutionDe": "snackable content = kurze, leicht konsumierbare Inhalte – wie ein Snack für zwischendurch.",
+          "explain": "Für dieses Wort gibt es im Arbeitsblatt kein Szenario (21 Wörter, nur 20 Szenarien A–T) – dieses Beispiel ist selbst erstellt. Merke: snack = kleiner Happen → Häppchen-Inhalte."
+        },
+        {
+          "parts": [
+            "A news report exaggerates a story to make it more shocking and attract attention. → ",
+            {"opts": ["credible","misleading","sensational"], "decode": ["glaubwürdig","irreführend","reißerisch"], "correct": 2}
+          ],
+          "solutionEn": "sensational = exaggerated and shocking in order to attract attention. (Scenario B)",
+          "solutionDe": "sensational = reißerisch: übertrieben und schockierend, um Aufmerksamkeit zu erregen.",
+          "explain": "'exaggerates' (übertreibt) + 'shocking' + 'attract attention' = sensational. misleading wäre: Es entsteht ein falscher Eindruck."
+        },
+        {
+          "parts": [
+            "Before believing an article, John checks whether the source is reliable and trustworthy. → ",
+            {"opts": ["credible","sensational","misleading"], "decode": ["glaubwürdig","reißerisch","irreführend"], "correct": 0}
+          ],
+          "solutionEn": "credible = believable, reliable and trustworthy. (Scenario S)",
+          "solutionDe": "credible = glaubwürdig: zuverlässig und vertrauenswürdig.",
+          "explain": "'reliable and trustworthy' ist genau die Definition von credible. John prüft die Glaubwürdigkeit der Quelle."
+        },
+        {
+          "parts": [
+            "The title of an article gives a completely wrong impression of what the article is actually about. → ",
+            {"opts": ["sensational","credible","misleading"], "decode": ["reißerisch","glaubwürdig","irreführend"], "correct": 2}
+          ],
+          "solutionEn": "misleading = giving a wrong impression. (Scenario A)",
+          "solutionDe": "misleading = irreführend: Es entsteht ein falscher Eindruck.",
+          "explain": "'wrong impression' = falscher Eindruck → misleading (to mislead = in die Irre führen)."
+        },
+        {
+          "parts": [
+            "A student questions the information in an article instead of accepting it immediately. → ",
+            {"opts": ["critical thinking","convenience","word of mouth"], "decode": ["kritisches Denken","Bequemlichkeit","Mundpropaganda"], "correct": 0}
+          ],
+          "solutionEn": "critical thinking = questioning information instead of believing it immediately. (Scenario H)",
+          "solutionDe": "critical thinking = kritisches Denken: Informationen hinterfragen, statt sie sofort zu glauben.",
+          "explain": "'questions the information' = hinterfragt die Information → kritisches Denken. Genau das fordert auch der Reading-Text am Ende."
+        },
+        {
+          "parts": [
+            "In an online group, people only share and hear opinions that are similar to their own. → ",
+            {"opts": ["filter bubble","echo chamber","algorithms"], "decode": ["Filterblase","Echokammer","Algorithmen"], "correct": 1}
+          ],
+          "solutionEn": "echo chamber = a group or space where people only hear opinions similar to their own. (Scenario M)",
+          "solutionDe": "echo chamber = Echokammer: eine Gruppe, in der alle nur ähnliche Meinungen teilen und hören.",
+          "explain": "Hier geht es um eine GRUPPE von Menschen (nicht um deinen persönlichen Feed) → echo chamber. Die eigene Meinung kommt wie ein Echo zurück."
+        },
+        {
+          "parts": [
+            "A news story focuses on celebrity gossip rather than important political issues. → ",
+            {"opts": ["soft news","fake news","clickbait"], "decode": ["leichte Unterhaltungs-Nachrichten","Falschnachrichten","Klickköder"], "correct": 0}
+          ],
+          "solutionEn": "soft news = entertaining news (gossip, lifestyle) instead of hard, important facts. (Scenario F)",
+          "solutionDe": "soft news = leichte Nachrichten: Unterhaltung (Promi-Klatsch, Lifestyle) statt wichtiger politischer Themen.",
+          "explain": "Promi-Klatsch ist nicht falsch (also keine fake news), nur leichte Unterhaltung → soft news."
+        },
+        {
+          "parts": [
+            "Journalists report on a major event from different locations and perspectives. → ",
+            {"opts": ["to stumble upon","to skim","to cover"], "decode": ["zufällig stoßen auf","überfliegen","berichten über"], "correct": 2}
+          ],
+          "solutionEn": "to cover (news) = to report on an event. (Scenario N)",
+          "solutionDe": "to cover (news) = über ein Ereignis berichten.",
+          "explain": "'report on a major event' = über ein Großereignis berichten → to cover. (coverage = die Berichterstattung)"
+        },
+        {
+          "parts": [
+            "Reporters ask politicians difficult questions during a press conference. → ",
+            {"opts": ["press","media outlets","broadcast media"], "decode": ["Presse","Medienhäuser","Rundfunkmedien (TV/Radio)"], "correct": 0}
+          ],
+          "solutionEn": "press = journalists and news organisations as an institution. (Scenario D)",
+          "solutionDe": "press = die Presse: Journalisten und Nachrichtenorganisationen als Institution.",
+          "explain": "Reporter auf einer PRESSEkonferenz = the press. Das Wort steckt schon in 'press conference'."
+        },
+        {
+          "parts": [
+            "A journalist supports their article with facts, data, and reliable sources. → ",
+            {"opts": ["convenience","evidence","critical thinking"], "decode": ["Bequemlichkeit","Beweise / Belege","kritisches Denken"], "correct": 1}
+          ],
+          "solutionEn": "evidence = facts, data and sources that prove something. (Scenario C)",
+          "solutionDe": "evidence = Beweise/Belege: Fakten, Daten und Quellen, die etwas belegen.",
+          "explain": "'facts, data, and reliable sources' stützen den Artikel = evidence (Belege)."
+        },
+        {
+          "parts": [
+            "A student uses a news app on their phone because it allows them to check updates anytime and anywhere. → ",
+            {"opts": ["evidence","critical thinking","convenience"], "decode": ["Beweise / Belege","kritisches Denken","Bequemlichkeit"], "correct": 2}
+          ],
+          "solutionEn": "convenience = something is easy and comfortable to use. (Scenario R)",
+          "solutionDe": "convenience = Bequemlichkeit/Komfort: etwas ist einfach und praktisch nutzbar.",
+          "explain": "'anytime and anywhere' = jederzeit und überall → der Vorteil ist die Bequemlichkeit (convenient = praktisch/bequem)."
+        }
+      ]
+    },
+    {
+      "id": "media_ex03",
+      "title": "Reading Comprehension: Traditional Media and New Media",
+      "source": "Reading 'Traditional Media and New Media' – Aufgaben 1–4 des Blatts + 5 Zusatzfragen",
+      "type": "mc",
+      "instruction": "Lies den Text im Bereich 'Lesen & Hören' und wähle die richtige Antwort.",
+      "questions": [
+        {
+          "parts": [
+            "Give two differences between traditional and new media. Which two differences are mentioned in the text? → ",
+            {"opts": ["the price and the design","the lead time and the commitment to quality","the language and the number of pictures"], "decode": ["der Preis und das Design","die Vorlaufzeit und die Verpflichtung zur Qualität","die Sprache und die Anzahl der Bilder"], "correct": 1}
+          ],
+          "solutionEn": "Two differences mentioned in the text are the lead time and the commitment to quality. (The text also mentions the cumulative effect and that new media is instant and interactive.)",
+          "solutionDe": "Zwei Unterschiede aus dem Text: die Vorlaufzeit (lead time) und die Verpflichtung zur Qualität (commitment to quality). Weitere: der kumulative Effekt und 'instant and interactive'.",
+          "explain": "Der Text nennt vier Unterschiede: lead time, commitment to quality, cumulative effect, instant & interactive. In der Schularbeit reichen zwei – mit je einem Erklärungssatz."
+        },
+        {
+          "parts": [
+            "What does 'lead time' mean in the text? → ",
+            {"opts": ["the time media need to prepare news before publishing","the time readers spend on an article","the time a story stays popular"], "decode": ["die Zeit, die Medien brauchen, um Nachrichten vor der Veröffentlichung vorzubereiten","die Zeit, die Leser mit einem Artikel verbringen","die Zeit, die eine Geschichte beliebt bleibt"], "correct": 0}
+          ],
+          "solutionEn": "'Lead time' is the time media need to prepare news before publishing it: journalists research, write articles and check the facts.",
+          "solutionDe": "'Lead time' = Vorlaufzeit: die Zeit, die Medien brauchen, um Nachrichten vor der Veröffentlichung vorzubereiten (recherchieren, schreiben, Fakten prüfen).",
+          "explain": "Im Text: Traditionelle Medien brauchen Stunden bis einen ganzen Tag – neue Medien posten sofort ('within seconds')."
+        },
+        {
+          "parts": [
+            "Why does traditional media often have greater longevity? → ",
+            {"opts": ["because newspapers are printed on strong paper","because traditional media publishes news faster than new media","because people trust their correct and reliable reports over time"], "decode": ["weil Zeitungen auf festem Papier gedruckt werden","weil traditionelle Medien schneller veröffentlichen als neue Medien","weil Menschen ihren korrekten und zuverlässigen Berichten mit der Zeit vertrauen"], "correct": 2}
+          ],
+          "solutionEn": "Traditional media often has greater longevity because its reports are correct and reliable, so people trust them over time.",
+          "solutionDe": "Traditionelle Medien haben oft eine größere Langlebigkeit, weil ihre Berichte korrekt und zuverlässig sind und die Menschen ihnen deshalb mit der Zeit vertrauen.",
+          "explain": "longevity = Langlebigkeit. Das Vertrauen entsteht durch die Verpflichtung zur Qualität (commitment to quality) – nicht durch das Papier!"
+        },
+        {
+          "parts": [
+            "Do you think new media is always reliable? What does the text say? → ",
+            {"opts": ["No – anyone can publish content, so information might not be true or complete","Yes – everything online is checked by fact-checkers first","Yes – new media is reliable because it is so fast"], "decode": ["Nein – jeder kann Inhalte veröffentlichen, daher sind Informationen vielleicht nicht wahr oder vollständig","Ja – alles online wird zuerst von Faktenprüfern geprüft","Ja – neue Medien sind zuverlässig, weil sie so schnell sind"], "correct": 0}
+          ],
+          "solutionEn": "No. New media is often less controlled: anyone can publish content, so some information might not be true or complete. Because news is shared so quickly, it is sometimes not checked properly.",
+          "solutionDe": "Nein. Neue Medien sind oft weniger kontrolliert: Jeder kann Inhalte veröffentlichen, daher ist nicht alles wahr oder vollständig. Durch die Geschwindigkeit wird manches nicht richtig geprüft.",
+          "explain": "Aufgabe 4 ist eine Meinungsfrage – begründe mit dem Text: weniger Kontrolle, jeder kann veröffentlichen, Geschwindigkeit vor Sorgfalt → kritisch denken!"
+        },
+        {
+          "parts": [
+            "Why does traditional media need a longer lead time? → ",
+            {"opts": ["because printing machines are very slow","because journalists research their topics, write articles and check the facts before publishing","because readers only want news in the morning"], "decode": ["weil Druckmaschinen sehr langsam sind","weil Journalisten recherchieren, Artikel schreiben und Fakten prüfen, bevor sie veröffentlichen","weil Leser Nachrichten nur am Morgen wollen"], "correct": 1}
+          ],
+          "solutionEn": "Traditional media needs a longer lead time because journalists research their topics, write articles and check the facts before publishing them.",
+          "solutionDe": "Traditionelle Medien brauchen eine längere Vorlaufzeit, weil Journalisten ihre Themen recherchieren, Artikel schreiben und die Fakten prüfen, bevor sie veröffentlichen.",
+          "explain": "Der Qualitäts-Prozess (recherchieren → schreiben → Fakten prüfen) kostet Zeit – das ist die 'lead time'."
+        },
+        {
+          "parts": [
+            "What does 'commitment to quality' mean for traditional media companies? → ",
+            {"opts": ["They feel responsible for giving correct and reliable information","They promise to be faster than new media","They only report about high-quality products"], "decode": ["Sie fühlen sich verantwortlich, korrekte und zuverlässige Informationen zu liefern","Sie versprechen, schneller als neue Medien zu sein","Sie berichten nur über hochwertige Produkte"], "correct": 0}
+          ],
+          "solutionEn": "'Commitment to quality' means that traditional media companies feel responsible for giving correct and reliable information.",
+          "solutionDe": "'Commitment to quality' (Verpflichtung zur Qualität) bedeutet: Traditionelle Medienunternehmen fühlen sich verantwortlich, korrekte und zuverlässige Informationen zu liefern.",
+          "explain": "Vorsicht Falle: 'quality' meint hier die Qualität der Berichterstattung, nicht die Qualität von Produkten."
+        },
+        {
+          "parts": [
+            "What does 'longevity' refer to in the text? → ",
+            {"opts": ["how long it takes to print a newspaper","how long reports stay trusted and relevant over time","how long a journalist works for a company"], "decode": ["wie lange es dauert, eine Zeitung zu drucken","wie lange Berichte über die Zeit vertrauenswürdig und relevant bleiben","wie lange ein Journalist für eine Firma arbeitet"], "correct": 1}
+          ],
+          "solutionEn": "'Longevity' refers to how long reports stay trusted and relevant over time.",
+          "solutionDe": "'Longevity' (Langlebigkeit) = wie lange Berichte über die Zeit vertrauenswürdig und relevant bleiben.",
+          "explain": "Im Text: Berichte traditioneller Medien haben eine längere 'longevity', weil die Menschen ihnen mit der Zeit vertrauen."
+        },
+        {
+          "parts": [
+            "What is the 'cumulative effect' of new media? → ",
+            {"opts": ["Users collect information from many different sources and share it, so a story is easier to follow as it develops","Users get more and more tired of reading the news","News articles automatically become longer every day"], "decode": ["Nutzer sammeln Informationen aus vielen Quellen und teilen sie – so lässt sich eine Geschichte leichter verfolgen, während sie sich entwickelt","Nutzer werden vom Nachrichtenlesen immer müder","Nachrichtenartikel werden automatisch jeden Tag länger"], "correct": 0}
+          ],
+          "solutionEn": "The cumulative effect: users collect information from many different sources and share it with others, which makes it easier to follow and track a story as it develops.",
+          "solutionDe": "Der kumulative Effekt: Nutzer sammeln Informationen aus vielen verschiedenen Quellen und teilen sie – dadurch kann man eine Geschichte leichter verfolgen, während sie sich entwickelt.",
+          "explain": "cumulative = sich ansammelnd: Updates lesen + Videos schauen + online diskutieren – alles gleichzeitig, aus vielen Quellen."
+        },
+        {
+          "parts": [
+            "Why is new media called 'instant and interactive'? → ",
+            {"opts": ["because users can comment, like and share content immediately, which creates a fast exchange of ideas","because new media deletes false information instantly","because users can play interactive games in news apps"], "decode": ["weil Nutzer sofort kommentieren, liken und teilen können – das erzeugt einen schnellen Ideenaustausch","weil neue Medien falsche Informationen sofort löschen","weil Nutzer in Nachrichten-Apps interaktive Spiele spielen können"], "correct": 0}
+          ],
+          "solutionEn": "New media is instant and interactive because users can comment, like and share content immediately, which creates a fast exchange of ideas.",
+          "solutionDe": "Neue Medien sind 'instant and interactive', weil Nutzer sofort kommentieren, liken und teilen können – das erzeugt einen schnellen Austausch von Ideen.",
+          "explain": "Achtung: Diese Geschwindigkeit ist zugleich eine Schwäche – Informationen werden manchmal nicht richtig geprüft, was zu Missverständnissen führen kann."
+        }
+      ]
+    },
+    {
+      "id": "media_ex04",
+      "title": "Fake News: Verständnisfragen",
+      "source": "fake news.pdf – Aufgabe 1 (Discussion Questions, Auswahl)",
+      "type": "mc",
+      "instruction": "Wähle die beste Antwort. Diese Fragen helfen dir, in der Schularbeit über Fake News zu schreiben und zu sprechen.",
+      "questions": [
+        {
+          "parts": [
+            "What is fake news? → ",
+            {"opts": ["news that is boring and far too long","false or misleading information that is presented as if it were real news","any news about famous people"], "decode": ["Nachrichten, die langweilig und viel zu lang sind","falsche oder irreführende Informationen, die wie echte Nachrichten präsentiert werden","alle Nachrichten über berühmte Leute"], "correct": 1}
+          ],
+          "solutionEn": "Fake news is false or misleading information that is presented as if it were real news, often spread on social media.",
+          "solutionDe": "Fake News sind falsche oder irreführende Informationen, die wie echte Nachrichten präsentiert werden – oft über soziale Medien verbreitet.",
+          "explain": "Wichtig: Fake News SEHEN AUS wie echte Nachrichten – das unterscheidet sie von Satire (will unterhalten) und von Meinungen (sind als Meinung erkennbar)."
+        },
+        {
+          "parts": [
+            "Why do people believe fake news? → ",
+            {"opts": ["because of confirmation bias – fake news often confirms what people already believe","because fake news is always carefully fact-checked","because fake news only appears in serious quality newspapers"], "decode": ["wegen des Bestätigungsfehlers – Fake News bestätigen oft, was Menschen ohnehin glauben","weil Fake News immer sorgfältig auf Fakten geprüft werden","weil Fake News nur in seriösen Qualitätszeitungen erscheinen"], "correct": 0}
+          ],
+          "solutionEn": "People often believe fake news because of confirmation bias: it confirms what they already believe. Emotional, sensational stories are also shared without checking.",
+          "solutionDe": "Menschen glauben Fake News oft wegen des Bestätigungsfehlers (confirmation bias): Sie bestätigen, was man ohnehin schon glaubt. Emotionale, reißerische Geschichten werden zudem ungeprüft geteilt.",
+          "explain": "Verwende in der Schularbeit das Vokabel 'confirmation bias' in deiner Antwort – das zeigt, dass du die Fachbegriffe beherrschst."
+        },
+        {
+          "parts": [
+            "Why does fake news spread faster than real news? → ",
+            {"opts": ["because journalists always check it before it is shared","because it is often sensational and emotional, so people share it quickly without checking","because it is only spread by official news agencies"], "decode": ["weil Journalisten sie immer prüfen, bevor sie geteilt wird","weil sie oft reißerisch und emotional ist und Menschen sie ungeprüft schnell teilen","weil sie nur von offiziellen Nachrichtenagenturen verbreitet wird"], "correct": 1}
+          ],
+          "solutionEn": "Fake news spreads faster because it is often sensational and emotional, so people share it quickly without checking it first. Algorithms then show popular posts to even more people.",
+          "solutionDe": "Fake News verbreiten sich schneller, weil sie oft reißerisch und emotional sind – Menschen teilen sie schnell, ohne sie zu prüfen. Algorithmen zeigen beliebte Beiträge dann noch mehr Menschen.",
+          "explain": "Merk-Stichwörter: sensational, emotional, clickbait, sharing without fact-checking, algorithms."
+        },
+        {
+          "parts": [
+            "What effect does fake news have on society? → ",
+            {"opts": ["It makes society better informed about politics","It has no effect because nobody reads it","It can create distrust in the media and influence opinions and even elections"], "decode": ["Sie informieren die Gesellschaft besser über Politik","Sie haben keine Wirkung, weil sie niemand liest","Sie können Misstrauen gegenüber Medien erzeugen und Meinungen und sogar Wahlen beeinflussen"], "correct": 2}
+          ],
+          "solutionEn": "Fake news can create distrust in the media, divide society and influence opinions and even elections.",
+          "solutionDe": "Fake News können Misstrauen gegenüber den Medien erzeugen, die Gesellschaft spalten und Meinungen und sogar Wahlen beeinflussen.",
+          "explain": "Gute Beispiele für die Schularbeit: die Brexit-Kampagne (350-Millionen-Pfund-Behauptung) oder die US-Wahl 2016."
+        }
+      ]
+    }
+  ]
+}

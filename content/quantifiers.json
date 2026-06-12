@@ -1,0 +1,396 @@
+{
+  "id": "quantifiers",
+  "title": "Quantifiers",
+  "icon": "🔢",
+  "phase": 2,
+  "birkenbihl": [
+    {
+      "id": "quant_t1",
+      "title": "much, many, a lot of, some, any – Beispielsätze",
+      "sentences": [
+        {
+          "id": "quant_t1_s01",
+          "en": "There isn't much water in the bottle.",
+          "decode": [["There isn't","es-gibt-nicht"],["much","viel"],["water","Wasser"],["in","in"],["the","der"],["bottle.","Flasche."]],
+          "de": "In der Flasche ist nicht viel Wasser. (much + unzählbar, in Verneinung/Frage)"
+        },
+        {
+          "id": "quant_t1_s02",
+          "en": "He doesn't have many cups.",
+          "decode": [["He","er"],["doesn't have","hat-nicht"],["many","viele"],["cups.","Tassen."]],
+          "de": "Er hat nicht viele Tassen. (many + zählbar, in Verneinung/Frage)"
+        },
+        {
+          "id": "quant_t1_s03",
+          "en": "There are a lot of people in the park.",
+          "decode": [["There are","es-gibt"],["a lot of","viele"],["people","Leute"],["in","in"],["the","dem"],["park.","Park."]],
+          "de": "Im Park sind viele Leute. (a lot of = bejahter Satz, zählbar UND unzählbar)"
+        },
+        {
+          "id": "quant_t1_s04",
+          "en": "She bought some milk from the store.",
+          "decode": [["She","sie"],["bought","kaufte"],["some","etwas"],["milk","Milch"],["from","aus"],["the","dem"],["store.","Geschäft."]],
+          "de": "Sie hat im Geschäft etwas Milch gekauft. (some = bejahter Satz)"
+        },
+        {
+          "id": "quant_t1_s05",
+          "en": "Is there any coffee left?",
+          "decode": [["Is there","gibt-es"],["any","(irgend)etwas"],["coffee","Kaffee"],["left?","übrig?"]],
+          "de": "Ist noch Kaffee übrig? (any = Frage und Verneinung)"
+        }
+      ]
+    },
+    {
+      "id": "quant_t2",
+      "title": "(a) few, (a) little, no – Beispielsätze",
+      "sentences": [
+        {
+          "id": "quant_t2_s01",
+          "en": "There is no cake left! Ben's eaten the whole thing!",
+          "decode": [["There is","es-gibt"],["no","keinen"],["cake","Kuchen"],["left!","übrig!"],["Ben's eaten","Ben-hat-gegessen"],["the whole thing!","das-Ganze!"]],
+          "de": "Es ist kein Kuchen mehr übrig! Ben hat alles aufgegessen! (no + Nomen = kein)"
+        },
+        {
+          "id": "quant_t2_s02",
+          "en": "She has very few friends.",
+          "decode": [["She","sie"],["has","hat"],["very","sehr"],["few","wenige"],["friends.","Freunde."]],
+          "de": "Sie hat sehr wenige Freunde. (few + zählbar = wenige, negativ gemeint)"
+        },
+        {
+          "id": "quant_t2_s03",
+          "en": "We've got very little petrol left.",
+          "decode": [["We've got","wir-haben"],["very","sehr"],["little","wenig"],["petrol","Benzin"],["left.","übrig."]],
+          "de": "Wir haben nur noch sehr wenig Benzin. (little + unzählbar = wenig, negativ gemeint)"
+        },
+        {
+          "id": "quant_t2_s04",
+          "en": "We stayed a few days in Florence and visited the museums.",
+          "decode": [["We","wir"],["stayed","blieben"],["a few","ein-paar"],["days","Tage"],["in","in"],["Florence","Florenz"],["and","und"],["visited","besuchten"],["the","die"],["museums.","Museen."]],
+          "de": "Wir blieben ein paar Tage in Florenz und besuchten die Museen. (a few = ein paar, positiv gemeint)"
+        },
+        {
+          "id": "quant_t2_s05",
+          "en": "She drank some tea and ate a little bread.",
+          "decode": [["She","sie"],["drank","trank"],["some","etwas"],["tea","Tee"],["and","und"],["ate","aß"],["a little","ein-wenig"],["bread.","Brot."]],
+          "de": "Sie trank etwas Tee und aß ein wenig Brot. (a little = ein wenig, positiv gemeint)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "quant_ex01",
+      "title": "Annas Party (Lückentext)",
+      "source": "Quantifiers (PPTX) – Folien 3/4",
+      "type": "gap",
+      "instruction": "Setze den richtigen Quantifier ein.",
+      "questions": [
+        {
+          "parts": [
+            "Anna is planning a party for her friends. She bought ",
+            {"opts": ["some","any","much"], "decode": ["ein-paar/etwas","irgendwelche","viel"], "correct": 0},
+            " snacks and ",
+            {"opts": ["a little","a few","much"], "decode": ["ein-wenig","ein-paar","viel"], "correct": 1},
+            " bottles of juice."
+          ],
+          "solutionEn": "She bought some snacks and a few bottles of juice.",
+          "solutionDe": "Sie hat ein paar Snacks und ein paar Flaschen Saft gekauft.",
+          "explain": "some = bejahter Satz; a few + zählbares Nomen im Plural (bottles)."
+        },
+        {
+          "parts": [
+            "She didn't buy ",
+            {"opts": ["many","much","a few"], "decode": ["viele","viel","ein-paar"], "correct": 1},
+            " soda because ",
+            {"opts": ["much","many","a little"], "decode": ["viel","viele","ein-wenig"], "correct": 1},
+            " of her friends prefer water."
+          ],
+          "solutionEn": "She didn't buy much soda because many of her friends prefer water.",
+          "solutionDe": "Sie hat nicht viel Limonade gekauft, weil viele ihrer Freunde lieber Wasser trinken.",
+          "explain": "much + unzählbar (soda) in der Verneinung; many + zählbar (friends)."
+        },
+        {
+          "parts": [
+            "There are also ",
+            {"opts": ["a lot of","much","any"], "decode": ["viele","viel","irgendwelche"], "correct": 0},
+            " sandwiches, but there aren't ",
+            {"opts": ["some","no","any"], "decode": ["einige","keine","irgendwelche"], "correct": 2},
+            " vegetarian options yet. She still has ",
+            {"opts": ["a few","a little","many"], "decode": ["ein-paar","ein-wenig","viele"], "correct": 1},
+            " time to go to the supermarket."
+          ],
+          "solutionEn": "There are also a lot of sandwiches, but there aren't any vegetarian options yet. She still has a little time to go to the supermarket.",
+          "solutionDe": "Es gibt auch viele Sandwiches, aber noch keine vegetarischen Optionen. Sie hat noch ein wenig Zeit, um in den Supermarkt zu gehen.",
+          "explain": "a lot of im bejahten Satz; any in der Verneinung (aren't … any); a little + unzählbar (time)."
+        }
+      ]
+    },
+    {
+      "id": "quant_ex02",
+      "title": "Quantifiers – Key Practice 1–10",
+      "source": "Key_Practice – Quantifiers 1–10",
+      "type": "gap",
+      "instruction": "Wähle den richtigen Quantifier.",
+      "questions": [
+        {
+          "parts": [
+            "There aren't ",
+            {"opts": ["much","many","a little"], "decode": ["viel","viele","ein-wenig"], "correct": 1},
+            " honest people in the world these days."
+          ],
+          "solutionEn": "There aren't many honest people in the world these days.",
+          "solutionDe": "Es gibt heutzutage nicht viele ehrliche Menschen auf der Welt.",
+          "explain": "people = zählbar (Plural) → many. much nur bei unzählbaren Nomen."
+        },
+        {
+          "parts": [
+            "This man is a mystery. We have very ",
+            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            " information about his private life."
+          ],
+          "solutionEn": "We have very little information about his private life.",
+          "solutionDe": "Wir haben sehr wenig Informationen über sein Privatleben.",
+          "explain": "information = unzählbar → little. few nur bei zählbaren Nomen; a little wäre positiv („ein wenig“), hier ist „fast nichts“ gemeint."
+        },
+        {
+          "parts": [
+            "She isn't the most popular person in the class. She has very ",
+            {"opts": ["few","little","a few"], "decode": ["wenige","wenig","ein-paar"], "correct": 0},
+            " friends."
+          ],
+          "solutionEn": "She has very few friends.",
+          "solutionDe": "Sie hat sehr wenige Freunde.",
+          "explain": "friends = zählbar → few (negativ: fast keine). a few wäre positiv („ein paar“)."
+        },
+        {
+          "parts": [
+            "Our team is losing 1:0 but there is still ",
+            {"opts": ["any","no","some"], "decode": ["irgendeine","keine","etwas"], "correct": 2},
+            " hope that they'll turn the game around."
+          ],
+          "solutionEn": "There is still some hope that they'll turn the game around.",
+          "solutionDe": "Es gibt noch etwas Hoffnung, dass sie das Spiel drehen.",
+          "explain": "Bejahter Satz → some. any nur in Frage/Verneinung."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["Few","A few","Little"], "decode": ["wenige","ein-paar","wenig"], "correct": 0},
+            " students have such good marks. She is an unmatched genius."
+          ],
+          "solutionEn": "Few students have such good marks.",
+          "solutionDe": "Nur wenige Schüler haben so gute Noten.",
+          "explain": "Gemeint ist „fast niemand“ → Few (negativ). A few („ein paar“) würde den Sinn abschwächen; little nur bei unzählbaren Nomen."
+        },
+        {
+          "parts": [
+            "I've read only the first chapter, that's why I don't have ",
+            {"opts": ["many","much","a few"], "decode": ["viele","viel","ein-paar"], "correct": 1},
+            " to say about the characters."
+          ],
+          "solutionEn": "I don't have much to say about the characters.",
+          "solutionDe": "Ich kann nicht viel über die Figuren sagen.",
+          "explain": "much in der Verneinung (nicht viel zu sagen) – „much“ steht hier allein (unzählbare Menge)."
+        },
+        {
+          "parts": [
+            "There is ",
+            {"opts": ["no","any","none"], "decode": ["kein","irgendein","keiner"], "correct": 0},
+            " cake left! Ben's eaten the whole thing!"
+          ],
+          "solutionEn": "There is no cake left! Ben's eaten the whole thing!",
+          "solutionDe": "Es ist kein Kuchen mehr übrig! Ben hat alles aufgegessen!",
+          "explain": "no + Nomen = kein (im bejahten Satzbau). any bräuchte eine Verneinung (isn't any); none steht ohne Nomen."
+        },
+        {
+          "parts": [
+            "Can I ask you for ",
+            {"opts": ["a few","little","a little"], "decode": ["ein-paar","wenig","ein-wenig"], "correct": 2},
+            " patience? I'll be back in 5 minutes."
+          ],
+          "solutionEn": "Can I ask you for a little patience?",
+          "solutionDe": "Darf ich dich um ein wenig Geduld bitten?",
+          "explain": "patience = unzählbar → (a) little; positiv gemeint („ein wenig Geduld“) → a little."
+        },
+        {
+          "parts": [
+            "Science doesn't interest me. It's the subject I know very ",
+            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            " about."
+          ],
+          "solutionEn": "It's the subject I know very little about.",
+          "solutionDe": "Es ist das Fach, über das ich sehr wenig weiß.",
+          "explain": "know little about = wenig wissen (unzählbar, negativ gemeint)."
+        },
+        {
+          "parts": [
+            "The party was ok but there wasn't ",
+            {"opts": ["much","many","a lot"], "decode": ["viel","viele","viel"], "correct": 0},
+            " dancing."
+          ],
+          "solutionEn": "The party was ok but there wasn't much dancing.",
+          "solutionDe": "Die Party war okay, aber es wurde nicht viel getanzt.",
+          "explain": "dancing = unzählbar, Verneinung → much. „a lot“ bräuchte „of“ vor einem Nomen und passt stilistisch in Verneinungen nicht."
+        }
+      ]
+    },
+    {
+      "id": "quant_ex03",
+      "title": "Quantifiers – Key Practice 11–20",
+      "source": "Key_Practice – Quantifiers 11–20",
+      "type": "gap",
+      "instruction": "Wähle den richtigen Quantifier.",
+      "questions": [
+        {
+          "parts": [
+            "We'd better go to the petrol station. We've got very ",
+            {"opts": ["a little","few","little"], "decode": ["ein-wenig","wenige","wenig"], "correct": 2},
+            " petrol left."
+          ],
+          "solutionEn": "We've got very little petrol left.",
+          "solutionDe": "Wir haben nur noch sehr wenig Benzin.",
+          "explain": "petrol = unzählbar → little (negativ: fast nichts mehr). Nach „very“ steht nie „a little“."
+        },
+        {
+          "parts": [
+            "Tomorrow's party will be legendary! There'll be ",
+            {"opts": ["much","a lot of","any"], "decode": ["viel","viele","irgendwelche"], "correct": 1},
+            " people!"
+          ],
+          "solutionEn": "There'll be a lot of people!",
+          "solutionDe": "Da werden viele Leute sein!",
+          "explain": "Bejahter Satz + zählbares Nomen → a lot of. much nur bei unzählbaren Nomen in Frage/Verneinung."
+        },
+        {
+          "parts": [
+            "My wallet is empty. I have ",
+            {"opts": ["any","no","much"], "decode": ["irgendein","kein","viel"], "correct": 1},
+            " money whatsoever."
+          ],
+          "solutionEn": "I have no money whatsoever.",
+          "solutionDe": "Ich habe überhaupt kein Geld.",
+          "explain": "no + Nomen = überhaupt kein. any bräuchte ein verneintes Verb (don't have any)."
+        },
+        {
+          "parts": [
+            "In his new flat there is ",
+            {"opts": ["little","few","a few"], "decode": ["wenig","wenige","ein-paar"], "correct": 0},
+            " furniture. Maybe one chair and a small table."
+          ],
+          "solutionEn": "In his new flat there is little furniture.",
+          "solutionDe": "In seiner neuen Wohnung gibt es wenig Möbel.",
+          "explain": "furniture = unzählbar (im Englischen!) → little. Achtung: „Möbel“ ist im Deutschen Plural, im Englischen aber uncountable."
+        },
+        {
+          "parts": [
+            "Her grades have improved greatly. She's made ",
+            {"opts": ["many","much","a lot of"], "decode": ["viele","viel","viel"], "correct": 2},
+            " progress."
+          ],
+          "solutionEn": "She's made a lot of progress.",
+          "solutionDe": "Sie hat große Fortschritte gemacht.",
+          "explain": "progress = unzählbar; bejahter Satz → a lot of. much wäre nur in Frage/Verneinung üblich."
+        },
+        {
+          "parts": [
+            "Norway is a very rich country. There isn't ",
+            {"opts": ["many","much","few"], "decode": ["viele","viel","wenige"], "correct": 1},
+            " poverty."
+          ],
+          "solutionEn": "There isn't much poverty.",
+          "solutionDe": "Es gibt nicht viel Armut.",
+          "explain": "poverty = unzählbar, Verneinung → much."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["Any","No","Some"], "decode": ["irgendwelche","keine","einige"], "correct": 2},
+            " school subjects are easier than others."
+          ],
+          "solutionEn": "Some school subjects are easier than others.",
+          "solutionDe": "Manche Schulfächer sind leichter als andere.",
+          "explain": "Bejahter Satz → some (hier: „manche“)."
+        },
+        {
+          "parts": [
+            "I could rely on him in the past but this time he offered me ",
+            {"opts": ["no","any","little"], "decode": ["keine","irgendwelche","wenig"], "correct": 0},
+            " help."
+          ],
+          "solutionEn": "This time he offered me no help.",
+          "solutionDe": "Dieses Mal hat er mir keine Hilfe angeboten.",
+          "explain": "no + Nomen = kein/keine. Der Satz ist bejaht (offered), daher kein any."
+        },
+        {
+          "parts": [
+            "The suspect was released because too ",
+            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            " evidence was presented."
+          ],
+          "solutionEn": "Too little evidence was presented.",
+          "solutionDe": "Es wurden zu wenige Beweise vorgelegt.",
+          "explain": "evidence = unzählbar (im Englischen!) → little. „too little evidence“ = zu wenig Beweismaterial."
+        },
+        {
+          "parts": [
+            "There aren't ",
+            {"opts": ["much","many","no"], "decode": ["viel","viele","keine"], "correct": 1},
+            " things to do in Egypt that are free of charge."
+          ],
+          "solutionEn": "There aren't many things to do in Egypt that are free of charge.",
+          "solutionDe": "In Ägypten gibt es nicht viele Dinge, die gratis sind.",
+          "explain": "things = zählbar, Verneinung → many. no ginge nur ohne „aren't“ (There are no things …)."
+        }
+      ]
+    },
+    {
+      "id": "quant_ex04",
+      "title": "much/many – some/any: Grundregeln",
+      "source": "Quantifiers (PPTX) – Folien 18/19",
+      "type": "gap",
+      "instruction": "Wähle die richtige Form.",
+      "questions": [
+        {
+          "parts": [
+            "How ",
+            {"opts": ["much","many"], "decode": ["viel","viele"], "correct": 0},
+            " money do you need?"
+          ],
+          "solutionEn": "How much money do you need?",
+          "solutionDe": "Wie viel Geld brauchst du?",
+          "explain": "money = unzählbar → how much."
+        },
+        {
+          "parts": [
+            "How ",
+            {"opts": ["much","many"], "decode": ["viel","viele"], "correct": 1},
+            " apples do you want?"
+          ],
+          "solutionEn": "How many apples do you want?",
+          "solutionDe": "Wie viele Äpfel willst du?",
+          "explain": "apples = zählbar (Plural) → how many."
+        },
+        {
+          "parts": [
+            "Do you have ",
+            {"opts": ["some","any"], "decode": ["etwas","irgendetwas"], "correct": 1},
+            " milk left?"
+          ],
+          "solutionEn": "Do you have any milk left?",
+          "solutionDe": "Hast du noch Milch übrig?",
+          "explain": "Frage → any. (some nur in bejahten Sätzen oder bei Angeboten wie „Would you like some tea?“)"
+        },
+        {
+          "parts": [
+            "I bought ",
+            {"opts": ["some","any"], "decode": ["ein-paar","irgendwelche"], "correct": 0},
+            " apples at the market."
+          ],
+          "solutionEn": "I bought some apples at the market.",
+          "solutionDe": "Ich habe am Markt ein paar Äpfel gekauft.",
+          "explain": "Bejahter Satz → some."
+        }
+      ]
+    }
+  ]
+}

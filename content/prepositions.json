@@ -1,0 +1,704 @@
+{
+  "id": "prepositions",
+  "title": "Prepositions",
+  "icon": "📍",
+  "phase": 2,
+  "birkenbihl": [
+    {
+      "id": "prep_t1",
+      "title": "Verb + Preposition – die wichtigsten Kollokationen",
+      "sentences": [
+        {
+          "id": "prep_t1_s01",
+          "en": "It's so noisy – I can't concentrate on my homework.",
+          "decode": [["It's","es-ist"],["so","so"],["noisy –","laut –"],["I","ich"],["can't","kann-nicht"],["concentrate","konzentrieren"],["on","auf"],["my","meine"],["homework.","Hausübung."]],
+          "de": "Es ist so laut – ich kann mich nicht auf meine Hausübung konzentrieren. (concentrate ON)"
+        },
+        {
+          "id": "prep_t1_s02",
+          "en": "Don't worry – I'll pay for the tickets.",
+          "decode": [["Don't worry –","keine-Sorge –"],["I'll","ich-werde"],["pay","zahlen"],["for","für"],["the","die"],["tickets.","Karten."]],
+          "de": "Keine Sorge – ich zahle für die Karten. (pay FOR)"
+        },
+        {
+          "id": "prep_t1_s03",
+          "en": "The car belongs to my father.",
+          "decode": [["The","das"],["car","Auto"],["belongs","gehört"],["to","zu"],["my","meinem"],["father.","Vater."]],
+          "de": "Das Auto gehört meinem Vater. (belong TO)"
+        },
+        {
+          "id": "prep_t1_s04",
+          "en": "I borrowed a pen from my classmate.",
+          "decode": [["I","ich"],["borrowed","borgte"],["a","einen"],["pen","Stift"],["from","von"],["my","meinem"],["classmate.","Mitschüler."]],
+          "de": "Ich habe mir von meinem Mitschüler einen Stift ausgeborgt. (borrow FROM)"
+        },
+        {
+          "id": "prep_t1_s05",
+          "en": "I've been waiting for the bus for more than twenty minutes!",
+          "decode": [["I've been waiting","ich-warte-schon"],["for","auf"],["the","den"],["bus","Bus"],["for","seit"],["more than","mehr-als"],["twenty","zwanzig"],["minutes!","Minuten!"]],
+          "de": "Ich warte schon seit mehr als zwanzig Minuten auf den Bus! (wait FOR – nicht „wait on“!)"
+        },
+        {
+          "id": "prep_t1_s06",
+          "en": "It depends on John – we'll eat when he gets home.",
+          "decode": [["It","es"],["depends","hängt-ab"],["on","von"],["John –","John –"],["we'll","wir-werden"],["eat","essen"],["when","wenn"],["he","er"],["gets","kommt"],["home.","nach-Hause."]],
+          "de": "Es hängt von John ab – wir essen, wenn er nach Hause kommt. (depend ON – nicht „depend from“!)"
+        },
+        {
+          "id": "prep_t1_s07",
+          "en": "When we arrived at the cinema, the film had already started.",
+          "decode": [["When","als"],["we","wir"],["arrived","ankamen"],["at","bei"],["the","dem"],["cinema,","Kino,"],["the","der"],["film","Film"],["had","hatte"],["already","schon"],["started.","begonnen."]],
+          "de": "Als wir beim Kino ankamen, hatte der Film schon begonnen. (arrive AT + Gebäude/Ort)"
+        },
+        {
+          "id": "prep_t1_s08",
+          "en": "Please explain this problem to us.",
+          "decode": [["Please","bitte"],["explain","erkläre"],["this","dieses"],["problem","Problem"],["to us.","uns."]],
+          "de": "Bitte erkläre uns dieses Problem. (explain something TO somebody)"
+        },
+        {
+          "id": "prep_t1_s09",
+          "en": "She was listening to the radio when the doorbell rang.",
+          "decode": [["She","sie"],["was listening","hörte-gerade"],["to","zu"],["the","dem"],["radio","Radio"],["when","als"],["the","die"],["doorbell","Türklingel"],["rang.","läutete."]],
+          "de": "Sie hörte gerade Radio, als es an der Tür läutete. (listen TO)"
+        },
+        {
+          "id": "prep_t1_s10",
+          "en": "John worries about his exam results all the time.",
+          "decode": [["John","John"],["worries","macht-sich-Sorgen"],["about","um"],["his","seine"],["exam results","Prüfungsergebnisse"],["all the time.","die-ganze-Zeit."]],
+          "de": "John macht sich ständig Sorgen um seine Prüfungsergebnisse. (worry ABOUT)"
+        }
+      ]
+    },
+    {
+      "id": "prep_t2",
+      "title": "at, in, on – Ort und Zeit",
+      "sentences": [
+        {
+          "id": "prep_t2_s01",
+          "en": "When will we arrive in Beijing?",
+          "decode": [["When","wann"],["will","werden"],["we","wir"],["arrive","ankommen"],["in","in"],["Beijing?","Peking?"]],
+          "de": "Wann kommen wir in Peking an? (arrive IN + Stadt/Land, arrive AT + Gebäude/Ort)"
+        },
+        {
+          "id": "prep_t2_s02",
+          "en": "They arrived in Bombay at 8:00 p.m. on July 30.",
+          "decode": [["They","sie"],["arrived","kamen-an"],["in","in"],["Bombay","Bombay"],["at","um"],["8:00 p.m.","20:00-Uhr"],["on","am"],["July 30.","30.-Juli."]],
+          "de": "Sie kamen am 30. Juli um 20:00 Uhr in Bombay an. (in + Stadt, at + Uhrzeit, on + Datum)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "prep_ex01",
+      "title": "Verb + Preposition I (concentrate on, pay for …)",
+      "source": "Key_Practice – Verb-Prepositions 1–10",
+      "type": "gap",
+      "instruction": "Wähle die richtige Präposition.",
+      "questions": [
+        {
+          "parts": [
+            "It's so noisy – I can't concentrate ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 1},
+            " my homework."
+          ],
+          "solutionEn": "It's so noisy – I can't concentrate on my homework.",
+          "solutionDe": "Es ist so laut – ich kann mich nicht auf meine Hausübung konzentrieren.",
+          "explain": "concentrate ON = sich konzentrieren auf. Niemals „concentrate at/in“."
+        },
+        {
+          "parts": [
+            "Don't worry – I'll pay ",
+            {"opts": ["to","about","for"], "decode": ["zu","über","für"], "correct": 2},
+            " the tickets."
+          ],
+          "solutionEn": "Don't worry – I'll pay for the tickets.",
+          "solutionDe": "Keine Sorge – ich zahle für die Karten.",
+          "explain": "pay FOR something = für etwas (be)zahlen."
+        },
+        {
+          "parts": [
+            "The car belongs ",
+            {"opts": ["of","to","with"], "decode": ["von","zu","mit"], "correct": 1},
+            " my father, so I don't think we can use it."
+          ],
+          "solutionEn": "The car belongs to my father, so I don't think we can use it.",
+          "solutionDe": "Das Auto gehört meinem Vater, also können wir es wohl nicht benutzen.",
+          "explain": "belong TO somebody = jemandem gehören."
+        },
+        {
+          "parts": [
+            "I borrowed a pen ",
+            {"opts": ["to","of","from"], "decode": ["zu","von","von"], "correct": 2},
+            " my classmate."
+          ],
+          "solutionEn": "I borrowed a pen from my classmate.",
+          "solutionDe": "Ich habe mir von meinem Mitschüler einen Stift ausgeborgt.",
+          "explain": "borrow FROM somebody = sich von jemandem ausborgen. (lend to = jemandem borgen)"
+        },
+        {
+          "parts": [
+            "I've been waiting ",
+            {"opts": ["on","for","to"], "decode": ["auf", "auf", "zu"], "correct": 1},
+            " the bus for more than twenty minutes!"
+          ],
+          "solutionEn": "I've been waiting for the bus for more than twenty minutes!",
+          "solutionDe": "Ich warte schon seit mehr als zwanzig Minuten auf den Bus!",
+          "explain": "wait FOR = warten auf. Das deutsche „auf“ verleitet zu „wait on“ – falsch!"
+        },
+        {
+          "parts": [
+            "What time shall we eat dinner? – It depends ",
+            {"opts": ["on","of","from"], "decode": ["von", "von", "von"], "correct": 0},
+            " John: we'll eat when he gets home."
+          ],
+          "solutionEn": "It depends on John – we'll eat when he gets home.",
+          "solutionDe": "Es hängt von John ab – wir essen, wenn er nach Hause kommt.",
+          "explain": "depend ON = abhängen von. Das deutsche „von“ verleitet zu „depend from/of“ – beides falsch!"
+        },
+        {
+          "parts": [
+            "When we arrived ",
+            {"opts": ["in","at","to"], "decode": ["in","bei","zu"], "correct": 1},
+            " the cinema, the film had already started."
+          ],
+          "solutionEn": "When we arrived at the cinema, the film had already started.",
+          "solutionDe": "Als wir beim Kino ankamen, hatte der Film schon begonnen.",
+          "explain": "arrive AT + Gebäude/Ort (cinema, station, airport); arrive IN + Stadt/Land. Niemals „arrive to“!"
+        },
+        {
+          "parts": [
+            "Please explain this problem ",
+            {"opts": ["for","to","at"], "decode": ["für","zu","bei"], "correct": 1},
+            " us."
+          ],
+          "solutionEn": "Please explain this problem to us.",
+          "solutionDe": "Bitte erkläre uns dieses Problem.",
+          "explain": "explain something TO somebody = jemandem etwas erklären."
+        },
+        {
+          "parts": [
+            "She was listening ",
+            {"opts": ["at","to","on"], "decode": ["bei","zu","auf"], "correct": 1},
+            " the radio when the doorbell rang."
+          ],
+          "solutionEn": "She was listening to the radio when the doorbell rang.",
+          "solutionDe": "Sie hörte gerade Radio, als es an der Tür läutete.",
+          "explain": "listen TO = zuhören / anhören. Im Deutschen ohne Präposition („Radio hören“) – im Englischen immer mit to!"
+        },
+        {
+          "parts": [
+            "John worries ",
+            {"opts": ["of","on","about"], "decode": ["von","auf","um"], "correct": 2},
+            " his exam results all the time."
+          ],
+          "solutionEn": "John worries about his exam results all the time.",
+          "solutionDe": "John macht sich ständig Sorgen um seine Prüfungsergebnisse.",
+          "explain": "worry ABOUT = sich Sorgen machen um/über."
+        }
+      ]
+    },
+    {
+      "id": "prep_ex02",
+      "title": "Verb + Preposition II (listen to, depend on …)",
+      "source": "Key_Practice – Verb-Prepositions 11–20",
+      "type": "gap",
+      "instruction": "Wähle die richtige Präposition.",
+      "questions": [
+        {
+          "parts": [
+            "My flatmate listens ",
+            {"opts": ["at","for","to"], "decode": ["bei","für","zu"], "correct": 2},
+            " a lot of jazz."
+          ],
+          "solutionEn": "My flatmate listens to a lot of jazz.",
+          "solutionDe": "Mein Mitbewohner hört viel Jazz.",
+          "explain": "listen TO music/jazz/the radio."
+        },
+        {
+          "parts": [
+            "David paid ",
+            {"opts": ["for","to","about"], "decode": ["für","zu","über"], "correct": 0},
+            " the drinks."
+          ],
+          "solutionEn": "David paid for the drinks.",
+          "solutionDe": "David hat die Getränke bezahlt.",
+          "explain": "pay FOR something."
+        },
+        {
+          "parts": [
+            "Who does that house belong ",
+            {"opts": ["to","of","for"], "decode": ["zu","von","für"], "correct": 0},
+            "?"
+          ],
+          "solutionEn": "Who does that house belong to?",
+          "solutionDe": "Wem gehört dieses Haus?",
+          "explain": "belong TO – die Präposition bleibt auch in der Frage am Satzende stehen."
+        },
+        {
+          "parts": [
+            "Don't worry ",
+            {"opts": ["for","about","of"], "decode": ["für","um","von"], "correct": 1},
+            " Gemma, she'll be fine."
+          ],
+          "solutionEn": "Don't worry about Gemma, she'll be fine.",
+          "solutionDe": "Mach dir keine Sorgen um Gemma, ihr wird nichts passieren.",
+          "explain": "worry ABOUT somebody/something."
+        },
+        {
+          "parts": [
+            "She borrowed a jumper ",
+            {"opts": ["of","to","from"], "decode": ["von","zu","von"], "correct": 2},
+            " Julie."
+          ],
+          "solutionEn": "She borrowed a jumper from Julie.",
+          "solutionDe": "Sie hat sich von Julie einen Pullover ausgeborgt.",
+          "explain": "borrow FROM somebody."
+        },
+        {
+          "parts": [
+            "Please be quiet – I need to concentrate ",
+            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 0},
+            " this book."
+          ],
+          "solutionEn": "Please be quiet – I need to concentrate on this book.",
+          "solutionDe": "Bitte sei leise – ich muss mich auf dieses Buch konzentrieren.",
+          "explain": "concentrate ON something."
+        },
+        {
+          "parts": [
+            "I want to go to the beach tomorrow but it depends ",
+            {"opts": ["from","of","on"], "decode": ["von","von","von"], "correct": 2},
+            " the weather."
+          ],
+          "solutionEn": "I want to go to the beach tomorrow but it depends on the weather.",
+          "solutionDe": "Ich will morgen an den Strand, aber es hängt vom Wetter ab.",
+          "explain": "depend ON – Klassiker: Im Deutschen „von“, im Englischen ON!"
+        },
+        {
+          "parts": [
+            "Who are you waiting ",
+            {"opts": ["on","for","to"], "decode": ["auf","auf","zu"], "correct": 1},
+            "?"
+          ],
+          "solutionEn": "Who are you waiting for?",
+          "solutionDe": "Auf wen wartest du?",
+          "explain": "wait FOR somebody – auch in Fragen bleibt for am Ende stehen."
+        },
+        {
+          "parts": [
+            "When will we arrive ",
+            {"opts": ["at","to","in"], "decode": ["bei","zu","in"], "correct": 2},
+            " Beijing?"
+          ],
+          "solutionEn": "When will we arrive in Beijing?",
+          "solutionDe": "Wann kommen wir in Peking an?",
+          "explain": "arrive IN + Stadt/Land (Beijing); arrive AT + Gebäude/Ort (cinema, airport)."
+        },
+        {
+          "parts": [
+            "The policeman explained ",
+            {"opts": ["to","at","for"], "decode": ["zu","bei","für"], "correct": 0},
+            " the children why they should never run across a road."
+          ],
+          "solutionEn": "The policeman explained to the children why they should never run across a road.",
+          "solutionDe": "Der Polizist erklärte den Kindern, warum sie nie über eine Straße laufen sollten.",
+          "explain": "explain TO somebody – das to steht direkt vor der Person."
+        }
+      ]
+    },
+    {
+      "id": "prep_ex03",
+      "title": "Basic Prepositions (Schulübung komplett)",
+      "source": "Key_Practice – Basic Prepositions 1–20",
+      "type": "gap",
+      "instruction": "Wähle die richtige Präposition.",
+      "questions": [
+        {
+          "parts": [
+            "They arrived ",
+            {"opts": ["at","in","on"], "decode": ["bei","in","auf"], "correct": 1},
+            " Bombay ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            " 8:00 p.m. ",
+            {"opts": ["in","at","on"], "decode": ["im","um","am"], "correct": 2},
+            " July 30."
+          ],
+          "solutionEn": "They arrived in Bombay at 8:00 p.m. on July 30.",
+          "solutionDe": "Sie kamen am 30. Juli um 20:00 Uhr in Bombay an.",
+          "explain": "arrive in + Stadt; at + Uhrzeit; on + Datum/Tag."
+        },
+        {
+          "parts": [
+            "Charles lives ",
+            {"opts": ["in","on","at"], "decode": ["in","auf","bei"], "correct": 1},
+            " College Avenue ",
+            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 1},
+            " an apartment. Phoenix is located ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            " the state of Arizona."
+          ],
+          "solutionEn": "Charles lives on College Avenue in an apartment. Phoenix is located in the state of Arizona.",
+          "solutionDe": "Charles wohnt in einer Wohnung in der College Avenue. Phoenix liegt im Bundesstaat Arizona.",
+          "explain": "on + Straße; in + Wohnung/Gebiet/Bundesstaat."
+        },
+        {
+          "parts": [
+            "John asked me to go ",
+            {"opts": ["with","to","by"], "decode": ["mit","zu","bei"], "correct": 0},
+            " him to buy a pair of shoes. Put a pad ",
+            {"opts": ["under","below","on"], "decode": ["unter","unterhalb","auf"], "correct": 0},
+            " the hot dish to protect the table."
+          ],
+          "solutionEn": "John asked me to go with him to buy a pair of shoes. Put a pad under the hot dish to protect the table.",
+          "solutionDe": "John bat mich, mit ihm Schuhe kaufen zu gehen. Leg eine Unterlage unter die heiße Schüssel, um den Tisch zu schützen.",
+          "explain": "go with somebody = mitgehen; under = direkt unter etwas."
+        },
+        {
+          "parts": [
+            "Mr. Walker has ",
+            {"opts": ["on","in","at"], "decode": ["an","in","bei"], "correct": 0},
+            " a grey suit today. This story was written ",
+            {"opts": ["from","by","of"], "decode": ["von","von","von"], "correct": 1},
+            " Conan Doyle."
+          ],
+          "solutionEn": "Mr. Walker has on a grey suit today. This story was written by Conan Doyle.",
+          "solutionDe": "Mr. Walker trägt heute einen grauen Anzug (have on = anhaben). Diese Geschichte wurde von Conan Doyle geschrieben.",
+          "explain": "have on = anhaben/tragen; im Passiv steht der Urheber mit BY (nicht from!)."
+        },
+        {
+          "parts": [
+            "My aunt stayed ",
+            {"opts": ["at","in","by"], "decode": ["bei","in","neben"], "correct": 0},
+            " our house ",
+            {"opts": ["since","for","during"], "decode": ["seit","für/lang","während"], "correct": 1},
+            " two weeks. Mary is a good housekeeper; she always sweeps ",
+            {"opts": ["under","over","behind"], "decode": ["unter","über","hinter"], "correct": 0},
+            " the bed."
+          ],
+          "solutionEn": "My aunt stayed at our house for two weeks. Mary is a good housekeeper; she always sweeps under the bed.",
+          "solutionDe": "Meine Tante blieb zwei Wochen bei uns zu Hause. Mary ist eine gute Hausfrau; sie kehrt immer unter dem Bett.",
+          "explain": "at our house = bei uns; for + Zeitdauer (zwei Wochen lang), since + Zeitpunkt!"
+        },
+        {
+          "parts": [
+            "They had to drive ",
+            {"opts": ["around","across","along"], "decode": ["um-…-herum","quer-über","entlang"], "correct": 0},
+            " the block four times before they found a parking place. There is an ink spot ",
+            {"opts": ["in","at","on"], "decode": ["in","bei","auf"], "correct": 2},
+            " the collar ",
+            {"opts": ["of","from","off"], "decode": ["von","von","weg-von"], "correct": 0},
+            " your shirt."
+          ],
+          "solutionEn": "They had to drive around the block four times before they found a parking place. There is an ink spot on the collar of your shirt.",
+          "solutionDe": "Sie mussten viermal um den Block fahren, bevor sie einen Parkplatz fanden. Auf dem Kragen deines Hemdes ist ein Tintenfleck.",
+          "explain": "drive around the block = um den Block fahren; on + Oberfläche (Kragen); of = Genitiv (des Hemdes)."
+        },
+        {
+          "parts": [
+            "Please write ",
+            {"opts": ["with","in","by"], "decode": ["mit","in/mit","durch"], "correct": 1},
+            " ink, and don't forget to write ",
+            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 0},
+            " every other line."
+          ],
+          "solutionEn": "Please write in ink, and don't forget to write on every other line.",
+          "solutionDe": "Bitte schreib mit Tinte und vergiss nicht, nur jede zweite Zeile zu beschreiben.",
+          "explain": "write in ink = feste Wendung (mit Tinte schreiben); on a line = auf einer Zeile."
+        },
+        {
+          "parts": [
+            "Did you receive a letter ",
+            {"opts": ["of","from","by"], "decode": ["von","von","durch"], "correct": 1},
+            " your brother yesterday? The bus will not leave ",
+            {"opts": ["for","in","until"], "decode": ["für/lang","in","bis"], "correct": 0},
+            " fifteen minutes."
+          ],
+          "solutionEn": "Did you receive a letter from your brother yesterday? The bus will not leave for fifteen minutes.",
+          "solutionDe": "Hast du gestern einen Brief von deinem Bruder bekommen? Der Bus fährt erst in fünfzehn Minuten ab.",
+          "explain": "receive from = bekommen von; not … for fifteen minutes = die nächsten 15 Minuten (noch) nicht."
+        },
+        {
+          "parts": [
+            "Elections are held ",
+            {"opts": ["at","in","on"], "decode": ["um","im","am"], "correct": 2},
+            " the first Tuesday ",
+            {"opts": ["on","in","at"], "decode": ["am","im","um"], "correct": 1},
+            " November. Maximo always entertains us ",
+            {"opts": ["with","by","of"], "decode": ["mit","durch","von"], "correct": 0},
+            " stories of his experiences."
+          ],
+          "solutionEn": "Elections are held on the first Tuesday in November. Maximo always entertains us with stories of his experiences.",
+          "solutionDe": "Wahlen finden am ersten Dienstag im November statt. Maximo unterhält uns immer mit Geschichten über seine Erlebnisse.",
+          "explain": "on + Tag (Tuesday); in + Monat (November); entertain with = unterhalten mit."
+        },
+        {
+          "parts": [
+            "Does this bus go ",
+            {"opts": ["to","at","until"], "decode": ["nach","bei","bis"], "correct": 0},
+            " Central City? Mr. and Mrs. Simpson have lived ",
+            {"opts": ["in","at","on"], "decode": ["in","bei","auf/in"], "correct": 2},
+            " Chesnut Street ",
+            {"opts": ["since","for","from"], "decode": ["seit","seit/lang","von"], "correct": 1},
+            " six years."
+          ],
+          "solutionEn": "Does this bus go to Central City? Mr. and Mrs. Simpson have lived on Chesnut Street for six years.",
+          "solutionDe": "Fährt dieser Bus nach Central City? Die Simpsons wohnen seit sechs Jahren in der Chesnut Street.",
+          "explain": "go to + Ziel; on + Straße; for + Zeitdauer (six years), since + Zeitpunkt (z. B. since 2020)."
+        },
+        {
+          "parts": [
+            "Dr. Parks has been living ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            " Mobile ",
+            {"opts": ["for","since","from"], "decode": ["seit/lang","seit","von"], "correct": 1},
+            " October. He dived ",
+            {"opts": ["into","to","in"], "decode": ["hinein-in","zu","in"], "correct": 0},
+            " the lake and swam ",
+            {"opts": ["at","into","to"], "decode": ["bei","hinein-in","zu"], "correct": 2},
+            " the boat."
+          ],
+          "solutionEn": "Dr. Parks has been living in Mobile since October. He dived into the lake and swam to the boat.",
+          "solutionDe": "Dr. Parks lebt seit Oktober in Mobile. Er tauchte in den See und schwamm zum Boot.",
+          "explain": "in + Stadt; since + Zeitpunkt (October); into = Bewegung hinein; to = Bewegung zu einem Ziel."
+        }
+      ]
+    },
+    {
+      "id": "prep_ex04",
+      "title": "Prepositions II – Verben",
+      "source": "Prepositions II – Verbs and Prepositions 1–12 (mit Key_Practice abgeglichen)",
+      "type": "gap",
+      "instruction": "Wähle die richtige Präposition nach dem Verb.",
+      "questions": [
+        {
+          "parts": [
+            "Stop worrying ",
+            {"opts": ["about","for","on"], "decode": ["um/über","für","auf"], "correct": 0},
+            " your exam – everything will be fine. I've waited ",
+            {"opts": ["on","for","at"], "decode": ["auf","auf","bei"], "correct": 1},
+            " Judy for 30 minutes. I'm going home."
+          ],
+          "solutionEn": "Stop worrying about your exam – everything will be fine. I've waited for Judy for 30 minutes.",
+          "solutionDe": "Hör auf, dir wegen der Prüfung Sorgen zu machen – alles wird gut. Ich habe 30 Minuten auf Judy gewartet. Ich gehe heim.",
+          "explain": "worry ABOUT; wait FOR."
+        },
+        {
+          "parts": [
+            "Stop talking and concentrate ",
+            {"opts": ["at","in","on"], "decode": ["bei","in","auf"], "correct": 2},
+            " your work. Don't forget to pay ",
+            {"opts": ["for","to","of"], "decode": ["für","zu","von"], "correct": 0},
+            " the newspaper."
+          ],
+          "solutionEn": "Stop talking and concentrate on your work. Don't forget to pay for the newspaper.",
+          "solutionDe": "Hör auf zu reden und konzentriere dich auf deine Arbeit. Vergiss nicht, die Zeitung zu bezahlen.",
+          "explain": "concentrate ON; pay FOR."
+        },
+        {
+          "parts": [
+            "He explained the computer program ",
+            {"opts": ["to","for","with"], "decode": ["zu","für","mit"], "correct": 0},
+            " me. I don't know what we'll do at the weekend. It depends ",
+            {"opts": ["from","on","of"], "decode": ["von","von","von"], "correct": 1},
+            " the weather."
+          ],
+          "solutionEn": "He explained the computer program to me. It depends on the weather.",
+          "solutionDe": "Er hat mir das Computerprogramm erklärt. Es hängt vom Wetter ab.",
+          "explain": "explain TO somebody; depend ON something."
+        },
+        {
+          "parts": [
+            "She will arrive ",
+            {"opts": ["at","to","in"], "decode": ["bei","zu","in"], "correct": 2},
+            " Beijing at 3pm. I like to listen ",
+            {"opts": ["to","at","on"], "decode": ["zu","bei","auf"], "correct": 0},
+            " the radio when I wake up."
+          ],
+          "solutionEn": "She will arrive in Beijing at 3pm. I like to listen to the radio when I wake up.",
+          "solutionDe": "Sie kommt um 15 Uhr in Peking an. Ich höre gern Radio, wenn ich aufwache.",
+          "explain": "arrive IN + Stadt; listen TO."
+        },
+        {
+          "parts": [
+            "He borrowed £20 ",
+            {"opts": ["from","of","by"], "decode": ["von","von","durch"], "correct": 0},
+            " his brother. Who does this coat belong ",
+            {"opts": ["with","to","of"], "decode": ["mit","zu","von"], "correct": 1},
+            "?"
+          ],
+          "solutionEn": "He borrowed £20 from his brother. Who does this coat belong to?",
+          "solutionDe": "Er hat sich 20 Pfund von seinem Bruder ausgeborgt. Wem gehört dieser Mantel?",
+          "explain": "borrow FROM; belong TO."
+        },
+        {
+          "parts": [
+            "She left without paying ",
+            {"opts": ["for","about","to"], "decode": ["für","über","zu"], "correct": 0},
+            " the meal. It was so hot, I couldn't concentrate ",
+            {"opts": ["on","at","for"], "decode": ["auf","bei","für"], "correct": 0},
+            " my book."
+          ],
+          "solutionEn": "She left without paying for the meal. It was so hot, I couldn't concentrate on my book.",
+          "solutionDe": "Sie ging, ohne das Essen zu bezahlen. Es war so heiß, dass ich mich nicht auf mein Buch konzentrieren konnte.",
+          "explain": "pay FOR; concentrate ON."
+        }
+      ]
+    },
+    {
+      "id": "prep_ex05",
+      "title": "Prepositions II – Adjektive (famous for, proud of …)",
+      "source": "Prepositions II – Prepositions after adjectives 1–12",
+      "type": "gap",
+      "instruction": "Wähle die richtige Präposition nach dem Adjektiv.",
+      "questions": [
+        {
+          "parts": [
+            "England is famous ",
+            {"opts": ["of","for","about"], "decode": ["von","für","über"], "correct": 1},
+            " its rainy weather. I'm very proud ",
+            {"opts": ["on","about","of"], "decode": ["auf","über","auf/von"], "correct": 2},
+            " my daughter, she worked very hard."
+          ],
+          "solutionEn": "England is famous for its rainy weather. I'm very proud of my daughter, she worked very hard.",
+          "solutionDe": "England ist für sein Regenwetter berühmt. Ich bin sehr stolz auf meine Tochter, sie hat hart gearbeitet.",
+          "explain": "famous FOR = berühmt für; proud OF = stolz auf (nicht „proud on“ – typischer Deutsch-Fehler!)."
+        },
+        {
+          "parts": [
+            "He isn't really interested ",
+            {"opts": ["in","on","for"], "decode": ["in/an","auf","für"], "correct": 0},
+            " getting married. Luke is very pleased ",
+            {"opts": ["about","with","of"], "decode": ["über","mit","von"], "correct": 1},
+            " his exam results."
+          ],
+          "solutionEn": "He isn't really interested in getting married. Luke is very pleased with his exam results.",
+          "solutionDe": "Er ist nicht wirklich daran interessiert zu heiraten. Luke ist mit seinen Prüfungsergebnissen sehr zufrieden.",
+          "explain": "interested IN; pleased WITH = zufrieden mit."
+        },
+        {
+          "parts": [
+            "Unfortunately, I'm very bad ",
+            {"opts": ["in","at","with"], "decode": ["in","bei/in","mit"], "correct": 1},
+            " music. I've been married ",
+            {"opts": ["with","to","at"], "decode": ["mit","zu/mit","bei"], "correct": 1},
+            " my husband for 10 years."
+          ],
+          "solutionEn": "Unfortunately, I'm very bad at music. I've been married to my husband for 10 years.",
+          "solutionDe": "Leider bin ich sehr schlecht in Musik. Ich bin seit 10 Jahren mit meinem Mann verheiratet.",
+          "explain": "good/bad AT = gut/schlecht in (nicht „in“!); married TO = verheiratet mit (nicht „with“!)."
+        },
+        {
+          "parts": [
+            "She's very excited ",
+            {"opts": ["about","for","of"], "decode": ["über/auf","für","von"], "correct": 0},
+            " the party. Julie is very different ",
+            {"opts": ["to","than","from"], "decode": ["zu","als","von"], "correct": 2},
+            " her sister."
+          ],
+          "solutionEn": "She's very excited about the party. Julie is very different from her sister.",
+          "solutionDe": "Sie freut sich sehr auf die Party. Julie ist ganz anders als ihre Schwester.",
+          "explain": "excited ABOUT = aufgeregt/freut sich auf; different FROM = anders als."
+        },
+        {
+          "parts": [
+            "My niece is afraid ",
+            {"opts": ["from","of","about"], "decode": ["vor","vor/von","über"], "correct": 1},
+            " dogs. A ball gown is similar ",
+            {"opts": ["with","as","to"], "decode": ["mit","wie","zu"], "correct": 2},
+            " an evening dress."
+          ],
+          "solutionEn": "My niece is afraid of dogs. A ball gown is similar to an evening dress.",
+          "solutionDe": "Meine Nichte hat Angst vor Hunden. Ein Ballkleid ist einem Abendkleid ähnlich.",
+          "explain": "afraid OF = Angst vor (das deutsche „vor“ verleitet zu from!); similar TO = ähnlich wie."
+        },
+        {
+          "parts": [
+            "What is your town famous ",
+            {"opts": ["for","of","with"], "decode": ["für","von","mit"], "correct": 0},
+            "? English cheese is very different ",
+            {"opts": ["from","of","to"], "decode": ["von","von","zu"], "correct": 0},
+            " French cheese."
+          ],
+          "solutionEn": "What is your town famous for? English cheese is very different from French cheese.",
+          "solutionDe": "Wofür ist deine Stadt berühmt? Englischer Käse ist ganz anders als französischer Käse.",
+          "explain": "famous FOR (auch in Fragen am Ende); different FROM."
+        }
+      ]
+    },
+    {
+      "id": "prep_ex06",
+      "title": "at, on, in – Zeit und Ort",
+      "source": "prepositions unit (Unit 9) – Activity 2 + Activity 4",
+      "type": "gap",
+      "instruction": "at, on oder in? Wähle die richtige Präposition.",
+      "questions": [
+        {
+          "parts": [
+            "",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            " Monday, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            " 9 o'clock, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            " midnight, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            " 2012"
+          ],
+          "solutionEn": "on Monday – at 9 o'clock – at midnight – in 2012",
+          "solutionDe": "am Montag – um 9 Uhr – um Mitternacht – im Jahr 2012",
+          "explain": "at + Uhrzeit (at 9 o'clock, at midnight); on + Tag (on Monday); in + Jahr (in 2012)."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            " Friday, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            " January 1st, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            " January, ",
+            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            " summer"
+          ],
+          "solutionEn": "on Friday – on January 1st – in January – in summer",
+          "solutionDe": "am Freitag – am 1. Jänner – im Jänner – im Sommer",
+          "explain": "on + Tag und Datum (on Friday, on January 1st); in + Monat und Jahreszeit (in January, in summer)."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["at","on","in"], "decode": ["bei/in","auf","in"], "correct": 0},
+            " Union Bank, ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf/in","in"], "correct": 1},
+            " Pine Street, ",
+            {"opts": ["at","on","in"], "decode": ["bei/in","auf","in"], "correct": 0},
+            " 277 Pine Street, ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            " Los Angeles"
+          ],
+          "solutionEn": "at Union Bank – on Pine Street – at 277 Pine Street – in Los Angeles",
+          "solutionDe": "bei der Union Bank – in der Pine Street – Pine Street 277 (genaue Adresse) – in Los Angeles",
+          "explain": "at + bestimmter Ort/genaue Adresse mit Hausnummer; on + Straße (ohne Nummer); in + Stadt."
+        },
+        {
+          "parts": [
+            "",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            " California, ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            " the United States, ",
+            {"opts": ["at","on","in"], "decode": ["bei/an","auf","in"], "correct": 0},
+            " Minnesota University, ",
+            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 0},
+            " Shoes for Less"
+          ],
+          "solutionEn": "in California – in the United States – at Minnesota University – at Shoes for Less",
+          "solutionDe": "in Kalifornien – in den USA – an der Minnesota University – bei „Shoes for Less“ (Geschäft)",
+          "explain": "in + Bundesstaat/Land; at + Institution/Geschäft (Universität, Bank, Shop)."
+        }
+      ]
+    }
+  ]
+}

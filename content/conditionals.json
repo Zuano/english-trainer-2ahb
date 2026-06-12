@@ -1,0 +1,987 @@
+{
+  "id": "conditionals",
+  "title": "Conditionals I–III",
+  "icon": "🔀",
+  "phase": 1,
+  "birkenbihl": [
+    {
+      "id": "cond_t1",
+      "title": "Type 0 – Allgemeine Wahrheiten",
+      "sentences": [
+        {
+          "id": "cond_t1_s01",
+          "en": "If you heat water to 212 degrees, it boils and evaporates.",
+          "decode": [["If","wenn"],["you","du"],["heat","erhitzt"],["water","Wasser"],["to","auf"],["212 degrees,","212 Grad,"],["it","es"],["boils","kocht"],["and","und"],["evaporates.","verdampft."]],
+          "de": "Wenn man Wasser auf 212 Grad erhitzt, kocht und verdampft es."
+        },
+        {
+          "id": "cond_t1_s02",
+          "en": "If you strike a match, it starts burning.",
+          "decode": [["If","wenn"],["you","du"],["strike","anreißt"],["a","ein"],["match,","Streichholz,"],["it","es"],["starts","beginnt"],["burning.","zu-brennen."]],
+          "de": "Wenn man ein Streichholz anreißt, beginnt es zu brennen."
+        },
+        {
+          "id": "cond_t1_s03",
+          "en": "If I am late, my boss gets angry.",
+          "decode": [["If","wenn"],["I","ich"],["am","bin"],["late,","zu-spät,"],["my","mein"],["boss","Chef"],["gets","wird"],["angry.","wütend."]],
+          "de": "Wenn ich zu spät komme, wird mein Chef wütend."
+        },
+        {
+          "id": "cond_t1_s04",
+          "en": "If it snows in England, there is chaos on the roads.",
+          "decode": [["If","wenn"],["it","es"],["snows","schneit"],["in","in"],["England,","England,"],["there is","es-gibt"],["chaos","Chaos"],["on","auf"],["the","den"],["roads.","Straßen."]],
+          "de": "Wenn es in England schneit, gibt es Chaos auf den Straßen."
+        }
+      ]
+    },
+    {
+      "id": "cond_t2",
+      "title": "Type I – Reale Bedingungen (Zukunft)",
+      "sentences": [
+        {
+          "id": "cond_t2_s01",
+          "en": "If it rains, I'll stay at home.",
+          "decode": [["If","wenn"],["it","es"],["rains,","regnet,"],["I'll stay","ich-werde-bleiben"],["at home.","zu-Hause."]],
+          "de": "Wenn es regnet, bleibe ich zu Hause."
+        },
+        {
+          "id": "cond_t2_s02",
+          "en": "If I pass my exams, my parents will buy me an iPhone X.",
+          "decode": [["If","wenn"],["I","ich"],["pass","bestehe"],["my","meine"],["exams,","Prüfungen,"],["my","meine"],["parents","Eltern"],["will buy","werden-kaufen"],["me","mir"],["an","ein"],["iPhone X.","iPhone X."]],
+          "de": "Wenn ich meine Prüfungen bestehe, werden mir meine Eltern ein iPhone X kaufen."
+        },
+        {
+          "id": "cond_t2_s03",
+          "en": "If we save enough money, we can go on holiday.",
+          "decode": [["If","wenn"],["we","wir"],["save","sparen"],["enough","genug"],["money,","Geld,"],["we","wir"],["can go","können-fahren"],["on holiday.","auf-Urlaub."]],
+          "de": "Wenn wir genug Geld sparen, können wir auf Urlaub fahren."
+        },
+        {
+          "id": "cond_t2_s04",
+          "en": "He will pass his driving test if he practises more.",
+          "decode": [["He","er"],["will pass","wird-bestehen"],["his","seine"],["driving test","Fahrprüfung"],["if","wenn"],["he","er"],["practises","übt"],["more.","mehr."]],
+          "de": "Er wird seine Fahrprüfung bestehen, wenn er mehr übt."
+        }
+      ]
+    },
+    {
+      "id": "cond_t3",
+      "title": "Type II – Annahmen (unwahrscheinlich)",
+      "sentences": [
+        {
+          "id": "cond_t3_s01",
+          "en": "If I had enough money, I would buy a new car.",
+          "decode": [["If","wenn"],["I","ich"],["had","hätte"],["enough","genug"],["money,","Geld,"],["I","ich"],["would buy","würde-kaufen"],["a","ein"],["new","neues"],["car.","Auto."]],
+          "de": "Wenn ich genug Geld hätte, würde ich ein neues Auto kaufen."
+        },
+        {
+          "id": "cond_t3_s02",
+          "en": "If I were you, I would study more.",
+          "decode": [["If","wenn"],["I","ich"],["were","wäre"],["you,","du,"],["I","ich"],["would study","würde-lernen"],["more.","mehr."]],
+          "de": "Wenn ich du wäre, würde ich mehr lernen."
+        },
+        {
+          "id": "cond_t3_s03",
+          "en": "If we had our own boat, we could go on a sailing cruise in summer.",
+          "decode": [["If","wenn"],["we","wir"],["had","hätten"],["our","unser"],["own","eigenes"],["boat,","Boot,"],["we","wir"],["could go","könnten-fahren"],["on","auf"],["a","eine"],["sailing cruise","Segeltour"],["in summer.","im-Sommer."]],
+          "de": "Wenn wir ein eigenes Boot hätten, könnten wir im Sommer auf eine Segeltour fahren."
+        },
+        {
+          "id": "cond_t3_s04",
+          "en": "If you worked overtime more often, your boss might give you a pay rise.",
+          "decode": [["If","wenn"],["you","du"],["worked","machtest"],["overtime","Überstunden"],["more often,","öfter,"],["your","dein"],["boss","Chef"],["might give","würde-vielleicht-geben"],["you","dir"],["a","eine"],["pay rise.","Gehaltserhöhung."]],
+          "de": "Wenn du öfter Überstunden machtest, würde dir dein Chef vielleicht eine Gehaltserhöhung geben."
+        }
+      ]
+    },
+    {
+      "id": "cond_t4",
+      "title": "Type III – Vergangenheit (nicht passiert)",
+      "sentences": [
+        {
+          "id": "cond_t4_s01",
+          "en": "If I had studied more, I would have passed the exam.",
+          "decode": [["If","wenn"],["I","ich"],["had studied","gelernt-hätte"],["more,","mehr,"],["I","ich"],["would have passed","hätte-bestanden"],["the","die"],["exam.","Prüfung."]],
+          "de": "Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden."
+        },
+        {
+          "id": "cond_t4_s02",
+          "en": "If it had rained last night, I would have stayed at home.",
+          "decode": [["If","wenn"],["it","es"],["had rained","geregnet-hätte"],["last night,","letzte-Nacht,"],["I","ich"],["would have stayed","wäre-geblieben"],["at home.","zu-Hause."]],
+          "de": "Wenn es letzte Nacht geregnet hätte, wäre ich zu Hause geblieben."
+        },
+        {
+          "id": "cond_t4_s03",
+          "en": "If he hadn't been so tired, he could have finished the race.",
+          "decode": [["If","wenn"],["he","er"],["hadn't been","nicht-gewesen-wäre"],["so","so"],["tired,","müde,"],["he","er"],["could have finished","hätte-beenden-können"],["the","das"],["race.","Rennen."]],
+          "de": "Wenn er nicht so müde gewesen wäre, hätte er das Rennen beenden können."
+        },
+        {
+          "id": "cond_t4_s04",
+          "en": "They would have arrived on time if they had not missed the bus.",
+          "decode": [["They","sie"],["would have arrived","wären-angekommen"],["on time","pünktlich"],["if","wenn"],["they","sie"],["had not missed","nicht-verpasst-hätten"],["the","den"],["bus.","Bus."]],
+          "de": "Sie wären pünktlich angekommen, wenn sie den Bus nicht verpasst hätten."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "cond_ex01",
+      "title": "Type 0: Sätze bilden",
+      "source": "Conditionals 0,1,2_FormsAndStructures.pdf – Type 0: Form meaningful sentences (1–8)",
+      "type": "build",
+      "instruction": "Typ 0 – allgemeine Wahrheiten: Baue jeden Satz nach dem Muster „If you travel in the sun for hours, you get sunburnt quite easily.“ Wähle für jede Lücke die richtige Form.",
+      "questions": [
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["stop","will stop","stopped"], "decode": ["aufhörst","wirst-aufhören","aufhörtest"], "correct": 0},
+            " eating, you ",
+            {"opts": ["starve","will starve","would starve"], "decode": ["verhungerst","wirst-verhungern","würdest-verhungern"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "If you stop eating, you starve.",
+          "solutionDe": "Wenn du aufhörst zu essen, verhungerst du.",
+          "explain": "Typ 0 (immer wahr): if + Present Simple, Hauptsatz Present Simple – kein will!"
+        },
+        {
+          "parts": [
+            "If there ",
+            {"opts": ["is","will be","was"], "decode": ["ist","wird-sein","war"], "correct": 0},
+            " a lot of snow, driving conditions ",
+            {"opts": ["are","will be","would be"], "decode": ["sind","werden-sein","wären"], "correct": 0},
+            " dangerous."
+          ],
+          "solutionEn": "If there is a lot of snow, driving conditions are dangerous.",
+          "solutionDe": "Wenn es viel Schnee gibt, sind die Fahrverhältnisse gefährlich.",
+          "explain": "Typ 0 (allgemeine Wahrheit): beide Teile stehen im Present Simple."
+        },
+        {
+          "parts": [
+            "If people ",
+            {"opts": ["eat","will eat","ate"], "decode": ["essen","werden-essen","aßen"], "correct": 0},
+            " too much junk food, they ",
+            {"opts": ["gain","will gain","gained"], "decode": ["nehmen-zu","werden-zunehmen","nahmen-zu"], "correct": 0},
+            " weight."
+          ],
+          "solutionEn": "If people eat too much junk food, they gain weight.",
+          "solutionDe": "Wenn Leute zu viel Junkfood essen, nehmen sie zu.",
+          "explain": "Typ 0: gilt immer und für alle → Present Simple + Present Simple."
+        },
+        {
+          "parts": [
+            "If a serious hurricane ",
+            {"opts": ["hits","will hit","hit"], "decode": ["trifft","wird-treffen","traf"], "correct": 0},
+            " Florida, the inhabitants ",
+            {"opts": ["leave","will leave","left"], "decode": ["verlassen","werden-verlassen","verließen"], "correct": 0},
+            " the area."
+          ],
+          "solutionEn": "If a serious hurricane hits Florida, the inhabitants leave the area.",
+          "solutionDe": "Wenn ein schwerer Hurrikan Florida trifft, verlassen die Bewohner das Gebiet.",
+          "explain": "Typ 0: typischer Ablauf, der immer so passiert → Present Simple in beiden Teilen. Achtung: hits mit -s (3. Person)."
+        },
+        {
+          "parts": [
+            "If I regularly ",
+            {"opts": ["watch","will watch","watched"], "decode": ["schaue","werde-schauen","schaute"], "correct": 0},
+            " the news in English, my English ",
+            {"opts": ["improves","will improve","improved"], "decode": ["verbessert-sich","wird-sich-verbessern","verbesserte-sich"], "correct": 0},
+            " a lot."
+          ],
+          "solutionEn": "If I regularly watch the news in English, my English improves a lot.",
+          "solutionDe": "Wenn ich regelmäßig die Nachrichten auf Englisch schaue, verbessert sich mein Englisch sehr.",
+          "explain": "Typ 0: regelmäßige, immer gültige Folge → Present Simple + Present Simple."
+        },
+        {
+          "parts": [
+            "If elderly people ",
+            {"opts": ["have","will have","had"], "decode": ["haben","werden-haben","hatten"], "correct": 0},
+            " a pet, they ",
+            {"opts": ["are","will be","were"], "decode": ["sind","werden-sein","waren"], "correct": 0},
+            " happier."
+          ],
+          "solutionEn": "If elderly people have a pet, they are happier.",
+          "solutionDe": "Wenn ältere Menschen ein Haustier haben, sind sie glücklicher.",
+          "explain": "Typ 0: allgemein gültige Aussage → Present Simple in beiden Satzteilen."
+        },
+        {
+          "parts": [
+            "If we ",
+            {"opts": ["do","will do","did"], "decode": ["machen","werden-machen","machten"], "correct": 0},
+            " a lot of sports, we ",
+            {"opts": ["are","will be","would be"], "decode": ["sind","werden-sein","wären"], "correct": 0},
+            " in good shape."
+          ],
+          "solutionEn": "If we do a lot of sports, we are in good shape.",
+          "solutionDe": "Wenn wir viel Sport machen, sind wir in guter Form.",
+          "explain": "Typ 0: immer wahre Folge → Present Simple + Present Simple."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["grow up","will grow up","grew up"], "decode": ["aufwächst","wirst-aufwachsen","aufwuchsest"], "correct": 0},
+            " in China, you ",
+            {"opts": ["learn","will learn","learnt"], "decode": ["lernst","wirst-lernen","lerntest"], "correct": 0},
+            " to speak Chinese."
+          ],
+          "solutionEn": "If you grow up in China, you learn to speak Chinese.",
+          "solutionDe": "Wenn du in China aufwächst, lernst du Chinesisch zu sprechen.",
+          "explain": "Typ 0: gilt grundsätzlich für jeden → Present Simple in beiden Teilen."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex02",
+      "title": "Type I: Your Turn",
+      "source": "Conditionals 0,1,2_FormsAndStructures.pdf – Type 1: Your Turn 1 (1–10)",
+      "type": "build",
+      "instruction": "Typ I – reale Bedingungen: Setze die Verben in der richtigen Form ein (if + Present Simple, Hauptsatz mit will oder Modalverb).",
+      "questions": [
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["wake up","will wake up","woke up"], "decode": ["aufwache","werde-aufwachen","aufwachte"], "correct": 0},
+            " late on Monday, I ",
+            {"opts": ["will miss","missed","would miss"], "decode": ["werde-verpassen","verpasste","würde-verpassen"], "correct": 0},
+            " the bus."
+          ],
+          "solutionEn": "If I wake up late on Monday, I will miss the bus.",
+          "solutionDe": "Wenn ich am Montag spät aufwache, werde ich den Bus verpassen.",
+          "explain": "Typ I (real, Zukunft): if + Present Simple, Hauptsatz mit will + Infinitiv. Kein will im if-Satz!"
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["move","will move","moved"], "decode": ["ziehst","wirst-ziehen","zogst"], "correct": 0},
+            " to Cuba, you ",
+            {"opts": ["must speak","will must speak","had to speak"], "decode": ["musst-sprechen","wirst-müssen-sprechen","musstest-sprechen"], "correct": 0},
+            " Spanish."
+          ],
+          "solutionEn": "If you move to Cuba, you must speak Spanish.",
+          "solutionDe": "Wenn du nach Kuba ziehst, musst du Spanisch sprechen.",
+          "explain": "Typ I: if + Present Simple; im Hauptsatz ist statt will auch ein Modalverb (must) möglich. will + must geht nicht zusammen."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["learn","will learn","learnt"], "decode": ["lernst","wirst-lernen","lerntest"], "correct": 0},
+            " hard, you ",
+            {"opts": ["will pass","passed","would pass"], "decode": ["wirst-bestehen","bestandest","würdest-bestehen"], "correct": 0},
+            " your maths exam."
+          ],
+          "solutionEn": "If you learn hard, you will pass your maths exam.",
+          "solutionDe": "Wenn du fleißig lernst, wirst du deine Mathe-Prüfung bestehen.",
+          "explain": "Typ I: reale Möglichkeit in der Zukunft → if + Present Simple, Hauptsatz will + Infinitiv."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["eat","will eat","ate"], "decode": ["isst","wirst-essen","aßest"], "correct": 0},
+            " healthy food, you ",
+            {"opts": ["will become","became","would become"], "decode": ["wirst-werden","wurdest","würdest-werden"], "correct": 0},
+            " quite old."
+          ],
+          "solutionEn": "If you eat healthy food, you will become quite old.",
+          "solutionDe": "Wenn du gesundes Essen isst, wirst du ziemlich alt werden.",
+          "explain": "Typ I: erfüllbare Bedingung → if + Present Simple, Hauptsatz will + Infinitiv."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["do not hurry up","will not hurry up","did not hurry up"], "decode": ["dich-nicht-beeilst","dich-nicht-beeilen-wirst","dich-nicht-beeiltest"], "correct": 0},
+            ", you ",
+            {"opts": ["will miss","missed","would miss"], "decode": ["wirst-verpassen","verpasstest","würdest-verpassen"], "correct": 0},
+            " your plane."
+          ],
+          "solutionEn": "If you do not hurry up, you will miss your plane.",
+          "solutionDe": "Wenn du dich nicht beeilst, wirst du dein Flugzeug verpassen.",
+          "explain": "Typ I: Verneinung im if-Satz mit do not + Infinitiv (Present Simple), Hauptsatz mit will."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["study","will study","studied"], "decode": ["lernst","wirst-lernen","lerntest"], "correct": 0},
+            " English three times a week, you ",
+            {"opts": ["will improve","improved","would improve"], "decode": ["wirst-dich-verbessern","verbessertest-dich","würdest-dich-verbessern"], "correct": 0},
+            " quickly."
+          ],
+          "solutionEn": "If you study English three times a week, you will improve quickly.",
+          "solutionDe": "Wenn du dreimal pro Woche Englisch lernst, wirst du dich schnell verbessern.",
+          "explain": "Typ I: realistische Zukunftsbedingung → if + Present Simple, Hauptsatz will + Infinitiv."
+        },
+        {
+          "parts": [
+            "If it ",
+            {"opts": ["rains","will rain","rained"], "decode": ["regnet","wird-regnen","regnete"], "correct": 0},
+            " this weekend, we ",
+            {"opts": ["will not go","did not go","would not go"], "decode": ["werden-nicht-fahren","fuhren-nicht","würden-nicht-fahren"], "correct": 0},
+            " on holiday to Hungary."
+          ],
+          "solutionEn": "If it rains this weekend, we will not go on holiday to Hungary.",
+          "solutionDe": "Wenn es dieses Wochenende regnet, fahren wir nicht auf Urlaub nach Ungarn.",
+          "explain": "Typ I: if + Present Simple (rains), Hauptsatz verneint mit will not + Infinitiv."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["are","will be","were"], "decode": ["bist","sein-wirst","wärst"], "correct": 0},
+            " too busy, I ",
+            {"opts": ["will not come","would not come","had not come"], "decode": ["werde-nicht-kommen","würde-nicht-kommen","war-nicht-gekommen"], "correct": 0},
+            " round for a cup of coffee."
+          ],
+          "solutionEn": "If you are too busy, I will not come round for a cup of coffee.",
+          "solutionDe": "Wenn du zu beschäftigt bist, komme ich nicht auf eine Tasse Kaffee vorbei.",
+          "explain": "Typ I: if + Present Simple (are), Hauptsatz will not + Infinitiv."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["do not leave","will not leave","did not leave"], "decode": ["nicht-verlässt","nicht-verlassen-wirst","nicht-verließest"], "correct": 0},
+            " my flat at once, I ",
+            {"opts": ["will call","called","would call"], "decode": ["werde-rufen","rief","würde-rufen"], "correct": 0},
+            " the police."
+          ],
+          "solutionEn": "If you do not leave my flat at once, I will call the police.",
+          "solutionDe": "Wenn du meine Wohnung nicht sofort verlässt, rufe ich die Polizei.",
+          "explain": "Typ I: Drohung für die Zukunft → if + Present Simple (verneint), Hauptsatz will + Infinitiv."
+        },
+        {
+          "parts": [
+            "If she ",
+            {"opts": ["offers","will offer","offered"], "decode": ["anbietet","wird-anbieten","anbot"], "correct": 0},
+            " me the job of personal assistant, I ",
+            {"opts": ["will accept","accepted","would accept"], "decode": ["werde-annehmen","nahm-an","würde-annehmen"], "correct": 0},
+            " this new opportunity."
+          ],
+          "solutionEn": "If she offers me the job of personal assistant, I will accept this new opportunity.",
+          "solutionDe": "Wenn sie mir den Job als persönliche Assistentin anbietet, werde ich diese neue Chance annehmen.",
+          "explain": "Typ I: if + Present Simple (offers, 3. Person -s!), Hauptsatz will + Infinitiv."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex03",
+      "title": "Type II: Your Turn",
+      "source": "Conditionals 0,1,2_FormsAndStructures.pdf – Type 2: Your Turn 1 (1–10)",
+      "type": "build",
+      "instruction": "Typ II – Annahmen: Setze die Verben in der richtigen Form ein (if + Past Simple, Hauptsatz mit would/could + Infinitiv). Achtung: be wird im if-Satz immer zu were.",
+      "questions": [
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["were","am","would be"], "decode": ["wäre","bin","würde-sein"], "correct": 0},
+            " ten years younger, I ",
+            {"opts": ["would emigrate","will emigrate","emigrated"], "decode": ["würde-auswandern","werde-auswandern","wanderte-aus"], "correct": 0},
+            " to Australia."
+          ],
+          "solutionEn": "If I were ten years younger, I would emigrate to Australia.",
+          "solutionDe": "Wenn ich zehn Jahre jünger wäre, würde ich nach Australien auswandern.",
+          "explain": "Typ II (bloße Annahme): if + Past Simple, Hauptsatz would + Infinitiv. be hat im if-Satz immer die Form were."
+        },
+        {
+          "parts": [
+            "We are always late! If we ",
+            {"opts": ["left","leave","had left"], "decode": ["losführen","losfahren","losgefahren-wären"], "correct": 0},
+            " punctually at six o'clock, we ",
+            {"opts": ["would not have","will not have","do not have"], "decode": ["hätten-nicht","werden-nicht-haben","haben-nicht"], "correct": 0},
+            " any stress catching the early morning train."
+          ],
+          "solutionEn": "If we left punctually at six o'clock, we would not have any stress catching the early morning train.",
+          "solutionDe": "Wenn wir pünktlich um sechs Uhr losführen, hätten wir keinen Stress, den frühen Morgenzug zu erwischen.",
+          "explain": "Typ II: Die Realität ist anders (wir sind immer spät dran) → if + Past Simple, Hauptsatz would + Infinitiv."
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["were","was","will be"], "decode": ["wäre","war","werde-sein"], "correct": 0},
+            " a politician, I ",
+            {"opts": ["would fight","will fight","fought"], "decode": ["würde-kämpfen","werde-kämpfen","kämpfte"], "correct": 0},
+            " for free health care and education."
+          ],
+          "solutionEn": "If I were a politician, I would fight for free health care and education.",
+          "solutionDe": "Wenn ich Politiker wäre, würde ich für kostenlose Gesundheitsversorgung und Bildung kämpfen.",
+          "explain": "Typ II: unwahrscheinliche Annahme → if + were (nicht was – Regel vom Arbeitsblatt!), Hauptsatz would + Infinitiv."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["drank","drink","would drink"], "decode": ["tränkest","trinkst","würdest-trinken"], "correct": 0},
+            " too much alcohol, you ",
+            {"opts": ["would feel","will feel","felt"], "decode": ["würdest-dich-fühlen","wirst-dich-fühlen","fühltest-dich"], "correct": 0},
+            " sleepy quite easily."
+          ],
+          "solutionEn": "If you drank too much alcohol, you would feel sleepy quite easily.",
+          "solutionDe": "Wenn du zu viel Alkohol tränkest, würdest du dich ziemlich schnell schläfrig fühlen.",
+          "explain": "Typ II: if + Past Simple (drank), Hauptsatz would + Infinitiv (feel)."
+        },
+        {
+          "parts": [
+            "If you ",
+            {"opts": ["had","have","would have"], "decode": ["hättest","hast","würdest-haben"], "correct": 0},
+            " a spanner, you ",
+            {"opts": ["could fix","can fix","could have fixed"], "decode": ["könntest-reparieren","kannst-reparieren","hättest-reparieren-können"], "correct": 0},
+            " your bike."
+          ],
+          "solutionEn": "If you had a spanner, you could fix your bike.",
+          "solutionDe": "Wenn du einen Schraubenschlüssel hättest, könntest du dein Fahrrad reparieren.",
+          "explain": "Typ II: if + Past Simple (had); im Hauptsatz statt would auch could (= könntest)."
+        },
+        {
+          "parts": [
+            "If we ",
+            {"opts": ["had","have","will have"], "decode": ["hätten","haben","werden-haben"], "correct": 0},
+            " more money, we ",
+            {"opts": ["would invest","will invest","invested"], "decode": ["würden-investieren","werden-investieren","investierten"], "correct": 0},
+            " most of it in schools."
+          ],
+          "solutionEn": "If we had more money, we would invest most of it in schools.",
+          "solutionDe": "Wenn wir mehr Geld hätten, würden wir das meiste davon in Schulen investieren.",
+          "explain": "Typ II: bloße Annahme (wir haben das Geld nicht) → if + Past Simple, Hauptsatz would + Infinitiv."
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["spoke","speak","would speak"], "decode": ["spräche","spreche","würde-sprechen"], "correct": 0},
+            " Japanese fluently, I ",
+            {"opts": ["would travel","will travel","travelled"], "decode": ["würde-reisen","werde-reisen","reiste"], "correct": 0},
+            " to Japan."
+          ],
+          "solutionEn": "If I spoke Japanese fluently, I would travel to Japan.",
+          "solutionDe": "Wenn ich fließend Japanisch spräche, würde ich nach Japan reisen.",
+          "explain": "Typ II: if + Past Simple (spoke), Hauptsatz would + Infinitiv. Kein would im if-Satz!"
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["were","am","will be"], "decode": ["wäre","bin","werde-sein"], "correct": 0},
+            " slimmer, I ",
+            {"opts": ["would buy","will buy","bought"], "decode": ["würde-kaufen","werde-kaufen","kaufte"], "correct": 0},
+            " designer clothes."
+          ],
+          "solutionEn": "If I were slimmer, I would buy designer clothes.",
+          "solutionDe": "Wenn ich schlanker wäre, würde ich Designerkleidung kaufen.",
+          "explain": "Typ II: Annahme über die Gegenwart → if + were, Hauptsatz would + Infinitiv."
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["had","have","had had"], "decode": ["hätte","habe","gehabt-hätte"], "correct": 0},
+            " more time and money, I ",
+            {"opts": ["could stop","can stop","could have stopped"], "decode": ["könnte-aufhören","kann-aufhören","hätte-aufhören-können"], "correct": 0},
+            " working and go abroad."
+          ],
+          "solutionEn": "If I had more time and money, I could stop working and go abroad.",
+          "solutionDe": "Wenn ich mehr Zeit und Geld hätte, könnte ich aufhören zu arbeiten und ins Ausland gehen.",
+          "explain": "Typ II: if + Past Simple (had), Hauptsatz mit Modalverb could + Infinitiv."
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["were","was","am"], "decode": ["wäre","war","bin"], "correct": 0},
+            " you, I ",
+            {"opts": ["would buy","will buy","would have bought"], "decode": ["würde-kaufen","werde-kaufen","hätte-gekauft"], "correct": 0},
+            " that new car."
+          ],
+          "solutionEn": "If I were you, I would buy that new car.",
+          "solutionDe": "Wenn ich du wäre, würde ich das neue Auto kaufen.",
+          "explain": "Typ II: feste Wendung If I were you (Ratschlag) → Hauptsatz would + Infinitiv."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex04",
+      "title": "First & Second Conditional: Lücken",
+      "source": "first-second-third-conditional.pdf – Presentation-Beispiele; Conditionals-Explained.pdf (unless)",
+      "type": "gap",
+      "instruction": "First oder Second Conditional? Wähle die richtige Form für die Lücke.",
+      "questions": [
+        {
+          "parts": [
+            "According to the weather forecast, it might rain tonight. If it ",
+            {"opts": ["rains","will rain","rained"], "decode": ["regnet","wird-regnen","regnete"], "correct": 0},
+            ", I'll stay at home."
+          ],
+          "solutionEn": "If it rains, I'll stay at home.",
+          "solutionDe": "Wenn es regnet, bleibe ich zu Hause.",
+          "explain": "Typ I (reale Möglichkeit): kein will im if-Satz! if + Present Simple, Hauptsatz mit will ('ll stay)."
+        },
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["don't call","won't call","didn't call"], "decode": ["nicht-anrufe","nicht-anrufen-werde","nicht-anrief"], "correct": 0},
+            " you tonight, you can call me."
+          ],
+          "solutionEn": "If I don't call you tonight, you can call me.",
+          "solutionDe": "Wenn ich dich heute Abend nicht anrufe, kannst du mich anrufen.",
+          "explain": "Typ I: if + Present Simple (verneint mit don't); im Hauptsatz statt will auch can."
+        },
+        {
+          "parts": [
+            "Will you wait for me if I ",
+            {"opts": ["am","will be","was"], "decode": ["bin","sein-werde","war"], "correct": 0},
+            " late?"
+          ],
+          "solutionEn": "Will you wait for me if I am late?",
+          "solutionDe": "Wirst du auf mich warten, wenn ich zu spät komme?",
+          "explain": "Typ I als Frage: will steht nur im Hauptsatz, im if-Satz Present Simple (am)."
+        },
+        {
+          "parts": [
+            "At the moment, it's raining. If it was sunny, I ",
+            {"opts": ["would go","will go","went"], "decode": ["würde-gehen","werde-gehen","ging"], "correct": 0},
+            " out."
+          ],
+          "solutionEn": "If it was sunny, I would go out.",
+          "solutionDe": "Im Moment regnet es. Wenn es sonnig wäre, würde ich rausgehen.",
+          "explain": "Typ II (Gegenteil der Realität): if + Past Simple, Hauptsatz would + Infinitiv. (Das Blatt schreibt was; bei be ist im if-Satz auch were üblich.)"
+        },
+        {
+          "parts": [
+            "What would you do if you ",
+            {"opts": ["found","find","will find"], "decode": ["fändest","findest","finden-wirst"], "correct": 0},
+            " a lot of money in the street?"
+          ],
+          "solutionEn": "What would you do if you found a lot of money in the street?",
+          "solutionDe": "Was würdest du tun, wenn du auf der Straße viel Geld fändest?",
+          "explain": "Typ II: if + Past Simple (found). Die Vergangenheitsform meint hier nichts Vergangenes, sondern eine vorgestellte Situation."
+        },
+        {
+          "parts": [
+            "If it wasn't dark outside, we ",
+            {"opts": ["could go","can go","will go"], "decode": ["könnten-gehen","können-gehen","werden-gehen"], "correct": 0},
+            " out."
+          ],
+          "solutionEn": "If it wasn't dark outside, we could go out.",
+          "solutionDe": "Wenn es draußen nicht dunkel wäre, könnten wir rausgehen.",
+          "explain": "Typ II: im Hauptsatz statt would auch could oder might."
+        },
+        {
+          "parts": [
+            "We are sure she will come. ",
+            {"opts": ["When","If","Unless"], "decode": ["wenn/sobald","falls","außer-wenn"], "correct": 0},
+            " she comes, I'll call you."
+          ],
+          "solutionEn": "When she comes, I'll call you.",
+          "solutionDe": "Wenn (sobald) sie kommt, rufe ich dich an.",
+          "explain": "Bei Dingen, die sicher passieren werden, steht when statt if (Struktur wie Typ I)."
+        },
+        {
+          "parts": [
+            "You don't get fit ",
+            {"opts": ["unless","if","when"], "decode": ["außer-wenn","wenn","sobald"], "correct": 0},
+            " you exercise regularly. (= if you don't exercise regularly)"
+          ],
+          "solutionEn": "You don't get fit unless you exercise regularly.",
+          "solutionDe": "Du wirst nicht fit, außer wenn du regelmäßig trainierst.",
+          "explain": "unless = if not (wenn nicht / außer wenn). Der Satz selbst ist hier ein Typ 0 (allgemeine Wahrheit)."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex05",
+      "title": "Third Conditional: Lücken",
+      "source": "third-conditional-british-english-teacher-B1-B2.pdf – Ex. 2 Part B (1–8, Teacher-Key)",
+      "type": "build",
+      "instruction": "Third Conditional: Wähle für jede Lücke die richtige Form (if + Past Perfect, Hauptsatz mit would have + Past Participle).",
+      "questions": [
+        {
+          "parts": [
+            "If I ",
+            {"opts": ["had studied","studied","would have studied"], "decode": ["gelernt-hätte","lernte","würde-gelernt-haben"], "correct": 0},
+            " harder, I ",
+            {"opts": ["would have passed","would pass","had passed"], "decode": ["hätte-bestanden","würde-bestehen","hatte-bestanden"], "correct": 0},
+            " the exam."
+          ],
+          "solutionEn": "If I had studied harder, I would have passed the exam.",
+          "solutionDe": "Wenn ich härter gelernt hätte, hätte ich die Prüfung bestanden.",
+          "explain": "Typ III (Vergangenheit, nicht passiert): if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "They ",
+            {"opts": ["wouldn't have gotten","wouldn't get","hadn't gotten"], "decode": ["hätten-sich-nicht-verirrt","würden-sich-nicht-verirren","hatten-sich-nicht-verirrt"], "correct": 0},
+            " lost if they ",
+            {"opts": ["had followed","followed","would have followed"], "decode": ["gefolgt-wären","folgten","würden-gefolgt-sein"], "correct": 0},
+            " the map."
+          ],
+          "solutionEn": "They wouldn't have gotten lost if they had followed the map.",
+          "solutionDe": "Sie hätten sich nicht verirrt, wenn sie der Karte gefolgt wären.",
+          "explain": "Typ III: Hauptsatz wouldn't have + Past Participle, if-Satz Past Perfect. would steht nie im if-Satz!"
+        },
+        {
+          "parts": [
+            "If she ",
+            {"opts": ["had asked","asked","would have asked"], "decode": ["gebeten-hätte","bat","würde-gebeten-haben"], "correct": 0},
+            " for help, someone ",
+            {"opts": ["would have assisted","would assist","had assisted"], "decode": ["hätte-geholfen","würde-helfen","hatte-geholfen"], "correct": 0},
+            " her."
+          ],
+          "solutionEn": "If she had asked for help, someone would have assisted her.",
+          "solutionDe": "Wenn sie um Hilfe gebeten hätte, hätte ihr jemand geholfen.",
+          "explain": "Typ III: unreale Vergangenheit (sie hat nicht gefragt) → if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "We ",
+            {"opts": ["would have attended","would attend","had attended"], "decode": ["hätten-besucht","würden-besuchen","hatten-besucht"], "correct": 0},
+            " the concert if we ",
+            {"opts": ["had bought","bought","would have bought"], "decode": ["gekauft-hätten","kauften","würden-gekauft-haben"], "correct": 0},
+            " tickets earlier."
+          ],
+          "solutionEn": "We would have attended the concert if we had bought tickets earlier.",
+          "solutionDe": "Wir hätten das Konzert besucht, wenn wir früher Karten gekauft hätten.",
+          "explain": "Typ III: Hauptsatz would have + Past Participle, if-Satz Past Perfect – der if-Satz kann auch hinten stehen (dann kein Komma)."
+        },
+        {
+          "parts": [
+            "If it ",
+            {"opts": ["hadn't rained","didn't rain","wouldn't have rained"], "decode": ["nicht-geregnet-hätte","nicht-regnete","würde-nicht-geregnet-haben"], "correct": 0},
+            " yesterday, we ",
+            {"opts": ["would have gone","would go","had gone"], "decode": ["wären-gegangen","würden-gehen","waren-gegangen"], "correct": 0},
+            " for a picnic."
+          ],
+          "solutionEn": "If it hadn't rained yesterday, we would have gone for a picnic.",
+          "solutionDe": "Wenn es gestern nicht geregnet hätte, hätten wir ein Picknick gemacht.",
+          "explain": "Typ III: Signalwort yesterday → Vergangenheit. if + Past Perfect (verneint: hadn't), Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "He ",
+            {"opts": ["would have been","would be","had been"], "decode": ["wäre-gewesen","wäre","war-gewesen"], "correct": 0},
+            " on time if his alarm clock ",
+            {"opts": ["hadn't broken","didn't break","wouldn't have broken"], "decode": ["nicht-kaputtgegangen-wäre","nicht-kaputtging","würde-nicht-kaputtgegangen-sein"], "correct": 0},
+            " down."
+          ],
+          "solutionEn": "He would have been on time if his alarm clock hadn't broken down.",
+          "solutionDe": "Er wäre pünktlich gewesen, wenn sein Wecker nicht kaputtgegangen wäre.",
+          "explain": "Typ III: Hauptsatz would have been, if-Satz Past Perfect (hadn't broken down)."
+        },
+        {
+          "parts": [
+            "If they ",
+            {"opts": ["hadn't missed","didn't miss","wouldn't have missed"], "decode": ["nicht-verpasst-hätten","nicht-verpassten","würden-nicht-verpasst-haben"], "correct": 0},
+            " the bus, they ",
+            {"opts": ["would have arrived","would arrive","had arrived"], "decode": ["wären-angekommen","würden-ankommen","waren-angekommen"], "correct": 0},
+            " on time."
+          ],
+          "solutionEn": "If they hadn't missed the bus, they would have arrived on time.",
+          "solutionDe": "Wenn sie den Bus nicht verpasst hätten, wären sie pünktlich angekommen.",
+          "explain": "Typ III: In Wirklichkeit haben sie den Bus verpasst → if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "She ",
+            {"opts": ["would have felt","would feel","had felt"], "decode": ["hätte-sich-gefühlt","würde-sich-fühlen","hatte-sich-gefühlt"], "correct": 0},
+            " better if she ",
+            {"opts": ["had taken","took","would have taken"], "decode": ["genommen-hätte","nahm","würde-genommen-haben"], "correct": 0},
+            " the medicine earlier."
+          ],
+          "solutionEn": "She would have felt better if she had taken the medicine earlier.",
+          "solutionDe": "Sie hätte sich besser gefühlt, wenn sie das Medikament früher genommen hätte.",
+          "explain": "Typ III: unreale Vergangenheit → Hauptsatz would have felt, if-Satz had taken (Past Perfect)."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex06",
+      "title": "Third Conditional: Nicks Pannentag",
+      "source": "third-conditional-british-english-teacher-B1-B2.pdf – Ex. 2 Part C (1–6, Teacher-Key)",
+      "type": "build",
+      "instruction": "Gestern hatte Nick viele Probleme. Baue zu jedem Problem den passenden Third-Conditional-Satz.",
+      "questions": [
+        {
+          "parts": [
+            "Problem: He was not able to use the internet. → If he ",
+            {"opts": ["had paid","paid","would have paid"], "decode": ["bezahlt-hätte","bezahlte","würde-bezahlt-haben"], "correct": 0},
+            " his internet bill, he ",
+            {"opts": ["would have been","would be","had been"], "decode": ["wäre-gewesen","wäre","war-gewesen"], "correct": 0},
+            " able to use the internet."
+          ],
+          "solutionEn": "If he had paid his internet bill, he would have been able to use the internet.",
+          "solutionDe": "Wenn er seine Internetrechnung bezahlt hätte, hätte er das Internet nutzen können.",
+          "explain": "Typ III: Die Vergangenheit lässt sich nicht mehr ändern → if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "Problem: He forgot his best friend's birthday. → If he ",
+            {"opts": ["had kept","kept","would have kept"], "decode": ["geführt-hätte","führte","würde-geführt-haben"], "correct": 0},
+            " a diary, he ",
+            {"opts": ["would have remembered","would remember","had remembered"], "decode": ["hätte-sich-erinnert","würde-sich-erinnern","hatte-sich-erinnert"], "correct": 0},
+            " his best friend's birthday."
+          ],
+          "solutionEn": "If he had kept a diary, he would have remembered his best friend's birthday.",
+          "solutionDe": "Wenn er einen Kalender geführt hätte, hätte er sich an den Geburtstag seines besten Freundes erinnert.",
+          "explain": "Typ III: nicht passierte Vergangenheit → if + Past Perfect (had kept), Hauptsatz would have remembered."
+        },
+        {
+          "parts": [
+            "Problem: His car broke down. → His car ",
+            {"opts": ["wouldn't have broken down","didn't break down","hadn't broken down"], "decode": ["wäre-nicht-kaputtgegangen","ging-nicht-kaputt","war-nicht-kaputtgegangen"], "correct": 0},
+            " if he ",
+            {"opts": ["had changed","changed","would have changed"], "decode": ["gewechselt-hätte","wechselte","würde-gewechselt-haben"], "correct": 0},
+            " the oil."
+          ],
+          "solutionEn": "His car wouldn't have broken down if he had changed the oil.",
+          "solutionDe": "Sein Auto wäre nicht kaputtgegangen, wenn er das Öl gewechselt hätte.",
+          "explain": "Typ III: Hauptsatz zuerst (wouldn't have + Past Participle), if-Satz mit Past Perfect dahinter."
+        },
+        {
+          "parts": [
+            "Problem: He ran out of coffee. → If he ",
+            {"opts": ["had done","did","would have done"], "decode": ["gemacht-hätte","machte","würde-gemacht-haben"], "correct": 0},
+            " some shopping, he ",
+            {"opts": ["wouldn't have run out","wouldn't run out","hadn't run out"], "decode": ["wäre-nicht-ausgegangen","würde-nicht-ausgehen","war-nicht-ausgegangen"], "correct": 0},
+            " of coffee."
+          ],
+          "solutionEn": "If he had done some shopping, he wouldn't have run out of coffee.",
+          "solutionDe": "Wenn er eingekauft hätte, wäre ihm der Kaffee nicht ausgegangen.",
+          "explain": "Typ III: if + Past Perfect (had done), Hauptsatz verneint: wouldn't have + Past Participle (run)."
+        },
+        {
+          "parts": [
+            "Problem: He was soaking wet. → If he ",
+            {"opts": ["had had","had","would have had"], "decode": ["gehabt-hätte","hatte","würde-gehabt-haben"], "correct": 0},
+            " an umbrella, he ",
+            {"opts": ["wouldn't have been","wouldn't be","hadn't been"], "decode": ["wäre-nicht-gewesen","wäre-nicht","war-nicht-gewesen"], "correct": 0},
+            " soaking wet."
+          ],
+          "solutionEn": "If he had had an umbrella, he wouldn't have been soaking wet.",
+          "solutionDe": "Wenn er einen Regenschirm gehabt hätte, wäre er nicht klatschnass gewesen.",
+          "explain": "Typ III: had had = Past Perfect von have (oft abgekürzt: if he'd had). Hauptsatz wouldn't have been."
+        },
+        {
+          "parts": [
+            "Problem: He got food poisoning in the evening. → If he ",
+            {"opts": ["had cooked","cooked","would have cooked"], "decode": ["gekocht-hätte","kochte","würde-gekocht-haben"], "correct": 0},
+            " his lunch properly, he ",
+            {"opts": ["wouldn't have got","wouldn't get","hadn't got"], "decode": ["hätte-nicht-bekommen","würde-nicht-bekommen","hatte-nicht-bekommen"], "correct": 0},
+            " food poisoning in the evening."
+          ],
+          "solutionEn": "If he had cooked his lunch properly, he wouldn't have got food poisoning in the evening.",
+          "solutionDe": "Wenn er sein Mittagessen richtig gekocht hätte, hätte er am Abend keine Lebensmittelvergiftung bekommen.",
+          "explain": "Typ III: if + Past Perfect (had cooked), Hauptsatz wouldn't have got (Past Participle von get)."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex07",
+      "title": "Third Conditional: Emmas verpasstes Konzert",
+      "source": "third-conditional-british-english-teacher-B1-B2.pdf – Ex. 3 Part B (1–4, Teacher-Key)",
+      "type": "build",
+      "instruction": "Emma hat ihren Wecker nicht kontrolliert, hat verschlafen, den Bus verpasst und das Konzert versäumt. Vervollständige die Sätze über ihren Tag im Third Conditional.",
+      "questions": [
+        {
+          "parts": [
+            "If Emma ",
+            {"opts": ["had checked","checked","would have checked"], "decode": ["kontrolliert-hätte","kontrollierte","würde-kontrolliert-haben"], "correct": 0},
+            " her alarm the night before, she ",
+            {"opts": ["would have woken up","would wake up","had woken up"], "decode": ["wäre-aufgewacht","würde-aufwachen","war-aufgewacht"], "correct": 0},
+            " on time."
+          ],
+          "solutionEn": "If Emma had checked her alarm the night before, she would have woken up on time.",
+          "solutionDe": "Wenn Emma am Abend davor ihren Wecker kontrolliert hätte, wäre sie rechtzeitig aufgewacht.",
+          "explain": "Typ III: Sie hat den Wecker nicht kontrolliert (Vergangenheit, nicht passiert) → if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "If Emma ",
+            {"opts": ["had woken up","woke up","would have woken up"], "decode": ["aufgewacht-wäre","aufwachte","würde-aufgewacht-sein"], "correct": 0},
+            " on time, she ",
+            {"opts": ["would have caught","would catch","had caught"], "decode": ["hätte-erwischt","würde-erwischen","hatte-erwischt"], "correct": 0},
+            " the bus."
+          ],
+          "solutionEn": "If Emma had woken up on time, she would have caught the bus.",
+          "solutionDe": "Wenn Emma rechtzeitig aufgewacht wäre, hätte sie den Bus erwischt.",
+          "explain": "Typ III: if + Past Perfect (had woken up), Hauptsatz would have caught."
+        },
+        {
+          "parts": [
+            "If Emma ",
+            {"opts": ["had caught","caught","would have caught"], "decode": ["erwischt-hätte","erwischte","würde-erwischt-haben"], "correct": 0},
+            " the bus, she ",
+            {"opts": ["would have arrived","would arrive","had arrived"], "decode": ["wäre-angekommen","würde-ankommen","war-angekommen"], "correct": 0},
+            " at the concert on time with her friends."
+          ],
+          "solutionEn": "If Emma had caught the bus, she would have arrived at the concert on time with her friends.",
+          "solutionDe": "Wenn Emma den Bus erwischt hätte, wäre sie mit ihren Freunden rechtzeitig beim Konzert angekommen.",
+          "explain": "Typ III: Kette von unrealen Vergangenheits-Bedingungen → if + Past Perfect, Hauptsatz would have + Past Participle."
+        },
+        {
+          "parts": [
+            "If Emma ",
+            {"opts": ["had set","set","would have set"], "decode": ["gestellt-hätte","stellte","würde-gestellt-haben"], "correct": 0},
+            " her alarm correctly, she ",
+            {"opts": ["would not have missed","would not miss","had not missed"], "decode": ["hätte-nicht-versäumt","würde-nicht-versäumen","hatte-nicht-versäumt"], "correct": 0},
+            " the concert."
+          ],
+          "solutionEn": "If Emma had set her alarm correctly, she would not have missed the concert.",
+          "solutionDe": "Wenn Emma ihren Wecker richtig gestellt hätte, hätte sie das Konzert nicht versäumt.",
+          "explain": "Typ III: if + Past Perfect (had set), Hauptsatz verneint: would not have missed."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex08",
+      "title": "Welcher Typ ist das?",
+      "source": "Beispielsätze aus allen Arbeitsblättern – Typ bestimmen",
+      "type": "mc",
+      "instruction": "Welcher Conditional-Typ ist das? Schau auf die Zeitformen im if-Satz und im Hauptsatz.",
+      "questions": [
+        {
+          "parts": [
+            "“If you strike a match, it starts burning.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 0}
+          ],
+          "solutionEn": "Type 0: If you strike a match, it starts burning.",
+          "solutionDe": "Typ 0 – Wenn man ein Streichholz anreißt, beginnt es zu brennen (immer wahr).",
+          "explain": "Beide Teile Present Simple (strike / starts) → Typ 0: allgemein gültige Tatsache."
+        },
+        {
+          "parts": [
+            "“If we learn Japanese, we will be able to communicate with people in Japan.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 1}
+          ],
+          "solutionEn": "Type I: If we learn Japanese, we will be able to communicate with people in Japan.",
+          "solutionDe": "Typ I – Wenn wir Japanisch lernen, werden wir mit Leuten in Japan kommunizieren können.",
+          "explain": "if-Satz Present Simple (learn), Hauptsatz will + Infinitiv → Typ I: reale Möglichkeit in der Zukunft."
+        },
+        {
+          "parts": [
+            "“If you sent her a message, she would be happy.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 2}
+          ],
+          "solutionEn": "Type II: If you sent her a message, she would be happy.",
+          "solutionDe": "Typ II – Wenn du ihr eine Nachricht schicktest, würde sie sich freuen.",
+          "explain": "if-Satz Past Simple (sent), Hauptsatz would + Infinitiv → Typ II: bloße Annahme."
+        },
+        {
+          "parts": [
+            "“If I hadn't broken my leg, I would have gone skiing.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 3}
+          ],
+          "solutionEn": "Type III: If I hadn't broken my leg, I would have gone skiing.",
+          "solutionDe": "Typ III – Wenn ich mir nicht das Bein gebrochen hätte, wäre ich Ski fahren gegangen.",
+          "explain": "if-Satz Past Perfect (hadn't broken), Hauptsatz would have + Past Participle → Typ III: Vergangenheit, nicht mehr änderbar."
+        },
+        {
+          "parts": [
+            "“Get ready if you want to catch the bus!” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 1}
+          ],
+          "solutionEn": "Type I: Get ready if you want to catch the bus!",
+          "solutionDe": "Typ I – Mach dich fertig, wenn du den Bus erwischen willst!",
+          "explain": "if-Satz Present Simple (want), Hauptsatz Imperativ (Get ready!) → Typ I: Im Hauptsatz ist auch ein Befehl möglich."
+        },
+        {
+          "parts": [
+            "“It would be nice if we went to see Granny at the weekend.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 2}
+          ],
+          "solutionEn": "Type II: It would be nice if we went to see Granny at the weekend.",
+          "solutionDe": "Typ II – Es wäre schön, wenn wir am Wochenende Oma besuchen würden.",
+          "explain": "Hauptsatz would + Infinitiv (would be), if-Satz Past Simple (went) → Typ II. Der if-Satz darf auch hinten stehen."
+        },
+        {
+          "parts": [
+            "“I would have said hello if I had seen you.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 3}
+          ],
+          "solutionEn": "Type III: I would have said hello if I had seen you.",
+          "solutionDe": "Typ III – Ich hätte Hallo gesagt, wenn ich dich gesehen hätte.",
+          "explain": "Hauptsatz would have + Past Participle (said), if-Satz Past Perfect (had seen) → Typ III: unreale Vergangenheit."
+        },
+        {
+          "parts": [
+            "“If you want to study in the USA, you have to pass an exam in English.” → ",
+            {"opts": ["Typ 0","Typ I","Typ II","Typ III"], "decode": ["immer-wahr","reale-Zukunft","bloße-Annahme","unmögliche-Vergangenheit"], "correct": 0}
+          ],
+          "solutionEn": "Type 0: If you want to study in the USA, you have to pass an exam in English.",
+          "solutionDe": "Typ 0 – Wenn man in den USA studieren will, muss man eine Englischprüfung bestehen (Regel).",
+          "explain": "Beide Teile Present Simple (want / have to pass) → Typ 0: beschreibt eine feste Regel."
+        }
+      ]
+    },
+    {
+      "id": "cond_ex09",
+      "title": "Typ umformen",
+      "source": "Zusatztraining – Umformen (Sätze aus den Arbeitsblättern)",
+      "type": "build",
+      "instruction": "Forme den Satz in den angegebenen Typ um – gleicher Inhalt, andere Zeitstufe.",
+      "questions": [
+        {
+          "parts": [
+            "Typ I: “If I pass my exam, I will celebrate.” → Typ II: If I ",
+            {"opts": ["passed","pass","had passed"], "decode": ["bestünde","bestehe","bestanden-hätte"], "correct": 0},
+            " my exam, I ",
+            {"opts": ["would celebrate","will celebrate","would have celebrated"], "decode": ["würde-feiern","werde-feiern","hätte-gefeiert"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "If I passed my exam, I would celebrate.",
+          "solutionDe": "Wenn ich meine Prüfung bestünde, würde ich feiern.",
+          "explain": "Typ I → Typ II: Present Simple → Past Simple (pass → passed), will → would."
+        },
+        {
+          "parts": [
+            "Typ II: “If I had the money, I would pay my debts.” → Typ III: If I ",
+            {"opts": ["had had","had","would have had"], "decode": ["gehabt-hätte","hätte","würde-gehabt-haben"], "correct": 0},
+            " the money, I ",
+            {"opts": ["would have paid","would pay","had paid"], "decode": ["hätte-bezahlt","würde-bezahlen","hatte-bezahlt"], "correct": 0},
+            " my debts."
+          ],
+          "solutionEn": "If I had had the money, I would have paid my debts.",
+          "solutionDe": "Wenn ich das Geld gehabt hätte, hätte ich meine Schulden bezahlt.",
+          "explain": "Typ II → Typ III: Past Simple → Past Perfect (had → had had), would → would have + Past Participle."
+        },
+        {
+          "parts": [
+            "Typ I: “If it rains, I will stay at home.” → Typ III: If it ",
+            {"opts": ["had rained","rained","would have rained"], "decode": ["geregnet-hätte","regnete","würde-geregnet-haben"], "correct": 0},
+            ", I ",
+            {"opts": ["would have stayed","would stay","will stay"], "decode": ["wäre-geblieben","würde-bleiben","werde-bleiben"], "correct": 0},
+            " at home."
+          ],
+          "solutionEn": "If it had rained, I would have stayed at home.",
+          "solutionDe": "Wenn es geregnet hätte, wäre ich zu Hause geblieben.",
+          "explain": "Typ I → Typ III: Die Bedingung wandert in die Vergangenheit: rains → had rained, will stay → would have stayed."
+        },
+        {
+          "parts": [
+            "Typ II: “If I were you, I would buy that new car.” → Typ III: If I ",
+            {"opts": ["had been","were","would have been"], "decode": ["gewesen-wäre","wäre","würde-gewesen-sein"], "correct": 0},
+            " you, I ",
+            {"opts": ["would have bought","would buy","had bought"], "decode": ["hätte-gekauft","würde-kaufen","hatte-gekauft"], "correct": 0},
+            " that new car."
+          ],
+          "solutionEn": "If I had been you, I would have bought that new car.",
+          "solutionDe": "Wenn ich du gewesen wäre, hätte ich das neue Auto gekauft.",
+          "explain": "Typ II → Typ III: were → had been (Past Perfect), would buy → would have bought."
+        },
+        {
+          "parts": [
+            "Typ III: “If I had studied more, I would have passed the exam.” → Typ II (jetzt allgemein): If I ",
+            {"opts": ["studied","had studied","study"], "decode": ["lernte","gelernt-hätte","lerne"], "correct": 0},
+            " more, I ",
+            {"opts": ["would pass","would have passed","will pass"], "decode": ["würde-bestehen","hätte-bestanden","werde-bestehen"], "correct": 0},
+            " the exam."
+          ],
+          "solutionEn": "If I studied more, I would pass the exam.",
+          "solutionDe": "Wenn ich mehr lernte, würde ich die Prüfung bestehen.",
+          "explain": "Typ III → Typ II: aus der unrealen Vergangenheit wird eine Annahme über die Gegenwart: had studied → studied, would have passed → would pass."
+        },
+        {
+          "parts": [
+            "Typ I: “If we save enough money, we can go on holiday.” → Typ II: If we ",
+            {"opts": ["saved","save","had saved"], "decode": ["sparten","sparen","gespart-hätten"], "correct": 0},
+            " enough money, we ",
+            {"opts": ["could go","can go","could have gone"], "decode": ["könnten-fahren","können-fahren","hätten-fahren-können"], "correct": 0},
+            " on holiday."
+          ],
+          "solutionEn": "If we saved enough money, we could go on holiday.",
+          "solutionDe": "Wenn wir genug Geld sparten, könnten wir auf Urlaub fahren.",
+          "explain": "Typ I → Typ II: save → saved (Past Simple), can → could. Modalverben wandern mit der Zeitstufe."
+        }
+      ]
+    }
+  ]
+}

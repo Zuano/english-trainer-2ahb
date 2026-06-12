@@ -1,0 +1,559 @@
+{
+  "id": "reported",
+  "title": "Reported Speech",
+  "icon": "💬",
+  "phase": 1,
+  "birkenbihl": [
+    {
+      "id": "rep_t1",
+      "title": "Aussagesätze – Beispielsätze (mit Backshift)",
+      "sentences": [
+        {
+          "id": "rep_t1_s01",
+          "en": "Sally said that she walked the dog every day.",
+          "decode": [["Sally","Sally"],["said","sagte"],["that","dass"],["she","sie"],["walked","ausführte"],["the","den"],["dog","Hund"],["every","jeden"],["day.","Tag."]],
+          "de": "(Direkt: 'I walk the dog every day.') Sally sagte, dass sie jeden Tag den Hund ausführe."
+        },
+        {
+          "id": "rep_t1_s02",
+          "en": "Sally told me that she was walking the dog.",
+          "decode": [["Sally","Sally"],["told","erzählte"],["me","mir"],["that","dass"],["she","sie"],["was walking","gerade-ausführte"],["the","den"],["dog.","Hund."]],
+          "de": "(Direkt: 'I am walking the dog.') Sally erzählte mir, dass sie gerade den Hund ausführe."
+        },
+        {
+          "id": "rep_t1_s03",
+          "en": "Sally mentioned that she would walk the dog every day.",
+          "decode": [["Sally","Sally"],["mentioned","erwähnte"],["that","dass"],["she","sie"],["would walk","ausführen-würde"],["the","den"],["dog","Hund"],["every","jeden"],["day.","Tag."]],
+          "de": "(Direkt: 'I will walk the dog every day.') Sally erwähnte, dass sie den Hund jeden Tag ausführen würde."
+        },
+        {
+          "id": "rep_t1_s04",
+          "en": "Sally answered that she had walked the dog the night before.",
+          "decode": [["Sally","Sally"],["answered","antwortete"],["that","dass"],["she","sie"],["had walked","ausgeführt-hatte"],["the","den"],["dog","Hund"],["the night before.","am-Abend-davor."]],
+          "de": "(Direkt: 'I walked the dog last night.') Sally antwortete, dass sie den Hund am Abend davor ausgeführt habe."
+        },
+        {
+          "id": "rep_t1_s05",
+          "en": "Sally said that she had walked the dog that day.",
+          "decode": [["Sally","Sally"],["said","sagte"],["that","dass"],["she","sie"],["had walked","ausgeführt-hatte"],["the","den"],["dog","Hund"],["that day.","an-jenem-Tag."]],
+          "de": "(Direkt: 'I have walked the dog today.') Sally sagte, dass sie den Hund an jenem Tag ausgeführt habe."
+        },
+        {
+          "id": "rep_t1_s06",
+          "en": "Peter said that he was at home.",
+          "decode": [["Peter","Peter"],["said","sagte"],["that","dass"],["he","er"],["was","war"],["at","zu"],["home.","Hause."]],
+          "de": "(Direkt: 'I'm at home.') Peter sagte, dass er zu Hause sei."
+        },
+        {
+          "id": "rep_t1_s07",
+          "en": "Omar said that he had never been to China.",
+          "decode": [["Omar","Omar"],["said","sagte"],["that","dass"],["he","er"],["had","war"],["never","nie"],["been","gewesen"],["to","in"],["China.","China."]],
+          "de": "(Direkt: 'I've never been to China.') Omar sagte, dass er noch nie in China gewesen sei."
+        },
+        {
+          "id": "rep_t1_s08",
+          "en": "Daniel said that he couldn't speak French.",
+          "decode": [["Daniel","Daniel"],["said","sagte"],["that","dass"],["he","er"],["couldn't","nicht-konnte"],["speak","sprechen"],["French.","Französisch."]],
+          "de": "(Direkt: 'I can't speak French.') Daniel sagte, dass er kein Französisch sprechen könne."
+        }
+      ]
+    },
+    {
+      "id": "rep_t2",
+      "title": "Fragen und Aufforderungen – Beispielsätze",
+      "sentences": [
+        {
+          "id": "rep_t2_s01",
+          "en": "The policeman asked the man where he had parked the car.",
+          "decode": [["The","Der"],["policeman","Polizist"],["asked","fragte"],["the","den"],["man","Mann"],["where","wo"],["he","er"],["had parked","geparkt-hatte"],["the","das"],["car.","Auto."]],
+          "de": "(Direkt: 'Where did you park the car?') Der Polizist fragte den Mann, wo er das Auto geparkt habe."
+        },
+        {
+          "id": "rep_t2_s02",
+          "en": "The policeman asked the man whether it was his car.",
+          "decode": [["The","Der"],["policeman","Polizist"],["asked","fragte"],["the","den"],["man","Mann"],["whether","ob"],["it","es"],["was","war"],["his","sein"],["car.","Auto."]],
+          "de": "(Direkt: 'Is this your car?') Der Polizist fragte den Mann, ob es sein Auto sei."
+        },
+        {
+          "id": "rep_t2_s03",
+          "en": "She asked if I was tired.",
+          "decode": [["She","Sie"],["asked","fragte"],["if","ob"],["I","ich"],["was","war"],["tired.","müde."]],
+          "de": "(Direkt: 'Are you tired?') Sie fragte, ob ich müde sei."
+        },
+        {
+          "id": "rep_t2_s04",
+          "en": "Billy asked his brother to take him to the movies.",
+          "decode": [["Billy","Billy"],["asked","bat"],["his","seinen"],["brother","Bruder"],["to take","zu-bringen"],["him","ihn"],["to the movies.","ins-Kino."]],
+          "de": "(Direkt: 'Could you take me to the movies?') Billy bat seinen Bruder, ihn ins Kino zu bringen."
+        },
+        {
+          "id": "rep_t2_s05",
+          "en": "Jenny told Michael to hurry up.",
+          "decode": [["Jenny","Jenny"],["told","sagte"],["Michael","Michael"],["to hurry up.","sich-zu-beeilen."]],
+          "de": "(Direkt: 'Hurry up!') Jenny sagte Michael, er solle sich beeilen."
+        },
+        {
+          "id": "rep_t2_s06",
+          "en": "Jenny told Michael not to shout that way.",
+          "decode": [["Jenny","Jenny"],["told","sagte"],["Michael","Michael"],["not","nicht"],["to shout","zu-schreien"],["that way.","auf-diese-Art."]],
+          "de": "(Direkt: 'Don't shout like that!') Jenny sagte Michael, er solle nicht so schreien."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rep_ex01",
+      "title": "Martins Ausreden – direkte → indirekte Rede",
+      "source": "reported-speech student B1-B2 – Practice: Dialogues 1–8",
+      "type": "build",
+      "instruction": "Martin hat Daniella letzte Woche etwas anderes erzählt. Baue Daniellas Antwort in der indirekten Rede.",
+      "questions": [
+        {
+          "parts": [
+            "Letzte Woche: \"I have my own business.\" – Jetzt: \"My boss gave me a promotion today!\" → Daniella: But I thought you said ",
+            {"opts": ["you had", "you have", "I had"], "decode": ["du hattest", "du hast", "ich hatte"], "correct": 0},
+            " your own business."
+          ],
+          "solutionEn": "But I thought you said you had your own business.",
+          "solutionDe": "Aber ich dachte, du hättest gesagt, du hättest eine eigene Firma.",
+          "explain": "Backshift: have (Present Simple) → had (Past Simple); Pronomen I → you, weil Daniella Martin direkt anspricht."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I've travelled all over the world.\" – Jetzt: \"I've never been to China.\" → Daniella: But I thought you told me ",
+            {"opts": ["you had travelled", "you have travelled", "you travelled"], "decode": ["du warst gereist", "du bist gereist", "du reistest"], "correct": 0},
+            " all over the world."
+          ],
+          "solutionEn": "But I thought you told me you had travelled all over the world.",
+          "solutionDe": "Aber ich dachte, du hättest mir erzählt, du seist um die ganze Welt gereist.",
+          "explain": "Backshift: have travelled (Present Perfect) → had travelled (Past Perfect)."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I have a Mercedes.\" – Jetzt: \"I take the train to work every day.\" → Daniella: But didn't you say ",
+            {"opts": ["you had", "you have", "you would have"], "decode": ["du hattest", "du hast", "du hättest"], "correct": 0},
+            " a Mercedes?"
+          ],
+          "solutionEn": "But didn't you say you had a Mercedes?",
+          "solutionDe": "Aber hast du nicht gesagt, du hättest einen Mercedes?",
+          "explain": "Backshift: have → had (Present → Past). Der Einleitungssatz (didn't you say) steht im Past."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I don't drink alcohol.\" – Jetzt: \"Let's go for a beer tomorrow evening.\" → Daniella: But you said ",
+            {"opts": ["you didn't drink", "you don't drink", "you hadn't drunk"], "decode": ["du trankst nicht", "du trinkst nicht", "du hattest nicht getrunken"], "correct": 0},
+            " alcohol."
+          ],
+          "solutionEn": "But you said you didn't drink alcohol.",
+          "solutionDe": "Aber du hast gesagt, du trinkst keinen Alkohol.",
+          "explain": "Backshift: don't drink (Present Simple) → didn't drink (Past Simple). Past Perfect wäre eine Stufe zu viel."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I can speak French fluently.\" – Jetzt: \"The waiters refused to speak English!\" → Daniella: But I thought you said ",
+            {"opts": ["you could speak", "you can speak", "you would speak"], "decode": ["du konntest sprechen", "du kannst sprechen", "du würdest sprechen"], "correct": 0},
+            " French fluently."
+          ],
+          "solutionEn": "But I thought you said you could speak French fluently.",
+          "solutionDe": "Aber ich dachte, du hättest gesagt, du könntest fließend Französisch sprechen.",
+          "explain": "Modalverb-Backshift: can → could."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I live alone.\" – Jetzt: \"Sorry, I have to answer the phone. It's my flatmate.\" → Daniella: But you told me ",
+            {"opts": ["you lived", "you live", "you had lived"], "decode": ["du wohntest", "du wohnst", "du hattest gewohnt"], "correct": 0},
+            " alone."
+          ],
+          "solutionEn": "But you told me you lived alone.",
+          "solutionDe": "Aber du hast mir erzählt, du wohnst allein.",
+          "explain": "Backshift: live → lived (Present → Past Simple). tell braucht ein Objekt: you told ME."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I'm going to Miami this summer.\" – Jetzt: \"I'm going to stay at home this summer.\" → Daniella: But didn't you say ",
+            {"opts": ["you were going", "you are going", "you had gone"], "decode": ["du würdest fahren", "du fährst", "du warst gefahren"], "correct": 0},
+            " to Miami this summer?"
+          ],
+          "solutionEn": "But didn't you say you were going to Miami this summer?",
+          "solutionDe": "Aber hast du nicht gesagt, du würdest diesen Sommer nach Miami fahren?",
+          "explain": "Backshift: are going (Present Progressive) → were going (Past Progressive). 'this summer' bleibt, weil es noch derselbe Sommer ist."
+        },
+        {
+          "parts": [
+            "Letzte Woche: \"I won't forget your name.\" – Jetzt: \"It was nice to see you again, Maria.\" → Daniella: It's Daniella! I thought you said ",
+            {"opts": ["you wouldn't forget", "you won't forget", "you didn't forget"], "decode": ["du würdest nicht vergessen", "du wirst nicht vergessen", "du vergaßest nicht"], "correct": 0},
+            " ",
+            {"opts": ["my", "your", "her"], "decode": ["meinen", "deinen", "ihren"], "correct": 0},
+            " name."
+          ],
+          "solutionEn": "I thought you said you wouldn't forget my name.",
+          "solutionDe": "Ich dachte, du hättest gesagt, du würdest meinen Namen nicht vergessen.",
+          "explain": "Backshift: won't → wouldn't; Pronomen: your name → my name (aus Daniellas Sicht)."
+        }
+      ]
+    },
+    {
+      "id": "rep_ex02",
+      "title": "Backshift nur wenn nötig",
+      "source": "reported-speech student B1-B2 – Practice: Reported statements 1–6",
+      "type": "gap",
+      "instruction": "Verändere die Zeit NUR, wenn es nötig ist. Achte auf die Zeitangabe im Satz!",
+      "questions": [
+        {
+          "parts": [
+            "Joe said, \"I'm going away this week.\" → Joe said he ",
+            {"opts": ["was going away", "is going away", "had gone away"], "decode": ["war am Wegfahren", "ist am Wegfahren", "war weggefahren"], "correct": 0},
+            " that week."
+          ],
+          "solutionEn": "Joe said he was going away that week.",
+          "solutionDe": "Joe sagte, er verreise in jener Woche.",
+          "explain": "'that week' (statt 'this week') zeigt: Die Woche ist vorbei → Backshift: am going → was going."
+        },
+        {
+          "parts": [
+            "The athlete said, \"I will win the race tomorrow.\" → The athlete said he ",
+            {"opts": ["will win the race", "would win the race", "won the race"], "decode": ["wird das Rennen gewinnen", "würde das Rennen gewinnen", "gewann das Rennen"], "correct": 0},
+            " tomorrow."
+          ],
+          "solutionEn": "The athlete said he will win the race tomorrow.",
+          "solutionDe": "Der Athlet sagte, er wird das Rennen morgen gewinnen.",
+          "explain": "'tomorrow' bleibt im Satz → das Rennen ist immer noch morgen, die Situation ist unverändert → KEIN Backshift. 'would win' wäre nur richtig, wenn aus tomorrow 'the next day' würde."
+        },
+        {
+          "parts": [
+            "The news reporter said, \"People have been protesting in the streets today.\" → The news reporter said people ",
+            {"opts": ["had been protesting", "have been protesting", "were protested"], "decode": ["hatten protestiert", "haben protestiert", "wurden protestiert"], "correct": 0},
+            " in the streets that day."
+          ],
+          "solutionEn": "The news reporter said people had been protesting in the streets that day.",
+          "solutionDe": "Der Reporter sagte, die Menschen hätten an jenem Tag auf den Straßen protestiert.",
+          "explain": "'that day' → Situation vorbei → Backshift: Present Perfect Progressive → Past Perfect Progressive."
+        },
+        {
+          "parts": [
+            "The director said, \"The company will continue to grow next year.\" → The director said the company ",
+            {"opts": ["will continue to grow", "would continue to grow", "continued to grow"], "decode": ["wird weiter wachsen", "würde weiter wachsen", "wuchs weiter"], "correct": 0},
+            " next year."
+          ],
+          "solutionEn": "The director said the company will continue to grow next year.",
+          "solutionDe": "Der Direktor sagte, die Firma wird nächstes Jahr weiter wachsen.",
+          "explain": "'next year' bleibt → die Aussage gilt noch → KEIN Backshift nötig."
+        },
+        {
+          "parts": [
+            "Last year, the doctor said, \"You need to rest more.\" → Last year, the doctor told me I ",
+            {"opts": ["needed to rest more", "need to rest more", "had needed to rest more"], "decode": ["müsse mich mehr ausruhen", "muss mich mehr ausruhen", "hatte mich mehr ausruhen müssen"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "Last year, the doctor told me I needed to rest more.",
+          "solutionDe": "Letztes Jahr sagte mir der Arzt, ich müsse mich mehr ausruhen.",
+          "explain": "'Last year' → liegt lange zurück → Backshift: need → needed. Pronomen: you → I."
+        },
+        {
+          "parts": [
+            "The president said, \"I won't lose the election.\" → The president said he ",
+            {"opts": ["wouldn't lose the election", "won't lose the election", "didn't lose the election"], "decode": ["würde die Wahl nicht verlieren", "wird die Wahl nicht verlieren", "verlor die Wahl nicht"], "correct": 0},
+            ", but he did."
+          ],
+          "solutionEn": "The president said he wouldn't lose the election, but he did.",
+          "solutionDe": "Der Präsident sagte, er würde die Wahl nicht verlieren – aber er hat sie verloren.",
+          "explain": "'but he did' → die Situation hat sich geändert (er hat doch verloren) → Backshift: won't → wouldn't."
+        }
+      ]
+    },
+    {
+      "id": "rep_ex03",
+      "title": "Zeitverschiebung – der Backshift-Trainer",
+      "source": "Grammatik-Blätter (Klett + mein-lernen.at)",
+      "type": "gap",
+      "instruction": "Der Einleitungssatz steht im Past – wähle die richtige Zeitform für die indirekte Rede.",
+      "questions": [
+        {
+          "parts": [
+            "Present Simple: She said, \"I drink a coke.\" → She said that she ",
+            {"opts": ["drank", "drinks", "had drunk"], "decode": ["trank", "trinkt", "hatte getrunken"], "correct": 0},
+            " a coke."
+          ],
+          "solutionEn": "She said that she drank a coke.",
+          "solutionDe": "Sie sagte, dass sie eine Cola trinke.",
+          "explain": "Present Simple → Past Simple (drink → drank)."
+        },
+        {
+          "parts": [
+            "Present Progressive: Sally said, \"I am walking the dog.\" → Sally said that she ",
+            {"opts": ["was walking", "is walking", "walked"], "decode": ["führte gerade aus", "führt gerade aus", "führte aus"], "correct": 0},
+            " the dog."
+          ],
+          "solutionEn": "Sally said that she was walking the dog.",
+          "solutionDe": "Sally sagte, dass sie gerade den Hund ausführe.",
+          "explain": "Present Progressive → Past Progressive (am walking → was walking)."
+        },
+        {
+          "parts": [
+            "Past Simple: She said, \"I drank a coke.\" → She said that she ",
+            {"opts": ["had drunk", "drank", "has drunk"], "decode": ["hatte getrunken", "trank", "hat getrunken"], "correct": 0},
+            " a coke."
+          ],
+          "solutionEn": "She said that she had drunk a coke.",
+          "solutionDe": "Sie sagte, dass sie eine Cola getrunken habe.",
+          "explain": "Past Simple → Past Perfect (drank → had drunk)."
+        },
+        {
+          "parts": [
+            "Present Perfect: She said, \"I have drunk a coke.\" → She said that she ",
+            {"opts": ["had drunk", "has drunk", "drank"], "decode": ["hatte getrunken", "hat getrunken", "trank"], "correct": 0},
+            " a coke."
+          ],
+          "solutionEn": "She said that she had drunk a coke.",
+          "solutionDe": "Sie sagte, dass sie eine Cola getrunken habe.",
+          "explain": "Present Perfect → Past Perfect (have drunk → had drunk)."
+        },
+        {
+          "parts": [
+            "will-Future: She said, \"I will drink a coke.\" → She said that she ",
+            {"opts": ["would drink", "will drink", "would drank"], "decode": ["würde trinken", "wird trinken", "würde trank"], "correct": 0},
+            " a coke."
+          ],
+          "solutionEn": "She said that she would drink a coke.",
+          "solutionDe": "Sie sagte, dass sie eine Cola trinken würde.",
+          "explain": "will → would; nach would steht immer der Infinitiv (drink, nicht drank)."
+        },
+        {
+          "parts": [
+            "going-to-Future: She said, \"I am going to drink a coke.\" → She said that she ",
+            {"opts": ["was going to drink", "is going to drink", "had gone to drink"], "decode": ["würde trinken", "wird gleich trinken", "war trinken gegangen"], "correct": 0},
+            " a coke."
+          ],
+          "solutionEn": "She said that she was going to drink a coke.",
+          "solutionDe": "Sie sagte, dass sie eine Cola trinken werde.",
+          "explain": "going-to-Future: am/is going to → was/were going to."
+        },
+        {
+          "parts": [
+            "Modalverb can: Tom said, \"I can help you.\" → Tom said that he ",
+            {"opts": ["could help", "can help", "could helped"], "decode": ["könne helfen", "kann helfen", "könnte half"], "correct": 0},
+            " me."
+          ],
+          "solutionEn": "Tom said that he could help me.",
+          "solutionDe": "Tom sagte, dass er mir helfen könne.",
+          "explain": "Modalverb: can → could; Pronomen: I → he, you → me."
+        },
+        {
+          "parts": [
+            "Modalverb may: She said, \"I may be late.\" → She said that she ",
+            {"opts": ["might be", "may be", "might was"], "decode": ["könnte sein", "kann sein", "könnte war"], "correct": 0},
+            " late."
+          ],
+          "solutionEn": "She said that she might be late.",
+          "solutionDe": "Sie sagte, dass sie vielleicht zu spät kommen könnte.",
+          "explain": "Modalverb: may → might."
+        },
+        {
+          "parts": [
+            "Fakten: He said, \"The Rhine flows through Vorarlberg.\" → He said that the Rhine ",
+            {"opts": ["flows", "flowed", "had flowed"], "decode": ["fließt", "floss", "war geflossen"], "correct": 0},
+            " through Vorarlberg."
+          ],
+          "solutionEn": "He said that the Rhine flows through Vorarlberg.",
+          "solutionDe": "Er sagte, dass der Rhein durch Vorarlberg fließt.",
+          "explain": "Allgemeine Fakten und Wahrheiten: KEINE Zeitverschiebung nötig."
+        },
+        {
+          "parts": [
+            "Einleitungssatz im Present: Frank says, \"Mary buys new shoes.\" → Frank says that Mary ",
+            {"opts": ["buys", "bought", "had bought"], "decode": ["kauft", "kaufte", "hatte gekauft"], "correct": 0},
+            " new shoes."
+          ],
+          "solutionEn": "Frank says that Mary buys new shoes.",
+          "solutionDe": "Frank sagt, dass Mary neue Schuhe kauft.",
+          "explain": "Einleitungsverb im Present/Present Perfect/Future (says) → KEIN Backshift."
+        }
+      ]
+    },
+    {
+      "id": "rep_ex04",
+      "title": "Zeit- und Ortsangaben",
+      "source": "Grammatik-Blätter (Klett + mein-lernen.at)",
+      "type": "mc",
+      "instruction": "Wähle die richtige Zeit- bzw. Ortsangabe für die indirekte Rede.",
+      "questions": [
+        {
+          "parts": [
+            "\"I am busy now,\" she said. → She said she was busy ",
+            {"opts": ["then", "now", "today"], "decode": ["dann/da", "jetzt", "heute"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "She said she was busy then.",
+          "solutionDe": "Sie sagte, sie sei da gerade beschäftigt.",
+          "explain": "now → then."
+        },
+        {
+          "parts": [
+            "\"I saw him yesterday,\" Tom said. → Tom said he had seen him ",
+            {"opts": ["the day before", "yesterday", "the next day"], "decode": ["am Tag davor", "gestern", "am nächsten Tag"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "Tom said he had seen him the day before.",
+          "solutionDe": "Tom sagte, er habe ihn am Tag davor gesehen.",
+          "explain": "yesterday → the day before / the previous day; außerdem Backshift saw → had seen."
+        },
+        {
+          "parts": [
+            "\"We will meet tomorrow,\" they said. → They said they would meet ",
+            {"opts": ["the next day", "tomorrow", "the last day"], "decode": ["am nächsten Tag", "morgen", "am letzten Tag"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "They said they would meet the next day.",
+          "solutionDe": "Sie sagten, sie würden sich am nächsten Tag treffen.",
+          "explain": "tomorrow → the next day / the following day."
+        },
+        {
+          "parts": [
+            "\"I like it here,\" Ann said. → Ann said she liked it ",
+            {"opts": ["there", "here", "everywhere"], "decode": ["dort", "hier", "überall"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "Ann said she liked it there.",
+          "solutionDe": "Ann sagte, es gefalle ihr dort.",
+          "explain": "here → there."
+        },
+        {
+          "parts": [
+            "\"I am leaving today,\" he said. → He said he was leaving ",
+            {"opts": ["that day", "this day", "today"], "decode": ["an jenem Tag", "an diesem Tag", "heute"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "He said he was leaving that day.",
+          "solutionDe": "Er sagte, er reise an jenem Tag ab.",
+          "explain": "today → that day."
+        },
+        {
+          "parts": [
+            "\"I bought this car last week,\" he said. → He said he had bought ",
+            {"opts": ["that", "this", "these"], "decode": ["jenes", "dieses", "diese"], "correct": 0},
+            " car ",
+            {"opts": ["the week before", "last week", "the next week"], "decode": ["die Woche davor", "letzte Woche", "nächste Woche"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "He said he had bought that car the week before.",
+          "solutionDe": "Er sagte, er habe jenes Auto in der Woche davor gekauft.",
+          "explain": "this → that; last week → the week before / the previous week."
+        },
+        {
+          "parts": [
+            "\"We are moving next week,\" she said. → She said they were moving ",
+            {"opts": ["the following week", "next week", "the previous week"], "decode": ["die folgende Woche", "nächste Woche", "die Woche davor"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "She said they were moving the following week.",
+          "solutionDe": "Sie sagte, sie würden in der folgenden Woche umziehen.",
+          "explain": "next week → the following week; Pronomen: we → they."
+        },
+        {
+          "parts": [
+            "\"I started my job a year ago,\" he said. → He said he had started his job ",
+            {"opts": ["the previous year", "a year ago", "the following year"], "decode": ["im Jahr davor", "vor einem Jahr", "im folgenden Jahr"], "correct": 0},
+            "."
+          ],
+          "solutionEn": "He said he had started his job the previous year.",
+          "solutionDe": "Er sagte, er habe seinen Job im Jahr davor begonnen.",
+          "explain": "a year ago → the previous year / the year before; außerdem Backshift started → had started."
+        }
+      ]
+    },
+    {
+      "id": "rep_ex05",
+      "title": "Reported questions & commands",
+      "source": "mein-lernen.at Blatt 3 + Klett-Blatt",
+      "type": "build",
+      "instruction": "Bilde indirekte Fragen und Aufforderungen.",
+      "questions": [
+        {
+          "parts": [
+            "He said, \"Where do you buy your car?\" → He wanted to know where I ",
+            {"opts": ["bought", "buy", "had bought"], "decode": ["kaufte", "kaufe", "hatte gekauft"], "correct": 0},
+            " my car."
+          ],
+          "solutionEn": "He wanted to know where I bought my car.",
+          "solutionDe": "Er wollte wissen, wo ich mein Auto kaufe.",
+          "explain": "Fragewort (where) bleibt; Aussagesatz-Wortstellung ohne do; Backshift: buy → bought; Pronomen: you → I."
+        },
+        {
+          "parts": [
+            "She said, \"Are you tired?\" → She asked ",
+            {"opts": ["if", "that", "what"], "decode": ["ob", "dass", "was"], "correct": 0},
+            " I ",
+            {"opts": ["was", "am", "had been"], "decode": ["war", "bin", "war gewesen"], "correct": 0},
+            " tired."
+          ],
+          "solutionEn": "She asked if I was tired.",
+          "solutionDe": "Sie fragte, ob ich müde sei.",
+          "explain": "Frage OHNE Fragewort → if/whether (= ob); Backshift: are → was."
+        },
+        {
+          "parts": [
+            "\"Where did you park the car?\" → The policeman asked the man where ",
+            {"opts": ["he had parked", "had he parked", "did he park"], "decode": ["er geparkt hatte", "hatte er geparkt", "parkte er"], "correct": 0},
+            " the car."
+          ],
+          "solutionEn": "The policeman asked the man where he had parked the car.",
+          "solutionDe": "Der Polizist fragte den Mann, wo er das Auto geparkt habe.",
+          "explain": "Indirekte Frage = Aussagesatz-Wortstellung (Subjekt VOR Verb), kein did; Past Simple → Past Perfect."
+        },
+        {
+          "parts": [
+            "Höfliche Bitte: She said, \"Help me, please.\" → She ",
+            {"opts": ["asked", "told", "shouted at"], "decode": ["bat", "befahl", "schrie an"], "correct": 0},
+            " me ",
+            {"opts": ["to help", "help", "helping"], "decode": ["zu helfen", "helfen", "helfend"], "correct": 0},
+            " her."
+          ],
+          "solutionEn": "She asked me to help her.",
+          "solutionDe": "Sie bat mich, ihr zu helfen.",
+          "explain": "Höfliche Bitte (please) → ask + Objekt + to-Infinitiv; Pronomen: me → her."
+        },
+        {
+          "parts": [
+            "Aufforderung: She said, \"Help me.\" → She ",
+            {"opts": ["told", "asked", "suggested"], "decode": ["forderte auf", "bat", "schlug vor"], "correct": 0},
+            " me to help her."
+          ],
+          "solutionEn": "She told me to help her.",
+          "solutionDe": "Sie forderte mich auf, ihr zu helfen.",
+          "explain": "Normale Aufforderung → tell + Objekt + to-Infinitiv."
+        },
+        {
+          "parts": [
+            "Verneinte Aufforderung: Jenny said, \"Don't shout like that!\" → Jenny told Michael ",
+            {"opts": ["not to shout", "to not shout", "don't shout"], "decode": ["nicht zu schreien", "zu nicht schreien", "schrei nicht"], "correct": 0},
+            " that way."
+          ],
+          "solutionEn": "Jenny told Michael not to shout that way.",
+          "solutionDe": "Jenny sagte Michael, er solle nicht so schreien.",
+          "explain": "Verneinte Aufforderung → told + Objekt + NOT + to-Infinitiv. 'not' steht VOR 'to'."
+        },
+        {
+          "parts": [
+            "Bitte: Billy said, \"Could you take me to the movies?\" → Billy asked his brother ",
+            {"opts": ["to take", "take", "that he took"], "decode": ["zu bringen", "bringen", "dass er brachte"], "correct": 0},
+            " him to the movies."
+          ],
+          "solutionEn": "Billy asked his brother to take him to the movies.",
+          "solutionDe": "Billy bat seinen Bruder, ihn ins Kino zu bringen.",
+          "explain": "Bitte (Could you ...?) → ask + Objekt + to-Infinitiv; Pronomen: me → him."
+        },
+        {
+          "parts": [
+            "Vorschlag: Alex said, \"Let's go to the cinema.\" → Alex suggested ",
+            {"opts": ["going", "to go", "go"], "decode": ["zu gehen (-ing)", "zu gehen (Infinitiv)", "gehen"], "correct": 0},
+            " to the cinema."
+          ],
+          "solutionEn": "Alex suggested going to the cinema.",
+          "solutionDe": "Alex schlug vor, ins Kino zu gehen.",
+          "explain": "suggest + Verb-ing (oder: suggested that we go). 'suggested to go' ist FALSCH."
+        }
+      ]
+    }
+  ]
+}
