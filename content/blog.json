@@ -11,97 +11,669 @@
         {
           "id": "blog_t1_s01",
           "en": "Life Without Social Media? No Way!",
-          "decode": [["Life","Leben"],["Without","ohne"],["Social Media?","soziale Medien?"],["No Way!","auf keinen Fall!"]],
+          "decode": [
+            [
+              "Life",
+              "Leben"
+            ],
+            [
+              "Without",
+              "ohne"
+            ],
+            [
+              "Social Media?",
+              "soziale Medien?"
+            ],
+            [
+              "No Way!",
+              "auf keinen Fall!"
+            ]
+          ],
           "de": "Leben ohne soziale Medien? Auf keinen Fall! (Das ist der 'catchy' Titel.)"
         },
         {
           "id": "blog_t1_s02",
           "en": "by Alex – 12 June 2026, at 6 pm",
-          "decode": [["by","von"],["Alex","Alex"],["– 12 June 2026,","– 12. Juni 2026,"],["at 6 pm","um 18 Uhr"]],
+          "decode": [
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Alex",
+              "Alex"
+            ],
+            [
+              "– 12 June 2026,",
+              "– 12. Juni 2026,"
+            ],
+            [
+              "at 6 pm",
+              "um 18 Uhr"
+            ]
+          ],
           "de": "von Alex – 12. Juni 2026, 18 Uhr (Name, Datum und Uhrzeit gehören an den Anfang.)"
         },
         {
           "id": "blog_t1_s03",
           "en": "Hi guys,",
-          "decode": [["Hi","hallo"],["guys,","Leute,"]],
+          "decode": [
+            [
+              "Hi",
+              "hallo"
+            ],
+            [
+              "guys,",
+              "Leute,"
+            ]
+          ],
           "de": "Hallo Leute! (Die informelle Anrede eröffnet die Einleitung.)"
         },
         {
           "id": "blog_t1_s04",
           "en": "Have you seen Jamie's comment?",
-          "decode": [["Have","habt"],["you","ihr"],["seen","gesehen"],["Jamie's","Jamies"],["comment?","Kommentar?"]],
+          "decode": [
+            [
+              "Have",
+              "habt"
+            ],
+            [
+              "you",
+              "ihr"
+            ],
+            [
+              "seen",
+              "gesehen"
+            ],
+            [
+              "Jamie's",
+              "Jamies"
+            ],
+            [
+              "comment?",
+              "Kommentar?"
+            ]
+          ],
           "de": "Habt ihr Jamies Kommentar gesehen? (Persönliche Frage als Einstieg – Present Perfect.)"
         },
         {
           "id": "blog_t1_s05",
           "en": "He says he can't imagine life without social media – and honestly, I totally agree with him.",
-          "decode": [["He","er"],["says","sagt"],["he","er"],["can't","kann-nicht"],["imagine","sich-vorstellen"],["life","das-Leben"],["without","ohne"],["social media –","soziale Medien –"],["and","und"],["honestly,","ehrlich-gesagt,"],["I","ich"],["totally","völlig"],["agree","stimme-zu"],["with him.","mit ihm."]],
+          "decode": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "can't",
+              "kann-nicht"
+            ],
+            [
+              "imagine",
+              "sich-vorstellen"
+            ],
+            [
+              "life",
+              "das-Leben"
+            ],
+            [
+              "without",
+              "ohne"
+            ],
+            [
+              "social media –",
+              "soziale Medien –"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "honestly,",
+              "ehrlich-gesagt,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "totally",
+              "völlig"
+            ],
+            [
+              "agree",
+              "stimme-zu"
+            ],
+            [
+              "with him.",
+              "mit ihm."
+            ]
+          ],
           "de": "Er sagt, er kann sich ein Leben ohne soziale Medien nicht vorstellen – und ehrlich gesagt stimme ich ihm völlig zu. (Hier reagierst du direkt auf Jamies Kommentar.)"
         },
         {
           "id": "blog_t1_s06",
           "en": "Social media affects young people in many ways.",
-          "decode": [["Social media","soziale Medien"],["affects","beeinflussen"],["young","junge"],["people","Menschen"],["in","auf"],["many","viele"],["ways.","Arten."]],
+          "decode": [
+            [
+              "Social media",
+              "soziale Medien"
+            ],
+            [
+              "affects",
+              "beeinflussen"
+            ],
+            [
+              "young",
+              "junge"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "in",
+              "auf"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "ways.",
+              "Arten."
+            ]
+          ],
           "de": "Soziale Medien beeinflussen junge Menschen auf viele Arten. (Topic Sentence – der Hauptteil beginnt.)"
         },
         {
           "id": "blog_t1_s07",
           "en": "On the one hand, it helps us stay in touch with friends, share ideas and learn new things.",
-          "decode": [["On the one hand,","einerseits"],["it","sie"],["helps","helfen"],["us","uns"],["stay in touch","in Kontakt bleiben"],["with","mit"],["friends,","Freunden,"],["share","teilen"],["ideas","Ideen"],["and","und"],["learn","lernen"],["new","neue"],["things.","Dinge."]],
+          "decode": [
+            [
+              "On the one hand,",
+              "einerseits"
+            ],
+            [
+              "it",
+              "sie"
+            ],
+            [
+              "helps",
+              "helfen"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "stay in touch",
+              "in Kontakt bleiben"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "friends,",
+              "Freunden,"
+            ],
+            [
+              "share",
+              "teilen"
+            ],
+            [
+              "ideas",
+              "Ideen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "learn",
+              "lernen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "things.",
+              "Dinge."
+            ]
+          ],
           "de": "Einerseits helfen sie uns, mit Freunden in Kontakt zu bleiben, Ideen zu teilen und neue Dinge zu lernen. (Positive Aspekte.)"
         },
         {
           "id": "blog_t1_s08",
           "en": "We can find news in seconds and even discover new hobbies.",
-          "decode": [["We","wir"],["can","können"],["find","finden"],["news","Nachrichten"],["in","in"],["seconds","Sekunden"],["and","und"],["even","sogar"],["discover","entdecken"],["new","neue"],["hobbies.","Hobbys."]],
+          "decode": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "find",
+              "finden"
+            ],
+            [
+              "news",
+              "Nachrichten"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "seconds",
+              "Sekunden"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "even",
+              "sogar"
+            ],
+            [
+              "discover",
+              "entdecken"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "hobbies.",
+              "Hobbys."
+            ]
+          ],
           "de": "Wir können in Sekunden Nachrichten finden und sogar neue Hobbys entdecken."
         },
         {
           "id": "blog_t1_s09",
           "en": "On the other hand, there are negative aspects too.",
-          "decode": [["On the other hand,","andererseits"],["there are","es gibt"],["negative","negative"],["aspects","Aspekte"],["too.","auch."]],
+          "decode": [
+            [
+              "On the other hand,",
+              "andererseits"
+            ],
+            [
+              "there are",
+              "es gibt"
+            ],
+            [
+              "negative",
+              "negative"
+            ],
+            [
+              "aspects",
+              "Aspekte"
+            ],
+            [
+              "too.",
+              "auch."
+            ]
+          ],
           "de": "Andererseits gibt es auch negative Aspekte. (Übergang zu den negativen Seiten.)"
         },
         {
           "id": "blog_t1_s10",
           "en": "Many teenagers spend hours scrolling, compare themselves with influencers and feel stressed.",
-          "decode": [["Many","viele"],["teenagers","Teenager"],["spend","verbringen"],["hours","Stunden"],["scrolling,","mit-Scrollen,"],["compare","vergleichen"],["themselves","sich"],["with","mit"],["influencers","Influencern"],["and","und"],["feel","fühlen-sich"],["stressed.","gestresst."]],
+          "decode": [
+            [
+              "Many",
+              "viele"
+            ],
+            [
+              "teenagers",
+              "Teenager"
+            ],
+            [
+              "spend",
+              "verbringen"
+            ],
+            [
+              "hours",
+              "Stunden"
+            ],
+            [
+              "scrolling,",
+              "mit-Scrollen,"
+            ],
+            [
+              "compare",
+              "vergleichen"
+            ],
+            [
+              "themselves",
+              "sich"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "influencers",
+              "Influencern"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "feel",
+              "fühlen-sich"
+            ],
+            [
+              "stressed.",
+              "gestresst."
+            ]
+          ],
           "de": "Viele Teenager verbringen Stunden mit Scrollen, vergleichen sich mit Influencern und fühlen sich gestresst."
         },
         {
           "id": "blog_t1_s11",
           "en": "Fake news spreads quickly, and cyberbullying is a real problem.",
-          "decode": [["Fake news","Falschnachrichten"],["spreads","verbreiten-sich"],["quickly,","schnell,"],["and","und"],["cyberbullying","Cybermobbing"],["is","ist"],["a","ein"],["real","echtes"],["problem.","Problem."]],
+          "decode": [
+            [
+              "Fake news",
+              "Falschnachrichten"
+            ],
+            [
+              "spreads",
+              "verbreiten-sich"
+            ],
+            [
+              "quickly,",
+              "schnell,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "cyberbullying",
+              "Cybermobbing"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "real",
+              "echtes"
+            ],
+            [
+              "problem.",
+              "Problem."
+            ]
+          ],
           "de": "Fake News verbreiten sich schnell, und Cybermobbing ist ein echtes Problem."
         },
         {
           "id": "blog_t1_s12",
           "en": "In my life, social media is quite important.",
-          "decode": [["In","in"],["my","meinem"],["life,","Leben,"],["social media","soziale Medien"],["is","sind"],["quite","ziemlich"],["important.","wichtig."]],
+          "decode": [
+            [
+              "In",
+              "in"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "life,",
+              "Leben,"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "is",
+              "sind"
+            ],
+            [
+              "quite",
+              "ziemlich"
+            ],
+            [
+              "important.",
+              "wichtig."
+            ]
+          ],
           "de": "In meinem Leben sind soziale Medien ziemlich wichtig. (Punkt 4 der Aufgabe: Bedeutung in deinem Leben.)"
         },
         {
           "id": "blog_t1_s13",
           "en": "I use it every day to chat with my friends and to follow my favourite creators.",
-          "decode": [["I","ich"],["use","benutze"],["it","sie"],["every","jeden"],["day","Tag"],["to chat","um zu chatten"],["with","mit"],["my","meinen"],["friends","Freunden"],["and","und"],["to follow","um zu folgen"],["my","meinen"],["favourite","Lieblings-"],["creators.","Creators."]],
+          "decode": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "use",
+              "benutze"
+            ],
+            [
+              "it",
+              "sie"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "day",
+              "Tag"
+            ],
+            [
+              "to chat",
+              "um zu chatten"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "my",
+              "meinen"
+            ],
+            [
+              "friends",
+              "Freunden"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "to follow",
+              "um zu folgen"
+            ],
+            [
+              "my",
+              "meinen"
+            ],
+            [
+              "favourite",
+              "Lieblings-"
+            ],
+            [
+              "creators.",
+              "Creators."
+            ]
+          ],
           "de": "Ich benutze sie jeden Tag, um mit meinen Freunden zu chatten und meinen Lieblings-Creators zu folgen."
         },
         {
           "id": "blog_t1_s14",
           "en": "However, I try to take breaks and put my phone away when I study.",
-          "decode": [["However,","jedoch"],["I","ich"],["try","versuche"],["to take","zu machen"],["breaks","Pausen"],["and","und"],["put","legen"],["my","mein"],["phone","Handy"],["away","weg"],["when","wenn"],["I","ich"],["study.","lerne."]],
+          "decode": [
+            [
+              "However,",
+              "jedoch"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "try",
+              "versuche"
+            ],
+            [
+              "to take",
+              "zu machen"
+            ],
+            [
+              "breaks",
+              "Pausen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "put",
+              "legen"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "phone",
+              "Handy"
+            ],
+            [
+              "away",
+              "weg"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "study.",
+              "lerne."
+            ]
+          ],
           "de": "Jedoch versuche ich, Pausen zu machen und mein Handy wegzulegen, wenn ich lerne."
         },
         {
           "id": "blog_t1_s15",
           "en": "Summing up, social media is neither good nor bad – it depends on how we use it.",
-          "decode": [["Summing up,","zusammenfassend"],["social media","soziale Medien"],["is","sind"],["neither","weder"],["good","gut"],["nor","noch"],["bad –","schlecht –"],["it","es"],["depends on","hängt ab von"],["how","wie"],["we","wir"],["use","benutzen"],["it.","sie."]],
+          "decode": [
+            [
+              "Summing up,",
+              "zusammenfassend"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "is",
+              "sind"
+            ],
+            [
+              "neither",
+              "weder"
+            ],
+            [
+              "good",
+              "gut"
+            ],
+            [
+              "nor",
+              "noch"
+            ],
+            [
+              "bad –",
+              "schlecht –"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "depends on",
+              "hängt ab von"
+            ],
+            [
+              "how",
+              "wie"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "use",
+              "benutzen"
+            ],
+            [
+              "it.",
+              "sie."
+            ]
+          ],
           "de": "Zusammenfassend: Soziale Medien sind weder gut noch schlecht – es hängt davon ab, wie wir sie benutzen. (Die Conclusion fasst zusammen.)"
         },
         {
           "id": "blog_t1_s16",
           "en": "What do you think? Leave your comment below!",
-          "decode": [["What","was"],["do you think?","denkt ihr?"],["Leave","hinterlasst"],["your","euren"],["comment","Kommentar"],["below!","unten!"]],
+          "decode": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "do you think?",
+              "denkt ihr?"
+            ],
+            [
+              "Leave",
+              "hinterlasst"
+            ],
+            [
+              "your",
+              "euren"
+            ],
+            [
+              "comment",
+              "Kommentar"
+            ],
+            [
+              "below!",
+              "unten!"
+            ]
+          ],
           "de": "Was denkt ihr? Hinterlasst unten euren Kommentar! (Leser ansprechen und um Kommentare bitten – typisches Blog-Ende.)"
         }
       ]
@@ -118,17 +690,305 @@
         {
           "parts": [
             "1. Ganz oben: ",
-            {"opts": ["Title: catchy, with your name, date and time","Introduction: greeting + present the topic in an interesting way","Main body: your arguments and examples in clear paragraphs","Conclusion: sum up + ask your readers for comments"], "decode": ["Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit","Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen","Hauptteil: Argumente und Beispiele in klaren Absätzen","Schluss: zusammenfassen + Leser um Kommentare bitten"], "correct": 0},
+            {
+              "opts": [
+                "Title: catchy, with your name, date and time",
+                "Introduction: greeting + present the topic in an interesting way",
+                "Main body: your arguments and examples in clear paragraphs",
+                "Conclusion: sum up + ask your readers for comments"
+              ],
+              "decode": [
+                "Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit",
+                "Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen",
+                "Hauptteil: Argumente und Beispiele in klaren Absätzen",
+                "Schluss: zusammenfassen + Leser um Kommentare bitten"
+              ],
+              "correct": 0,
+              "n": "Title: catchy, with your name, date and time"
+            },
             " 2. Danach: ",
-            {"opts": ["Title: catchy, with your name, date and time","Introduction: greeting + present the topic in an interesting way","Main body: your arguments and examples in clear paragraphs","Conclusion: sum up + ask your readers for comments"], "decode": ["Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit","Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen","Hauptteil: Argumente und Beispiele in klaren Absätzen","Schluss: zusammenfassen + Leser um Kommentare bitten"], "correct": 1},
+            {
+              "opts": [
+                "Title: catchy, with your name, date and time",
+                "Introduction: greeting + present the topic in an interesting way",
+                "Main body: your arguments and examples in clear paragraphs",
+                "Conclusion: sum up + ask your readers for comments"
+              ],
+              "decode": [
+                "Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit",
+                "Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen",
+                "Hauptteil: Argumente und Beispiele in klaren Absätzen",
+                "Schluss: zusammenfassen + Leser um Kommentare bitten"
+              ],
+              "correct": 1,
+              "n": "Introduction: greeting + present the topic in an interesting way"
+            },
             " 3. Dann: ",
-            {"opts": ["Title: catchy, with your name, date and time","Introduction: greeting + present the topic in an interesting way","Main body: your arguments and examples in clear paragraphs","Conclusion: sum up + ask your readers for comments"], "decode": ["Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit","Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen","Hauptteil: Argumente und Beispiele in klaren Absätzen","Schluss: zusammenfassen + Leser um Kommentare bitten"], "correct": 2},
+            {
+              "opts": [
+                "Title: catchy, with your name, date and time",
+                "Introduction: greeting + present the topic in an interesting way",
+                "Main body: your arguments and examples in clear paragraphs",
+                "Conclusion: sum up + ask your readers for comments"
+              ],
+              "decode": [
+                "Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit",
+                "Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen",
+                "Hauptteil: Argumente und Beispiele in klaren Absätzen",
+                "Schluss: zusammenfassen + Leser um Kommentare bitten"
+              ],
+              "correct": 2,
+              "n": "Main body: your arguments and examples in clear paragraphs"
+            },
             " 4. Zum Schluss: ",
-            {"opts": ["Title: catchy, with your name, date and time","Introduction: greeting + present the topic in an interesting way","Main body: your arguments and examples in clear paragraphs","Conclusion: sum up + ask your readers for comments"], "decode": ["Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit","Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen","Hauptteil: Argumente und Beispiele in klaren Absätzen","Schluss: zusammenfassen + Leser um Kommentare bitten"], "correct": 3}
+            {
+              "opts": [
+                "Title: catchy, with your name, date and time",
+                "Introduction: greeting + present the topic in an interesting way",
+                "Main body: your arguments and examples in clear paragraphs",
+                "Conclusion: sum up + ask your readers for comments"
+              ],
+              "decode": [
+                "Titel: auffällig ('catchy'), mit Name, Datum und Uhrzeit",
+                "Einleitung: Anrede ('Hi guys') + Thema interessant vorstellen",
+                "Hauptteil: Argumente und Beispiele in klaren Absätzen",
+                "Schluss: zusammenfassen + Leser um Kommentare bitten"
+              ],
+              "correct": 3,
+              "n": "Conclusion: sum up + ask your readers for comments"
+            }
           ],
           "solutionEn": "Title (catchy, with name, date and time) → Introduction (greeting + interesting opening) → Main body (arguments and examples in paragraphs) → Conclusion (sum up + ask for comments).",
           "solutionDe": "Titel (catchy, mit Name, Datum, Uhrzeit) → Einleitung (Anrede + interessanter Einstieg) → Hauptteil (Argumente und Beispiele in Absätzen) → Schluss (Zusammenfassung + um Kommentare bitten).",
-          "explain": "Ein Blog Entry hat immer diesen festen Aufbau. In der Einleitung stellst du Thema und Standpunkt vor, im Hauptteil bringst du Argumente mit Beispielen, im Schluss fasst du zusammen und sprichst die Leser an."
+          "explain": "Ein Blog Entry hat immer diesen festen Aufbau. In der Einleitung stellst du Thema und Standpunkt vor, im Hauptteil bringst du Argumente mit Beispielen, im Schluss fasst du zusammen und sprichst die Leser an.",
+          "decodeFull": [
+            [
+              "1.",
+              "1."
+            ],
+            [
+              "Ganz oben:",
+              "ganz oben:"
+            ],
+            [
+              "Title:",
+              "Titel:"
+            ],
+            [
+              "catchy,",
+              "einprägsam,"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "name,",
+              "Namen,"
+            ],
+            [
+              "date",
+              "Datum"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "time",
+              "Uhrzeit"
+            ],
+            [
+              "2.",
+              "2."
+            ],
+            [
+              "Danach:",
+              "danach:"
+            ],
+            [
+              "Introduction:",
+              "Einleitung:"
+            ],
+            [
+              "greeting",
+              "Begrüßung"
+            ],
+            [
+              "+",
+              "+"
+            ],
+            [
+              "present",
+              "stelle-vor"
+            ],
+            [
+              "the topic",
+              "das Thema"
+            ],
+            [
+              "in",
+              "auf"
+            ],
+            [
+              "an interesting",
+              "eine interessante"
+            ],
+            [
+              "way",
+              "Weise"
+            ],
+            [
+              "3.",
+              "3."
+            ],
+            [
+              "Dann:",
+              "dann:"
+            ],
+            [
+              "Main body:",
+              "Hauptteil:"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "arguments",
+              "Argumente"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "examples",
+              "Beispiele"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "clear",
+              "klaren"
+            ],
+            [
+              "paragraphs",
+              "Absätzen"
+            ],
+            [
+              "4.",
+              "4."
+            ],
+            [
+              "Zum Schluss:",
+              "zum Schluss:"
+            ],
+            [
+              "Conclusion:",
+              "Schluss:"
+            ],
+            [
+              "sum up",
+              "zusammenfassen"
+            ],
+            [
+              "+",
+              "+"
+            ],
+            [
+              "ask",
+              "bitte"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "readers",
+              "Leser"
+            ],
+            [
+              "for",
+              "um"
+            ],
+            [
+              "comments",
+              "Kommentare"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "1.",
+                  "1."
+                ],
+                [
+                  "Ganz oben:",
+                  "ganz oben:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "2.",
+                  "2."
+                ],
+                [
+                  "Danach:",
+                  "danach:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "3.",
+                  "3."
+                ],
+                [
+                  "Dann:",
+                  "dann:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "4.",
+                  "4."
+                ],
+                [
+                  "Zum Schluss:",
+                  "zum Schluss:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -142,73 +1002,777 @@
         {
           "parts": [
             "",
-            {"opts": ["Have you ever","Did you ever","Do you ever"], "decode": ["hast du jemals (Present Perfect – richtig)","tatest du jemals (passt nicht zu 'thought')","tust du jemals (passt nicht zu 'thought')"], "correct": 0},
+            {
+              "opts": [
+                "Have you ever",
+                "Did you ever",
+                "Do you ever"
+              ],
+              "decode": [
+                "hast du jemals (Present Perfect – richtig)",
+                "tatest du jemals (passt nicht zu 'thought')",
+                "tust du jemals (passt nicht zu 'thought')"
+              ],
+              "correct": 0,
+              "n": "Have you ever"
+            },
             " thought about how much time you spend on your phone?"
           ],
           "solutionEn": "Have you ever thought about how much time you spend on your phone?",
           "solutionDe": "Hast du jemals darüber nachgedacht, wie viel Zeit du an deinem Handy verbringst?",
-          "explain": "Persönliche Einstiegsfrage im Present Perfect: 'Have you ever + 3. Verbform (thought)'. Nach 'Did you ever' müsste die Grundform 'think' stehen – ein typischer Fehler."
+          "explain": "Persönliche Einstiegsfrage im Present Perfect: 'Have you ever + 3. Verbform (thought)'. Nach 'Did you ever' müsste die Grundform 'think' stehen – ein typischer Fehler.",
+          "decodeFull": [
+            [
+              "Have you ever",
+              "hast-du jemals"
+            ],
+            [
+              "thought about",
+              "nachgedacht über"
+            ],
+            [
+              "how much",
+              "wie viel"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "spend",
+              "verbringst"
+            ],
+            [
+              "on",
+              "an"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "phone?",
+              "Handy?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "thought about",
+                  "nachgedacht über"
+                ],
+                [
+                  "how much",
+                  "wie viel"
+                ],
+                [
+                  "time",
+                  "Zeit"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "spend",
+                  "verbringst"
+                ],
+                [
+                  "on",
+                  "an"
+                ],
+                [
+                  "your",
+                  "deinem"
+                ],
+                [
+                  "phone?",
+                  "Handy?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Hi guys","Dear Sir or Madam","Yours sincerely"], "decode": ["hallo Leute (informell – richtig für Blogs)","sehr geehrte Damen und Herren (formeller Brief)","mit freundlichen Grüßen (Briefschluss)"], "correct": 0},
+            {
+              "opts": [
+                "Hi guys",
+                "Dear Sir or Madam",
+                "Yours sincerely"
+              ],
+              "decode": [
+                "hallo Leute (informell – richtig für Blogs)",
+                "sehr geehrte Damen und Herren (formeller Brief)",
+                "mit freundlichen Grüßen (Briefschluss)"
+              ],
+              "correct": 0,
+              "n": "Hi guys"
+            },
             ", today I want to share some thoughts about social media."
           ],
           "solutionEn": "Hi guys, today I want to share some thoughts about social media.",
           "solutionDe": "Hallo Leute, heute möchte ich ein paar Gedanken über soziale Medien mit euch teilen.",
-          "explain": "Ein Blog beginnt mit einer informellen Anrede wie 'Hi guys' oder 'Hi everyone' – nie mit formellen Briefformeln."
+          "explain": "Ein Blog beginnt mit einer informellen Anrede wie 'Hi guys' oder 'Hi everyone' – nie mit formellen Briefformeln.",
+          "decodeFull": [
+            [
+              "Hi guys,",
+              "hallo Leute,"
+            ],
+            [
+              "today",
+              "heute"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "want",
+              "möchte"
+            ],
+            [
+              "to share",
+              "teilen"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "thoughts",
+              "Gedanken"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "social media.",
+              "soziale Medien."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "today",
+                  "heute"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "want",
+                  "möchte"
+                ],
+                [
+                  "to share",
+                  "teilen"
+                ],
+                [
+                  "some",
+                  "einige"
+                ],
+                [
+                  "thoughts",
+                  "Gedanken"
+                ],
+                [
+                  "about",
+                  "über"
+                ],
+                [
+                  "social media.",
+                  "soziale Medien."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["In my opinion","After my opinion","By my opinion"], "decode": ["meiner Meinung nach (richtig)","wörtlich 'nach meiner Meinung' – falsches Englisch","wörtlich 'bei meiner Meinung' – falsches Englisch"], "correct": 0},
+            {
+              "opts": [
+                "In my opinion",
+                "After my opinion",
+                "By my opinion"
+              ],
+              "decode": [
+                "meiner Meinung nach (richtig)",
+                "wörtlich 'nach meiner Meinung' – falsches Englisch",
+                "wörtlich 'bei meiner Meinung' – falsches Englisch"
+              ],
+              "correct": 0,
+              "n": "In my opinion"
+            },
             ", social media has more advantages than disadvantages."
           ],
           "solutionEn": "In my opinion, social media has more advantages than disadvantages.",
           "solutionDe": "Meiner Meinung nach haben soziale Medien mehr Vorteile als Nachteile.",
-          "explain": "'In my opinion' ist die richtige Meinungs-Phrase. 'After my opinion' ist ein klassischer Übersetzungsfehler aus dem Deutschen."
+          "explain": "'In my opinion' ist die richtige Meinungs-Phrase. 'After my opinion' ist ein klassischer Übersetzungsfehler aus dem Deutschen.",
+          "decodeFull": [
+            [
+              "In my opinion,",
+              "meiner Meinung-nach,"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "advantages",
+              "Vorteile"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "disadvantages.",
+              "Nachteile."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "social media",
+                  "soziale Medien"
+                ],
+                [
+                  "has",
+                  "hat"
+                ],
+                [
+                  "more",
+                  "mehr"
+                ],
+                [
+                  "advantages",
+                  "Vorteile"
+                ],
+                [
+                  "than",
+                  "als"
+                ],
+                [
+                  "disadvantages.",
+                  "Nachteile."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["On the one hand","On the one side","At the one hand"], "decode": ["einerseits (richtig)","unüblich im Englischen","falsche Präposition (at)"], "correct": 0},
+            {
+              "opts": [
+                "On the one hand",
+                "On the one side",
+                "At the one hand"
+              ],
+              "decode": [
+                "einerseits (richtig)",
+                "unüblich im Englischen",
+                "falsche Präposition (at)"
+              ],
+              "correct": 0,
+              "n": "On the one hand"
+            },
             ", social media connects people all over the world. ",
-            {"opts": ["On the other hand","On the other side","At the other hand"], "decode": ["andererseits (richtig)","unüblich als Verbindungswort","falsche Präposition (at)"], "correct": 0},
+            {
+              "opts": [
+                "On the other hand",
+                "On the other side",
+                "At the other hand"
+              ],
+              "decode": [
+                "andererseits (richtig)",
+                "unüblich als Verbindungswort",
+                "falsche Präposition (at)"
+              ],
+              "correct": 0,
+              "n": "On the other hand"
+            },
             ", it can be addictive and stressful."
           ],
           "solutionEn": "On the one hand, social media connects people all over the world. On the other hand, it can be addictive and stressful.",
           "solutionDe": "Einerseits verbinden soziale Medien Menschen auf der ganzen Welt. Andererseits können sie süchtig machen und stressen.",
-          "explain": "Das Phrasen-Paar heißt 'On the one hand ... on the other hand' – perfekt, um positive und negative Aspekte zu verbinden (genau das verlangt die Aufgabe!)."
+          "explain": "Das Phrasen-Paar heißt 'On the one hand ... on the other hand' – perfekt, um positive und negative Aspekte zu verbinden (genau das verlangt die Aufgabe!).",
+          "decodeFull": [
+            [
+              "On the one hand,",
+              "einerseits,"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "connects",
+              "verbindet"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "all over",
+              "auf-der-ganzen"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ],
+            [
+              "On the other hand,",
+              "andererseits,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "addictive",
+              "süchtig-machend"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "stressful.",
+              "stressig."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "social media",
+                  "soziale Medien"
+                ],
+                [
+                  "connects",
+                  "verbindet"
+                ],
+                [
+                  "people",
+                  "Menschen"
+                ],
+                [
+                  "all over",
+                  "auf-der-ganzen"
+                ],
+                [
+                  "the world.",
+                  "der Welt."
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "can",
+                  "kann"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "addictive",
+                  "süchtig-machend"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "stressful.",
+                  "stressig."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Summing up","Summing down","Adding up"], "decode": ["zusammenfassend (richtig)","gibt es nicht","zusammenzählend (Mathematik)"], "correct": 0},
+            {
+              "opts": [
+                "Summing up",
+                "Summing down",
+                "Adding up"
+              ],
+              "decode": [
+                "zusammenfassend (richtig)",
+                "gibt es nicht",
+                "zusammenzählend (Mathematik)"
+              ],
+              "correct": 0,
+              "n": "Summing up"
+            },
             ", it can be said that social media is both a blessing and a curse."
           ],
           "solutionEn": "Summing up, it can be said that social media is both a blessing and a curse.",
           "solutionDe": "Zusammenfassend lässt sich sagen, dass soziale Medien Segen und Fluch zugleich sind.",
-          "explain": "'Summing up, it can be said that ...' ist eine Schluss-Phrase aus der Blog-Anleitung – ideal für die Conclusion."
+          "explain": "'Summing up, it can be said that ...' ist eine Schluss-Phrase aus der Blog-Anleitung – ideal für die Conclusion.",
+          "decodeFull": [
+            [
+              "Summing up,",
+              "zusammenfassend,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "be said",
+              "gesagt-werden"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "is",
+              "sind"
+            ],
+            [
+              "both",
+              "sowohl"
+            ],
+            [
+              "a blessing",
+              "ein Segen"
+            ],
+            [
+              "and",
+              "als-auch"
+            ],
+            [
+              "a curse.",
+              "ein Fluch."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "can",
+                  "kann"
+                ],
+                [
+                  "be said",
+                  "gesagt-werden"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "social media",
+                  "soziale Medien"
+                ],
+                [
+                  "is",
+                  "sind"
+                ],
+                [
+                  "both",
+                  "sowohl"
+                ],
+                [
+                  "a blessing",
+                  "ein Segen"
+                ],
+                [
+                  "and",
+                  "als-auch"
+                ],
+                [
+                  "a curse.",
+                  "ein Fluch."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I can't wait to read your opinion! ",
-            {"opts": ["Leave your comment below!","Yours faithfully, Alex.","See attachment for details."], "decode": ["hinterlasst unten einen Kommentar! (richtig)","hochachtungsvoll, Alex (formeller Brief)","Details im Anhang (Büro-E-Mail)"], "correct": 0}
+            {
+              "opts": [
+                "Leave your comment below!",
+                "Yours faithfully, Alex.",
+                "See attachment for details."
+              ],
+              "decode": [
+                "hinterlasst unten einen Kommentar! (richtig)",
+                "hochachtungsvoll, Alex (formeller Brief)",
+                "Details im Anhang (Büro-E-Mail)"
+              ],
+              "correct": 0,
+              "n": "Leave your comment below!"
+            }
           ],
           "solutionEn": "I can't wait to read your opinion! Leave your comment below!",
           "solutionDe": "Ich kann es kaum erwarten, eure Meinung zu lesen! Hinterlasst unten einen Kommentar!",
-          "explain": "Ein Blog endet mit Leser-Interaktion: um Kommentare bitten ('Leave your comment below', 'Share your thoughts in the comments below')."
+          "explain": "Ein Blog endet mit Leser-Interaktion: um Kommentare bitten ('Leave your comment below', 'Share your thoughts in the comments below').",
+          "decodeFull": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can't",
+              "kann'nicht"
+            ],
+            [
+              "wait",
+              "warten"
+            ],
+            [
+              "to read",
+              "zu lesen"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "opinion!",
+              "Meinung!"
+            ],
+            [
+              "Leave",
+              "hinterlasse"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "comment",
+              "Kommentar"
+            ],
+            [
+              "below!",
+              "unten!"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "can't",
+                  "kann'nicht"
+                ],
+                [
+                  "wait",
+                  "warten"
+                ],
+                [
+                  "to read",
+                  "zu lesen"
+                ],
+                [
+                  "your",
+                  "deine"
+                ],
+                [
+                  "opinion!",
+                  "Meinung!"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Frankly speaking","Frankly spoken","Free speaking"], "decode": ["ehrlich gesagt (richtig)","falsche Verbform","wörtlich 'frei sprechend' – falsch"], "correct": 0},
+            {
+              "opts": [
+                "Frankly speaking",
+                "Frankly spoken",
+                "Free speaking"
+              ],
+              "decode": [
+                "ehrlich gesagt (richtig)",
+                "falsche Verbform",
+                "wörtlich 'frei sprechend' – falsch"
+              ],
+              "correct": 0,
+              "n": "Frankly speaking"
+            },
             ", I check my phone far too often."
           ],
           "solutionEn": "Frankly speaking, I check my phone far too often.",
           "solutionDe": "Ehrlich gesagt schaue ich viel zu oft auf mein Handy.",
-          "explain": "'Frankly speaking' (ehrlich gesagt) ist eine informelle Phrase aus der Blog-Anleitung – gut, um persönlich und ehrlich zu klingen."
+          "explain": "'Frankly speaking' (ehrlich gesagt) ist eine informelle Phrase aus der Blog-Anleitung – gut, um persönlich und ehrlich zu klingen.",
+          "decodeFull": [
+            [
+              "Frankly speaking,",
+              "ehrlich gesagt,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "check",
+              "schaue-auf"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "phone",
+              "Handy"
+            ],
+            [
+              "far",
+              "viel"
+            ],
+            [
+              "too often.",
+              "zu oft."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "check",
+                  "schaue-auf"
+                ],
+                [
+                  "my",
+                  "mein"
+                ],
+                [
+                  "phone",
+                  "Handy"
+                ],
+                [
+                  "far",
+                  "viel"
+                ],
+                [
+                  "too often.",
+                  "zu oft."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -222,65 +1786,860 @@
         {
           "parts": [
             "How many words should your blog entry have in the exam task? → ",
-            {"opts": ["140–180 words","at least 250 words","exactly 100 words"], "decode": ["140–180 Wörter","mindestens 250 Wörter","genau 100 Wörter"], "correct": 0}
+            {
+              "opts": [
+                "140–180 words",
+                "at least 250 words",
+                "exactly 100 words"
+              ],
+              "decode": [
+                "140–180 Wörter",
+                "mindestens 250 Wörter",
+                "genau 100 Wörter"
+              ],
+              "correct": 0,
+              "n": "140–180 words"
+            }
           ],
           "solutionEn": "The task says: Write a blog entry (140–180 words).",
           "solutionDe": "Die Aufgabe verlangt 140–180 Wörter.",
-          "explain": "Wortzahl unbedingt einhalten! Übe vorher, deine Wörter zu zählen – der Mustertext hat 153 Wörter."
+          "explain": "Wortzahl unbedingt einhalten! Übe vorher, deine Wörter zu zählen – der Mustertext hat 153 Wörter.",
+          "decodeFull": [
+            [
+              "How many",
+              "wie viele"
+            ],
+            [
+              "words",
+              "Wörter"
+            ],
+            [
+              "should",
+              "sollte"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "blog entry",
+              "Blog-Eintrag"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "exam task?",
+              "Prüfungsaufgabe?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "140–180",
+              "140–180"
+            ],
+            [
+              "words",
+              "Wörter"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How many",
+                  "wie viele"
+                ],
+                [
+                  "words",
+                  "Wörter"
+                ],
+                [
+                  "should",
+                  "sollte"
+                ],
+                [
+                  "your",
+                  "dein"
+                ],
+                [
+                  "blog entry",
+                  "Blog-Eintrag"
+                ],
+                [
+                  "have",
+                  "haben"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "exam task?",
+                  "Prüfungsaufgabe?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Which style is right for a blog entry? → ",
-            {"opts": ["informal and personal, with contractions like 'I don't'","formal, like a business letter","scientific, with many technical terms"], "decode": ["informell und persönlich, mit Kurzformen wie 'I don't'","formell, wie ein Geschäftsbrief","wissenschaftlich, mit vielen Fachbegriffen"], "correct": 0}
+            {
+              "opts": [
+                "informal and personal, with contractions like 'I don't'",
+                "formal, like a business letter",
+                "scientific, with many technical terms"
+              ],
+              "decode": [
+                "informell und persönlich, mit Kurzformen wie 'I don't'",
+                "formell, wie ein Geschäftsbrief",
+                "wissenschaftlich, mit vielen Fachbegriffen"
+              ],
+              "correct": 0,
+              "n": "informal and personal, with contractions like 'I don't'"
+            }
           ],
           "solutionEn": "A blog entry is informal and personal: use the first person, contractions (I don't, I can't) and a friendly tone.",
           "solutionDe": "Ein Blog Entry ist informell und persönlich: Ich-Form, Kurzformen (I don't, I can't) und ein freundlicher Ton.",
-          "explain": "Ein Blog ist persönlich und deshalb meistens informell – das steht genau so in der Blog-Anleitung."
+          "explain": "Ein Blog ist persönlich und deshalb meistens informell – das steht genau so in der Blog-Anleitung.",
+          "decodeFull": [
+            [
+              "Which",
+              "welcher"
+            ],
+            [
+              "style",
+              "Stil"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "right",
+              "richtig"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a blog entry?",
+              "einen Blog-Eintrag?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "informal",
+              "informell"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "personal,",
+              "persönlich,"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "contractions",
+              "Kurzformen"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "'I don't'",
+              "'I don't'"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Which",
+                  "welcher"
+                ],
+                [
+                  "style",
+                  "Stil"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "right",
+                  "richtig"
+                ],
+                [
+                  "for",
+                  "für"
+                ],
+                [
+                  "a blog entry?",
+                  "einen Blog-Eintrag?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "How can you interact with your readers? → ",
-            {"opts": ["ask questions and use exclamations, e.g. 'What do you think?'","avoid speaking to them directly","use only passive sentences"], "decode": ["Fragen stellen und Ausrufe verwenden, z. B. 'What do you think?'","sie nie direkt ansprechen","nur Passivsätze verwenden"], "correct": 0}
+            {
+              "opts": [
+                "ask questions and use exclamations, e.g. 'What do you think?'",
+                "avoid speaking to them directly",
+                "use only passive sentences"
+              ],
+              "decode": [
+                "Fragen stellen und Ausrufe verwenden, z. B. 'What do you think?'",
+                "sie nie direkt ansprechen",
+                "nur Passivsätze verwenden"
+              ],
+              "correct": 0,
+              "n": "ask questions and use exclamations, e.g. 'What do you think?'"
+            }
           ],
           "solutionEn": "Interact with your readers: ask questions and use exclamations, e.g. 'What do you think?', 'It's awesome!', 'Easier said than done. Right?'",
           "solutionDe": "Sprich die Leser direkt an: Stelle Fragen und verwende Ausrufesätze, z. B. 'What do you think?', 'It's awesome!'",
-          "explain": "Leser-Interaktion ist ein Kernmerkmal des Blogs: Fragen, Ausrufe, direkte Anrede – das macht den Text lebendig."
+          "explain": "Leser-Interaktion ist ein Kernmerkmal des Blogs: Fragen, Ausrufe, direkte Anrede – das macht den Text lebendig.",
+          "decodeFull": [
+            [
+              "How",
+              "wie"
+            ],
+            [
+              "can",
+              "kannst"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "interact",
+              "interagieren"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "readers?",
+              "Lesern?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "ask",
+              "stelle"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "use",
+              "verwende"
+            ],
+            [
+              "exclamations,",
+              "Ausrufe,"
+            ],
+            [
+              "e.g.",
+              "z.B."
+            ],
+            [
+              "'What do you think?'",
+              "'What do you think?'"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How",
+                  "wie"
+                ],
+                [
+                  "can",
+                  "kannst"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "interact",
+                  "interagieren"
+                ],
+                [
+                  "with",
+                  "mit"
+                ],
+                [
+                  "your",
+                  "deinen"
+                ],
+                [
+                  "readers?",
+                  "Lesern?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "What do you put at the very top of your blog entry? → ",
-            {"opts": ["a catchy title, your name, date and time","your home address and the school's address","a long summary of the whole text"], "decode": ["einen auffälligen Titel, deinen Namen, Datum und Uhrzeit","deine Wohnadresse und die Adresse der Schule","eine lange Zusammenfassung des ganzen Texts"], "correct": 0}
+            {
+              "opts": [
+                "a catchy title, your name, date and time",
+                "your home address and the school's address",
+                "a long summary of the whole text"
+              ],
+              "decode": [
+                "einen auffälligen Titel, deinen Namen, Datum und Uhrzeit",
+                "deine Wohnadresse und die Adresse der Schule",
+                "eine lange Zusammenfassung des ganzen Texts"
+              ],
+              "correct": 0,
+              "n": "a catchy title, your name, date and time"
+            }
           ],
           "solutionEn": "At the top: a catchy title, your name, date and time – e.g. 'CHIPS, BURGERS AND COLA MAKE ME HAPPY, by PeterPan, 2 June 2023, at 5 pm'.",
           "solutionDe": "Ganz oben: ein 'catchy' Titel, dein Name, Datum und Uhrzeit – wie im Beispiel der Anleitung ('by PeterPan, 2 June 2023, at 5 pm').",
-          "explain": "Der Titel soll Leser anlocken UND über das Thema informieren. Die Jamie-Aufgabe sagt ausdrücklich: 'Give your blog entry a suitable title!'"
+          "explain": "Der Titel soll Leser anlocken UND über das Thema informieren. Die Jamie-Aufgabe sagt ausdrücklich: 'Give your blog entry a suitable title!'",
+          "decodeFull": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "do you put",
+              "steckst-du"
+            ],
+            [
+              "at",
+              "an"
+            ],
+            [
+              "the very top",
+              "ganz-oben"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "blog entry?",
+              "Blog-Eintrag?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "a catchy",
+              "einen einprägsamen"
+            ],
+            [
+              "title,",
+              "Titel,"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "name,",
+              "Namen,"
+            ],
+            [
+              "date",
+              "Datum"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "time",
+              "Uhrzeit"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "was"
+                ],
+                [
+                  "do you put",
+                  "steckst-du"
+                ],
+                [
+                  "at",
+                  "an"
+                ],
+                [
+                  "the very top",
+                  "ganz-oben"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "your",
+                  "deinem"
+                ],
+                [
+                  "blog entry?",
+                  "Blog-Eintrag?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Which tense is used in the opening line 'I have just tried vegan food'? → ",
-            {"opts": ["Present Perfect","Past Perfect","Will-Future"], "decode": ["Present Perfect (have + 3. Verbform)","Past Perfect (had + 3. Verbform)","Will-Future (will + Grundform)"], "correct": 0}
+            {
+              "opts": [
+                "Present Perfect",
+                "Past Perfect",
+                "Will-Future"
+              ],
+              "decode": [
+                "Present Perfect (have + 3. Verbform)",
+                "Past Perfect (had + 3. Verbform)",
+                "Will-Future (will + Grundform)"
+              ],
+              "correct": 0,
+              "n": "Present Perfect"
+            }
           ],
           "solutionEn": "'I have just tried vegan food' is Present Perfect (have/has + past participle).",
           "solutionDe": "'I have just tried vegan food' steht im Present Perfect (have/has + 3. Verbform).",
-          "explain": "Mit dem Present Perfect erzählst du im Blog von (gerade gemachten) Erfahrungen oder fragst danach: 'Have you ever tried ...?'"
+          "explain": "Mit dem Present Perfect erzählst du im Blog von (gerade gemachten) Erfahrungen oder fragst danach: 'Have you ever tried ...?'",
+          "decodeFull": [
+            [
+              "Which",
+              "welche"
+            ],
+            [
+              "tense",
+              "Zeitform"
+            ],
+            [
+              "is used",
+              "wird-verwendet"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the opening line",
+              "der Eröffnungszeile"
+            ],
+            [
+              "'I have just tried vegan food'?",
+              "'I have just tried vegan food'?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Present Perfect",
+              "Present Perfect"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Which",
+                  "welche"
+                ],
+                [
+                  "tense",
+                  "Zeitform"
+                ],
+                [
+                  "is used",
+                  "wird-verwendet"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the opening line",
+                  "der Eröffnungszeile"
+                ],
+                [
+                  "'I have just tried vegan food'?",
+                  "'I have just tried vegan food'?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "What does the Jamie task ask you to do? → ",
-            {"opts": ["respond to Jamie, describe how social media affects young people, give positive AND negative aspects, and explain its importance in your life","only describe the negative sides of social media","write a formal letter to Jamie about your school"], "decode": ["auf Jamie antworten, die Wirkung auf junge Menschen beschreiben, positive UND negative Aspekte nennen und die Bedeutung in deinem Leben erklären","nur die negativen Seiten von Social Media beschreiben","einen formellen Brief an Jamie über deine Schule schreiben"], "correct": 0}
+            {
+              "opts": [
+                "respond to Jamie, describe how social media affects young people, give positive AND negative aspects, and explain its importance in your life",
+                "only describe the negative sides of social media",
+                "write a formal letter to Jamie about your school"
+              ],
+              "decode": [
+                "auf Jamie antworten, die Wirkung auf junge Menschen beschreiben, positive UND negative Aspekte nennen und die Bedeutung in deinem Leben erklären",
+                "nur die negativen Seiten von Social Media beschreiben",
+                "einen formellen Brief an Jamie über deine Schule schreiben"
+              ],
+              "correct": 0,
+              "n": "respond to Jamie, describe how social media affects young people, give positive AND negative aspects, and explain its importance in your life"
+            }
           ],
           "solutionEn": "The task: respond to Jamie's comment, describe how social media affects young people, mention both positive and negative aspects, and explain whether social media is important in your life – plus a suitable title.",
           "solutionDe": "Die Aufgabe: auf Jamies Kommentar reagieren, die Wirkung auf junge Menschen beschreiben, positive UND negative Aspekte nennen, die Bedeutung in deinem Leben erklären – und ein passender Titel.",
-          "explain": "Arbeite in der Schularbeit ALLE vier Punkte ab und hake sie am Ende ab – fehlende Punkte kosten Inhaltspunkte."
+          "explain": "Arbeite in der Schularbeit ALLE vier Punkte ab und hake sie am Ende ab – fehlende Punkte kosten Inhaltspunkte.",
+          "decodeFull": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "does",
+              "tut"
+            ],
+            [
+              "the Jamie task",
+              "die Jamie-Aufgabe"
+            ],
+            [
+              "ask",
+              "verlangen"
+            ],
+            [
+              "you",
+              "von-dir"
+            ],
+            [
+              "to do?",
+              "zu tun?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "respond",
+              "antworte"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "Jamie,",
+              "Jamie,"
+            ],
+            [
+              "describe",
+              "beschreibe"
+            ],
+            [
+              "how",
+              "wie"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "affects",
+              "beeinflussen"
+            ],
+            [
+              "young",
+              "junge"
+            ],
+            [
+              "people,",
+              "Menschen,"
+            ],
+            [
+              "give",
+              "gib"
+            ],
+            [
+              "positive",
+              "positive"
+            ],
+            [
+              "AND",
+              "UND"
+            ],
+            [
+              "negative",
+              "negative"
+            ],
+            [
+              "aspects,",
+              "Aspekte,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "explain",
+              "erkläre"
+            ],
+            [
+              "its",
+              "ihre"
+            ],
+            [
+              "importance",
+              "Bedeutung"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "life",
+              "Leben"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "was"
+                ],
+                [
+                  "does",
+                  "tut"
+                ],
+                [
+                  "the Jamie task",
+                  "die Jamie-Aufgabe"
+                ],
+                [
+                  "ask",
+                  "verlangen"
+                ],
+                [
+                  "you",
+                  "von-dir"
+                ],
+                [
+                  "to do?",
+                  "zu tun?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Why are paragraphs and linking words important? → ",
-            {"opts": ["they make your text structured, logical and easy to read","they make the text longer so you reach the word count","they are only needed in formal letters"], "decode": ["sie machen den Text strukturiert, logisch und gut lesbar","sie machen den Text länger, damit man die Wortzahl erreicht","man braucht sie nur in formellen Briefen"], "correct": 0}
+            {
+              "opts": [
+                "they make your text structured, logical and easy to read",
+                "they make the text longer so you reach the word count",
+                "they are only needed in formal letters"
+              ],
+              "decode": [
+                "sie machen den Text strukturiert, logisch und gut lesbar",
+                "sie machen den Text länger, damit man die Wortzahl erreicht",
+                "man braucht sie nur in formellen Briefen"
+              ],
+              "correct": 0,
+              "n": "they make your text structured, logical and easy to read"
+            }
           ],
           "solutionEn": "Paragraphs and linking words (however, on the one hand, summing up) make your text structured, logical and easy to read.",
           "solutionDe": "Absätze und Verbindungswörter (however, on the one hand, summing up) machen deinen Text strukturiert, logisch und gut lesbar.",
-          "explain": "Die Anleitung warnt: Ein riesiger Textblock schreckt ab – niemand liest ihn. Absätze + linking words sind Pflicht."
+          "explain": "Die Anleitung warnt: Ein riesiger Textblock schreckt ab – niemand liest ihn. Absätze + linking words sind Pflicht.",
+          "decodeFull": [
+            [
+              "Why",
+              "warum"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "paragraphs",
+              "Absätze"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "linking words",
+              "Verbindungswörter"
+            ],
+            [
+              "important?",
+              "wichtig?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "text",
+              "Text"
+            ],
+            [
+              "structured,",
+              "strukturiert,"
+            ],
+            [
+              "logical",
+              "logisch"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "easy",
+              "leicht"
+            ],
+            [
+              "to read",
+              "zu lesen"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Why",
+                  "warum"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "paragraphs",
+                  "Absätze"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "linking words",
+                  "Verbindungswörter"
+                ],
+                [
+                  "important?",
+                  "wichtig?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     }

@@ -77,6 +77,9 @@
   select.bad{border-color:var(--bad);background:var(--badbg);color:var(--bad)}
   .gapwrap{display:inline-flex;flex-direction:column;vertical-align:middle;margin:0 2px}
   .gapdec{font-size:11px;color:var(--acc);min-height:13px;font-weight:600;text-align:center}
+  /* Nennform-Hinweis (Grundform der richtigen Antwort) direkt neben dem Dropdown */
+  .gaphint{font-size:13.5px;color:var(--muted);font-weight:700;margin:0 1px 0 3px;vertical-align:middle}
+  .gaphint::before{content:"(";} .gaphint::after{content:")";}
   .qbtns{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;align-items:center}
   .btn{border:none;border-radius:10px;padding:8px 14px;font-size:13.5px;font-weight:700;cursor:pointer;background:var(--acc);color:#fff}
   .btn.ghost{background:transparent;color:var(--acc);border:1.5px solid var(--acc)}
@@ -87,6 +90,29 @@
   .sol .en{font-weight:700}
   .feedback{font-weight:800;font-size:14px}
   .feedback.good{color:var(--ok)} .feedback.badc{color:var(--bad)}
+  /* Übungs-Werkzeuge: Wort für Wort + Vorlesen */
+  .qtools{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;align-items:center}
+  .qtools .btn{padding:6px 12px;font-size:12.5px}
+  .qtools .btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+  .qplay.playing{background:var(--ok);color:#fff;border-color:var(--ok)}
+  .q.qplaying{outline:2px solid var(--acc);outline-offset:1px}
+  .wfw{margin-top:10px;padding:11px 12px;border-radius:10px;background:var(--bg);border:1px dashed var(--acc);display:none}
+  .wfw.show{display:block}
+  .wfw .wfwhint{font-size:11.5px;color:var(--muted);margin-bottom:8px}
+  .wfw .words{align-items:flex-end}
+  /* Übungs-WfW immer mit Übersetzung, unabhängig von der Birkenbihl-Lernstufe */
+  body.lv2 .wfw .w span, body.lv3 .wfw .w span{display:inline !important}
+  /* Highlight beim Vorlesen (auch auf Übungs-Zellen) */
+  .wfw .w.speak b{background:var(--acc);color:#fff;box-shadow:0 0 0 2.5px var(--acc)}
+  .wfw .w.speak span{color:var(--acc)}
+  /* Optionen als farbige Chips */
+  .optset{display:inline-flex;flex-wrap:wrap;gap:5px;vertical-align:bottom;margin:0 3px}
+  .optchip{display:inline-flex;flex-direction:column;align-items:flex-start;padding:3px 8px 4px;border-radius:9px;border:1.6px solid var(--oc);background:var(--ocbg);line-height:1.2}
+  .optchip .ocw{font-size:14.5px;font-weight:750;color:var(--oc)}
+  .optchip .ocb{display:inline-block;font-size:10px;font-weight:800;color:#fff;background:var(--oc);border-radius:5px;padding:0 5px;margin-right:5px}
+  .optchip .ocd{font-size:11px;color:var(--oc);opacity:.85;margin-top:1px;font-weight:600}
+  .optchip.speak{box-shadow:0 0 0 3px var(--oc);transform:translateY(-1px)}
+  .optchip.speak .ocw{text-decoration:underline}
   .ptsfly{position:fixed;font-weight:900;color:var(--ok);font-size:20px;pointer-events:none;animation:fly 1.1s forwards;z-index:99}
   @keyframes fly{to{transform:translateY(-60px);opacity:0}}
   @keyframes shake{25%{transform:translateX(-5px)}50%{transform:translateX(5px)}75%{transform:translateX(-3px)}}
@@ -127,6 +153,7 @@
 <audio id="audio"></audio>
 <script src="content.js"></script>
 <script src="timings.js"></script>
+<script src="timings_ex.js"></script>
 <script>
 "use strict";
 /* ---------- State ---------- */
@@ -239,7 +266,34 @@ function playText(ids){
     AUDIO.onended=()=>{ markHeard(id); step(); };
   }; step();
 }
-function stopSeq(){ if(seq) seq.stop=true; seq=null; AUDIO.pause(); AUDIO.onended=null; clearHi(); }
+function stopSeq(){ if(seq) seq.stop=true; seq=null; AUDIO.pause(); AUDIO.onended=null; clearHi(); exClearHi(); document.querySelectorAll(".q.qplaying").forEach(x=>x.classList.remove("qplaying")); document.querySelectorAll(".qplay.playing").forEach(x=>x.classList.remove("playing")); }
+/* Vorlesen einer Übungsaufgabe (Choose-Format-MP3) MIT Karaoke-Highlight im WfW-Panel */
+let exRaf=null, exPanel=null, exTm=null;
+function exClearHi(){ if(exPanel){ exPanel.querySelectorAll(".speak").forEach(x=>x.classList.remove("speak")); } if(exRaf){ cancelAnimationFrame(exRaf); exRaf=null; } exPanel=null; exTm=null; }
+function exTick(){
+  if(!exPanel || AUDIO.paused){ exRaf=null; return; }
+  if(exTm){
+    const t=AUDIO.currentTime*1000; let active=-1;
+    for(let i=0;i<exTm.length;i++){ if(exTm[i] && t>=exTm[i][0] && t<exTm[i][1]+60){ active=i; break; } }
+    exPanel.querySelectorAll("[data-hi]").forEach(el=>el.classList.toggle("speak", +el.dataset.hi===active));
+  }
+  exRaf=requestAnimationFrame(exTick);
+}
+function playExerciseAudio(qid, wrap, btn, panel){
+  const wasPlaying = btn && btn.classList.contains("playing");
+  stopSeq();
+  if(wasPlaying) return; // Toggle: war schon am Spielen -> jetzt stoppen
+  if(wrap) wrap.classList.add("qplaying");
+  if(btn) btn.classList.add("playing");
+  exPanel = (panel && panel.classList.contains("show")) ? panel : null;
+  exTm = (window.EX_TIMINGS||{})[qid] || null;
+  AUDIO.src="audio/ex/"+qid+".mp3";
+  const done=()=>{ if(wrap)wrap.classList.remove("qplaying"); if(btn)btn.classList.remove("playing"); exClearHi(); };
+  const p=AUDIO.play();
+  if(p) p.catch(()=>{ done(); toast(window.EX_AUDIO_READY?"Audio-Datei fehlt noch 🎧":"Übungs-Audio wird noch erzeugt 🎧"); });
+  AUDIO.onended=done;
+  if(exPanel && exTm && !exRaf) exRaf=requestAnimationFrame(exTick);
+}
 /* ---------- Router ---------- */
 let CUR = {tab:"home", sub:"lernen"};
 function renderTabs(){
@@ -274,7 +328,7 @@ function renderHome(v){
     <h2>Hi! 👋 Bereit für die Schularbeit?</h2>
     <p class="muted" style="margin:4px 0 10px">So funktioniert's – in 3 Schritten pro Thema:</p>
     <p style="margin:0 0 12px"><b>1️⃣ Lesen &amp; Hören</b> – englischer Text mit Wort-für-Wort-Übersetzung (Birkenbihl-Methode) und sinnvoller Übersetzung. Beim Vorlesen leuchtet das aktuelle Wort auf.<br>
-    <b>2️⃣ Üben</b> – Aufgaben der Professorin als Dropdown-Aufgaben. Nichts tippen, nur klug auswählen. Jede Aufgabe hat einen Lösungs-Button.<br>
+    <b>2️⃣ Üben</b> – Aufgaben der Professorin als Dropdown-Aufgaben. Nichts tippen, nur klug auswählen. Jede Aufgabe hat einen Lösungs-Button – und neu: „🔤 Wort für Wort“ (ganzer Satz mit deutscher Übersetzung unter jedem Wort) und „🔊 Vorlesen“.<br>
     <b>3️⃣ Prüfung</b> – Mini-Schularbeit mit Note. Fehler landen automatisch in „Nochmal üben“.</p>
   </div>
   <div class="card">
@@ -378,6 +432,38 @@ function renderExercises(v,t){
     v.appendChild(c);
   });
 }
+const OPTCOLORS=["#b8860b","#e8730c","#d62828","#6a4c93","#1b7f5c","#2563eb","#b5179e"];
+const OPTLETTERS=["a","b","c","d","e","f","g"];
+function addExerciseTools(wrap,q,qid){
+  if(!q.wfw || !q.wfw.length) return;
+  const tools=document.createElement("div"); tools.className="qtools";
+  const wfwBtn=document.createElement("button"); wfwBtn.type="button"; wfwBtn.className="btn ghost"; wfwBtn.innerHTML="🔤 Wort für Wort";
+  const playBtn=document.createElement("button"); playBtn.type="button"; playBtn.className="btn ghost qplay"; playBtn.textContent="🔊 Vorlesen";
+  tools.append(wfwBtn, playBtn); wrap.appendChild(tools);
+  const panel=document.createElement("div"); panel.className="wfw";
+  let hi=0;
+  let html='<div class="wfwhint">Ganzer Satz Wort für Wort. Die <b>Antwort-Optionen</b> sind farbig markiert (Englisch + Bedeutung) – welche richtig ist, wählst du selbst 😉</div><div class="words">';
+  q.wfw.forEach((seg,idx)=>{
+    if(seg.t==="t"){
+      (seg.w||[]).forEach(p=>{ html+=`<span class="w" data-hi="${hi++}"><b>${esc(p[0])}</b><span>${esc(p[1])}</span></span>`; });
+    } else {
+      const part=q.parts[idx];
+      html+='<span class="optset">';
+      part.opts.forEach((o,oi)=>{
+        const c=OPTCOLORS[oi%OPTCOLORS.length];
+        const de=(part.decode&&part.decode[oi])?part.decode[oi]:"";
+        html+=`<span class="optchip" data-hi="${hi++}" style="--oc:${c};--ocbg:${c}1e"><span class="ocw"><span class="ocb">${OPTLETTERS[oi]}</span>${esc(o)}</span>${de?`<span class="ocd">${esc(de)}</span>`:""}</span>`;
+      });
+      html+='</span>';
+    }
+  });
+  html+='</div>';
+  panel.innerHTML=html;
+  wrap.appendChild(panel);
+  const openPanel=()=>{ panel.classList.add("show"); wfwBtn.classList.add("on"); wfwBtn.innerHTML="🔼 Wort für Wort ausblenden"; };
+  wfwBtn.onclick=()=>{ if(panel.classList.contains("show")){ panel.classList.remove("show"); wfwBtn.classList.remove("on"); wfwBtn.innerHTML="🔤 Wort für Wort"; } else openPanel(); };
+  playBtn.onclick=()=>{ openPanel(); playExerciseAudio(qid, wrap, playBtn, panel); };
+}
 function questionEl(topic,ex,q,qid,examMode){
   const wrap=document.createElement("div"); wrap.className="q"; wrap.dataset.qid=qid;
   const st=S.q[qid];
@@ -392,6 +478,7 @@ function questionEl(topic,ex,q,qid,examMode){
     const dec=document.createElement("span"); dec.className="gapdec"; dec.innerHTML="&nbsp;";
     sel.onchange=()=>{ const oi=+sel.value; dec.textContent = (p.decode&&p.decode[oi]) ? p.decode[oi] : " "; sel.classList.remove("ok","bad"); };
     gw.appendChild(sel); gw.appendChild(dec); body.appendChild(gw);
+    if(p.n){ const hint=document.createElement("span"); hint.className="gaphint"; hint.textContent=p.n; body.appendChild(hint); }
     gaps.push({p,sel});
   });
   const btns=document.createElement("div"); btns.className="qbtns"; wrap.appendChild(btns);
@@ -402,7 +489,7 @@ function questionEl(topic,ex,q,qid,examMode){
     if(!solBox.parentNode) wrap.appendChild(solBox); };
   const lock=()=> gaps.forEach(g=>g.sel.disabled=true);
   const applyCorrect=()=> gaps.forEach(g=>{ g.sel.value=String(g.p.correct); g.sel.dispatchEvent(new Event("change")); g.sel.classList.add("ok"); });
-  if(!examMode && st?.s==="ok"){ applyCorrect(); lock(); wrap.classList.add("ok"); fb.textContent="Gemeistert ✓"; fb.className="feedback good"; btns.appendChild(fb); return wrap; }
+  if(!examMode && st?.s==="ok"){ applyCorrect(); lock(); wrap.classList.add("ok"); fb.textContent="Gemeistert ✓"; fb.className="feedback good"; btns.appendChild(fb); addExerciseTools(wrap,q,qid); return wrap; }
   if(examMode) return wrap;
   const check=document.createElement("button"); check.className="btn"; check.textContent="Prüfen";
   const solBtn=document.createElement("button"); solBtn.className="btn gray"; solBtn.textContent="Lösung anzeigen";
@@ -434,6 +521,7 @@ function questionEl(topic,ex,q,qid,examMode){
     fb.textContent="Lösung angesehen – kommt in „Nochmal üben“ ♻️"; fb.className="feedback";
     check.remove(); solBtn.remove(); renderTabs();
   };
+  addExerciseTools(wrap,q,qid);
   return wrap;
 }
 function checkBadge(t){

@@ -11,49 +11,317 @@
         {
           "id": "rep_t1_s01",
           "en": "Sally said that she walked the dog every day.",
-          "decode": [["Sally","Sally"],["said","sagte"],["that","dass"],["she","sie"],["walked","ausführte"],["the","den"],["dog","Hund"],["every","jeden"],["day.","Tag."]],
+          "decode": [
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "walked",
+              "ausführte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "dog",
+              "Hund"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "day.",
+              "Tag."
+            ]
+          ],
           "de": "(Direkt: 'I walk the dog every day.') Sally sagte, dass sie jeden Tag den Hund ausführe."
         },
         {
           "id": "rep_t1_s02",
           "en": "Sally told me that she was walking the dog.",
-          "decode": [["Sally","Sally"],["told","erzählte"],["me","mir"],["that","dass"],["she","sie"],["was walking","gerade-ausführte"],["the","den"],["dog.","Hund."]],
+          "decode": [
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "told",
+              "erzählte"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was walking",
+              "gerade-ausführte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "dog.",
+              "Hund."
+            ]
+          ],
           "de": "(Direkt: 'I am walking the dog.') Sally erzählte mir, dass sie gerade den Hund ausführe."
         },
         {
           "id": "rep_t1_s03",
           "en": "Sally mentioned that she would walk the dog every day.",
-          "decode": [["Sally","Sally"],["mentioned","erwähnte"],["that","dass"],["she","sie"],["would walk","ausführen-würde"],["the","den"],["dog","Hund"],["every","jeden"],["day.","Tag."]],
+          "decode": [
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "mentioned",
+              "erwähnte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would walk",
+              "ausführen-würde"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "dog",
+              "Hund"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "day.",
+              "Tag."
+            ]
+          ],
           "de": "(Direkt: 'I will walk the dog every day.') Sally erwähnte, dass sie den Hund jeden Tag ausführen würde."
         },
         {
           "id": "rep_t1_s04",
           "en": "Sally answered that she had walked the dog the night before.",
-          "decode": [["Sally","Sally"],["answered","antwortete"],["that","dass"],["she","sie"],["had walked","ausgeführt-hatte"],["the","den"],["dog","Hund"],["the night before.","am-Abend-davor."]],
+          "decode": [
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "answered",
+              "antwortete"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had walked",
+              "ausgeführt-hatte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "dog",
+              "Hund"
+            ],
+            [
+              "the night before.",
+              "am-Abend-davor."
+            ]
+          ],
           "de": "(Direkt: 'I walked the dog last night.') Sally antwortete, dass sie den Hund am Abend davor ausgeführt habe."
         },
         {
           "id": "rep_t1_s05",
           "en": "Sally said that she had walked the dog that day.",
-          "decode": [["Sally","Sally"],["said","sagte"],["that","dass"],["she","sie"],["had walked","ausgeführt-hatte"],["the","den"],["dog","Hund"],["that day.","an-jenem-Tag."]],
+          "decode": [
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had walked",
+              "ausgeführt-hatte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "dog",
+              "Hund"
+            ],
+            [
+              "that day.",
+              "an-jenem-Tag."
+            ]
+          ],
           "de": "(Direkt: 'I have walked the dog today.') Sally sagte, dass sie den Hund an jenem Tag ausgeführt habe."
         },
         {
           "id": "rep_t1_s06",
           "en": "Peter said that he was at home.",
-          "decode": [["Peter","Peter"],["said","sagte"],["that","dass"],["he","er"],["was","war"],["at","zu"],["home.","Hause."]],
+          "decode": [
+            [
+              "Peter",
+              "Peter"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home.",
+              "Hause."
+            ]
+          ],
           "de": "(Direkt: 'I'm at home.') Peter sagte, dass er zu Hause sei."
         },
         {
           "id": "rep_t1_s07",
           "en": "Omar said that he had never been to China.",
-          "decode": [["Omar","Omar"],["said","sagte"],["that","dass"],["he","er"],["had","war"],["never","nie"],["been","gewesen"],["to","in"],["China.","China."]],
+          "decode": [
+            [
+              "Omar",
+              "Omar"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "war"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "China.",
+              "China."
+            ]
+          ],
           "de": "(Direkt: 'I've never been to China.') Omar sagte, dass er noch nie in China gewesen sei."
         },
         {
           "id": "rep_t1_s08",
           "en": "Daniel said that he couldn't speak French.",
-          "decode": [["Daniel","Daniel"],["said","sagte"],["that","dass"],["he","er"],["couldn't","nicht-konnte"],["speak","sprechen"],["French.","Französisch."]],
+          "decode": [
+            [
+              "Daniel",
+              "Daniel"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "couldn't",
+              "nicht-konnte"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "French.",
+              "Französisch."
+            ]
+          ],
           "de": "(Direkt: 'I can't speak French.') Daniel sagte, dass er kein Französisch sprechen könne."
         }
       ]
@@ -65,37 +333,215 @@
         {
           "id": "rep_t2_s01",
           "en": "The policeman asked the man where he had parked the car.",
-          "decode": [["The","Der"],["policeman","Polizist"],["asked","fragte"],["the","den"],["man","Mann"],["where","wo"],["he","er"],["had parked","geparkt-hatte"],["the","das"],["car.","Auto."]],
+          "decode": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "policeman",
+              "Polizist"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "man",
+              "Mann"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had parked",
+              "geparkt-hatte"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "car.",
+              "Auto."
+            ]
+          ],
           "de": "(Direkt: 'Where did you park the car?') Der Polizist fragte den Mann, wo er das Auto geparkt habe."
         },
         {
           "id": "rep_t2_s02",
           "en": "The policeman asked the man whether it was his car.",
-          "decode": [["The","Der"],["policeman","Polizist"],["asked","fragte"],["the","den"],["man","Mann"],["whether","ob"],["it","es"],["was","war"],["his","sein"],["car.","Auto."]],
+          "decode": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "policeman",
+              "Polizist"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "man",
+              "Mann"
+            ],
+            [
+              "whether",
+              "ob"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "car.",
+              "Auto."
+            ]
+          ],
           "de": "(Direkt: 'Is this your car?') Der Polizist fragte den Mann, ob es sein Auto sei."
         },
         {
           "id": "rep_t2_s03",
           "en": "She asked if I was tired.",
-          "decode": [["She","Sie"],["asked","fragte"],["if","ob"],["I","ich"],["was","war"],["tired.","müde."]],
+          "decode": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "tired.",
+              "müde."
+            ]
+          ],
           "de": "(Direkt: 'Are you tired?') Sie fragte, ob ich müde sei."
         },
         {
           "id": "rep_t2_s04",
           "en": "Billy asked his brother to take him to the movies.",
-          "decode": [["Billy","Billy"],["asked","bat"],["his","seinen"],["brother","Bruder"],["to take","zu-bringen"],["him","ihn"],["to the movies.","ins-Kino."]],
+          "decode": [
+            [
+              "Billy",
+              "Billy"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "his",
+              "seinen"
+            ],
+            [
+              "brother",
+              "Bruder"
+            ],
+            [
+              "to take",
+              "zu-bringen"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "to the movies.",
+              "ins-Kino."
+            ]
+          ],
           "de": "(Direkt: 'Could you take me to the movies?') Billy bat seinen Bruder, ihn ins Kino zu bringen."
         },
         {
           "id": "rep_t2_s05",
           "en": "Jenny told Michael to hurry up.",
-          "decode": [["Jenny","Jenny"],["told","sagte"],["Michael","Michael"],["to hurry up.","sich-zu-beeilen."]],
+          "decode": [
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "told",
+              "sagte"
+            ],
+            [
+              "Michael",
+              "Michael"
+            ],
+            [
+              "to hurry up.",
+              "sich-zu-beeilen."
+            ]
+          ],
           "de": "(Direkt: 'Hurry up!') Jenny sagte Michael, er solle sich beeilen."
         },
         {
           "id": "rep_t2_s06",
           "en": "Jenny told Michael not to shout that way.",
-          "decode": [["Jenny","Jenny"],["told","sagte"],["Michael","Michael"],["not","nicht"],["to shout","zu-schreien"],["that way.","auf-diese-Art."]],
+          "decode": [
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "told",
+              "sagte"
+            ],
+            [
+              "Michael",
+              "Michael"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "to shout",
+              "zu-schreien"
+            ],
+            [
+              "that way.",
+              "auf-diese-Art."
+            ]
+          ],
           "de": "(Direkt: 'Don't shout like that!') Jenny sagte Michael, er solle nicht so schreien."
         }
       ]
@@ -112,84 +558,1716 @@
         {
           "parts": [
             "Letzte Woche: \"I have my own business.\" – Jetzt: \"My boss gave me a promotion today!\" → Daniella: But I thought you said ",
-            {"opts": ["you had", "you have", "I had"], "decode": ["du hattest", "du hast", "ich hatte"], "correct": 0},
+            {
+              "opts": [
+                "you had",
+                "you have",
+                "I had"
+              ],
+              "decode": [
+                "du hattest",
+                "du hast",
+                "ich hatte"
+              ],
+              "correct": 0,
+              "n": "have"
+            },
             " your own business."
           ],
           "solutionEn": "But I thought you said you had your own business.",
           "solutionDe": "Aber ich dachte, du hättest gesagt, du hättest eine eigene Firma.",
-          "explain": "Backshift: have (Present Simple) → had (Past Simple); Pronomen I → you, weil Daniella Martin direkt anspricht."
+          "explain": "Backshift: have (Present Simple) → had (Past Simple); Pronomen I → you, weil Daniella Martin direkt anspricht.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "my own",
+              "mein eigenes"
+            ],
+            [
+              "business.\"",
+              "Unternehmen.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"My",
+              "\"Mein"
+            ],
+            [
+              "boss",
+              "Chef"
+            ],
+            [
+              "gave",
+              "gab"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "a promotion",
+              "eine Beförderung"
+            ],
+            [
+              "today!\"",
+              "heute!\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had",
+              "hattest"
+            ],
+            [
+              "your own",
+              "dein eigenes"
+            ],
+            [
+              "business.",
+              "Unternehmen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "have",
+                  "habe"
+                ],
+                [
+                  "my own",
+                  "mein eigenes"
+                ],
+                [
+                  "business.\"",
+                  "Unternehmen.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"My",
+                  "\"Mein"
+                ],
+                [
+                  "boss",
+                  "Chef"
+                ],
+                [
+                  "gave",
+                  "gab"
+                ],
+                [
+                  "me",
+                  "mir"
+                ],
+                [
+                  "a promotion",
+                  "eine Beförderung"
+                ],
+                [
+                  "today!\"",
+                  "heute!\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "thought",
+                  "dachte"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "said",
+                  "sagtest"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your own",
+                  "dein eigenes"
+                ],
+                [
+                  "business.",
+                  "Unternehmen."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I've travelled all over the world.\" – Jetzt: \"I've never been to China.\" → Daniella: But I thought you told me ",
-            {"opts": ["you had travelled", "you have travelled", "you travelled"], "decode": ["du warst gereist", "du bist gereist", "du reistest"], "correct": 0},
+            {
+              "opts": [
+                "you had travelled",
+                "you have travelled",
+                "you travelled"
+              ],
+              "decode": [
+                "du warst gereist",
+                "du bist gereist",
+                "du reistest"
+              ],
+              "correct": 0,
+              "n": "travel"
+            },
             " all over the world."
           ],
           "solutionEn": "But I thought you told me you had travelled all over the world.",
           "solutionDe": "Aber ich dachte, du hättest mir erzählt, du seist um die ganze Welt gereist.",
-          "explain": "Backshift: have travelled (Present Perfect) → had travelled (Past Perfect)."
+          "explain": "Backshift: have travelled (Present Perfect) → had travelled (Past Perfect).",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I've",
+              "\"Ich'habe"
+            ],
+            [
+              "travelled",
+              "gereist"
+            ],
+            [
+              "all over",
+              "überall auf"
+            ],
+            [
+              "the world.\"",
+              "der Welt.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"I've",
+              "\"Ich'habe"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to China.\"",
+              "in China.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "told",
+              "erzähltest"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had travelled",
+              "gereist-hattest"
+            ],
+            [
+              "all over",
+              "überall auf"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I've",
+                  "\"Ich'habe"
+                ],
+                [
+                  "travelled",
+                  "gereist"
+                ],
+                [
+                  "all over",
+                  "überall auf"
+                ],
+                [
+                  "the world.\"",
+                  "der Welt.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"I've",
+                  "\"Ich'habe"
+                ],
+                [
+                  "never",
+                  "nie"
+                ],
+                [
+                  "been",
+                  "gewesen"
+                ],
+                [
+                  "to China.\"",
+                  "in China.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "thought",
+                  "dachte"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "told",
+                  "erzähltest"
+                ],
+                [
+                  "me",
+                  "mir"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "all over",
+                  "überall auf"
+                ],
+                [
+                  "the world.",
+                  "der Welt."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I have a Mercedes.\" – Jetzt: \"I take the train to work every day.\" → Daniella: But didn't you say ",
-            {"opts": ["you had", "you have", "you would have"], "decode": ["du hattest", "du hast", "du hättest"], "correct": 0},
+            {
+              "opts": [
+                "you had",
+                "you have",
+                "you would have"
+              ],
+              "decode": [
+                "du hattest",
+                "du hast",
+                "du hättest"
+              ],
+              "correct": 0,
+              "n": "have"
+            },
             " a Mercedes?"
           ],
           "solutionEn": "But didn't you say you had a Mercedes?",
           "solutionDe": "Aber hast du nicht gesagt, du hättest einen Mercedes?",
-          "explain": "Backshift: have → had (Present → Past). Der Einleitungssatz (didn't you say) steht im Past."
+          "explain": "Backshift: have → had (Present → Past). Der Einleitungssatz (didn't you say) steht im Past.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "a Mercedes.\"",
+              "einen Mercedes.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "take",
+              "nehme"
+            ],
+            [
+              "the train",
+              "den Zug"
+            ],
+            [
+              "to work",
+              "zur Arbeit"
+            ],
+            [
+              "every day.\"",
+              "jeden Tag.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "say",
+              "sagen"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had",
+              "hattest"
+            ],
+            [
+              "a Mercedes?",
+              "einen Mercedes?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "have",
+                  "habe"
+                ],
+                [
+                  "a Mercedes.\"",
+                  "einen Mercedes.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "take",
+                  "nehme"
+                ],
+                [
+                  "the train",
+                  "den Zug"
+                ],
+                [
+                  "to work",
+                  "zur Arbeit"
+                ],
+                [
+                  "every day.\"",
+                  "jeden Tag.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "didn't",
+                  "taten'nicht"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "say",
+                  "sagen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a Mercedes?",
+                  "einen Mercedes?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I don't drink alcohol.\" – Jetzt: \"Let's go for a beer tomorrow evening.\" → Daniella: But you said ",
-            {"opts": ["you didn't drink", "you don't drink", "you hadn't drunk"], "decode": ["du trankst nicht", "du trinkst nicht", "du hattest nicht getrunken"], "correct": 0},
+            {
+              "opts": [
+                "you didn't drink",
+                "you don't drink",
+                "you hadn't drunk"
+              ],
+              "decode": [
+                "du trankst nicht",
+                "du trinkst nicht",
+                "du hattest nicht getrunken"
+              ],
+              "correct": 0,
+              "n": "drink"
+            },
             " alcohol."
           ],
           "solutionEn": "But you said you didn't drink alcohol.",
           "solutionDe": "Aber du hast gesagt, du trinkst keinen Alkohol.",
-          "explain": "Backshift: don't drink (Present Simple) → didn't drink (Past Simple). Past Perfect wäre eine Stufe zu viel."
+          "explain": "Backshift: don't drink (Present Simple) → didn't drink (Past Simple). Past Perfect wäre eine Stufe zu viel.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "don't",
+              "tue'nicht"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "alcohol.\"",
+              "Alkohol.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"Let's",
+              "\"Lass'uns"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "for a beer",
+              "auf ein Bier"
+            ],
+            [
+              "tomorrow evening.\"",
+              "morgen Abend.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "alcohol.",
+              "Alkohol."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "don't",
+                  "tue'nicht"
+                ],
+                [
+                  "drink",
+                  "trinken"
+                ],
+                [
+                  "alcohol.\"",
+                  "Alkohol.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"Let's",
+                  "\"Lass'uns"
+                ],
+                [
+                  "go",
+                  "gehen"
+                ],
+                [
+                  "for a beer",
+                  "auf ein Bier"
+                ],
+                [
+                  "tomorrow evening.\"",
+                  "morgen Abend.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "said",
+                  "sagtest"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "alcohol.",
+                  "Alkohol."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I can speak French fluently.\" – Jetzt: \"The waiters refused to speak English!\" → Daniella: But I thought you said ",
-            {"opts": ["you could speak", "you can speak", "you would speak"], "decode": ["du konntest sprechen", "du kannst sprechen", "du würdest sprechen"], "correct": 0},
+            {
+              "opts": [
+                "you could speak",
+                "you can speak",
+                "you would speak"
+              ],
+              "decode": [
+                "du konntest sprechen",
+                "du kannst sprechen",
+                "du würdest sprechen"
+              ],
+              "correct": 0,
+              "n": "speak"
+            },
             " French fluently."
           ],
           "solutionEn": "But I thought you said you could speak French fluently.",
           "solutionDe": "Aber ich dachte, du hättest gesagt, du könntest fließend Französisch sprechen.",
-          "explain": "Modalverb-Backshift: can → could."
+          "explain": "Modalverb-Backshift: can → could.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "French",
+              "Französisch"
+            ],
+            [
+              "fluently.\"",
+              "fließend.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"The",
+              "\"Die"
+            ],
+            [
+              "waiters",
+              "Kellner"
+            ],
+            [
+              "refused",
+              "weigerten sich"
+            ],
+            [
+              "to speak",
+              "zu sprechen"
+            ],
+            [
+              "English!\"",
+              "Englisch!\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "could",
+              "könntest"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "French",
+              "Französisch"
+            ],
+            [
+              "fluently.",
+              "fließend."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "can",
+                  "kann"
+                ],
+                [
+                  "speak",
+                  "sprechen"
+                ],
+                [
+                  "French",
+                  "Französisch"
+                ],
+                [
+                  "fluently.\"",
+                  "fließend.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"The",
+                  "\"Die"
+                ],
+                [
+                  "waiters",
+                  "Kellner"
+                ],
+                [
+                  "refused",
+                  "weigerten sich"
+                ],
+                [
+                  "to speak",
+                  "zu sprechen"
+                ],
+                [
+                  "English!\"",
+                  "Englisch!\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "thought",
+                  "dachte"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "said",
+                  "sagtest"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "French",
+                  "Französisch"
+                ],
+                [
+                  "fluently.",
+                  "fließend."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I live alone.\" – Jetzt: \"Sorry, I have to answer the phone. It's my flatmate.\" → Daniella: But you told me ",
-            {"opts": ["you lived", "you live", "you had lived"], "decode": ["du wohntest", "du wohnst", "du hattest gewohnt"], "correct": 0},
+            {
+              "opts": [
+                "you lived",
+                "you live",
+                "you had lived"
+              ],
+              "decode": [
+                "du wohntest",
+                "du wohnst",
+                "du hattest gewohnt"
+              ],
+              "correct": 0,
+              "n": "live"
+            },
             " alone."
           ],
           "solutionEn": "But you told me you lived alone.",
           "solutionDe": "Aber du hast mir erzählt, du wohnst allein.",
-          "explain": "Backshift: live → lived (Present → Past Simple). tell braucht ein Objekt: you told ME."
+          "explain": "Backshift: live → lived (Present → Past Simple). tell braucht ein Objekt: you told ME.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "live",
+              "wohne"
+            ],
+            [
+              "alone.\"",
+              "allein.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"Sorry,",
+              "\"Entschuldigung,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "have",
+              "muss"
+            ],
+            [
+              "to answer",
+              "abnehmen"
+            ],
+            [
+              "the phone.",
+              "das Telefon."
+            ],
+            [
+              "It's",
+              "Es'ist"
+            ],
+            [
+              "my flatmate.\"",
+              "mein Mitbewohner.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "told",
+              "erzähltest"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "lived",
+              "wohntest"
+            ],
+            [
+              "alone.",
+              "allein."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "live",
+                  "wohne"
+                ],
+                [
+                  "alone.\"",
+                  "allein.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"Sorry,",
+                  "\"Entschuldigung,"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "have",
+                  "muss"
+                ],
+                [
+                  "to answer",
+                  "abnehmen"
+                ],
+                [
+                  "the phone.",
+                  "das Telefon."
+                ],
+                [
+                  "It's",
+                  "Es'ist"
+                ],
+                [
+                  "my flatmate.\"",
+                  "mein Mitbewohner.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "told",
+                  "erzähltest"
+                ],
+                [
+                  "me",
+                  "mir"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "alone.",
+                  "allein."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I'm going to Miami this summer.\" – Jetzt: \"I'm going to stay at home this summer.\" → Daniella: But didn't you say ",
-            {"opts": ["you were going", "you are going", "you had gone"], "decode": ["du würdest fahren", "du fährst", "du warst gefahren"], "correct": 0},
+            {
+              "opts": [
+                "you were going",
+                "you are going",
+                "you had gone"
+              ],
+              "decode": [
+                "du würdest fahren",
+                "du fährst",
+                "du warst gefahren"
+              ],
+              "correct": 0,
+              "n": "go"
+            },
             " to Miami this summer?"
           ],
           "solutionEn": "But didn't you say you were going to Miami this summer?",
           "solutionDe": "Aber hast du nicht gesagt, du würdest diesen Sommer nach Miami fahren?",
-          "explain": "Backshift: are going (Present Progressive) → were going (Past Progressive). 'this summer' bleibt, weil es noch derselbe Sommer ist."
+          "explain": "Backshift: are going (Present Progressive) → were going (Past Progressive). 'this summer' bleibt, weil es noch derselbe Sommer ist.",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I'm",
+              "\"Ich'bin"
+            ],
+            [
+              "going to",
+              "werde"
+            ],
+            [
+              "Miami",
+              "Miami"
+            ],
+            [
+              "this summer.\"",
+              "diesen Sommer.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"I'm",
+              "\"Ich'werde"
+            ],
+            [
+              "going to",
+              "werde"
+            ],
+            [
+              "stay at home",
+              "zuhause-bleiben"
+            ],
+            [
+              "this summer.\"",
+              "diesen Sommer.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "say",
+              "sagen"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "were going",
+              "wärst-gehend"
+            ],
+            [
+              "to Miami",
+              "nach Miami"
+            ],
+            [
+              "this summer?",
+              "diesen Sommer?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I'm",
+                  "\"Ich'bin"
+                ],
+                [
+                  "going to",
+                  "werde"
+                ],
+                [
+                  "Miami",
+                  "Miami"
+                ],
+                [
+                  "this summer.\"",
+                  "diesen Sommer.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"I'm",
+                  "\"Ich'werde"
+                ],
+                [
+                  "going to",
+                  "werde"
+                ],
+                [
+                  "stay at home",
+                  "zuhause-bleiben"
+                ],
+                [
+                  "this summer.\"",
+                  "diesen Sommer.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "But",
+                  "Aber"
+                ],
+                [
+                  "didn't",
+                  "taten'nicht"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "say",
+                  "sagen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to Miami",
+                  "nach Miami"
+                ],
+                [
+                  "this summer?",
+                  "diesen Sommer?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Letzte Woche: \"I won't forget your name.\" – Jetzt: \"It was nice to see you again, Maria.\" → Daniella: It's Daniella! I thought you said ",
-            {"opts": ["you wouldn't forget", "you won't forget", "you didn't forget"], "decode": ["du würdest nicht vergessen", "du wirst nicht vergessen", "du vergaßest nicht"], "correct": 0},
+            {
+              "opts": [
+                "you wouldn't forget",
+                "you won't forget",
+                "you didn't forget"
+              ],
+              "decode": [
+                "du würdest nicht vergessen",
+                "du wirst nicht vergessen",
+                "du vergaßest nicht"
+              ],
+              "correct": 0,
+              "n": "forget"
+            },
             " ",
-            {"opts": ["my", "your", "her"], "decode": ["meinen", "deinen", "ihren"], "correct": 0},
+            {
+              "opts": [
+                "my",
+                "your",
+                "her"
+              ],
+              "decode": [
+                "meinen",
+                "deinen",
+                "ihren"
+              ],
+              "correct": 0,
+              "n": "my"
+            },
             " name."
           ],
           "solutionEn": "I thought you said you wouldn't forget my name.",
           "solutionDe": "Ich dachte, du hättest gesagt, du würdest meinen Namen nicht vergessen.",
-          "explain": "Backshift: won't → wouldn't; Pronomen: your name → my name (aus Daniellas Sicht)."
+          "explain": "Backshift: won't → wouldn't; Pronomen: your name → my name (aus Daniellas Sicht).",
+          "decodeFull": [
+            [
+              "Letzte Woche:",
+              "Letzte Woche:"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "won't",
+              "werde'nicht"
+            ],
+            [
+              "forget",
+              "vergessen"
+            ],
+            [
+              "your name.\"",
+              "deinen Namen.\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Jetzt:",
+              "Jetzt:"
+            ],
+            [
+              "\"It",
+              "\"Es"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "nice",
+              "schön"
+            ],
+            [
+              "to see",
+              "dich-zu-sehen"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "again,",
+              "wieder,"
+            ],
+            [
+              "Maria.\"",
+              "Maria.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "It's",
+              "Es'ist"
+            ],
+            [
+              "Daniella!",
+              "Daniella!"
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "wouldn't",
+              "würdest'nicht"
+            ],
+            [
+              "forget",
+              "vergessen"
+            ],
+            [
+              "my name.",
+              "meinen Namen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Letzte Woche:",
+                  "Letzte Woche:"
+                ],
+                [
+                  "\"I",
+                  "\"ich"
+                ],
+                [
+                  "won't",
+                  "werde'nicht"
+                ],
+                [
+                  "forget",
+                  "vergessen"
+                ],
+                [
+                  "your name.\"",
+                  "deinen Namen.\""
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Jetzt:",
+                  "Jetzt:"
+                ],
+                [
+                  "\"It",
+                  "\"es"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "nice",
+                  "schön"
+                ],
+                [
+                  "to see",
+                  "dich-zu-sehen"
+                ],
+                [
+                  "you",
+                  "dich"
+                ],
+                [
+                  "again,",
+                  "wieder,"
+                ],
+                [
+                  "Maria.\"",
+                  "Maria.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Daniella:",
+                  "Daniella:"
+                ],
+                [
+                  "It's",
+                  "es'ist"
+                ],
+                [
+                  "Daniella!",
+                  "Daniella!"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "thought",
+                  "dachte"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "said",
+                  "sagtest"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "name.",
+                  "Namen."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -203,62 +2281,849 @@
         {
           "parts": [
             "Joe said, \"I'm going away this week.\" → Joe said he ",
-            {"opts": ["was going away", "is going away", "had gone away"], "decode": ["war am Wegfahren", "ist am Wegfahren", "war weggefahren"], "correct": 0},
+            {
+              "opts": [
+                "was going away",
+                "is going away",
+                "had gone away"
+              ],
+              "decode": [
+                "war am Wegfahren",
+                "ist am Wegfahren",
+                "war weggefahren"
+              ],
+              "correct": 0,
+              "n": "go"
+            },
             " that week."
           ],
           "solutionEn": "Joe said he was going away that week.",
           "solutionDe": "Joe sagte, er verreise in jener Woche.",
-          "explain": "'that week' (statt 'this week') zeigt: Die Woche ist vorbei → Backshift: am going → was going."
+          "explain": "'that week' (statt 'this week') zeigt: Die Woche ist vorbei → Backshift: am going → was going.",
+          "decodeFull": [
+            [
+              "Joe",
+              "Joe"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I'm",
+              "\"Ich'bin"
+            ],
+            [
+              "going away",
+              "weggehend"
+            ],
+            [
+              "this week.\"",
+              "diese Woche.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Joe",
+              "Joe"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was going away",
+              "weggehend-war"
+            ],
+            [
+              "that week.",
+              "jene Woche."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Joe",
+                  "Joe"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I'm",
+                  "\"Ich'bin"
+                ],
+                [
+                  "going away",
+                  "weggehend"
+                ],
+                [
+                  "this week.\"",
+                  "diese Woche.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Joe",
+                  "Joe"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "that week.",
+                  "jene Woche."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The athlete said, \"I will win the race tomorrow.\" → The athlete said he ",
-            {"opts": ["will win the race", "would win the race", "won the race"], "decode": ["wird das Rennen gewinnen", "würde das Rennen gewinnen", "gewann das Rennen"], "correct": 0},
+            {
+              "opts": [
+                "will win the race",
+                "would win the race",
+                "won the race"
+              ],
+              "decode": [
+                "wird das Rennen gewinnen",
+                "würde das Rennen gewinnen",
+                "gewann das Rennen"
+              ],
+              "correct": 0,
+              "n": "win"
+            },
             " tomorrow."
           ],
           "solutionEn": "The athlete said he will win the race tomorrow.",
           "solutionDe": "Der Athlet sagte, er wird das Rennen morgen gewinnen.",
-          "explain": "'tomorrow' bleibt im Satz → das Rennen ist immer noch morgen, die Situation ist unverändert → KEIN Backshift. 'would win' wäre nur richtig, wenn aus tomorrow 'the next day' würde."
+          "explain": "'tomorrow' bleibt im Satz → das Rennen ist immer noch morgen, die Situation ist unverändert → KEIN Backshift. 'would win' wäre nur richtig, wenn aus tomorrow 'the next day' würde.",
+          "decodeFull": [
+            [
+              "The athlete",
+              "Der Sportler"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "will win",
+              "werde gewinnen"
+            ],
+            [
+              "the race",
+              "das Rennen"
+            ],
+            [
+              "tomorrow.\"",
+              "morgen.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The athlete",
+              "Der Sportler"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "will win",
+              "wird gewinnen"
+            ],
+            [
+              "the race",
+              "das Rennen"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The athlete",
+                  "Der Sportler"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "will win",
+                  "werde gewinnen"
+                ],
+                [
+                  "the race",
+                  "das Rennen"
+                ],
+                [
+                  "tomorrow.\"",
+                  "morgen.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The athlete",
+                  "Der Sportler"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "tomorrow.",
+                  "morgen."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The news reporter said, \"People have been protesting in the streets today.\" → The news reporter said people ",
-            {"opts": ["had been protesting", "have been protesting", "were protested"], "decode": ["hatten protestiert", "haben protestiert", "wurden protestiert"], "correct": 0},
+            {
+              "opts": [
+                "had been protesting",
+                "have been protesting",
+                "were protested"
+              ],
+              "decode": [
+                "hatten protestiert",
+                "haben protestiert",
+                "wurden protestiert"
+              ],
+              "correct": 0,
+              "n": "protest"
+            },
             " in the streets that day."
           ],
           "solutionEn": "The news reporter said people had been protesting in the streets that day.",
           "solutionDe": "Der Reporter sagte, die Menschen hätten an jenem Tag auf den Straßen protestiert.",
-          "explain": "'that day' → Situation vorbei → Backshift: Present Perfect Progressive → Past Perfect Progressive."
+          "explain": "'that day' → Situation vorbei → Backshift: Present Perfect Progressive → Past Perfect Progressive.",
+          "decodeFull": [
+            [
+              "The news reporter",
+              "Der Nachrichtensprecher"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"People",
+              "\"Menschen"
+            ],
+            [
+              "have been protesting",
+              "haben-protestiert"
+            ],
+            [
+              "in the streets",
+              "auf den Straßen"
+            ],
+            [
+              "today.\"",
+              "heute.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The news reporter",
+              "Der Nachrichtensprecher"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "had been protesting",
+              "protestiert-hatten"
+            ],
+            [
+              "in the streets",
+              "auf den Straßen"
+            ],
+            [
+              "that day.",
+              "jenen Tag."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The news reporter",
+                  "Der Nachrichtensprecher"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"People",
+                  "\"Menschen"
+                ],
+                [
+                  "have been protesting",
+                  "haben-protestiert"
+                ],
+                [
+                  "in the streets",
+                  "auf den Straßen"
+                ],
+                [
+                  "today.\"",
+                  "heute.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The news reporter",
+                  "Der Nachrichtensprecher"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "people",
+                  "Menschen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in the streets",
+                  "auf den Straßen"
+                ],
+                [
+                  "that day.",
+                  "jenen Tag."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The director said, \"The company will continue to grow next year.\" → The director said the company ",
-            {"opts": ["will continue to grow", "would continue to grow", "continued to grow"], "decode": ["wird weiter wachsen", "würde weiter wachsen", "wuchs weiter"], "correct": 0},
+            {
+              "opts": [
+                "will continue to grow",
+                "would continue to grow",
+                "continued to grow"
+              ],
+              "decode": [
+                "wird weiter wachsen",
+                "würde weiter wachsen",
+                "wuchs weiter"
+              ],
+              "correct": 0,
+              "n": "grow"
+            },
             " next year."
           ],
           "solutionEn": "The director said the company will continue to grow next year.",
           "solutionDe": "Der Direktor sagte, die Firma wird nächstes Jahr weiter wachsen.",
-          "explain": "'next year' bleibt → die Aussage gilt noch → KEIN Backshift nötig."
+          "explain": "'next year' bleibt → die Aussage gilt noch → KEIN Backshift nötig.",
+          "decodeFull": [
+            [
+              "The director",
+              "Der Direktor"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"The company",
+              "\"Das Unternehmen"
+            ],
+            [
+              "will continue",
+              "wird weiterhin"
+            ],
+            [
+              "to grow",
+              "wachsen"
+            ],
+            [
+              "next year.\"",
+              "nächstes Jahr.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The director",
+              "Der Direktor"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "the company",
+              "das Unternehmen"
+            ],
+            [
+              "will continue",
+              "wird weiterhin"
+            ],
+            [
+              "to grow",
+              "wachsen"
+            ],
+            [
+              "next year.",
+              "nächstes Jahr."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The director",
+                  "Der Direktor"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"The company",
+                  "\"Das Unternehmen"
+                ],
+                [
+                  "will continue",
+                  "wird weiterhin"
+                ],
+                [
+                  "to grow",
+                  "wachsen"
+                ],
+                [
+                  "next year.\"",
+                  "nächstes Jahr.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The director",
+                  "Der Direktor"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "the company",
+                  "das Unternehmen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "next year.",
+                  "nächstes Jahr."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Last year, the doctor said, \"You need to rest more.\" → Last year, the doctor told me I ",
-            {"opts": ["needed to rest more", "need to rest more", "had needed to rest more"], "decode": ["müsse mich mehr ausruhen", "muss mich mehr ausruhen", "hatte mich mehr ausruhen müssen"], "correct": 0},
+            {
+              "opts": [
+                "needed to rest more",
+                "need to rest more",
+                "had needed to rest more"
+              ],
+              "decode": [
+                "müsse mich mehr ausruhen",
+                "muss mich mehr ausruhen",
+                "hatte mich mehr ausruhen müssen"
+              ],
+              "correct": 0,
+              "n": "needed to rest more"
+            },
             "."
           ],
           "solutionEn": "Last year, the doctor told me I needed to rest more.",
           "solutionDe": "Letztes Jahr sagte mir der Arzt, ich müsse mich mehr ausruhen.",
-          "explain": "'Last year' → liegt lange zurück → Backshift: need → needed. Pronomen: you → I."
+          "explain": "'Last year' → liegt lange zurück → Backshift: need → needed. Pronomen: you → I.",
+          "decodeFull": [
+            [
+              "Last year,",
+              "Letztes Jahr,"
+            ],
+            [
+              "the doctor",
+              "der Arzt"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"You",
+              "\"Du"
+            ],
+            [
+              "need",
+              "musst"
+            ],
+            [
+              "to rest",
+              "dich ausruhen"
+            ],
+            [
+              "more.\"",
+              "mehr.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Last year,",
+              "Letztes Jahr,"
+            ],
+            [
+              "the doctor",
+              "der Arzt"
+            ],
+            [
+              "told",
+              "erzählte"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "needed",
+              "müsste"
+            ],
+            [
+              "to rest",
+              "mich ausruhen"
+            ],
+            [
+              "more.",
+              "mehr."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Last year,",
+                  "Letztes Jahr,"
+                ],
+                [
+                  "the doctor",
+                  "der Arzt"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"You",
+                  "\"Du"
+                ],
+                [
+                  "need",
+                  "musst"
+                ],
+                [
+                  "to rest",
+                  "dich ausruhen"
+                ],
+                [
+                  "more.\"",
+                  "mehr.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Last year,",
+                  "Letztes Jahr,"
+                ],
+                [
+                  "the doctor",
+                  "der Arzt"
+                ],
+                [
+                  "told",
+                  "erzählte"
+                ],
+                [
+                  "me",
+                  "mir"
+                ],
+                [
+                  "I",
+                  "ich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "The president said, \"I won't lose the election.\" → The president said he ",
-            {"opts": ["wouldn't lose the election", "won't lose the election", "didn't lose the election"], "decode": ["würde die Wahl nicht verlieren", "wird die Wahl nicht verlieren", "verlor die Wahl nicht"], "correct": 0},
+            {
+              "opts": [
+                "wouldn't lose the election",
+                "won't lose the election",
+                "didn't lose the election"
+              ],
+              "decode": [
+                "würde die Wahl nicht verlieren",
+                "wird die Wahl nicht verlieren",
+                "verlor die Wahl nicht"
+              ],
+              "correct": 0,
+              "n": "lose"
+            },
             ", but he did."
           ],
           "solutionEn": "The president said he wouldn't lose the election, but he did.",
           "solutionDe": "Der Präsident sagte, er würde die Wahl nicht verlieren – aber er hat sie verloren.",
-          "explain": "'but he did' → die Situation hat sich geändert (er hat doch verloren) → Backshift: won't → wouldn't."
+          "explain": "'but he did' → die Situation hat sich geändert (er hat doch verloren) → Backshift: won't → wouldn't.",
+          "decodeFull": [
+            [
+              "The president",
+              "Der Präsident"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "won't",
+              "werde'nicht"
+            ],
+            [
+              "lose",
+              "verlieren"
+            ],
+            [
+              "the election.\"",
+              "die Wahl.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The president",
+              "Der Präsident"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wouldn't",
+              "würde'nicht"
+            ],
+            [
+              "lose",
+              "verlieren"
+            ],
+            [
+              "the election,",
+              "die Wahl,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "did.",
+              "tat-es."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The president",
+                  "Der Präsident"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "won't",
+                  "werde'nicht"
+                ],
+                [
+                  "lose",
+                  "verlieren"
+                ],
+                [
+                  "the election.\"",
+                  "die Wahl.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The president",
+                  "Der Präsident"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "did.",
+                  "tat-es."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -272,102 +3137,1454 @@
         {
           "parts": [
             "Present Simple: She said, \"I drink a coke.\" → She said that she ",
-            {"opts": ["drank", "drinks", "had drunk"], "decode": ["trank", "trinkt", "hatte getrunken"], "correct": 0},
+            {
+              "opts": [
+                "drank",
+                "drinks",
+                "had drunk"
+              ],
+              "decode": [
+                "trank",
+                "trinkt",
+                "hatte getrunken"
+              ],
+              "correct": 0,
+              "n": "drink"
+            },
             " a coke."
           ],
           "solutionEn": "She said that she drank a coke.",
           "solutionDe": "Sie sagte, dass sie eine Cola trinke.",
-          "explain": "Present Simple → Past Simple (drink → drank)."
+          "explain": "Present Simple → Past Simple (drink → drank).",
+          "decodeFull": [
+            [
+              "Present Simple:",
+              "Present Simple:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "drink",
+              "trinke"
+            ],
+            [
+              "a coke.\"",
+              "eine Cola.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "drank",
+              "trank"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Present Simple:",
+                  "Present Simple:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "drink",
+                  "trinke"
+                ],
+                [
+                  "a coke.\"",
+                  "eine Cola.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a coke.",
+                  "eine Cola."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Present Progressive: Sally said, \"I am walking the dog.\" → Sally said that she ",
-            {"opts": ["was walking", "is walking", "walked"], "decode": ["führte gerade aus", "führt gerade aus", "führte aus"], "correct": 0},
+            {
+              "opts": [
+                "was walking",
+                "is walking",
+                "walked"
+              ],
+              "decode": [
+                "führte gerade aus",
+                "führt gerade aus",
+                "führte aus"
+              ],
+              "correct": 0,
+              "n": "walk"
+            },
             " the dog."
           ],
           "solutionEn": "Sally said that she was walking the dog.",
           "solutionDe": "Sally sagte, dass sie gerade den Hund ausführe.",
-          "explain": "Present Progressive → Past Progressive (am walking → was walking)."
+          "explain": "Present Progressive → Past Progressive (am walking → was walking).",
+          "decodeFull": [
+            [
+              "Present Progressive:",
+              "Present Progressive:"
+            ],
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "am walking",
+              "führe-gerade-aus"
+            ],
+            [
+              "the dog.\"",
+              "den Hund.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was walking",
+              "gehend-war"
+            ],
+            [
+              "the dog.",
+              "den Hund."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Present Progressive:",
+                  "Present Progressive:"
+                ],
+                [
+                  "Sally",
+                  "Sally"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "am walking",
+                  "führe-gerade-aus"
+                ],
+                [
+                  "the dog.\"",
+                  "den Hund.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Sally",
+                  "Sally"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the dog.",
+                  "den Hund."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Past Simple: She said, \"I drank a coke.\" → She said that she ",
-            {"opts": ["had drunk", "drank", "has drunk"], "decode": ["hatte getrunken", "trank", "hat getrunken"], "correct": 0},
+            {
+              "opts": [
+                "had drunk",
+                "drank",
+                "has drunk"
+              ],
+              "decode": [
+                "hatte getrunken",
+                "trank",
+                "hat getrunken"
+              ],
+              "correct": 0,
+              "n": "had drunk"
+            },
             " a coke."
           ],
           "solutionEn": "She said that she had drunk a coke.",
           "solutionDe": "Sie sagte, dass sie eine Cola getrunken habe.",
-          "explain": "Past Simple → Past Perfect (drank → had drunk)."
+          "explain": "Past Simple → Past Perfect (drank → had drunk).",
+          "decodeFull": [
+            [
+              "Past Simple:",
+              "Past Simple:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "drank",
+              "trank"
+            ],
+            [
+              "a coke.\"",
+              "eine Cola.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had drunk",
+              "getrunken-hatte"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Past Simple:",
+                  "Past Simple:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "drank",
+                  "trank"
+                ],
+                [
+                  "a coke.\"",
+                  "eine Cola.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a coke.",
+                  "eine Cola."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Present Perfect: She said, \"I have drunk a coke.\" → She said that she ",
-            {"opts": ["had drunk", "has drunk", "drank"], "decode": ["hatte getrunken", "hat getrunken", "trank"], "correct": 0},
+            {
+              "opts": [
+                "had drunk",
+                "has drunk",
+                "drank"
+              ],
+              "decode": [
+                "hatte getrunken",
+                "hat getrunken",
+                "trank"
+              ],
+              "correct": 0,
+              "n": "had drunk"
+            },
             " a coke."
           ],
           "solutionEn": "She said that she had drunk a coke.",
           "solutionDe": "Sie sagte, dass sie eine Cola getrunken habe.",
-          "explain": "Present Perfect → Past Perfect (have drunk → had drunk)."
+          "explain": "Present Perfect → Past Perfect (have drunk → had drunk).",
+          "decodeFull": [
+            [
+              "Present Perfect:",
+              "Present Perfect:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "have drunk",
+              "habe getrunken"
+            ],
+            [
+              "a coke.\"",
+              "eine Cola.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had drunk",
+              "getrunken-hatte"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Present Perfect:",
+                  "Present Perfect:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "have drunk",
+                  "habe getrunken"
+                ],
+                [
+                  "a coke.\"",
+                  "eine Cola.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a coke.",
+                  "eine Cola."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "will-Future: She said, \"I will drink a coke.\" → She said that she ",
-            {"opts": ["would drink", "will drink", "would drank"], "decode": ["würde trinken", "wird trinken", "würde trank"], "correct": 0},
+            {
+              "opts": [
+                "would drink",
+                "will drink",
+                "would drank"
+              ],
+              "decode": [
+                "würde trinken",
+                "wird trinken",
+                "würde trank"
+              ],
+              "correct": 0,
+              "n": "would drink"
+            },
             " a coke."
           ],
           "solutionEn": "She said that she would drink a coke.",
           "solutionDe": "Sie sagte, dass sie eine Cola trinken würde.",
-          "explain": "will → would; nach would steht immer der Infinitiv (drink, nicht drank)."
+          "explain": "will → would; nach would steht immer der Infinitiv (drink, nicht drank).",
+          "decodeFull": [
+            [
+              "will-Future:",
+              "will-Future:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "will drink",
+              "werde trinken"
+            ],
+            [
+              "a coke.\"",
+              "eine Cola.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would drink",
+              "würde trinken"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "will-Future:",
+                  "will-Future:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "will drink",
+                  "werde trinken"
+                ],
+                [
+                  "a coke.\"",
+                  "eine Cola.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a coke.",
+                  "eine Cola."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "going-to-Future: She said, \"I am going to drink a coke.\" → She said that she ",
-            {"opts": ["was going to drink", "is going to drink", "had gone to drink"], "decode": ["würde trinken", "wird gleich trinken", "war trinken gegangen"], "correct": 0},
+            {
+              "opts": [
+                "was going to drink",
+                "is going to drink",
+                "had gone to drink"
+              ],
+              "decode": [
+                "würde trinken",
+                "wird gleich trinken",
+                "war trinken gegangen"
+              ],
+              "correct": 0,
+              "n": "drink"
+            },
             " a coke."
           ],
           "solutionEn": "She said that she was going to drink a coke.",
           "solutionDe": "Sie sagte, dass sie eine Cola trinken werde.",
-          "explain": "going-to-Future: am/is going to → was/were going to."
+          "explain": "going-to-Future: am/is going to → was/were going to.",
+          "decodeFull": [
+            [
+              "going-to-Future:",
+              "going-to-Future:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "am going to",
+              "werde"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "a coke.\"",
+              "eine Cola.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was going to",
+              "im-Begriff-war"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "going-to-Future:",
+                  "going-to-Future:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "am going to",
+                  "werde"
+                ],
+                [
+                  "drink",
+                  "trinken"
+                ],
+                [
+                  "a coke.\"",
+                  "eine Cola.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a coke.",
+                  "eine Cola."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Modalverb can: Tom said, \"I can help you.\" → Tom said that he ",
-            {"opts": ["could help", "can help", "could helped"], "decode": ["könne helfen", "kann helfen", "könnte half"], "correct": 0},
+            {
+              "opts": [
+                "could help",
+                "can help",
+                "could helped"
+              ],
+              "decode": [
+                "könne helfen",
+                "kann helfen",
+                "könnte half"
+              ],
+              "correct": 0,
+              "n": "help"
+            },
             " me."
           ],
           "solutionEn": "Tom said that he could help me.",
           "solutionDe": "Tom sagte, dass er mir helfen könne.",
-          "explain": "Modalverb: can → could; Pronomen: I → he, you → me."
+          "explain": "Modalverb: can → could; Pronomen: I → he, you → me.",
+          "decodeFull": [
+            [
+              "Modalverb can:",
+              "Modalverb can:"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "help",
+              "helfen"
+            ],
+            [
+              "you.\"",
+              "dir.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "could",
+              "könnte"
+            ],
+            [
+              "help",
+              "helfen"
+            ],
+            [
+              "me.",
+              "mir."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Modalverb can:",
+                  "Modalverb can:"
+                ],
+                [
+                  "Tom",
+                  "Tom"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "can",
+                  "kann"
+                ],
+                [
+                  "help",
+                  "helfen"
+                ],
+                [
+                  "you.\"",
+                  "dir.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Tom",
+                  "Tom"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "he",
+                  "er"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "me.",
+                  "mir."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Modalverb may: She said, \"I may be late.\" → She said that she ",
-            {"opts": ["might be", "may be", "might was"], "decode": ["könnte sein", "kann sein", "könnte war"], "correct": 0},
+            {
+              "opts": [
+                "might be",
+                "may be",
+                "might was"
+              ],
+              "decode": [
+                "könnte sein",
+                "kann sein",
+                "könnte war"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " late."
           ],
           "solutionEn": "She said that she might be late.",
           "solutionDe": "Sie sagte, dass sie vielleicht zu spät kommen könnte.",
-          "explain": "Modalverb: may → might."
+          "explain": "Modalverb: may → might.",
+          "decodeFull": [
+            [
+              "Modalverb may:",
+              "Modalverb may:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "may",
+              "könnte"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "late.\"",
+              "spät.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "might",
+              "könnte"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "late.",
+              "spät."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Modalverb may:",
+                  "Modalverb may:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "may",
+                  "könnte"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "late.\"",
+                  "spät.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "she",
+                  "sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "late.",
+                  "spät."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Fakten: He said, \"The Rhine flows through Vorarlberg.\" → He said that the Rhine ",
-            {"opts": ["flows", "flowed", "had flowed"], "decode": ["fließt", "floss", "war geflossen"], "correct": 0},
+            {
+              "opts": [
+                "flows",
+                "flowed",
+                "had flowed"
+              ],
+              "decode": [
+                "fließt",
+                "floss",
+                "war geflossen"
+              ],
+              "correct": 0,
+              "n": "flow"
+            },
             " through Vorarlberg."
           ],
           "solutionEn": "He said that the Rhine flows through Vorarlberg.",
           "solutionDe": "Er sagte, dass der Rhein durch Vorarlberg fließt.",
-          "explain": "Allgemeine Fakten und Wahrheiten: KEINE Zeitverschiebung nötig."
+          "explain": "Allgemeine Fakten und Wahrheiten: KEINE Zeitverschiebung nötig.",
+          "decodeFull": [
+            [
+              "Fakten:",
+              "Fakten:"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"The Rhine",
+              "\"Der Rhein"
+            ],
+            [
+              "flows",
+              "fließt"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "Vorarlberg.\"",
+              "Vorarlberg.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "the Rhine",
+              "der Rhein"
+            ],
+            [
+              "flows",
+              "fließt"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "Vorarlberg.",
+              "Vorarlberg."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Fakten:",
+                  "Fakten:"
+                ],
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"The Rhine",
+                  "\"Der Rhein"
+                ],
+                [
+                  "flows",
+                  "fließt"
+                ],
+                [
+                  "through",
+                  "durch"
+                ],
+                [
+                  "Vorarlberg.\"",
+                  "Vorarlberg.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "the Rhine",
+                  "der Rhein"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "through",
+                  "durch"
+                ],
+                [
+                  "Vorarlberg.",
+                  "Vorarlberg."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Einleitungssatz im Present: Frank says, \"Mary buys new shoes.\" → Frank says that Mary ",
-            {"opts": ["buys", "bought", "had bought"], "decode": ["kauft", "kaufte", "hatte gekauft"], "correct": 0},
+            {
+              "opts": [
+                "buys",
+                "bought",
+                "had bought"
+              ],
+              "decode": [
+                "kauft",
+                "kaufte",
+                "hatte gekauft"
+              ],
+              "correct": 0,
+              "n": "buy"
+            },
             " new shoes."
           ],
           "solutionEn": "Frank says that Mary buys new shoes.",
           "solutionDe": "Frank sagt, dass Mary neue Schuhe kauft.",
-          "explain": "Einleitungsverb im Present/Present Perfect/Future (says) → KEIN Backshift."
+          "explain": "Einleitungsverb im Present/Present Perfect/Future (says) → KEIN Backshift.",
+          "decodeFull": [
+            [
+              "Einleitungssatz im Present:",
+              "Einleitungssatz im Present:"
+            ],
+            [
+              "Frank",
+              "Frank"
+            ],
+            [
+              "says,",
+              "sagt,"
+            ],
+            [
+              "\"Mary",
+              "\"Mary"
+            ],
+            [
+              "buys",
+              "kauft"
+            ],
+            [
+              "new shoes.\"",
+              "neue Schuhe.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Frank",
+              "Frank"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "Mary",
+              "Mary"
+            ],
+            [
+              "buys",
+              "kauft"
+            ],
+            [
+              "new shoes.",
+              "neue Schuhe."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Einleitungssatz im Present:",
+                  "Einleitungssatz im Present:"
+                ],
+                [
+                  "Frank",
+                  "Frank"
+                ],
+                [
+                  "says,",
+                  "sagt,"
+                ],
+                [
+                  "\"Mary",
+                  "\"Mary"
+                ],
+                [
+                  "buys",
+                  "kauft"
+                ],
+                [
+                  "new shoes.\"",
+                  "neue Schuhe.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Frank",
+                  "Frank"
+                ],
+                [
+                  "says",
+                  "sagt"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "Mary",
+                  "Mary"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "new shoes.",
+                  "neue Schuhe."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -381,84 +4598,1094 @@
         {
           "parts": [
             "\"I am busy now,\" she said. → She said she was busy ",
-            {"opts": ["then", "now", "today"], "decode": ["dann/da", "jetzt", "heute"], "correct": 0},
+            {
+              "opts": [
+                "then",
+                "now",
+                "today"
+              ],
+              "decode": [
+                "dann/da",
+                "jetzt",
+                "heute"
+              ],
+              "correct": 0,
+              "n": "then"
+            },
             "."
           ],
           "solutionEn": "She said she was busy then.",
           "solutionDe": "Sie sagte, sie sei da gerade beschäftigt.",
-          "explain": "now → then."
+          "explain": "now → then.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "am",
+              "bin"
+            ],
+            [
+              "busy",
+              "beschäftigt"
+            ],
+            [
+              "now,\"",
+              "jetzt,\""
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "busy",
+              "beschäftigt"
+            ],
+            [
+              "then.",
+              "damals."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "am",
+                  "bin"
+                ],
+                [
+                  "busy",
+                  "beschäftigt"
+                ],
+                [
+                  "now,\"",
+                  "jetzt,\""
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "busy",
+                  "beschäftigt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"I saw him yesterday,\" Tom said. → Tom said he had seen him ",
-            {"opts": ["the day before", "yesterday", "the next day"], "decode": ["am Tag davor", "gestern", "am nächsten Tag"], "correct": 0},
+            {
+              "opts": [
+                "the day before",
+                "yesterday",
+                "the next day"
+              ],
+              "decode": [
+                "am Tag davor",
+                "gestern",
+                "am nächsten Tag"
+              ],
+              "correct": 0,
+              "n": "the day before"
+            },
             "."
           ],
           "solutionEn": "Tom said he had seen him the day before.",
           "solutionDe": "Tom sagte, er habe ihn am Tag davor gesehen.",
-          "explain": "yesterday → the day before / the previous day; außerdem Backshift saw → had seen."
+          "explain": "yesterday → the day before / the previous day; außerdem Backshift saw → had seen.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "saw",
+              "sah"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "yesterday,\"",
+              "gestern,\""
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had seen",
+              "gesehen-hatte"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "the day before.",
+              "den-Tag-davor."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "saw",
+                  "sah"
+                ],
+                [
+                  "him",
+                  "ihn"
+                ],
+                [
+                  "yesterday,\"",
+                  "gestern,\""
+                ],
+                [
+                  "Tom",
+                  "Tom"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Tom",
+                  "Tom"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "had seen",
+                  "gesehen-hatte"
+                ],
+                [
+                  "him",
+                  "ihn"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"We will meet tomorrow,\" they said. → They said they would meet ",
-            {"opts": ["the next day", "tomorrow", "the last day"], "decode": ["am nächsten Tag", "morgen", "am letzten Tag"], "correct": 0},
+            {
+              "opts": [
+                "the next day",
+                "tomorrow",
+                "the last day"
+              ],
+              "decode": [
+                "am nächsten Tag",
+                "morgen",
+                "am letzten Tag"
+              ],
+              "correct": 0,
+              "n": "the next day"
+            },
             "."
           ],
           "solutionEn": "They said they would meet the next day.",
           "solutionDe": "Sie sagten, sie würden sich am nächsten Tag treffen.",
-          "explain": "tomorrow → the next day / the following day."
+          "explain": "tomorrow → the next day / the following day.",
+          "decodeFull": [
+            [
+              "\"We",
+              "\"Wir"
+            ],
+            [
+              "will meet",
+              "werden uns treffen"
+            ],
+            [
+              "tomorrow,\"",
+              "morgen,\""
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "said.",
+              "sagten."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "They",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagten"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "would meet",
+              "würden-sich-treffen"
+            ],
+            [
+              "the next day.",
+              "den-nächsten-Tag."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"We",
+                  "\"Wir"
+                ],
+                [
+                  "will meet",
+                  "werden uns treffen"
+                ],
+                [
+                  "tomorrow,\"",
+                  "morgen,\""
+                ],
+                [
+                  "they",
+                  "sie"
+                ],
+                [
+                  "said.",
+                  "sagten."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "They",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagten"
+                ],
+                [
+                  "they",
+                  "sie"
+                ],
+                [
+                  "would meet",
+                  "würden-sich-treffen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"I like it here,\" Ann said. → Ann said she liked it ",
-            {"opts": ["there", "here", "everywhere"], "decode": ["dort", "hier", "überall"], "correct": 0},
+            {
+              "opts": [
+                "there",
+                "here",
+                "everywhere"
+              ],
+              "decode": [
+                "dort",
+                "hier",
+                "überall"
+              ],
+              "correct": 0,
+              "n": "there"
+            },
             "."
           ],
           "solutionEn": "Ann said she liked it there.",
           "solutionDe": "Ann sagte, es gefalle ihr dort.",
-          "explain": "here → there."
+          "explain": "here → there.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "here,\"",
+              "hier,\""
+            ],
+            [
+              "Ann",
+              "Ann"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Ann",
+              "Ann"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "liked",
+              "mochte"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "there.",
+              "dort."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "like",
+                  "mag"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "here,\"",
+                  "hier,\""
+                ],
+                [
+                  "Ann",
+                  "Ann"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Ann",
+                  "Ann"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "liked",
+                  "mochte"
+                ],
+                [
+                  "it",
+                  "es"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"I am leaving today,\" he said. → He said he was leaving ",
-            {"opts": ["that day", "this day", "today"], "decode": ["an jenem Tag", "an diesem Tag", "heute"], "correct": 0},
+            {
+              "opts": [
+                "that day",
+                "this day",
+                "today"
+              ],
+              "decode": [
+                "an jenem Tag",
+                "an diesem Tag",
+                "heute"
+              ],
+              "correct": 0,
+              "n": "that day"
+            },
             "."
           ],
           "solutionEn": "He said he was leaving that day.",
           "solutionDe": "Er sagte, er reise an jenem Tag ab.",
-          "explain": "today → that day."
+          "explain": "today → that day.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "am leaving",
+              "verlasse"
+            ],
+            [
+              "today,\"",
+              "heute,\""
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was leaving",
+              "verlassend-war"
+            ],
+            [
+              "that day.",
+              "jenen Tag."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "am leaving",
+                  "verlasse"
+                ],
+                [
+                  "today,\"",
+                  "heute,\""
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "was leaving",
+                  "verlassend-war"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"I bought this car last week,\" he said. → He said he had bought ",
-            {"opts": ["that", "this", "these"], "decode": ["jenes", "dieses", "diese"], "correct": 0},
+            {
+              "opts": [
+                "that",
+                "this",
+                "these"
+              ],
+              "decode": [
+                "jenes",
+                "dieses",
+                "diese"
+              ],
+              "correct": 0,
+              "n": "that"
+            },
             " car ",
-            {"opts": ["the week before", "last week", "the next week"], "decode": ["die Woche davor", "letzte Woche", "nächste Woche"], "correct": 0},
+            {
+              "opts": [
+                "the week before",
+                "last week",
+                "the next week"
+              ],
+              "decode": [
+                "die Woche davor",
+                "letzte Woche",
+                "nächste Woche"
+              ],
+              "correct": 0,
+              "n": "the week before"
+            },
             "."
           ],
           "solutionEn": "He said he had bought that car the week before.",
           "solutionDe": "Er sagte, er habe jenes Auto in der Woche davor gekauft.",
-          "explain": "this → that; last week → the week before / the previous week."
+          "explain": "this → that; last week → the week before / the previous week.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "this car",
+              "dieses Auto"
+            ],
+            [
+              "last week,\"",
+              "letzte Woche,\""
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had bought",
+              "gekauft-hatte"
+            ],
+            [
+              "that car",
+              "jenes Auto"
+            ],
+            [
+              "the week before.",
+              "die-Woche-davor."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"ich"
+                ],
+                [
+                  "bought",
+                  "kaufte"
+                ],
+                [
+                  "this car",
+                  "dieses Auto"
+                ],
+                [
+                  "last week,\"",
+                  "letzte Woche,\""
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "had bought",
+                  "gekauft-hatte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "car",
+                  "Auto"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "\"We are moving next week,\" she said. → She said they were moving ",
-            {"opts": ["the following week", "next week", "the previous week"], "decode": ["die folgende Woche", "nächste Woche", "die Woche davor"], "correct": 0},
+            {
+              "opts": [
+                "the following week",
+                "next week",
+                "the previous week"
+              ],
+              "decode": [
+                "die folgende Woche",
+                "nächste Woche",
+                "die Woche davor"
+              ],
+              "correct": 0,
+              "n": "the following week"
+            },
             "."
           ],
           "solutionEn": "She said they were moving the following week.",
           "solutionDe": "Sie sagte, sie würden in der folgenden Woche umziehen.",
-          "explain": "next week → the following week; Pronomen: we → they."
+          "explain": "next week → the following week; Pronomen: we → they.",
+          "decodeFull": [
+            [
+              "\"We",
+              "\"Wir"
+            ],
+            [
+              "are moving",
+              "ziehen um"
+            ],
+            [
+              "next week,\"",
+              "nächste Woche,\""
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "were moving",
+              "umziehend-waren"
+            ],
+            [
+              "the following week.",
+              "die-folgende-Woche."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"We",
+                  "\"Wir"
+                ],
+                [
+                  "are moving",
+                  "ziehen um"
+                ],
+                [
+                  "next week,\"",
+                  "nächste Woche,\""
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "they",
+                  "sie"
+                ],
+                [
+                  "were moving",
+                  "umziehend-waren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "\"I started my job a year ago,\" he said. → He said he had started his job ",
-            {"opts": ["the previous year", "a year ago", "the following year"], "decode": ["im Jahr davor", "vor einem Jahr", "im folgenden Jahr"], "correct": 0},
+            {
+              "opts": [
+                "the previous year",
+                "a year ago",
+                "the following year"
+              ],
+              "decode": [
+                "im Jahr davor",
+                "vor einem Jahr",
+                "im folgenden Jahr"
+              ],
+              "correct": 0,
+              "n": "the previous year"
+            },
             "."
           ],
           "solutionEn": "He said he had started his job the previous year.",
           "solutionDe": "Er sagte, er habe seinen Job im Jahr davor begonnen.",
-          "explain": "a year ago → the previous year / the year before; außerdem Backshift started → had started."
+          "explain": "a year ago → the previous year / the year before; außerdem Backshift started → had started.",
+          "decodeFull": [
+            [
+              "\"I",
+              "\"Ich"
+            ],
+            [
+              "started",
+              "begann"
+            ],
+            [
+              "my job",
+              "meinen Job"
+            ],
+            [
+              "a year ago,\"",
+              "vor einem Jahr,\""
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "said.",
+              "sagte."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had started",
+              "begonnen-hatte"
+            ],
+            [
+              "his job",
+              "seinen Job"
+            ],
+            [
+              "the previous year.",
+              "das-vorherige-Jahr."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"I",
+                  "\"Ich"
+                ],
+                [
+                  "started",
+                  "begann"
+                ],
+                [
+                  "my job",
+                  "meinen Job"
+                ],
+                [
+                  "a year ago,\"",
+                  "vor einem Jahr,\""
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "said.",
+                  "sagte."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "said",
+                  "sagte"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "had started",
+                  "begonnen-hatte"
+                ],
+                [
+                  "his job",
+                  "seinen Job"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         }
       ]
     },
@@ -472,86 +5699,1116 @@
         {
           "parts": [
             "He said, \"Where do you buy your car?\" → He wanted to know where I ",
-            {"opts": ["bought", "buy", "had bought"], "decode": ["kaufte", "kaufe", "hatte gekauft"], "correct": 0},
+            {
+              "opts": [
+                "bought",
+                "buy",
+                "had bought"
+              ],
+              "decode": [
+                "kaufte",
+                "kaufe",
+                "hatte gekauft"
+              ],
+              "correct": 0,
+              "n": "buy"
+            },
             " my car."
           ],
           "solutionEn": "He wanted to know where I bought my car.",
           "solutionDe": "Er wollte wissen, wo ich mein Auto kaufe.",
-          "explain": "Fragewort (where) bleibt; Aussagesatz-Wortstellung ohne do; Backshift: buy → bought; Pronomen: you → I."
+          "explain": "Fragewort (where) bleibt; Aussagesatz-Wortstellung ohne do; Backshift: buy → bought; Pronomen: you → I.",
+          "decodeFull": [
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Where",
+              "\"Wo"
+            ],
+            [
+              "do you",
+              "kaufst du"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "your car?\"",
+              "dein Auto?\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "wanted",
+              "wollte"
+            ],
+            [
+              "to know",
+              "wissen"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "my car.",
+              "mein Auto."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Where",
+                  "\"Wo"
+                ],
+                [
+                  "do you",
+                  "kaufst du"
+                ],
+                [
+                  "buy",
+                  "kaufen"
+                ],
+                [
+                  "your car?\"",
+                  "dein Auto?\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "Er"
+                ],
+                [
+                  "wanted",
+                  "wollte"
+                ],
+                [
+                  "to know",
+                  "wissen"
+                ],
+                [
+                  "where",
+                  "wo"
+                ],
+                [
+                  "I",
+                  "ich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my car.",
+                  "mein Auto."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She said, \"Are you tired?\" → She asked ",
-            {"opts": ["if", "that", "what"], "decode": ["ob", "dass", "was"], "correct": 0},
+            {
+              "opts": [
+                "if",
+                "that",
+                "what"
+              ],
+              "decode": [
+                "ob",
+                "dass",
+                "was"
+              ],
+              "correct": 0,
+              "n": "if"
+            },
             " I ",
-            {"opts": ["was", "am", "had been"], "decode": ["war", "bin", "war gewesen"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "am",
+                "had been"
+              ],
+              "decode": [
+                "war",
+                "bin",
+                "war gewesen"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " tired."
           ],
           "solutionEn": "She asked if I was tired.",
           "solutionDe": "Sie fragte, ob ich müde sei.",
-          "explain": "Frage OHNE Fragewort → if/whether (= ob); Backshift: are → was."
+          "explain": "Frage OHNE Fragewort → if/whether (= ob); Backshift: are → was.",
+          "decodeFull": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Are",
+              "\"Bist"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "tired?\"",
+              "müde?\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "tired.",
+              "müde."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Are",
+                  "\"Bist"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "tired?\"",
+                  "müde?\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "asked",
+                  "fragte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "tired.",
+                  "müde."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "\"Where did you park the car?\" → The policeman asked the man where ",
-            {"opts": ["he had parked", "had he parked", "did he park"], "decode": ["er geparkt hatte", "hatte er geparkt", "parkte er"], "correct": 0},
+            {
+              "opts": [
+                "he had parked",
+                "had he parked",
+                "did he park"
+              ],
+              "decode": [
+                "er geparkt hatte",
+                "hatte er geparkt",
+                "parkte er"
+              ],
+              "correct": 0,
+              "n": "park"
+            },
             " the car."
           ],
           "solutionEn": "The policeman asked the man where he had parked the car.",
           "solutionDe": "Der Polizist fragte den Mann, wo er das Auto geparkt habe.",
-          "explain": "Indirekte Frage = Aussagesatz-Wortstellung (Subjekt VOR Verb), kein did; Past Simple → Past Perfect."
+          "explain": "Indirekte Frage = Aussagesatz-Wortstellung (Subjekt VOR Verb), kein did; Past Simple → Past Perfect.",
+          "decodeFull": [
+            [
+              "\"Where",
+              "\"Wo"
+            ],
+            [
+              "did you",
+              "hast du"
+            ],
+            [
+              "park",
+              "geparkt"
+            ],
+            [
+              "the car?\"",
+              "das Auto?\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The policeman",
+              "Der Polizist"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "the man",
+              "den Mann"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had parked",
+              "geparkt-hatte"
+            ],
+            [
+              "the car.",
+              "das Auto."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "\"Where",
+                  "\"Wo"
+                ],
+                [
+                  "did you",
+                  "hast du"
+                ],
+                [
+                  "park",
+                  "geparkt"
+                ],
+                [
+                  "the car?\"",
+                  "das Auto?\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The policeman",
+                  "Der Polizist"
+                ],
+                [
+                  "asked",
+                  "fragte"
+                ],
+                [
+                  "the man",
+                  "den Mann"
+                ],
+                [
+                  "where",
+                  "wo"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the car.",
+                  "das Auto."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Höfliche Bitte: She said, \"Help me, please.\" → She ",
-            {"opts": ["asked", "told", "shouted at"], "decode": ["bat", "befahl", "schrie an"], "correct": 0},
+            {
+              "opts": [
+                "asked",
+                "told",
+                "shouted at"
+              ],
+              "decode": [
+                "bat",
+                "befahl",
+                "schrie an"
+              ],
+              "correct": 0,
+              "n": "ask"
+            },
             " me ",
-            {"opts": ["to help", "help", "helping"], "decode": ["zu helfen", "helfen", "helfend"], "correct": 0},
+            {
+              "opts": [
+                "to help",
+                "help",
+                "helping"
+              ],
+              "decode": [
+                "zu helfen",
+                "helfen",
+                "helfend"
+              ],
+              "correct": 0,
+              "n": "help"
+            },
             " her."
           ],
           "solutionEn": "She asked me to help her.",
           "solutionDe": "Sie bat mich, ihr zu helfen.",
-          "explain": "Höfliche Bitte (please) → ask + Objekt + to-Infinitiv; Pronomen: me → her."
+          "explain": "Höfliche Bitte (please) → ask + Objekt + to-Infinitiv; Pronomen: me → her.",
+          "decodeFull": [
+            [
+              "Höfliche Bitte:",
+              "Höfliche Bitte:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Help",
+              "\"Hilf"
+            ],
+            [
+              "me,",
+              "mir,"
+            ],
+            [
+              "please.\"",
+              "bitte.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to help",
+              "zu helfen"
+            ],
+            [
+              "her.",
+              "ihr."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Höfliche Bitte:",
+                  "Höfliche Bitte:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Help",
+                  "\"Hilf"
+                ],
+                [
+                  "me,",
+                  "mir,"
+                ],
+                [
+                  "please.\"",
+                  "bitte.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "me",
+                  "mich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "her.",
+                  "ihr."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Aufforderung: She said, \"Help me.\" → She ",
-            {"opts": ["told", "asked", "suggested"], "decode": ["forderte auf", "bat", "schlug vor"], "correct": 0},
+            {
+              "opts": [
+                "told",
+                "asked",
+                "suggested"
+              ],
+              "decode": [
+                "forderte auf",
+                "bat",
+                "schlug vor"
+              ],
+              "correct": 0,
+              "n": "tell"
+            },
             " me to help her."
           ],
           "solutionEn": "She told me to help her.",
           "solutionDe": "Sie forderte mich auf, ihr zu helfen.",
-          "explain": "Normale Aufforderung → tell + Objekt + to-Infinitiv."
+          "explain": "Normale Aufforderung → tell + Objekt + to-Infinitiv.",
+          "decodeFull": [
+            [
+              "Aufforderung:",
+              "Aufforderung:"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Help",
+              "\"Hilf"
+            ],
+            [
+              "me.\"",
+              "mir.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "told",
+              "befahl"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "to help",
+              "zu helfen"
+            ],
+            [
+              "her.",
+              "ihr."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aufforderung:",
+                  "Aufforderung:"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Help",
+                  "\"Hilf"
+                ],
+                [
+                  "me.\"",
+                  "mir.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "She",
+                  "Sie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "me",
+                  "mir"
+                ],
+                [
+                  "to help",
+                  "zu helfen"
+                ],
+                [
+                  "her.",
+                  "ihr."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Verneinte Aufforderung: Jenny said, \"Don't shout like that!\" → Jenny told Michael ",
-            {"opts": ["not to shout", "to not shout", "don't shout"], "decode": ["nicht zu schreien", "zu nicht schreien", "schrei nicht"], "correct": 0},
+            {
+              "opts": [
+                "not to shout",
+                "to not shout",
+                "don't shout"
+              ],
+              "decode": [
+                "nicht zu schreien",
+                "zu nicht schreien",
+                "schrei nicht"
+              ],
+              "correct": 0,
+              "n": "shout"
+            },
             " that way."
           ],
           "solutionEn": "Jenny told Michael not to shout that way.",
           "solutionDe": "Jenny sagte Michael, er solle nicht so schreien.",
-          "explain": "Verneinte Aufforderung → told + Objekt + NOT + to-Infinitiv. 'not' steht VOR 'to'."
+          "explain": "Verneinte Aufforderung → told + Objekt + NOT + to-Infinitiv. 'not' steht VOR 'to'.",
+          "decodeFull": [
+            [
+              "Verneinte Aufforderung:",
+              "Verneinte Aufforderung:"
+            ],
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Don't",
+              "\"Tu'nicht"
+            ],
+            [
+              "shout",
+              "schreien"
+            ],
+            [
+              "like that!\"",
+              "so!\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "told",
+              "befahl"
+            ],
+            [
+              "Michael",
+              "Michael"
+            ],
+            [
+              "not to shout",
+              "nicht-zu-schreien"
+            ],
+            [
+              "that way.",
+              "auf-diese-Weise."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Verneinte Aufforderung:",
+                  "Verneinte Aufforderung:"
+                ],
+                [
+                  "Jenny",
+                  "Jenny"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Don't",
+                  "\"Tu'nicht"
+                ],
+                [
+                  "shout",
+                  "schreien"
+                ],
+                [
+                  "like that!\"",
+                  "so!\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Jenny",
+                  "Jenny"
+                ],
+                [
+                  "told",
+                  "befahl"
+                ],
+                [
+                  "Michael",
+                  "Michael"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "that way.",
+                  "auf-diese-Weise."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Bitte: Billy said, \"Could you take me to the movies?\" → Billy asked his brother ",
-            {"opts": ["to take", "take", "that he took"], "decode": ["zu bringen", "bringen", "dass er brachte"], "correct": 0},
+            {
+              "opts": [
+                "to take",
+                "take",
+                "that he took"
+              ],
+              "decode": [
+                "zu bringen",
+                "bringen",
+                "dass er brachte"
+              ],
+              "correct": 0,
+              "n": "take"
+            },
             " him to the movies."
           ],
           "solutionEn": "Billy asked his brother to take him to the movies.",
           "solutionDe": "Billy bat seinen Bruder, ihn ins Kino zu bringen.",
-          "explain": "Bitte (Could you ...?) → ask + Objekt + to-Infinitiv; Pronomen: me → him."
+          "explain": "Bitte (Could you ...?) → ask + Objekt + to-Infinitiv; Pronomen: me → him.",
+          "decodeFull": [
+            [
+              "Bitte:",
+              "Bitte:"
+            ],
+            [
+              "Billy",
+              "Billy"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Could",
+              "\"Könntest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "take",
+              "bringen"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to the movies?\"",
+              "ins Kino?\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Billy",
+              "Billy"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "his brother",
+              "seinen Bruder"
+            ],
+            [
+              "to take",
+              "zu bringen"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "to the movies.",
+              "ins Kino."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Bitte:",
+                  "Bitte:"
+                ],
+                [
+                  "Billy",
+                  "Billy"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Could",
+                  "\"Könntest"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "take",
+                  "bringen"
+                ],
+                [
+                  "me",
+                  "mich"
+                ],
+                [
+                  "to the movies?\"",
+                  "ins Kino?\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Billy",
+                  "Billy"
+                ],
+                [
+                  "asked",
+                  "bat"
+                ],
+                [
+                  "his brother",
+                  "seinen Bruder"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "him",
+                  "ihn"
+                ],
+                [
+                  "to the movies.",
+                  "ins Kino."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Vorschlag: Alex said, \"Let's go to the cinema.\" → Alex suggested ",
-            {"opts": ["going", "to go", "go"], "decode": ["zu gehen (-ing)", "zu gehen (Infinitiv)", "gehen"], "correct": 0},
+            {
+              "opts": [
+                "going",
+                "to go",
+                "go"
+              ],
+              "decode": [
+                "zu gehen (-ing)",
+                "zu gehen (Infinitiv)",
+                "gehen"
+              ],
+              "correct": 0,
+              "n": "go"
+            },
             " to the cinema."
           ],
           "solutionEn": "Alex suggested going to the cinema.",
           "solutionDe": "Alex schlug vor, ins Kino zu gehen.",
-          "explain": "suggest + Verb-ing (oder: suggested that we go). 'suggested to go' ist FALSCH."
+          "explain": "suggest + Verb-ing (oder: suggested that we go). 'suggested to go' ist FALSCH.",
+          "decodeFull": [
+            [
+              "Vorschlag:",
+              "Vorschlag:"
+            ],
+            [
+              "Alex",
+              "Alex"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"Let's",
+              "\"Lass'uns"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "to the cinema.\"",
+              "ins Kino.\""
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Alex",
+              "Alex"
+            ],
+            [
+              "suggested",
+              "schlug vor"
+            ],
+            [
+              "going",
+              "zu gehen"
+            ],
+            [
+              "to the cinema.",
+              "ins Kino."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Vorschlag:",
+                  "Vorschlag:"
+                ],
+                [
+                  "Alex",
+                  "Alex"
+                ],
+                [
+                  "said,",
+                  "sagte,"
+                ],
+                [
+                  "\"Let's",
+                  "\"Lass'uns"
+                ],
+                [
+                  "go",
+                  "gehen"
+                ],
+                [
+                  "to the cinema.\"",
+                  "ins Kino.\""
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Alex",
+                  "Alex"
+                ],
+                [
+                  "suggested",
+                  "schlug vor"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to the cinema.",
+                  "ins Kino."
+                ]
+              ]
+            }
+          ]
         }
       ]
     }

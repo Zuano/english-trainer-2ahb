@@ -11,43 +11,186 @@
         {
           "id": "pas_t1_s01",
           "en": "The letters are delivered.",
-          "decode": [["The","Die"],["letters","Briefe"],["are delivered.","werden-zugestellt."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "are delivered.",
+              "werden-zugestellt."
+            ]
+          ],
           "de": "(Aktiv: He delivers the letters.) Die Briefe werden zugestellt. – Present Simple"
         },
         {
           "id": "pas_t1_s02",
           "en": "The letters were delivered.",
-          "decode": [["The","Die"],["letters","Briefe"],["were delivered.","wurden-zugestellt."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "were delivered.",
+              "wurden-zugestellt."
+            ]
+          ],
           "de": "(Aktiv: He delivered the letters.) Die Briefe wurden zugestellt. – Past Simple"
         },
         {
           "id": "pas_t1_s03",
           "en": "The letters have been delivered.",
-          "decode": [["The","Die"],["letters","Briefe"],["have been delivered.","sind-zugestellt-worden."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "have been delivered.",
+              "sind-zugestellt-worden."
+            ]
+          ],
           "de": "(Aktiv: He has delivered the letters.) Die Briefe sind zugestellt worden. – Present Perfect"
         },
         {
           "id": "pas_t1_s04",
           "en": "The new library will be opened by the Queen.",
-          "decode": [["The","Die"],["new","neue"],["library","Bibliothek"],["will be opened","wird-eröffnet-werden"],["by","von"],["the","der"],["Queen.","Königin."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "library",
+              "Bibliothek"
+            ],
+            [
+              "will be opened",
+              "wird-eröffnet-werden"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "Queen.",
+              "Königin."
+            ]
+          ],
           "de": "(Aktiv: The Queen will open the new library.) Die neue Bibliothek wird von der Königin eröffnet werden. – will-Future"
         },
         {
           "id": "pas_t1_s05",
           "en": "This book was written by Agatha Christie.",
-          "decode": [["This","Dieses"],["book","Buch"],["was written","wurde-geschrieben"],["by","von"],["Agatha","Agatha"],["Christie.","Christie."]],
+          "decode": [
+            [
+              "This",
+              "Dieses"
+            ],
+            [
+              "book",
+              "Buch"
+            ],
+            [
+              "was written",
+              "wurde-geschrieben"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Agatha",
+              "Agatha"
+            ],
+            [
+              "Christie.",
+              "Christie."
+            ]
+          ],
           "de": "(Aktiv: Agatha Christie wrote this book.) Dieses Buch wurde von Agatha Christie geschrieben."
         },
         {
           "id": "pas_t1_s06",
           "en": "I was given this book by Rick.",
-          "decode": [["I","Ich"],["was given","wurde-gegeben"],["this","dieses"],["book","Buch"],["by","von"],["Rick.","Rick."]],
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "was given",
+              "wurde-gegeben"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "book",
+              "Buch"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Rick.",
+              "Rick."
+            ]
+          ],
           "de": "(Aktiv: Rick gave me this book.) Mir wurde dieses Buch von Rick gegeben. – persönliches Passiv!"
         },
         {
           "id": "pas_t1_s07",
           "en": "The door was opened with a key.",
-          "decode": [["The","Die"],["door","Tür"],["was opened","wurde-geöffnet"],["with","mit"],["a","einem"],["key.","Schlüssel."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "door",
+              "Tür"
+            ],
+            [
+              "was opened",
+              "wurde-geöffnet"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "key.",
+              "Schlüssel."
+            ]
+          ],
           "de": "(Aktiv: Someone opened the door with a key.) Die Tür wurde mit einem Schlüssel geöffnet. – with = Werkzeug, by = Täter!"
         }
       ]
@@ -59,31 +202,200 @@
         {
           "id": "pas_t2_s01",
           "en": "Fiat was started by a group of Italian businessmen in 1899.",
-          "decode": [["Fiat","Fiat"],["was started","wurde-gegründet"],["by","von"],["a","einer"],["group","Gruppe"],["of","von"],["Italian","italienischen"],["businessmen","Geschäftsleuten"],["in","in"],["1899.","1899."]],
+          "decode": [
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "was started",
+              "wurde-gegründet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "group",
+              "Gruppe"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "Italian",
+              "italienischen"
+            ],
+            [
+              "businessmen",
+              "Geschäftsleuten"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "1899.",
+              "1899."
+            ]
+          ],
           "de": "(Aktiv: A group of Italian businessmen started Fiat in 1899.) Fiat wurde 1899 von einer Gruppe italienischer Geschäftsleute gegründet."
         },
         {
           "id": "pas_t2_s02",
           "en": "Some of these cars were exported to the United States and Britain.",
-          "decode": [["Some","Einige"],["of","von"],["these","diesen"],["cars","Autos"],["were exported","wurden-exportiert"],["to","in"],["the","die"],["United States","USA"],["and","und"],["Britain.","Großbritannien."]],
+          "decode": [
+            [
+              "Some",
+              "Einige"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "these",
+              "diesen"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were exported",
+              "wurden-exportiert"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "United States",
+              "USA"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "Britain.",
+              "Großbritannien."
+            ]
+          ],
           "de": "(Aktiv: The company exported some of these cars to the United States and Britain.) Einige dieser Autos wurden in die USA und nach Großbritannien exportiert."
         },
         {
           "id": "pas_t2_s03",
           "en": "The cars were tested by technicians on the roof.",
-          "decode": [["The","Die"],["cars","Autos"],["were tested","wurden-getestet"],["by","von"],["technicians","Technikern"],["on","auf"],["the","dem"],["roof.","Dach."]],
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were tested",
+              "wurden-getestet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "technicians",
+              "Technikern"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "roof.",
+              "Dach."
+            ]
+          ],
           "de": "(Aktiv: Technicians tested the cars on the roof.) Die Autos wurden von Technikern auf dem Dach getestet."
         },
         {
           "id": "pas_t2_s04",
           "en": "This car was called the Topolino.",
-          "decode": [["This","Dieses"],["car","Auto"],["was called","wurde-genannt"],["the","der"],["Topolino.","Topolino."]],
+          "decode": [
+            [
+              "This",
+              "Dieses"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was called",
+              "wurde-genannt"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "Topolino.",
+              "Topolino."
+            ]
+          ],
           "de": "(Aktiv: They called this car the Topolino.) Dieses Auto wurde 'Topolino' genannt – der italienische Name für Micky Maus."
         },
         {
           "id": "pas_t2_s05",
           "en": "Today, Fiat's cars are sold all over the world.",
-          "decode": [["Today,","Heute,"],["Fiat's","Fiats"],["cars","Autos"],["are sold","werden-verkauft"],["all","überall"],["over","auf"],["the","der"],["world.","Welt."]],
+          "decode": [
+            [
+              "Today,",
+              "Heute,"
+            ],
+            [
+              "Fiat's",
+              "Fiats"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "are sold",
+              "werden-verkauft"
+            ],
+            [
+              "all",
+              "überall"
+            ],
+            [
+              "over",
+              "auf"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "world.",
+              "Welt."
+            ]
+          ],
           "de": "(Aktiv: Today, Fiat sells its cars all over the world.) Heute werden Fiats Autos auf der ganzen Welt verkauft."
         }
       ]
@@ -100,110 +412,1014 @@
         {
           "parts": [
             "English ",
-            {"opts": ["is", "are", "was"], "decode": ["wird", "werden", "wurde"], "correct": 0},
+            {
+              "opts": [
+                "is",
+                "are",
+                "was"
+              ],
+              "decode": [
+                "wird",
+                "werden",
+                "wurde"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["spoken", "speak", "spoke"], "decode": ["gesprochen", "sprechen", "sprach"], "correct": 0},
+            {
+              "opts": [
+                "spoken",
+                "speak",
+                "spoke"
+              ],
+              "decode": [
+                "gesprochen",
+                "sprechen",
+                "sprach"
+              ],
+              "correct": 0,
+              "n": "speak"
+            },
             " in many countries. (speak)"
           ],
           "solutionEn": "English is spoken in many countries.",
           "solutionDe": "Englisch wird in vielen Ländern gesprochen.",
-          "explain": "Present Simple Passive: is + past participle; speak–spoke–spoken. 'English' = Singular → is."
+          "explain": "Present Simple Passive: is + past participle; speak–spoke–spoken. 'English' = Singular → is.",
+          "decodeFull": [
+            [
+              "English",
+              "Englisch"
+            ],
+            [
+              "is spoken",
+              "wird gesprochen"
+            ],
+            [
+              "in many",
+              "in vielen"
+            ],
+            [
+              "countries.",
+              "Ländern."
+            ],
+            [
+              "(speak)",
+              "(sprechen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "English",
+                  "Englisch"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in many",
+                  "in vielen"
+                ],
+                [
+                  "countries.",
+                  "Ländern."
+                ],
+                [
+                  "(speak)",
+                  "(sprechen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The post ",
-            {"opts": ["is", "are", "does"], "decode": ["wird", "werden", "tut"], "correct": 0},
+            {
+              "opts": [
+                "is",
+                "are",
+                "does"
+              ],
+              "decode": [
+                "wird",
+                "werden",
+                "tut"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            {
+              "opts": [
+                "delivered",
+                "deliver",
+                "delivering"
+              ],
+              "decode": [
+                "zugestellt",
+                "zustellen",
+                "zustellend"
+              ],
+              "correct": 0,
+              "n": "deliver"
+            },
             " at about 7 o'clock every morning. (deliver)"
           ],
           "solutionEn": "The post is delivered at about 7 o'clock every morning.",
           "solutionDe": "Die Post wird jeden Morgen gegen 7 Uhr zugestellt.",
-          "explain": "is + delivered. 'every morning' → Present Simple."
+          "explain": "is + delivered. 'every morning' → Present Simple.",
+          "decodeFull": [
+            [
+              "The",
+              "die"
+            ],
+            [
+              "post",
+              "Post"
+            ],
+            [
+              "is delivered",
+              "wird zugestellt"
+            ],
+            [
+              "at about",
+              "gegen etwa"
+            ],
+            [
+              "7",
+              "7"
+            ],
+            [
+              "o'clock",
+              "Uhr"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "morning.",
+              "Morgen."
+            ],
+            [
+              "(deliver)",
+              "(zustellen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "post",
+                  "Post"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "at about",
+                  "gegen etwa"
+                ],
+                [
+                  "7",
+                  "7"
+                ],
+                [
+                  "o'clock",
+                  "Uhr"
+                ],
+                [
+                  "every",
+                  "jeden"
+                ],
+                [
+                  "morning.",
+                  "Morgen."
+                ],
+                [
+                  "(deliver)",
+                  "(zustellen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Is", "Does", "Has"], "decode": ["Wird", "Tut", "Hat"], "correct": 0},
+            {
+              "opts": [
+                "Is",
+                "Does",
+                "Has"
+              ],
+              "decode": [
+                "Wird",
+                "Tut",
+                "Hat"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " the building ",
-            {"opts": ["used", "use", "using"], "decode": ["benutzt", "benutzen", "benutzend"], "correct": 0},
+            {
+              "opts": [
+                "used",
+                "use",
+                "using"
+              ],
+              "decode": [
+                "benutzt",
+                "benutzen",
+                "benutzend"
+              ],
+              "correct": 0,
+              "n": "use"
+            },
             " any more? (the building / use)"
           ],
           "solutionEn": "Is the building used any more?",
           "solutionDe": "Wird das Gebäude noch benutzt?",
-          "explain": "Passivfrage: Is + Subjekt + past participle. KEIN do/does im Passiv!"
+          "explain": "Passivfrage: Is + Subjekt + past participle. KEIN do/does im Passiv!",
+          "decodeFull": [
+            [
+              "Is",
+              "wird"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "building",
+              "Gebäude"
+            ],
+            [
+              "used",
+              "benutzt"
+            ],
+            [
+              "any more?",
+              "noch?"
+            ],
+            [
+              "(the building / use)",
+              "(das Gebäude / benutzen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "building",
+                  "Gebäude"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "any more?",
+                  "noch?"
+                ],
+                [
+                  "(the building / use)",
+                  "(das Gebäude / benutzen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "How often ",
-            {"opts": ["are", "is", "do"], "decode": ["werden", "wird", "tun"], "correct": 0},
+            {
+              "opts": [
+                "are",
+                "is",
+                "do"
+              ],
+              "decode": [
+                "werden",
+                "wird",
+                "tun"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " the Olympic Games ",
-            {"opts": ["held", "hold", "holded"], "decode": ["abgehalten", "abhalten", "hielt"], "correct": 0},
+            {
+              "opts": [
+                "held",
+                "hold",
+                "holded"
+              ],
+              "decode": [
+                "abgehalten",
+                "abhalten",
+                "hielt"
+              ],
+              "correct": 0,
+              "n": "hold"
+            },
             "? (the Olympic Games / hold)"
           ],
           "solutionEn": "How often are the Olympic Games held?",
           "solutionDe": "Wie oft werden die Olympischen Spiele abgehalten?",
-          "explain": "'the Olympic Games' = Plural → are; hold–held–held."
+          "explain": "'the Olympic Games' = Plural → are; hold–held–held.",
+          "decodeFull": [
+            [
+              "How often",
+              "Wie oft"
+            ],
+            [
+              "are",
+              "werden"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "Olympic Games",
+              "Olympischen Spiele"
+            ],
+            [
+              "held?",
+              "abgehalten?"
+            ],
+            [
+              "(the Olympic Games / hold)",
+              "(die Olympischen Spiele / abhalten)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How often",
+                  "Wie oft"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "Olympic Games",
+                  "Olympischen Spiele"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "(the Olympic Games / hold)",
+                  "(die Olympischen Spiele / abhalten)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "How ",
-            {"opts": ["is", "are", "does"], "decode": ["wird", "werden", "tut"], "correct": 0},
+            {
+              "opts": [
+                "is",
+                "are",
+                "does"
+              ],
+              "decode": [
+                "wird",
+                "werden",
+                "tut"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " your name ",
-            {"opts": ["spelled", "spell", "spelling"], "decode": ["buchstabiert", "buchstabieren", "buchstabierend"], "correct": 0},
+            {
+              "opts": [
+                "spelled",
+                "spell",
+                "spelling"
+              ],
+              "decode": [
+                "buchstabiert",
+                "buchstabieren",
+                "buchstabierend"
+              ],
+              "correct": 0,
+              "n": "spell"
+            },
             "? (your name / spell)"
           ],
           "solutionEn": "How is your name spelled?",
           "solutionDe": "Wie wird dein Name geschrieben/buchstabiert?",
-          "explain": "is + spelled (britisch auch: spelt). 'your name' = Singular → is."
+          "explain": "is + spelled (britisch auch: spelt). 'your name' = Singular → is.",
+          "decodeFull": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "spelled?",
+              "buchstabiert?"
+            ],
+            [
+              "(your name / spell)",
+              "(dein Name / buchstabieren)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How",
+                  "Wie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your",
+                  "dein"
+                ],
+                [
+                  "name",
+                  "Name"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "(your name / spell)",
+                  "(dein Name / buchstabieren)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "My salary ",
-            {"opts": ["is", "are", "have"], "decode": ["wird", "werden", "haben"], "correct": 0},
+            {
+              "opts": [
+                "is",
+                "are",
+                "have"
+              ],
+              "decode": [
+                "wird",
+                "werden",
+                "haben"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["paid", "payed", "pay"], "decode": ["bezahlt", "zahlte", "bezahlen"], "correct": 0},
+            {
+              "opts": [
+                "paid",
+                "payed",
+                "pay"
+              ],
+              "decode": [
+                "bezahlt",
+                "zahlte",
+                "bezahlen"
+              ],
+              "correct": 0,
+              "n": "pay"
+            },
             " every month. (pay)"
           ],
           "solutionEn": "My salary is paid every month.",
           "solutionDe": "Mein Gehalt wird jeden Monat bezahlt.",
-          "explain": "is + paid. Achtung Schreibung: pay–paid–paid (NICHT payed)."
+          "explain": "is + paid. Achtung Schreibung: pay–paid–paid (NICHT payed).",
+          "decodeFull": [
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "salary",
+              "Gehalt"
+            ],
+            [
+              "is paid",
+              "wird bezahlt"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "month.",
+              "Monat."
+            ],
+            [
+              "(pay)",
+              "(bezahlen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "Mein"
+                ],
+                [
+                  "salary",
+                  "Gehalt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "every",
+                  "jeden"
+                ],
+                [
+                  "month.",
+                  "Monat."
+                ],
+                [
+                  "(pay)",
+                  "(bezahlen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "These cars ",
-            {"opts": ["are not", "is not", "do not"], "decode": ["werden nicht", "wird nicht", "tun nicht"], "correct": 0},
+            {
+              "opts": [
+                "are not",
+                "is not",
+                "do not"
+              ],
+              "decode": [
+                "werden nicht",
+                "wird nicht",
+                "tun nicht"
+              ],
+              "correct": 0,
+              "n": "are not"
+            },
             " ",
-            {"opts": ["made", "make", "maked"], "decode": ["hergestellt", "herstellen", "machte"], "correct": 0},
+            {
+              "opts": [
+                "made",
+                "make",
+                "maked"
+              ],
+              "decode": [
+                "hergestellt",
+                "herstellen",
+                "machte"
+              ],
+              "correct": 0,
+              "n": "make"
+            },
             " in Japan. (not make)"
           ],
           "solutionEn": "These cars are not made in Japan.",
           "solutionDe": "Diese Autos werden nicht in Japan hergestellt.",
-          "explain": "Verneinung: are not + made; make–made–made. 'cars' = Plural → are."
+          "explain": "Verneinung: are not + made; make–made–made. 'cars' = Plural → are.",
+          "decodeFull": [
+            [
+              "These",
+              "Diese"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "are not made",
+              "werden nicht hergestellt"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Japan.",
+              "Japan."
+            ],
+            [
+              "(not make)",
+              "(nicht herstellen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "These",
+                  "Diese"
+                ],
+                [
+                  "cars",
+                  "Autos"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "Japan.",
+                  "Japan."
+                ],
+                [
+                  "(not make)",
+                  "(nicht herstellen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The name of the people who committed the crime ",
-            {"opts": ["is not", "are not", "does not"], "decode": ["ist nicht", "sind nicht", "tut nicht"], "correct": 0},
+            {
+              "opts": [
+                "is not",
+                "are not",
+                "does not"
+              ],
+              "decode": [
+                "ist nicht",
+                "sind nicht",
+                "tut nicht"
+              ],
+              "correct": 0,
+              "n": "is not"
+            },
             " ",
-            {"opts": ["known", "knew", "know"], "decode": ["bekannt", "wusste", "wissen"], "correct": 0},
+            {
+              "opts": [
+                "known",
+                "knew",
+                "know"
+              ],
+              "decode": [
+                "bekannt",
+                "wusste",
+                "wissen"
+              ],
+              "correct": 0,
+              "n": "know"
+            },
             ". (not know)"
           ],
           "solutionEn": "The name of the people who committed the crime is not known.",
           "solutionDe": "Der Name der Leute, die das Verbrechen begangen haben, ist nicht bekannt.",
-          "explain": "Falle! Subjekt ist 'The name' (Singular) → is not; know–knew–known."
+          "explain": "Falle! Subjekt ist 'The name' (Singular) → is not; know–knew–known.",
+          "decodeFull": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "of the",
+              "der"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "committed",
+              "begangen haben"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "crime",
+              "Verbrechen"
+            ],
+            [
+              "is not known.",
+              "ist nicht bekannt."
+            ],
+            [
+              "(not know)",
+              "(nicht wissen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "der"
+                ],
+                [
+                  "name",
+                  "Name"
+                ],
+                [
+                  "of the",
+                  "der"
+                ],
+                [
+                  "people",
+                  "Leute"
+                ],
+                [
+                  "who",
+                  "die"
+                ],
+                [
+                  "committed",
+                  "begangen haben"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "crime",
+                  "Verbrechen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ],
+                [
+                  "(not know)",
+                  "(nicht wissen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "His travel expenses ",
-            {"opts": ["are not", "is not", "have not"], "decode": ["werden nicht", "wird nicht", "haben nicht"], "correct": 0},
+            {
+              "opts": [
+                "are not",
+                "is not",
+                "have not"
+              ],
+              "decode": [
+                "werden nicht",
+                "wird nicht",
+                "haben nicht"
+              ],
+              "correct": 0,
+              "n": "are not"
+            },
             " ",
-            {"opts": ["paid", "payed", "paying"], "decode": ["bezahlt", "zahlte", "bezahlend"], "correct": 0},
+            {
+              "opts": [
+                "paid",
+                "payed",
+                "paying"
+              ],
+              "decode": [
+                "bezahlt",
+                "zahlte",
+                "bezahlend"
+              ],
+              "correct": 0,
+              "n": "pay"
+            },
             " by his company. (not pay)"
           ],
           "solutionEn": "His travel expenses are not paid by his company.",
           "solutionDe": "Seine Reisekosten werden nicht von seiner Firma bezahlt.",
-          "explain": "'expenses' = Plural → are not + paid; Täter mit by (by his company)."
+          "explain": "'expenses' = Plural → are not + paid; Täter mit by (by his company).",
+          "decodeFull": [
+            [
+              "His",
+              "seine"
+            ],
+            [
+              "travel",
+              "Reise-"
+            ],
+            [
+              "expenses",
+              "kosten"
+            ],
+            [
+              "are not paid",
+              "werden nicht bezahlt"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "his",
+              "seiner"
+            ],
+            [
+              "company.",
+              "Firma."
+            ],
+            [
+              "(not pay)",
+              "(nicht bezahlen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "His",
+                  "seine"
+                ],
+                [
+                  "travel",
+                  "Reise-"
+                ],
+                [
+                  "expenses",
+                  "kosten"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "his",
+                  "seiner"
+                ],
+                [
+                  "company.",
+                  "Firma."
+                ],
+                [
+                  "(not pay)",
+                  "(nicht bezahlen)"
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -217,110 +1433,979 @@
         {
           "parts": [
             "My car ",
-            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "were",
+                "is"
+              ],
+              "decode": [
+                "wurde",
+                "wurden",
+                "wird"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["repaired", "repair", "repairing"], "decode": ["repariert", "reparieren", "reparierend"], "correct": 0},
+            {
+              "opts": [
+                "repaired",
+                "repair",
+                "repairing"
+              ],
+              "decode": [
+                "repariert",
+                "reparieren",
+                "reparierend"
+              ],
+              "correct": 0,
+              "n": "repair"
+            },
             " last week. (repair)"
           ],
           "solutionEn": "My car was repaired last week.",
           "solutionDe": "Mein Auto wurde letzte Woche repariert.",
-          "explain": "Past Simple Passive: was + past participle. 'last week' → Past."
+          "explain": "Past Simple Passive: was + past participle. 'last week' → Past.",
+          "decodeFull": [
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was repaired",
+              "wurde repariert"
+            ],
+            [
+              "last",
+              "letzte"
+            ],
+            [
+              "week.",
+              "Woche."
+            ],
+            [
+              "(repair)",
+              "(reparieren)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "mein"
+                ],
+                [
+                  "car",
+                  "Auto"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "last",
+                  "letzte"
+                ],
+                [
+                  "week.",
+                  "Woche."
+                ],
+                [
+                  "(repair)",
+                  "(reparieren)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "This song ",
-            {"opts": ["was not", "were not", "did not"], "decode": ["wurde nicht", "wurden nicht", "tat nicht"], "correct": 0},
+            {
+              "opts": [
+                "was not",
+                "were not",
+                "did not"
+              ],
+              "decode": [
+                "wurde nicht",
+                "wurden nicht",
+                "tat nicht"
+              ],
+              "correct": 0,
+              "n": "was not"
+            },
             " ",
-            {"opts": ["written", "wrote", "write"], "decode": ["geschrieben", "schrieb", "schreiben"], "correct": 0},
+            {
+              "opts": [
+                "written",
+                "wrote",
+                "write"
+              ],
+              "decode": [
+                "geschrieben",
+                "schrieb",
+                "schreiben"
+              ],
+              "correct": 0,
+              "n": "write"
+            },
             " by John Lennon. (not write)"
           ],
           "solutionEn": "This song was not written by John Lennon.",
           "solutionDe": "Dieses Lied wurde nicht von John Lennon geschrieben.",
-          "explain": "was not + written; write–wrote–written; Täter mit by."
+          "explain": "was not + written; write–wrote–written; Täter mit by.",
+          "decodeFull": [
+            [
+              "This",
+              "dieses"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "was not written",
+              "wurde nicht geschrieben"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "John Lennon.",
+              "John Lennon."
+            ],
+            [
+              "(not write)",
+              "(nicht schreiben)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "This",
+                  "dieses"
+                ],
+                [
+                  "song",
+                  "Lied"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "John Lennon.",
+                  "John Lennon."
+                ],
+                [
+                  "(not write)",
+                  "(nicht schreiben)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Was", "Did", "Were"], "decode": ["Wurde", "Tat", "Wurden"], "correct": 0},
+            {
+              "opts": [
+                "Was",
+                "Did",
+                "Were"
+              ],
+              "decode": [
+                "Wurde",
+                "Tat",
+                "Wurden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " the phone ",
-            {"opts": ["answered", "answer", "answering"], "decode": ["abgehoben", "abheben", "abhebend"], "correct": 0},
+            {
+              "opts": [
+                "answered",
+                "answer",
+                "answering"
+              ],
+              "decode": [
+                "abgehoben",
+                "abheben",
+                "abhebend"
+              ],
+              "correct": 0,
+              "n": "answer"
+            },
             " by a young girl? (the phone / answer)"
           ],
           "solutionEn": "Was the phone answered by a young girl?",
           "solutionDe": "Wurde das Telefon von einem jungen Mädchen abgehoben?",
-          "explain": "Passivfrage im Past: Was + Subjekt + past participle. 'the phone' = Singular → was; kein did im Passiv."
+          "explain": "Passivfrage im Past: Was + Subjekt + past participle. 'the phone' = Singular → was; kein did im Passiv.",
+          "decodeFull": [
+            [
+              "Was",
+              "wurde"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "phone",
+              "Telefon"
+            ],
+            [
+              "answered",
+              "beantwortet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "a young",
+              "einem jungen"
+            ],
+            [
+              "girl?",
+              "Mädchen?"
+            ],
+            [
+              "(the phone / answer)",
+              "(das Telefon / abnehmen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "phone",
+                  "Telefon"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "a young",
+                  "einem jungen"
+                ],
+                [
+                  "girl?",
+                  "Mädchen?"
+                ],
+                [
+                  "(the phone / answer)",
+                  "(das Telefon / abnehmen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The film ",
-            {"opts": ["was", "has been", "were"], "decode": ["wurde", "ist worden", "wurden"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "has been",
+                "were"
+              ],
+              "decode": [
+                "wurde",
+                "ist worden",
+                "wurden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["made", "make", "making"], "decode": ["gedreht", "drehen", "drehend"], "correct": 0},
+            {
+              "opts": [
+                "made",
+                "make",
+                "making"
+              ],
+              "decode": [
+                "gedreht",
+                "drehen",
+                "drehend"
+              ],
+              "correct": 0,
+              "n": "make"
+            },
             " ten years ago. (make)"
           ],
           "solutionEn": "The film was made ten years ago.",
           "solutionDe": "Der Film wurde vor zehn Jahren gedreht.",
-          "explain": "'ten years ago' → Past Simple (NICHT Present Perfect): was + made."
+          "explain": "'ten years ago' → Past Simple (NICHT Present Perfect): was + made.",
+          "decodeFull": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "film",
+              "Film"
+            ],
+            [
+              "was made",
+              "wurde gemacht"
+            ],
+            [
+              "ten",
+              "zehn"
+            ],
+            [
+              "years",
+              "Jahre"
+            ],
+            [
+              "ago.",
+              "zuvor."
+            ],
+            [
+              "(make)",
+              "(machen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "der"
+                ],
+                [
+                  "film",
+                  "Film"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "ten",
+                  "zehn"
+                ],
+                [
+                  "years",
+                  "Jahre"
+                ],
+                [
+                  "ago.",
+                  "zuvor."
+                ],
+                [
+                  "(make)",
+                  "(machen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "When ",
-            {"opts": ["was", "did", "were"], "decode": ["wurde", "tat", "wurden"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "did",
+                "were"
+              ],
+              "decode": [
+                "wurde",
+                "tat",
+                "wurden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " tennis ",
-            {"opts": ["invented", "invent", "inventing"], "decode": ["erfunden", "erfinden", "erfindend"], "correct": 0},
+            {
+              "opts": [
+                "invented",
+                "invent",
+                "inventing"
+              ],
+              "decode": [
+                "erfunden",
+                "erfinden",
+                "erfindend"
+              ],
+              "correct": 0,
+              "n": "invent"
+            },
             "? (tennis / invent)"
           ],
           "solutionEn": "When was tennis invented?",
           "solutionDe": "Wann wurde Tennis erfunden?",
-          "explain": "Frage: When + was + Subjekt + past participle."
+          "explain": "Frage: When + was + Subjekt + past participle.",
+          "decodeFull": [
+            [
+              "When",
+              "Wann"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "tennis",
+              "Tennis"
+            ],
+            [
+              "invented?",
+              "erfunden?"
+            ],
+            [
+              "(tennis / invent)",
+              "(Tennis / erfinden)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "When",
+                  "Wann"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "tennis",
+                  "Tennis"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "(tennis / invent)",
+                  "(Tennis / erfinden)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The car ",
-            {"opts": ["was not", "were not", "has not been"], "decode": ["wurde nicht", "wurden nicht", "ist nicht worden"], "correct": 0},
+            {
+              "opts": [
+                "was not",
+                "were not",
+                "has not been"
+              ],
+              "decode": [
+                "wurde nicht",
+                "wurden nicht",
+                "ist nicht worden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["damaged", "damage", "damaging"], "decode": ["beschädigt", "beschädigen", "beschädigend"], "correct": 0},
+            {
+              "opts": [
+                "damaged",
+                "damage",
+                "damaging"
+              ],
+              "decode": [
+                "beschädigt",
+                "beschädigen",
+                "beschädigend"
+              ],
+              "correct": 0,
+              "n": "damage"
+            },
             " in the accident. (not damage)"
           ],
           "solutionEn": "The car was not damaged in the accident.",
           "solutionDe": "Das Auto wurde bei dem Unfall nicht beschädigt.",
-          "explain": "was not + damaged. 'in the accident' → abgeschlossene Vergangenheit."
+          "explain": "was not + damaged. 'in the accident' → abgeschlossene Vergangenheit.",
+          "decodeFull": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was not damaged",
+              "wurde nicht beschädigt"
+            ],
+            [
+              "in",
+              "bei"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "accident.",
+              "Unfall."
+            ],
+            [
+              "(not damage)",
+              "(nicht beschädigen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "das"
+                ],
+                [
+                  "car",
+                  "Auto"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in",
+                  "bei"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "accident.",
+                  "Unfall."
+                ],
+                [
+                  "(not damage)",
+                  "(nicht beschädigen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The original building ",
-            {"opts": ["was", "were", "had"], "decode": ["wurde", "wurden", "hatte"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "were",
+                "had"
+              ],
+              "decode": [
+                "wurde",
+                "wurden",
+                "hatte"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["pulled", "pull", "pulling"], "decode": ["abgerissen", "abreißen", "abreißend"], "correct": 0},
+            {
+              "opts": [
+                "pulled",
+                "pull",
+                "pulling"
+              ],
+              "decode": [
+                "abgerissen",
+                "abreißen",
+                "abreißend"
+              ],
+              "correct": 0,
+              "n": "pull"
+            },
             " down in 1965. (pull)"
           ],
           "solutionEn": "The original building was pulled down in 1965.",
           "solutionDe": "Das ursprüngliche Gebäude wurde 1965 abgerissen.",
-          "explain": "was + pulled down (= abgerissen); Jahreszahl → Past Simple."
+          "explain": "was + pulled down (= abgerissen); Jahreszahl → Past Simple.",
+          "decodeFull": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "original",
+              "ursprüngliche"
+            ],
+            [
+              "building",
+              "Gebäude"
+            ],
+            [
+              "was pulled down",
+              "wurde abgerissen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "1965.",
+              "1965."
+            ],
+            [
+              "(pull)",
+              "(abreißen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "das"
+                ],
+                [
+                  "original",
+                  "ursprüngliche"
+                ],
+                [
+                  "building",
+                  "Gebäude"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "down",
+                  "ab"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "1965.",
+                  "1965."
+                ],
+                [
+                  "(pull)",
+                  "(abreißen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Where ",
-            {"opts": ["was", "did", "were"], "decode": ["wurde", "tat", "wurden"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "did",
+                "were"
+              ],
+              "decode": [
+                "wurde",
+                "tat",
+                "wurden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " this pot ",
-            {"opts": ["made", "make", "making"], "decode": ["hergestellt", "herstellen", "herstellend"], "correct": 0},
+            {
+              "opts": [
+                "made",
+                "make",
+                "making"
+              ],
+              "decode": [
+                "hergestellt",
+                "herstellen",
+                "herstellend"
+              ],
+              "correct": 0,
+              "n": "make"
+            },
             "? (this pot / make)"
           ],
           "solutionEn": "Where was this pot made?",
           "solutionDe": "Wo wurde dieser Topf hergestellt?",
-          "explain": "Where + was + Subjekt + past participle; kein did im Passiv."
+          "explain": "Where + was + Subjekt + past participle; kein did im Passiv.",
+          "decodeFull": [
+            [
+              "Where",
+              "Wo"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "pot",
+              "Topf"
+            ],
+            [
+              "made?",
+              "hergestellt?"
+            ],
+            [
+              "(this pot / make)",
+              "(dieser Topf / herstellen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Where",
+                  "Wo"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "this",
+                  "dieser"
+                ],
+                [
+                  "pot",
+                  "Topf"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "(this pot / make)",
+                  "(dieser Topf / herstellen)"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "When ",
-            {"opts": ["was", "were", "did"], "decode": ["wurde", "wurden", "tat"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "were",
+                "did"
+              ],
+              "decode": [
+                "wurde",
+                "wurden",
+                "tat"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " this bridge ",
-            {"opts": ["built", "build", "builded"], "decode": ["gebaut", "bauen", "baute"], "correct": 0},
+            {
+              "opts": [
+                "built",
+                "build",
+                "builded"
+              ],
+              "decode": [
+                "gebaut",
+                "bauen",
+                "baute"
+              ],
+              "correct": 0,
+              "n": "build"
+            },
             "? (this bridge / build)"
           ],
           "solutionEn": "When was this bridge built?",
           "solutionDe": "Wann wurde diese Brücke gebaut?",
-          "explain": "When + was + Subjekt + built; build–built–built."
+          "explain": "When + was + Subjekt + built; build–built–built.",
+          "decodeFull": [
+            [
+              "When",
+              "Wann"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "this",
+              "diese"
+            ],
+            [
+              "bridge",
+              "Brücke"
+            ],
+            [
+              "built?",
+              "gebaut?"
+            ],
+            [
+              "(this bridge / build)",
+              "(diese Brücke / bauen)"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "When",
+                  "Wann"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "this",
+                  "diese"
+                ],
+                [
+                  "bridge",
+                  "Brücke"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "(this bridge / build)",
+                  "(diese Brücke / bauen)"
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -334,72 +2419,850 @@
         {
           "parts": [
             "Fiat was started by a group of Italian businessmen in 1899. In 1903, Fiat ",
-            {"opts": ["produced", "was produced"], "decode": ["produzierte", "wurde produziert"], "correct": 0},
+            {
+              "opts": [
+                "produced",
+                "was produced"
+              ],
+              "decode": [
+                "produzierte",
+                "wurde produziert"
+              ],
+              "correct": 0,
+              "n": "produce"
+            },
             " 132 cars."
           ],
           "solutionEn": "In 1903, Fiat produced 132 cars.",
           "solutionDe": "1903 produzierte Fiat 132 Autos.",
-          "explain": "Fiat handelt selbst (stellt die Autos her) und hat ein Objekt (132 cars) → Aktiv."
+          "explain": "Fiat handelt selbst (stellt die Autos her) und hat ein Objekt (132 cars) → Aktiv.",
+          "decodeFull": [
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "was started",
+              "wurde gegründet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "a group",
+              "einer Gruppe"
+            ],
+            [
+              "of Italian",
+              "italienischer"
+            ],
+            [
+              "businessmen",
+              "Geschäftsmänner"
+            ],
+            [
+              "in 1899.",
+              "im Jahre 1899."
+            ],
+            [
+              "In 1903,",
+              "Im Jahre 1903,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "produced",
+              "produzierte"
+            ],
+            [
+              "132",
+              "132"
+            ],
+            [
+              "cars.",
+              "Autos."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Fiat",
+                  "Fiat"
+                ],
+                [
+                  "was started",
+                  "wurde gegründet"
+                ],
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "a group",
+                  "einer Gruppe"
+                ],
+                [
+                  "of Italian",
+                  "italienischer"
+                ],
+                [
+                  "businessmen",
+                  "Geschäftsmänner"
+                ],
+                [
+                  "in 1899.",
+                  "im Jahre 1899."
+                ],
+                [
+                  "In 1903,",
+                  "Im Jahre 1903,"
+                ],
+                [
+                  "Fiat",
+                  "Fiat"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "132",
+                  "132"
+                ],
+                [
+                  "cars.",
+                  "Autos."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Some of these cars ",
-            {"opts": ["were exported", "exported"], "decode": ["wurden exportiert", "exportierten"], "correct": 0},
+            {
+              "opts": [
+                "were exported",
+                "exported"
+              ],
+              "decode": [
+                "wurden exportiert",
+                "exportierten"
+              ],
+              "correct": 0,
+              "n": "export"
+            },
             " by the company to the United States and Britain."
           ],
           "solutionEn": "Some of these cars were exported by the company to the United States and Britain.",
           "solutionDe": "Einige dieser Autos wurden von der Firma in die USA und nach Großbritannien exportiert.",
-          "explain": "Die Autos exportieren nicht selbst – sie WERDEN exportiert. 'by the company' verrät das Passiv."
+          "explain": "Die Autos exportieren nicht selbst – sie WERDEN exportiert. 'by the company' verrät das Passiv.",
+          "decodeFull": [
+            [
+              "Some",
+              "einige"
+            ],
+            [
+              "of these",
+              "dieser"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were exported",
+              "wurden exportiert"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "company",
+              "Firma"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the United States",
+              "die Vereinigten Staaten"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "Britain.",
+              "Großbritannien."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Some",
+                  "einige"
+                ],
+                [
+                  "of these",
+                  "dieser"
+                ],
+                [
+                  "cars",
+                  "Autos"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "company",
+                  "Firma"
+                ],
+                [
+                  "to",
+                  "in"
+                ],
+                [
+                  "the United States",
+                  "die Vereinigten Staaten"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "Britain.",
+                  "Großbritannien."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "In 1920, Fiat ",
-            {"opts": ["started", "was started"], "decode": ["begann", "wurde gegründet"], "correct": 0},
+            {
+              "opts": [
+                "started",
+                "was started"
+              ],
+              "decode": [
+                "begann",
+                "wurde gegründet"
+              ],
+              "correct": 0,
+              "n": "start"
+            },
             " making cars at a new factory at Lingotto, near Turin."
           ],
           "solutionEn": "In 1920, Fiat started making cars at a new factory at Lingotto, near Turin.",
           "solutionDe": "1920 begann Fiat, in einer neuen Fabrik in Lingotto bei Turin Autos zu bauen.",
-          "explain": "Fiat beginnt selbst etwas zu tun → Aktiv."
+          "explain": "Fiat beginnt selbst etwas zu tun → Aktiv.",
+          "decodeFull": [
+            [
+              "In 1920,",
+              "Im Jahre 1920,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "started",
+              "begann"
+            ],
+            [
+              "making",
+              "herzustellen"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "at a new",
+              "in einer neuen"
+            ],
+            [
+              "factory",
+              "Fabrik"
+            ],
+            [
+              "at Lingotto,",
+              "in Lingotto,"
+            ],
+            [
+              "near",
+              "in der Nähe von"
+            ],
+            [
+              "Turin.",
+              "Turin."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "In 1920,",
+                  "Im Jahre 1920,"
+                ],
+                [
+                  "Fiat",
+                  "Fiat"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "making",
+                  "herzustellen"
+                ],
+                [
+                  "cars",
+                  "Autos"
+                ],
+                [
+                  "at a new",
+                  "in einer neuen"
+                ],
+                [
+                  "factory",
+                  "Fabrik"
+                ],
+                [
+                  "at Lingotto,",
+                  "in Lingotto,"
+                ],
+                [
+                  "near",
+                  "in der Nähe von"
+                ],
+                [
+                  "Turin.",
+                  "Turin."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "There was a track on the roof where the cars ",
-            {"opts": ["were tested", "tested"], "decode": ["wurden getestet", "testeten"], "correct": 0},
+            {
+              "opts": [
+                "were tested",
+                "tested"
+              ],
+              "decode": [
+                "wurden getestet",
+                "testeten"
+              ],
+              "correct": 0,
+              "n": "test"
+            },
             " by technicians."
           ],
           "solutionEn": "There was a track on the roof where the cars were tested by technicians.",
           "solutionDe": "Auf dem Dach gab es eine Teststrecke, wo die Autos von Technikern getestet wurden.",
-          "explain": "'by technicians' → Passiv: were tested."
+          "explain": "'by technicians' → Passiv: were tested.",
+          "decodeFull": [
+            [
+              "There was",
+              "es gab"
+            ],
+            [
+              "a track",
+              "eine Strecke"
+            ],
+            [
+              "on the",
+              "auf dem"
+            ],
+            [
+              "roof",
+              "Dach"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were tested",
+              "wurden getestet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "technicians.",
+              "Technikern."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "There was",
+                  "es gab"
+                ],
+                [
+                  "a track",
+                  "eine Strecke"
+                ],
+                [
+                  "on the",
+                  "auf dem"
+                ],
+                [
+                  "roof",
+                  "Dach"
+                ],
+                [
+                  "where",
+                  "wo"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "cars",
+                  "Autos"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "technicians.",
+                  "Technikern."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "In 1936, Fiat launched the Fiat 500. This car ",
-            {"opts": ["was called", "called"], "decode": ["wurde genannt", "nannte"], "correct": 0},
+            {
+              "opts": [
+                "was called",
+                "called"
+              ],
+              "decode": [
+                "wurde genannt",
+                "nannte"
+              ],
+              "correct": 0,
+              "n": "call"
+            },
             " the Topolino – the Italian name for Mickey Mouse."
           ],
           "solutionEn": "This car was called the Topolino.",
           "solutionDe": "Dieses Auto wurde 'Topolino' genannt.",
-          "explain": "Das Auto nennt sich nicht selbst – es WIRD genannt → Passiv."
+          "explain": "Das Auto nennt sich nicht selbst – es WIRD genannt → Passiv.",
+          "decodeFull": [
+            [
+              "In 1936,",
+              "Im Jahre 1936,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "launched",
+              "brachte heraus"
+            ],
+            [
+              "the Fiat 500.",
+              "den Fiat 500."
+            ],
+            [
+              "This",
+              "dieses"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was called",
+              "wurde genannt"
+            ],
+            [
+              "the Topolino",
+              "der Topolino"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "the Italian",
+              "der italienische"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "Mickey Mouse.",
+              "Micky Maus."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "In 1936,",
+                  "Im Jahre 1936,"
+                ],
+                [
+                  "Fiat",
+                  "Fiat"
+                ],
+                [
+                  "launched",
+                  "brachte heraus"
+                ],
+                [
+                  "the Fiat 500.",
+                  "den Fiat 500."
+                ],
+                [
+                  "This",
+                  "dieses"
+                ],
+                [
+                  "car",
+                  "Auto"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the Topolino",
+                  "der Topolino"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "the Italian",
+                  "der italienische"
+                ],
+                [
+                  "name",
+                  "Name"
+                ],
+                [
+                  "for",
+                  "für"
+                ],
+                [
+                  "Mickey Mouse.",
+                  "Micky Maus."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The company grew, and in 1963 Fiat ",
-            {"opts": ["exported", "was exported"], "decode": ["exportierte", "wurde exportiert"], "correct": 0},
+            {
+              "opts": [
+                "exported",
+                "was exported"
+              ],
+              "decode": [
+                "exportierte",
+                "wurde exportiert"
+              ],
+              "correct": 0,
+              "n": "export"
+            },
             " more than 300,000 vehicles."
           ],
           "solutionEn": "In 1963 Fiat exported more than 300,000 vehicles.",
           "solutionDe": "1963 exportierte Fiat mehr als 300.000 Fahrzeuge.",
-          "explain": "Fiat exportiert selbst und hat ein Objekt (vehicles) → Aktiv."
+          "explain": "Fiat exportiert selbst und hat ein Objekt (vehicles) → Aktiv.",
+          "decodeFull": [
+            [
+              "The",
+              "die"
+            ],
+            [
+              "company",
+              "Firma"
+            ],
+            [
+              "grew,",
+              "wuchs,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "in 1963",
+              "im Jahre 1963"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "exported",
+              "exportierte"
+            ],
+            [
+              "more than",
+              "mehr als"
+            ],
+            [
+              "300,000",
+              "300.000"
+            ],
+            [
+              "vehicles.",
+              "Fahrzeuge."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "company",
+                  "Firma"
+                ],
+                [
+                  "grew,",
+                  "wuchs,"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "in 1963",
+                  "im Jahre 1963"
+                ],
+                [
+                  "Fiat",
+                  "Fiat"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "more than",
+                  "mehr als"
+                ],
+                [
+                  "300,000",
+                  "300.000"
+                ],
+                [
+                  "vehicles.",
+                  "Fahrzeuge."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Today, Fiat is based in Turin, and its cars ",
-            {"opts": ["are sold", "sold", "are selling"], "decode": ["werden verkauft", "verkauften", "verkaufen gerade"], "correct": 0},
+            {
+              "opts": [
+                "are sold",
+                "sold",
+                "are selling"
+              ],
+              "decode": [
+                "werden verkauft",
+                "verkauften",
+                "verkaufen gerade"
+              ],
+              "correct": 0,
+              "n": "sell"
+            },
             " all over the world."
           ],
           "solutionEn": "Today, Fiat is based in Turin, and its cars are sold all over the world.",
           "solutionDe": "Heute sitzt Fiat in Turin, und seine Autos werden auf der ganzen Welt verkauft.",
-          "explain": "Die Autos verkaufen nicht selbst → Passiv; 'Today' → Present Simple: are sold."
+          "explain": "Die Autos verkaufen nicht selbst → Passiv; 'Today' → Present Simple: are sold.",
+          "decodeFull": [
+            [
+              "Today,",
+              "heute,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "is based",
+              "hat seinen Sitz"
+            ],
+            [
+              "in Turin,",
+              "in Turin,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "its",
+              "seine"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "are sold",
+              "werden verkauft"
+            ],
+            [
+              "all over",
+              "überall auf"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Today,",
+                  "heute,"
+                ],
+                [
+                  "Fiat",
+                  "Fiat"
+                ],
+                [
+                  "is based",
+                  "hat seinen Sitz"
+                ],
+                [
+                  "in Turin,",
+                  "in Turin,"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "its",
+                  "seine"
+                ],
+                [
+                  "cars",
+                  "Autos"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "all over",
+                  "überall auf"
+                ],
+                [
+                  "the world.",
+                  "der Welt."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -413,64 +3276,806 @@
         {
           "parts": [
             "Aktiv: We sell tickets for all shows at the Box Office. → Tickets for all shows ",
-            {"opts": ["are", "is", "were"], "decode": ["werden", "wird", "wurden"], "correct": 0},
+            {
+              "opts": [
+                "are",
+                "is",
+                "were"
+              ],
+              "decode": [
+                "werden",
+                "wird",
+                "wurden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["sold", "selled", "sell"], "decode": ["verkauft", "verkaufte", "verkaufen"], "correct": 0},
+            {
+              "opts": [
+                "sold",
+                "selled",
+                "sell"
+              ],
+              "decode": [
+                "verkauft",
+                "verkaufte",
+                "verkaufen"
+              ],
+              "correct": 0,
+              "n": "sell"
+            },
             " at the Box Office."
           ],
           "solutionEn": "Tickets for all shows are sold at the Box Office.",
           "solutionDe": "Karten für alle Vorstellungen werden an der Kasse verkauft.",
-          "explain": "Objekt (tickets) wird Subjekt; Zeit bleibt Present Simple: are + sold (sell–sold–sold). 'We' fällt weg."
+          "explain": "Objekt (tickets) wird Subjekt; Zeit bleibt Present Simple: are + sold (sell–sold–sold). 'We' fällt weg.",
+          "decodeFull": [
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "sell",
+              "verkaufen"
+            ],
+            [
+              "tickets",
+              "Tickets"
+            ],
+            [
+              "for all",
+              "für alle"
+            ],
+            [
+              "shows",
+              "Vorstellungen"
+            ],
+            [
+              "at the",
+              "an der"
+            ],
+            [
+              "Box Office.",
+              "Kasse."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tickets",
+              "Tickets"
+            ],
+            [
+              "for all",
+              "für alle"
+            ],
+            [
+              "shows",
+              "Vorstellungen"
+            ],
+            [
+              "are sold",
+              "werden verkauft"
+            ],
+            [
+              "at the",
+              "an der"
+            ],
+            [
+              "Box Office.",
+              "Kasse."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "We",
+                  "wir"
+                ],
+                [
+                  "sell",
+                  "verkaufen"
+                ],
+                [
+                  "tickets",
+                  "Tickets"
+                ],
+                [
+                  "for all",
+                  "für alle"
+                ],
+                [
+                  "shows",
+                  "Vorstellungen"
+                ],
+                [
+                  "at the",
+                  "an der"
+                ],
+                [
+                  "Box Office.",
+                  "Kasse."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Tickets",
+                  "Tickets"
+                ],
+                [
+                  "for all",
+                  "für alle"
+                ],
+                [
+                  "shows",
+                  "Vorstellungen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "at the",
+                  "an der"
+                ],
+                [
+                  "Box Office.",
+                  "Kasse."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Aktiv: Thomas Edison invented the electric light bulb. → The electric light bulb ",
-            {"opts": ["was", "is", "has been"], "decode": ["wurde", "wird", "ist worden"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "is",
+                "has been"
+              ],
+              "decode": [
+                "wurde",
+                "wird",
+                "ist worden"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["invented", "invent", "inventing"], "decode": ["erfunden", "erfinden", "erfindend"], "correct": 0},
+            {
+              "opts": [
+                "invented",
+                "invent",
+                "inventing"
+              ],
+              "decode": [
+                "erfunden",
+                "erfinden",
+                "erfindend"
+              ],
+              "correct": 0,
+              "n": "invent"
+            },
             " ",
-            {"opts": ["by", "with", "from"], "decode": ["von", "mit", "aus"], "correct": 0},
+            {
+              "opts": [
+                "by",
+                "with",
+                "from"
+              ],
+              "decode": [
+                "von",
+                "mit",
+                "aus"
+              ],
+              "correct": 0,
+              "n": "by"
+            },
             " Thomas Edison."
           ],
           "solutionEn": "The electric light bulb was invented by Thomas Edison.",
           "solutionDe": "Die Glühbirne wurde von Thomas Edison erfunden.",
-          "explain": "Past Simple bleibt: was + invented; der Täter (agent) wird mit BY angehängt."
+          "explain": "Past Simple bleibt: was + invented; der Täter (agent) wird mit BY angehängt.",
+          "decodeFull": [
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "Thomas Edison",
+              "Thomas Edison"
+            ],
+            [
+              "invented",
+              "erfand"
+            ],
+            [
+              "the electric",
+              "die elektrische"
+            ],
+            [
+              "light bulb.",
+              "Glühbirne."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "electric",
+              "elektrische"
+            ],
+            [
+              "light bulb",
+              "Glühbirne"
+            ],
+            [
+              "was invented",
+              "wurde erfunden"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Thomas Edison.",
+              "Thomas Edison."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "Thomas Edison",
+                  "Thomas Edison"
+                ],
+                [
+                  "invented",
+                  "erfand"
+                ],
+                [
+                  "the electric",
+                  "die elektrische"
+                ],
+                [
+                  "light bulb.",
+                  "Glühbirne."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The electric",
+                  "die elektrische"
+                ],
+                [
+                  "light bulb",
+                  "Glühbirne"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Thomas Edison.",
+                  "Thomas Edison."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Aktiv: Someone painted the office last week. → The office ",
-            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "were",
+                "is"
+              ],
+              "decode": [
+                "wurde",
+                "wurden",
+                "wird"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["painted", "paint", "painting"], "decode": ["gestrichen", "streichen", "streichend"], "correct": 0},
+            {
+              "opts": [
+                "painted",
+                "paint",
+                "painting"
+              ],
+              "decode": [
+                "gestrichen",
+                "streichen",
+                "streichend"
+              ],
+              "correct": 0,
+              "n": "paint"
+            },
             " last week."
           ],
           "solutionEn": "The office was painted last week.",
           "solutionDe": "Das Büro wurde letzte Woche gestrichen.",
-          "explain": "'someone' ist unwichtig/unbekannt → der Täter wird im Passiv WEGGELASSEN (kein 'by someone')."
+          "explain": "'someone' ist unwichtig/unbekannt → der Täter wird im Passiv WEGGELASSEN (kein 'by someone').",
+          "decodeFull": [
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "Someone",
+              "jemand"
+            ],
+            [
+              "painted",
+              "strich"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "office",
+              "Büro"
+            ],
+            [
+              "last week.",
+              "letzte Woche."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "das"
+            ],
+            [
+              "office",
+              "Büro"
+            ],
+            [
+              "was painted",
+              "wurde gestrichen"
+            ],
+            [
+              "last week.",
+              "letzte Woche."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "Someone",
+                  "jemand"
+                ],
+                [
+                  "painted",
+                  "strich"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "office",
+                  "Büro"
+                ],
+                [
+                  "last week.",
+                  "letzte Woche."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The",
+                  "das"
+                ],
+                [
+                  "office",
+                  "Büro"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "last week.",
+                  "letzte Woche."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Aktiv: Several people saw the accident. → The accident ",
-            {"opts": ["was", "were", "is"], "decode": ["wurde", "wurden", "wird"], "correct": 0},
+            {
+              "opts": [
+                "was",
+                "were",
+                "is"
+              ],
+              "decode": [
+                "wurde",
+                "wurden",
+                "wird"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["seen", "saw", "see"], "decode": ["gesehen", "sah", "sehen"], "correct": 0},
+            {
+              "opts": [
+                "seen",
+                "saw",
+                "see"
+              ],
+              "decode": [
+                "gesehen",
+                "sah",
+                "sehen"
+              ],
+              "correct": 0,
+              "n": "see"
+            },
             " by several people."
           ],
           "solutionEn": "The accident was seen by several people.",
           "solutionDe": "Der Unfall wurde von mehreren Leuten gesehen.",
-          "explain": "Neues Subjekt 'the accident' = Singular → was; see–saw–seen; Täter mit by."
+          "explain": "Neues Subjekt 'the accident' = Singular → was; see–saw–seen; Täter mit by.",
+          "decodeFull": [
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "Several",
+              "mehrere"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "saw",
+              "sahen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "accident.",
+              "Unfall."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "der"
+            ],
+            [
+              "accident",
+              "Unfall"
+            ],
+            [
+              "was seen",
+              "wurde gesehen"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "several",
+              "mehreren"
+            ],
+            [
+              "people.",
+              "Leuten."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "Several",
+                  "mehrere"
+                ],
+                [
+                  "people",
+                  "Leute"
+                ],
+                [
+                  "saw",
+                  "sahen"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "accident.",
+                  "Unfall."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The",
+                  "der"
+                ],
+                [
+                  "accident",
+                  "Unfall"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "several",
+                  "mehreren"
+                ],
+                [
+                  "people.",
+                  "Leuten."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Aktiv: Where do they make these video recorders? → Where ",
-            {"opts": ["are", "do", "is"], "decode": ["werden", "tun", "wird"], "correct": 0},
+            {
+              "opts": [
+                "are",
+                "do",
+                "is"
+              ],
+              "decode": [
+                "werden",
+                "tun",
+                "wird"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " these video recorders ",
-            {"opts": ["made", "make", "making"], "decode": ["hergestellt", "herstellen", "herstellend"], "correct": 0},
+            {
+              "opts": [
+                "made",
+                "make",
+                "making"
+              ],
+              "decode": [
+                "hergestellt",
+                "herstellen",
+                "herstellend"
+              ],
+              "correct": 0,
+              "n": "make"
+            },
             "?"
           ],
           "solutionEn": "Where are these video recorders made?",
           "solutionDe": "Wo werden diese Videorekorder hergestellt?",
-          "explain": "Passivfrage: Where + are + Subjekt + made. Das 'do' aus der Aktivfrage verschwindet, 'they' fällt weg."
+          "explain": "Passivfrage: Where + are + Subjekt + made. Das 'do' aus der Aktivfrage verschwindet, 'they' fällt weg.",
+          "decodeFull": [
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "Where",
+              "Wo"
+            ],
+            [
+              "do they",
+              "stellen sie"
+            ],
+            [
+              "make",
+              "her"
+            ],
+            [
+              "these",
+              "diese"
+            ],
+            [
+              "video recorders?",
+              "Videorekorder?"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Where",
+              "Wo"
+            ],
+            [
+              "are",
+              "werden"
+            ],
+            [
+              "these",
+              "diese"
+            ],
+            [
+              "video recorders",
+              "Videorekorder"
+            ],
+            [
+              "made?",
+              "hergestellt?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "Where",
+                  "Wo"
+                ],
+                [
+                  "do they",
+                  "stellen sie"
+                ],
+                [
+                  "make",
+                  "her"
+                ],
+                [
+                  "these",
+                  "diese"
+                ],
+                [
+                  "video recorders?",
+                  "Videorekorder?"
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Where",
+                  "Wo"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "these",
+                  "diese"
+                ],
+                [
+                  "video recorders",
+                  "Videorekorder"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         }
       ]
     },
@@ -484,60 +4089,710 @@
         {
           "parts": [
             "will-Future – Aktiv: He will deliver the letters. → The letters ",
-            {"opts": ["will be", "will", "will been"], "decode": ["werden ... werden", "werden", "werden gewesen"], "correct": 0},
+            {
+              "opts": [
+                "will be",
+                "will",
+                "will been"
+              ],
+              "decode": [
+                "werden ... werden",
+                "werden",
+                "werden gewesen"
+              ],
+              "correct": 0,
+              "n": "will be"
+            },
             " ",
-            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            {
+              "opts": [
+                "delivered",
+                "deliver",
+                "delivering"
+              ],
+              "decode": [
+                "zugestellt",
+                "zustellen",
+                "zustellend"
+              ],
+              "correct": 0,
+              "n": "deliver"
+            },
             "."
           ],
           "solutionEn": "The letters will be delivered.",
           "solutionDe": "Die Briefe werden zugestellt werden.",
-          "explain": "will-Future Passiv: will + BE + past participle."
+          "explain": "will-Future Passiv: will + BE + past participle.",
+          "decodeFull": [
+            [
+              "will-Future",
+              "will-Zukunft"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "will deliver",
+              "wird zustellen"
+            ],
+            [
+              "the letters.",
+              "die Briefe."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "will be delivered.",
+              "werden zugestellt-werden."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "will-Future",
+                  "will-Zukunft"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "will deliver",
+                  "wird zustellen"
+                ],
+                [
+                  "the letters.",
+                  "die Briefe."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "letters",
+                  "Briefe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Present Perfect – Aktiv: The police have arrested him. → He ",
-            {"opts": ["has been", "has", "is been"], "decode": ["ist ... worden", "hat", "ist gewesen"], "correct": 0},
+            {
+              "opts": [
+                "has been",
+                "has",
+                "is been"
+              ],
+              "decode": [
+                "ist ... worden",
+                "hat",
+                "ist gewesen"
+              ],
+              "correct": 0,
+              "n": "has been"
+            },
             " ",
-            {"opts": ["arrested", "arrest", "arresting"], "decode": ["verhaftet", "verhaften", "verhaftend"], "correct": 0},
+            {
+              "opts": [
+                "arrested",
+                "arrest",
+                "arresting"
+              ],
+              "decode": [
+                "verhaftet",
+                "verhaften",
+                "verhaftend"
+              ],
+              "correct": 0,
+              "n": "arrest"
+            },
             "."
           ],
           "solutionEn": "He has been arrested.",
           "solutionDe": "Er ist verhaftet worden.",
-          "explain": "Present Perfect Passiv: has/have + BEEN + past participle. Täter (Polizei) ist offensichtlich → weglassen."
+          "explain": "Present Perfect Passiv: has/have + BEEN + past participle. Täter (Polizei) ist offensichtlich → weglassen.",
+          "decodeFull": [
+            [
+              "Present Perfect",
+              "Gegenwärtiges Perfekt"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "police",
+              "Polizei"
+            ],
+            [
+              "have arrested",
+              "hat verhaftet"
+            ],
+            [
+              "him.",
+              "ihn."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "has been arrested.",
+              "ist verhaftet-worden."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Present Perfect",
+                  "Gegenwärtiges Perfekt"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "police",
+                  "Polizei"
+                ],
+                [
+                  "have arrested",
+                  "hat verhaftet"
+                ],
+                [
+                  "him.",
+                  "ihn."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "er"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Modalverb – Aktiv: He must deliver the letters. → The letters ",
-            {"opts": ["must be", "must", "must been"], "decode": ["müssen ... werden", "müssen", "müssen gewesen"], "correct": 0},
+            {
+              "opts": [
+                "must be",
+                "must",
+                "must been"
+              ],
+              "decode": [
+                "müssen ... werden",
+                "müssen",
+                "müssen gewesen"
+              ],
+              "correct": 0,
+              "n": "must be"
+            },
             " ",
-            {"opts": ["delivered", "deliver", "delivering"], "decode": ["zugestellt", "zustellen", "zustellend"], "correct": 0},
+            {
+              "opts": [
+                "delivered",
+                "deliver",
+                "delivering"
+              ],
+              "decode": [
+                "zugestellt",
+                "zustellen",
+                "zustellend"
+              ],
+              "correct": 0,
+              "n": "deliver"
+            },
             "."
           ],
           "solutionEn": "The letters must be delivered.",
           "solutionDe": "Die Briefe müssen zugestellt werden.",
-          "explain": "Modalverb-Passiv: must/can/may + BE + past participle."
+          "explain": "Modalverb-Passiv: must/can/may + BE + past participle.",
+          "decodeFull": [
+            [
+              "Modalverb",
+              "Modalverb"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "must deliver",
+              "muss zustellen"
+            ],
+            [
+              "the letters.",
+              "die Briefe."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "must be delivered.",
+              "müssen zugestellt-werden."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Modalverb",
+                  "Modalverb"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "must deliver",
+                  "muss zustellen"
+                ],
+                [
+                  "the letters.",
+                  "die Briefe."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "letters",
+                  "Briefe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Present Continuous – Aktiv: He is delivering the letters. → The letters ",
-            {"opts": ["are being", "are", "is being"], "decode": ["werden gerade", "werden", "wird gerade"], "correct": 0},
+            {
+              "opts": [
+                "are being",
+                "are",
+                "is being"
+              ],
+              "decode": [
+                "werden gerade",
+                "werden",
+                "wird gerade"
+              ],
+              "correct": 0,
+              "n": "be"
+            },
             " ",
-            {"opts": ["delivered", "delivering", "deliver"], "decode": ["zugestellt", "zustellend", "zustellen"], "correct": 0},
+            {
+              "opts": [
+                "delivered",
+                "delivering",
+                "deliver"
+              ],
+              "decode": [
+                "zugestellt",
+                "zustellend",
+                "zustellen"
+              ],
+              "correct": 0,
+              "n": "deliver"
+            },
             "."
           ],
           "solutionEn": "The letters are being delivered.",
           "solutionDe": "Die Briefe werden gerade zugestellt.",
-          "explain": "Present Continuous Passiv: am/is/are + BEING + past participle; 'letters' = Plural → are."
+          "explain": "Present Continuous Passiv: am/is/are + BEING + past participle; 'letters' = Plural → are.",
+          "decodeFull": [
+            [
+              "Present Continuous",
+              "Gegenwärtiges Kontinuierliches"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "is delivering",
+              "stellt gerade zu"
+            ],
+            [
+              "the letters.",
+              "die Briefe."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "are being delivered.",
+              "werden gerade zugestellt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Present Continuous",
+                  "Gegenwärtiges Kontinuierliches"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "is delivering",
+                  "stellt gerade zu"
+                ],
+                [
+                  "the letters.",
+                  "die Briefe."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "The",
+                  "die"
+                ],
+                [
+                  "letters",
+                  "Briefe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  ".",
+                  "."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "going-to-Future – Aktiv: You are going to help him. → He is going to ",
-            {"opts": ["be helped", "helped", "be help"], "decode": ["geholfen werden", "geholfen", "helfen werden"], "correct": 0},
+            {
+              "opts": [
+                "be helped",
+                "helped",
+                "be help"
+              ],
+              "decode": [
+                "geholfen werden",
+                "geholfen",
+                "helfen werden"
+              ],
+              "correct": 0,
+              "n": "be helped"
+            },
             " by you."
           ],
           "solutionEn": "He is going to be helped by you.",
           "solutionDe": "Ihm wird von dir geholfen werden.",
-          "explain": "going-to-Future Passiv: is/are going to + BE + past participle."
+          "explain": "going-to-Future Passiv: is/are going to + BE + past participle.",
+          "decodeFull": [
+            [
+              "going-to-Future",
+              "going-to-Zukunft"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Aktiv:",
+              "Aktiv:"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "are going to",
+              "wirst"
+            ],
+            [
+              "help",
+              "helfen"
+            ],
+            [
+              "him.",
+              "ihm."
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "is going to",
+              "wird"
+            ],
+            [
+              "be helped",
+              "geholfen-werden"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "you.",
+              "dir."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "going-to-Future",
+                  "going-to-Zukunft"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Aktiv:",
+                  "Aktiv:"
+                ],
+                [
+                  "You",
+                  "du"
+                ],
+                [
+                  "are going to",
+                  "wirst"
+                ],
+                [
+                  "help",
+                  "helfen"
+                ],
+                [
+                  "him.",
+                  "ihm."
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "is going to",
+                  "wird"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "you.",
+                  "dir."
+                ]
+              ]
+            }
+          ]
         }
       ]
     }

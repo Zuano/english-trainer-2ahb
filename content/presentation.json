@@ -11,43 +11,262 @@
         {
           "id": "pres_t1_s01",
           "en": "Good morning, ladies and gentlemen – it's a pleasure to welcome you today.",
-          "decode": [["Good morning,","guten Morgen,"],["ladies","Damen"],["and","und"],["gentlemen","Herren"],["–","–"],["it's","es ist"],["a","eine"],["pleasure","Freude"],["to welcome","zu begrüßen"],["you","Sie"],["today.","heute."]],
+          "decode": [
+            [
+              "Good morning,",
+              "guten Morgen,"
+            ],
+            [
+              "ladies",
+              "Damen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "gentlemen",
+              "Herren"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "it's",
+              "es ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "pleasure",
+              "Freude"
+            ],
+            [
+              "to welcome",
+              "zu begrüßen"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "today.",
+              "heute."
+            ]
+          ],
           "de": "Guten Morgen, meine Damen und Herren – es ist mir eine Freude, Sie heute zu begrüßen."
         },
         {
           "id": "pres_t1_s02",
           "en": "First of all, let me thank you all for coming here today.",
-          "decode": [["First of all,","zuallererst"],["let me","lassen Sie mich"],["thank","danken"],["you all","Ihnen allen"],["for coming","für das Kommen"],["here","hierher"],["today.","heute."]],
+          "decode": [
+            [
+              "First of all,",
+              "zuallererst"
+            ],
+            [
+              "let me",
+              "lassen Sie mich"
+            ],
+            [
+              "thank",
+              "danken"
+            ],
+            [
+              "you all",
+              "Ihnen allen"
+            ],
+            [
+              "for coming",
+              "für das Kommen"
+            ],
+            [
+              "here",
+              "hierher"
+            ],
+            [
+              "today.",
+              "heute."
+            ]
+          ],
           "de": "Zuallererst möchte ich Ihnen allen dafür danken, dass Sie heute hierhergekommen sind."
         },
         {
           "id": "pres_t1_s03",
           "en": "Let me introduce myself – my name is Ann Brown.",
-          "decode": [["Let me","lassen Sie mich"],["introduce","vorstellen"],["myself","mich selbst"],["–","–"],["my","mein"],["name","Name"],["is","ist"],["Ann Brown.","Ann Brown."]],
+          "decode": [
+            [
+              "Let me",
+              "lassen Sie mich"
+            ],
+            [
+              "introduce",
+              "vorstellen"
+            ],
+            [
+              "myself",
+              "mich selbst"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "Ann Brown.",
+              "Ann Brown."
+            ]
+          ],
           "de": "Darf ich mich vorstellen – mein Name ist Ann Brown."
         },
         {
           "id": "pres_t1_s04",
           "en": "Today I'm going to talk about music streaming.",
-          "decode": [["Today","heute"],["I'm going to","werde ich"],["talk about","sprechen über"],["music streaming.","Musik-Streaming."]],
+          "decode": [
+            [
+              "Today",
+              "heute"
+            ],
+            [
+              "I'm going to",
+              "werde ich"
+            ],
+            [
+              "talk about",
+              "sprechen über"
+            ],
+            [
+              "music streaming.",
+              "Musik-Streaming."
+            ]
+          ],
           "de": "Heute werde ich über Musik-Streaming sprechen."
         },
         {
           "id": "pres_t1_s05",
           "en": "I've divided my presentation into three main parts.",
-          "decode": [["I've divided","ich habe unterteilt"],["my","meine"],["presentation","Präsentation"],["into","in"],["three","drei"],["main","Haupt-"],["parts.","Teile."]],
+          "decode": [
+            [
+              "I've divided",
+              "ich habe unterteilt"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "three",
+              "drei"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "parts.",
+              "Teile."
+            ]
+          ],
           "de": "Ich habe meine Präsentation in drei Hauptteile gegliedert."
         },
         {
           "id": "pres_t1_s06",
           "en": "I'll begin by looking at the first point, and then I'll move on to the second.",
-          "decode": [["I'll begin","ich beginne"],["by looking at","mit dem Betrachten von"],["the first","dem ersten"],["point,","Punkt,"],["and then","und dann"],["I'll move on","gehe ich weiter"],["to the second.","zum zweiten."]],
+          "decode": [
+            [
+              "I'll begin",
+              "ich beginne"
+            ],
+            [
+              "by looking at",
+              "mit dem Betrachten von"
+            ],
+            [
+              "the first",
+              "dem ersten"
+            ],
+            [
+              "point,",
+              "Punkt,"
+            ],
+            [
+              "and then",
+              "und dann"
+            ],
+            [
+              "I'll move on",
+              "gehe ich weiter"
+            ],
+            [
+              "to the second.",
+              "zum zweiten."
+            ]
+          ],
           "de": "Ich beginne mit dem ersten Punkt und gehe dann zum zweiten über."
         },
         {
           "id": "pres_t1_s07",
           "en": "If you have any questions, feel free to interrupt me at any time.",
-          "decode": [["If","falls"],["you","Sie"],["have","haben"],["any","irgendwelche"],["questions,","Fragen,"],["feel free","zögern Sie nicht"],["to interrupt","zu unterbrechen"],["me","mich"],["at any time.","jederzeit."]],
+          "decode": [
+            [
+              "If",
+              "falls"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "any",
+              "irgendwelche"
+            ],
+            [
+              "questions,",
+              "Fragen,"
+            ],
+            [
+              "feel free",
+              "zögern Sie nicht"
+            ],
+            [
+              "to interrupt",
+              "zu unterbrechen"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "at any time.",
+              "jederzeit."
+            ]
+          ],
           "de": "Wenn Sie Fragen haben, unterbrechen Sie mich gerne jederzeit."
         }
       ]
@@ -59,31 +278,192 @@
         {
           "id": "pres_t2_s01",
           "en": "This brings me to the end of my first point.",
-          "decode": [["This","das"],["brings","bringt"],["me","mich"],["to the end","zum Ende"],["of my","meines"],["first","ersten"],["point.","Punktes."]],
+          "decode": [
+            [
+              "This",
+              "das"
+            ],
+            [
+              "brings",
+              "bringt"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to the end",
+              "zum Ende"
+            ],
+            [
+              "of my",
+              "meines"
+            ],
+            [
+              "first",
+              "ersten"
+            ],
+            [
+              "point.",
+              "Punktes."
+            ]
+          ],
           "de": "Das bringt mich zum Ende meines ersten Punktes."
         },
         {
           "id": "pres_t2_s02",
           "en": "Let's now move on to the next question.",
-          "decode": [["Let's","lassen Sie uns"],["now","jetzt"],["move on","weitergehen"],["to the next","zur nächsten"],["question.","Frage."]],
+          "decode": [
+            [
+              "Let's",
+              "lassen Sie uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "move on",
+              "weitergehen"
+            ],
+            [
+              "to the next",
+              "zur nächsten"
+            ],
+            [
+              "question.",
+              "Frage."
+            ]
+          ],
           "de": "Gehen wir jetzt zur nächsten Frage über."
         },
         {
           "id": "pres_t2_s03",
           "en": "As I mentioned earlier, this point is particularly important.",
-          "decode": [["As","wie"],["I","ich"],["mentioned","erwähnte"],["earlier,","vorhin,"],["this","dieser"],["point","Punkt"],["is","ist"],["particularly","besonders"],["important.","wichtig."]],
+          "decode": [
+            [
+              "As",
+              "wie"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "mentioned",
+              "erwähnte"
+            ],
+            [
+              "earlier,",
+              "vorhin,"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "point",
+              "Punkt"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "particularly",
+              "besonders"
+            ],
+            [
+              "important.",
+              "wichtig."
+            ]
+          ],
           "de": "Wie ich vorhin erwähnt habe, ist dieser Punkt besonders wichtig."
         },
         {
           "id": "pres_t2_s04",
           "en": "Let's now look at the next slide, which shows the sales figures.",
-          "decode": [["Let's","lassen Sie uns"],["now","jetzt"],["look at","ansehen"],["the next","die nächste"],["slide,","Folie,"],["which","die"],["shows","zeigt"],["the","die"],["sales figures.","Verkaufszahlen."]],
+          "decode": [
+            [
+              "Let's",
+              "lassen Sie uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "look at",
+              "ansehen"
+            ],
+            [
+              "the next",
+              "die nächste"
+            ],
+            [
+              "slide,",
+              "Folie,"
+            ],
+            [
+              "which",
+              "die"
+            ],
+            [
+              "shows",
+              "zeigt"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "sales figures.",
+              "Verkaufszahlen."
+            ]
+          ],
           "de": "Schauen wir uns jetzt die nächste Folie an, die die Verkaufszahlen zeigt."
         },
         {
           "id": "pres_t2_s05",
           "en": "As you can see here, sales increased slightly in summer.",
-          "decode": [["As","wie"],["you","Sie"],["can","können"],["see","sehen"],["here,","hier,"],["sales","die Verkäufe"],["increased","stiegen"],["slightly","leicht"],["in summer.","im Sommer."]],
+          "decode": [
+            [
+              "As",
+              "wie"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "see",
+              "sehen"
+            ],
+            [
+              "here,",
+              "hier,"
+            ],
+            [
+              "sales",
+              "die Verkäufe"
+            ],
+            [
+              "increased",
+              "stiegen"
+            ],
+            [
+              "slightly",
+              "leicht"
+            ],
+            [
+              "in summer.",
+              "im Sommer."
+            ]
+          ],
           "de": "Wie Sie hier sehen können, stiegen die Verkäufe im Sommer leicht an."
         }
       ]
@@ -95,19 +475,106 @@
         {
           "id": "pres_t3_s01",
           "en": "Well, this brings me to the end of my presentation.",
-          "decode": [["Well,","nun,"],["this","das"],["brings","bringt"],["me","mich"],["to the end","zum Ende"],["of my","meiner"],["presentation.","Präsentation."]],
+          "decode": [
+            [
+              "Well,",
+              "nun,"
+            ],
+            [
+              "this",
+              "das"
+            ],
+            [
+              "brings",
+              "bringt"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to the end",
+              "zum Ende"
+            ],
+            [
+              "of my",
+              "meiner"
+            ],
+            [
+              "presentation.",
+              "Präsentation."
+            ]
+          ],
           "de": "Nun, das bringt mich zum Ende meiner Präsentation."
         },
         {
           "id": "pres_t3_s02",
           "en": "Before I stop, let me go over the key issues again.",
-          "decode": [["Before","bevor"],["I","ich"],["stop,","aufhöre,"],["let me","lassen Sie mich"],["go over","durchgehen"],["the key issues","die Kernpunkte"],["again.","noch einmal."]],
+          "decode": [
+            [
+              "Before",
+              "bevor"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "stop,",
+              "aufhöre,"
+            ],
+            [
+              "let me",
+              "lassen Sie mich"
+            ],
+            [
+              "go over",
+              "durchgehen"
+            ],
+            [
+              "the key issues",
+              "die Kernpunkte"
+            ],
+            [
+              "again.",
+              "noch einmal."
+            ]
+          ],
           "de": "Bevor ich zum Schluss komme, möchte ich die Kernpunkte noch einmal durchgehen."
         },
         {
           "id": "pres_t3_s03",
           "en": "And now I'll be happy to answer any questions you may have.",
-          "decode": [["And","und"],["now","jetzt"],["I'll be happy","beantworte ich gerne"],["to answer","–"],["any","alle"],["questions","Fragen"],["you may have.","die Sie haben."]],
+          "decode": [
+            [
+              "And",
+              "und"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "I'll be happy",
+              "beantworte ich gerne"
+            ],
+            [
+              "to answer",
+              "–"
+            ],
+            [
+              "any",
+              "alle"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ],
+            [
+              "you may have.",
+              "die Sie haben."
+            ]
+          ],
           "de": "Und jetzt beantworte ich gerne alle Fragen, die Sie haben."
         }
       ]
@@ -124,56 +591,794 @@
         {
           "parts": [
             "'First of all, let me thank you all for coming here today.' ",
-            {"opts": ["moving to the next point","welcoming the audience","ending the talk"], "decode": ["Übergang zum nächsten Punkt","Begrüßung des Publikums","Ende des Vortrags"], "correct": 1}
+            {
+              "opts": [
+                "moving to the next point",
+                "welcoming the audience",
+                "ending the talk"
+              ],
+              "decode": [
+                "Übergang zum nächsten Punkt",
+                "Begrüßung des Publikums",
+                "Ende des Vortrags"
+              ],
+              "correct": 1,
+              "n": "welcoming the audience"
+            }
           ],
           "solutionEn": "welcoming the audience",
           "solutionDe": "Begrüßung des Publikums (Einleitung)",
-          "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation."
+          "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation.",
+          "decodeFull": [
+            [
+              "'First",
+              "'zuerst"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "all,",
+              "allem,"
+            ],
+            [
+              "let",
+              "lass"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "thank",
+              "danken"
+            ],
+            [
+              "you",
+              "euch"
+            ],
+            [
+              "all",
+              "allen"
+            ],
+            [
+              "for",
+              "fürs"
+            ],
+            [
+              "coming",
+              "Kommen"
+            ],
+            [
+              "here",
+              "hierher"
+            ],
+            [
+              "today.'",
+              "heute.'"
+            ],
+            [
+              "welcoming",
+              "begrüßend"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "audience",
+              "Publikum"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'First",
+                  "'zuerst"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "all,",
+                  "allem,"
+                ],
+                [
+                  "let",
+                  "lass"
+                ],
+                [
+                  "me",
+                  "mich"
+                ],
+                [
+                  "thank",
+                  "danken"
+                ],
+                [
+                  "you",
+                  "euch"
+                ],
+                [
+                  "all",
+                  "allen"
+                ],
+                [
+                  "for",
+                  "fürs"
+                ],
+                [
+                  "coming",
+                  "Kommen"
+                ],
+                [
+                  "here",
+                  "hierher"
+                ],
+                [
+                  "today.'",
+                  "heute.'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "'This leads directly to my next point.' ",
-            {"opts": ["moving to the next point","dealing with questions","welcoming the audience"], "decode": ["Übergang zum nächsten Punkt","Umgang mit Fragen","Begrüßung des Publikums"], "correct": 0}
+            {
+              "opts": [
+                "moving to the next point",
+                "dealing with questions",
+                "welcoming the audience"
+              ],
+              "decode": [
+                "Übergang zum nächsten Punkt",
+                "Umgang mit Fragen",
+                "Begrüßung des Publikums"
+              ],
+              "correct": 0,
+              "n": "moving to the next point"
+            }
           ],
           "solutionEn": "moving to the next point",
           "solutionDe": "Übergang zum nächsten Punkt (Hauptteil)",
-          "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'"
+          "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'",
+          "decodeFull": [
+            [
+              "'This",
+              "'dies"
+            ],
+            [
+              "leads",
+              "führt"
+            ],
+            [
+              "directly",
+              "direkt"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point.'",
+              "Punkt.'"
+            ],
+            [
+              "moving",
+              "übergehend"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point",
+              "Punkt"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'This",
+                  "'dies"
+                ],
+                [
+                  "leads",
+                  "führt"
+                ],
+                [
+                  "directly",
+                  "direkt"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "my",
+                  "meinem"
+                ],
+                [
+                  "next",
+                  "nächsten"
+                ],
+                [
+                  "point.'",
+                  "Punkt.'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "'Let's now look at the next slide, which shows our results.' ",
-            {"opts": ["introducing yourself","quoting a well-known person","introducing a visual"], "decode": ["sich vorstellen","eine berühmte Person zitieren","eine Folie/Grafik einführen"], "correct": 2}
+            {
+              "opts": [
+                "introducing yourself",
+                "quoting a well-known person",
+                "introducing a visual"
+              ],
+              "decode": [
+                "sich vorstellen",
+                "eine berühmte Person zitieren",
+                "eine Folie/Grafik einführen"
+              ],
+              "correct": 2,
+              "n": "introducing a visual"
+            }
           ],
           "solutionEn": "introducing a visual",
           "solutionDe": "eine Folie/Grafik einführen",
-          "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'"
+          "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'",
+          "decodeFull": [
+            [
+              "'Let's",
+              "'lasst'uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "look",
+              "schauen"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "next",
+              "nächste"
+            ],
+            [
+              "slide,",
+              "Folie,"
+            ],
+            [
+              "which",
+              "welche"
+            ],
+            [
+              "shows",
+              "zeigt"
+            ],
+            [
+              "our",
+              "unsere"
+            ],
+            [
+              "results.'",
+              "Ergebnisse.'"
+            ],
+            [
+              "introducing",
+              "einführend"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "visual",
+              "Bildmaterial"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'Let's",
+                  "'lasst'uns"
+                ],
+                [
+                  "now",
+                  "jetzt"
+                ],
+                [
+                  "look",
+                  "schauen"
+                ],
+                [
+                  "at",
+                  "auf"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "next",
+                  "nächste"
+                ],
+                [
+                  "slide,",
+                  "Folie,"
+                ],
+                [
+                  "which",
+                  "welche"
+                ],
+                [
+                  "shows",
+                  "zeigt"
+                ],
+                [
+                  "our",
+                  "unsere"
+                ],
+                [
+                  "results.'",
+                  "Ergebnisse.'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "'To conclude, I'd like to run through my main points again.' ",
-            {"opts": ["stating your purpose","summarizing at the end","using an interesting fact as an opener"], "decode": ["das Ziel nennen","Zusammenfassung am Schluss","mit einem interessanten Fakt einsteigen"], "correct": 1}
+            {
+              "opts": [
+                "stating your purpose",
+                "summarizing at the end",
+                "using an interesting fact as an opener"
+              ],
+              "decode": [
+                "das Ziel nennen",
+                "Zusammenfassung am Schluss",
+                "mit einem interessanten Fakt einsteigen"
+              ],
+              "correct": 1,
+              "n": "summarizing at the end"
+            }
           ],
           "solutionEn": "summarizing at the end",
           "solutionDe": "Zusammenfassung am Schluss",
-          "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'"
+          "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'",
+          "decodeFull": [
+            [
+              "'To",
+              "'zum"
+            ],
+            [
+              "conclude,",
+              "Abschluss,"
+            ],
+            [
+              "I'd",
+              "ich'würde"
+            ],
+            [
+              "like",
+              "mögen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "run",
+              "durchgehen"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "points",
+              "punkte"
+            ],
+            [
+              "again.'",
+              "nochmals.'"
+            ],
+            [
+              "summarizing",
+              "zusammenfassend"
+            ],
+            [
+              "at",
+              "am"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "end",
+              "Ende"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'To",
+                  "'zum"
+                ],
+                [
+                  "conclude,",
+                  "Abschluss,"
+                ],
+                [
+                  "I'd",
+                  "ich'würde"
+                ],
+                [
+                  "like",
+                  "mögen"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "run",
+                  "durchgehen"
+                ],
+                [
+                  "through",
+                  "durch"
+                ],
+                [
+                  "my",
+                  "meine"
+                ],
+                [
+                  "main",
+                  "Haupt-"
+                ],
+                [
+                  "points",
+                  "punkte"
+                ],
+                [
+                  "again.'",
+                  "nochmals.'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "'I'm sorry, could you repeat your question, please?' ",
-            {"opts": ["dealing with questions","explaining a visual","introducing your topic"], "decode": ["Umgang mit Fragen","eine Grafik erklären","das Thema vorstellen"], "correct": 0}
+            {
+              "opts": [
+                "dealing with questions",
+                "explaining a visual",
+                "introducing your topic"
+              ],
+              "decode": [
+                "Umgang mit Fragen",
+                "eine Grafik erklären",
+                "das Thema vorstellen"
+              ],
+              "correct": 0,
+              "n": "dealing with questions"
+            }
           ],
           "solutionEn": "dealing with questions",
           "solutionDe": "Umgang mit Fragen (nach der Präsentation)",
-          "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'"
+          "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'",
+          "decodeFull": [
+            [
+              "'I'm",
+              "'ich'bin"
+            ],
+            [
+              "sorry,",
+              "entschuldige,"
+            ],
+            [
+              "could",
+              "könnten"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "repeat",
+              "wiederholen"
+            ],
+            [
+              "your",
+              "Ihre"
+            ],
+            [
+              "question,",
+              "Frage,"
+            ],
+            [
+              "please?'",
+              "bitte?'"
+            ],
+            [
+              "dealing",
+              "umgehend"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'I'm",
+                  "'ich'bin"
+                ],
+                [
+                  "sorry,",
+                  "entschuldige,"
+                ],
+                [
+                  "could",
+                  "könnten"
+                ],
+                [
+                  "you",
+                  "Sie"
+                ],
+                [
+                  "repeat",
+                  "wiederholen"
+                ],
+                [
+                  "your",
+                  "Ihre"
+                ],
+                [
+                  "question,",
+                  "Frage,"
+                ],
+                [
+                  "please?'",
+                  "bitte?'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "'The purpose of this presentation is to give you an overview of our project.' ",
-            {"opts": ["indicating the end of your talk","going back to an earlier point","stating your purpose"], "decode": ["das Ende ankündigen","auf einen früheren Punkt zurückkommen","das Ziel/den Zweck nennen"], "correct": 2}
+            {
+              "opts": [
+                "indicating the end of your talk",
+                "going back to an earlier point",
+                "stating your purpose"
+              ],
+              "decode": [
+                "das Ende ankündigen",
+                "auf einen früheren Punkt zurückkommen",
+                "das Ziel/den Zweck nennen"
+              ],
+              "correct": 2,
+              "n": "stating your purpose"
+            }
           ],
           "solutionEn": "stating your purpose",
           "solutionDe": "das Ziel/den Zweck der Präsentation nennen (Einleitung)",
-          "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'"
+          "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'",
+          "decodeFull": [
+            [
+              "'The",
+              "'der"
+            ],
+            [
+              "purpose",
+              "Zweck"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "give",
+              "geben"
+            ],
+            [
+              "you",
+              "Ihnen"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "overview",
+              "Überblick"
+            ],
+            [
+              "of",
+              "über"
+            ],
+            [
+              "our",
+              "unser"
+            ],
+            [
+              "project.'",
+              "Projekt.'"
+            ],
+            [
+              "stating",
+              "darlegend"
+            ],
+            [
+              "your",
+              "Ihren"
+            ],
+            [
+              "purpose",
+              "Zweck"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'The",
+                  "'der"
+                ],
+                [
+                  "purpose",
+                  "Zweck"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "this",
+                  "dieser"
+                ],
+                [
+                  "presentation",
+                  "Präsentation"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "give",
+                  "geben"
+                ],
+                [
+                  "you",
+                  "Ihnen"
+                ],
+                [
+                  "an",
+                  "einen"
+                ],
+                [
+                  "overview",
+                  "Überblick"
+                ],
+                [
+                  "of",
+                  "über"
+                ],
+                [
+                  "our",
+                  "unser"
+                ],
+                [
+                  "project.'",
+                  "Projekt.'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -187,82 +1392,874 @@
         {
           "parts": [
             "Let me ",
-            {"opts": ["welcome","introduce","present"], "decode": ["begrüßen","vorstellen","präsentieren"], "correct": 1},
+            {
+              "opts": [
+                "welcome",
+                "introduce",
+                "present"
+              ],
+              "decode": [
+                "begrüßen",
+                "vorstellen",
+                "präsentieren"
+              ],
+              "correct": 1,
+              "n": "introduce"
+            },
             " myself. My name is Lisa Berger."
           ],
           "solutionEn": "introduce",
           "solutionDe": "vorstellen",
-          "explain": "Let me introduce myself = Darf ich mich vorstellen. 'welcome myself' und 'present myself' sagt man nicht."
+          "explain": "Let me introduce myself = Darf ich mich vorstellen. 'welcome myself' und 'present myself' sagt man nicht.",
+          "decodeFull": [
+            [
+              "Let",
+              "lass"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "introduce",
+              "vorstellen"
+            ],
+            [
+              "myself.",
+              "mich-selbst."
+            ],
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "Lisa",
+              "Lisa"
+            ],
+            [
+              "Berger.",
+              "Berger."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Let",
+                  "lass"
+                ],
+                [
+                  "me",
+                  "mich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "myself.",
+                  "mich-selbst."
+                ],
+                [
+                  "My",
+                  "mein"
+                ],
+                [
+                  "name",
+                  "Name"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "Lisa",
+                  "Lisa"
+                ],
+                [
+                  "Berger.",
+                  "Berger."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I've ",
-            {"opts": ["divided","cut","broken"], "decode": ["unterteilt","geschnitten","zerbrochen"], "correct": 0},
+            {
+              "opts": [
+                "divided",
+                "cut",
+                "broken"
+              ],
+              "decode": [
+                "unterteilt",
+                "geschnitten",
+                "zerbrochen"
+              ],
+              "correct": 0,
+              "n": "divide"
+            },
             " my presentation into three main parts."
           ],
           "solutionEn": "divided",
           "solutionDe": "unterteilt/gegliedert",
-          "explain": "divide into = unterteilen in. Feste Phrase: 'I've divided my presentation into three (main) parts.'"
+          "explain": "divide into = unterteilen in. Feste Phrase: 'I've divided my presentation into three (main) parts.'",
+          "decodeFull": [
+            [
+              "I've",
+              "ich'habe"
+            ],
+            [
+              "divided",
+              "aufgeteilt"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "three",
+              "drei"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "parts.",
+              "teile."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I've",
+                  "ich'habe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meine"
+                ],
+                [
+                  "presentation",
+                  "Präsentation"
+                ],
+                [
+                  "into",
+                  "in"
+                ],
+                [
+                  "three",
+                  "drei"
+                ],
+                [
+                  "main",
+                  "Haupt-"
+                ],
+                [
+                  "parts.",
+                  "teile."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Let's now move ",
-            {"opts": ["over","on","up"], "decode": ["hinüber","weiter","hinauf"], "correct": 1},
+            {
+              "opts": [
+                "over",
+                "on",
+                "up"
+              ],
+              "decode": [
+                "hinüber",
+                "weiter",
+                "hinauf"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " to my next point."
           ],
           "solutionEn": "on",
           "solutionDe": "weiter – move on to = übergehen zu",
-          "explain": "move on to = zum nächsten Punkt übergehen. Auch: 'Let's now turn to …'"
+          "explain": "move on to = zum nächsten Punkt übergehen. Auch: 'Let's now turn to …'",
+          "decodeFull": [
+            [
+              "Let's",
+              "lasst'uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "move",
+              "übergehen"
+            ],
+            [
+              "on",
+              "weiter"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point.",
+              "Punkt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Let's",
+                  "lasst'uns"
+                ],
+                [
+                  "now",
+                  "jetzt"
+                ],
+                [
+                  "move",
+                  "übergehen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "my",
+                  "meinem"
+                ],
+                [
+                  "next",
+                  "nächsten"
+                ],
+                [
+                  "point.",
+                  "Punkt."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "By the ",
-            {"opts": ["end","finish","stop"], "decode": ["Ende","Ziel(einlauf)","Halt"], "correct": 0},
+            {
+              "opts": [
+                "end",
+                "finish",
+                "stop"
+              ],
+              "decode": [
+                "Ende",
+                "Ziel(einlauf)",
+                "Halt"
+              ],
+              "correct": 0,
+              "n": "end"
+            },
             " of this talk you will be familiar with the topic."
           ],
           "solutionEn": "end",
           "solutionDe": "Ende – by the end of = am Ende von",
-          "explain": "'By the end of this talk you will be familiar with …' = Am Ende dieses Vortrags werden Sie … kennen. be familiar with = vertraut sein mit."
+          "explain": "'By the end of this talk you will be familiar with …' = Am Ende dieses Vortrags werden Sie … kennen. be familiar with = vertraut sein mit.",
+          "decodeFull": [
+            [
+              "By",
+              "bis"
+            ],
+            [
+              "the",
+              "zum"
+            ],
+            [
+              "end",
+              "Ende"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "this",
+              "diesem"
+            ],
+            [
+              "talk",
+              "Vortrag"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "will",
+              "werden"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "familiar",
+              "vertraut"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "topic.",
+              "Thema."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "By",
+                  "bis"
+                ],
+                [
+                  "the",
+                  "zum"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "this",
+                  "diesem"
+                ],
+                [
+                  "talk",
+                  "Vortrag"
+                ],
+                [
+                  "you",
+                  "Sie"
+                ],
+                [
+                  "will",
+                  "werden"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "familiar",
+                  "vertraut"
+                ],
+                [
+                  "with",
+                  "mit"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "topic.",
+                  "Thema."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "As you can ",
-            {"opts": ["watch","look","see"], "decode": ["zuschauen","schauen","sehen"], "correct": 2},
+            {
+              "opts": [
+                "watch",
+                "look",
+                "see"
+              ],
+              "decode": [
+                "zuschauen",
+                "schauen",
+                "sehen"
+              ],
+              "correct": 2,
+              "n": "see"
+            },
             " here, prices went up significantly."
           ],
           "solutionEn": "see",
           "solutionDe": "sehen – as you can see = wie Sie sehen können",
-          "explain": "Feste Phrase: 'As you can see here, …'. 'look' bräuchte 'look at' und 'watch' passt nur bei bewegten Bildern."
+          "explain": "Feste Phrase: 'As you can see here, …'. 'look' bräuchte 'look at' und 'watch' passt nur bei bewegten Bildern.",
+          "decodeFull": [
+            [
+              "As",
+              "wie"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "see",
+              "sehen"
+            ],
+            [
+              "here,",
+              "hier,"
+            ],
+            [
+              "prices",
+              "Preise"
+            ],
+            [
+              "went",
+              "gingen"
+            ],
+            [
+              "up",
+              "hoch"
+            ],
+            [
+              "significantly.",
+              "deutlich."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "As",
+                  "wie"
+                ],
+                [
+                  "you",
+                  "Sie"
+                ],
+                [
+                  "can",
+                  "können"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "here,",
+                  "hier,"
+                ],
+                [
+                  "prices",
+                  "Preise"
+                ],
+                [
+                  "went",
+                  "gingen"
+                ],
+                [
+                  "up",
+                  "hoch"
+                ],
+                [
+                  "significantly.",
+                  "deutlich."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "This ",
-            {"opts": ["brings","carries","puts"], "decode": ["bringt","trägt","setzt"], "correct": 0},
+            {
+              "opts": [
+                "brings",
+                "carries",
+                "puts"
+              ],
+              "decode": [
+                "bringt",
+                "trägt",
+                "setzt"
+              ],
+              "correct": 0,
+              "n": "bring"
+            },
             " me to the end of my presentation."
           ],
           "solutionEn": "brings",
           "solutionDe": "bringt – this brings me to = das bringt mich zu",
-          "explain": "Feste Phrase: 'This brings me to the end of my presentation.' Auch für Übergänge: 'This brings us to the next question.'"
+          "explain": "Feste Phrase: 'This brings me to the end of my presentation.' Auch für Übergänge: 'This brings us to the next question.'",
+          "decodeFull": [
+            [
+              "This",
+              "dies"
+            ],
+            [
+              "brings",
+              "bringt"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "end",
+              "Ende"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "presentation.",
+              "Präsentation."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "This",
+                  "dies"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "me",
+                  "mich"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "end",
+                  "Ende"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "my",
+                  "meiner"
+                ],
+                [
+                  "presentation.",
+                  "Präsentation."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I'd like to draw your ",
-            {"opts": ["eyes","attention","interest"], "decode": ["Augen","Aufmerksamkeit","Interesse"], "correct": 1},
+            {
+              "opts": [
+                "eyes",
+                "attention",
+                "interest"
+              ],
+              "decode": [
+                "Augen",
+                "Aufmerksamkeit",
+                "Interesse"
+              ],
+              "correct": 1,
+              "n": "attention"
+            },
             " to this chart."
           ],
           "solutionEn": "attention",
           "solutionDe": "Aufmerksamkeit – draw attention to = Aufmerksamkeit lenken auf",
-          "explain": "draw someone's attention to = jemandes Aufmerksamkeit auf etwas lenken. chart = Diagramm/Grafik."
+          "explain": "draw someone's attention to = jemandes Aufmerksamkeit auf etwas lenken. chart = Diagramm/Grafik.",
+          "decodeFull": [
+            [
+              "I'd",
+              "ich'würde"
+            ],
+            [
+              "like",
+              "mögen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "draw",
+              "lenken"
+            ],
+            [
+              "your",
+              "Ihre"
+            ],
+            [
+              "attention",
+              "Aufmerksamkeit"
+            ],
+            [
+              "to",
+              "auf"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "chart.",
+              "Diagramm."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I'd",
+                  "ich'würde"
+                ],
+                [
+                  "like",
+                  "mögen"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "draw",
+                  "lenken"
+                ],
+                [
+                  "your",
+                  "Ihre"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to",
+                  "auf"
+                ],
+                [
+                  "this",
+                  "dieses"
+                ],
+                [
+                  "chart.",
+                  "Diagramm."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Feel ",
-            {"opts": ["free","happy","glad"], "decode": ["frei","glücklich","froh"], "correct": 0},
+            {
+              "opts": [
+                "free",
+                "happy",
+                "glad"
+              ],
+              "decode": [
+                "frei",
+                "glücklich",
+                "froh"
+              ],
+              "correct": 0,
+              "n": "free"
+            },
             " to ask questions at any time."
           ],
           "solutionEn": "free",
           "solutionDe": "feel free to = Sie können gerne …",
-          "explain": "'Feel free to ask questions at any time.' = Stellen Sie jederzeit gerne Fragen. Feste Wendung: feel free to + Infinitiv."
+          "explain": "'Feel free to ask questions at any time.' = Stellen Sie jederzeit gerne Fragen. Feste Wendung: feel free to + Infinitiv.",
+          "decodeFull": [
+            [
+              "Feel",
+              "fühlen"
+            ],
+            [
+              "free",
+              "frei"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "ask",
+              "fragen"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "any",
+              "jeder"
+            ],
+            [
+              "time.",
+              "Zeit."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Feel",
+                  "fühlen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "ask",
+                  "fragen"
+                ],
+                [
+                  "questions",
+                  "Fragen"
+                ],
+                [
+                  "at",
+                  "zu"
+                ],
+                [
+                  "any",
+                  "jeder"
+                ],
+                [
+                  "time.",
+                  "Zeit."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -276,32 +2273,660 @@
         {
           "parts": [
             "So beginnt die Einleitung – Schritt 1: ",
-            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 0},
+            {
+              "opts": [
+                "Greeting and introducing yourself",
+                "Introducing the topic and why you chose it",
+                "Giving a short overview of the presentation",
+                "Saying when the audience can ask questions"
+              ],
+              "decode": [
+                "Begrüßung und sich vorstellen",
+                "das Thema vorstellen und begründen",
+                "kurzen Überblick über die Präsentation geben",
+                "sagen, wann das Publikum Fragen stellen darf"
+              ],
+              "correct": 0,
+              "n": "Greeting and introducing yourself"
+            },
             " → Schritt 2: ",
-            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 1},
+            {
+              "opts": [
+                "Greeting and introducing yourself",
+                "Introducing the topic and why you chose it",
+                "Giving a short overview of the presentation",
+                "Saying when the audience can ask questions"
+              ],
+              "decode": [
+                "Begrüßung und sich vorstellen",
+                "das Thema vorstellen und begründen",
+                "kurzen Überblick über die Präsentation geben",
+                "sagen, wann das Publikum Fragen stellen darf"
+              ],
+              "correct": 1,
+              "n": "Introducing the topic and why you chose it"
+            },
             " → Schritt 3: ",
-            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 2},
+            {
+              "opts": [
+                "Greeting and introducing yourself",
+                "Introducing the topic and why you chose it",
+                "Giving a short overview of the presentation",
+                "Saying when the audience can ask questions"
+              ],
+              "decode": [
+                "Begrüßung und sich vorstellen",
+                "das Thema vorstellen und begründen",
+                "kurzen Überblick über die Präsentation geben",
+                "sagen, wann das Publikum Fragen stellen darf"
+              ],
+              "correct": 2,
+              "n": "Giving a short overview of the presentation"
+            },
             " → Schritt 4: ",
-            {"opts": ["Greeting and introducing yourself","Introducing the topic and why you chose it","Giving a short overview of the presentation","Saying when the audience can ask questions"], "decode": ["Begrüßung und sich vorstellen","das Thema vorstellen und begründen","kurzen Überblick über die Präsentation geben","sagen, wann das Publikum Fragen stellen darf"], "correct": 3}
+            {
+              "opts": [
+                "Greeting and introducing yourself",
+                "Introducing the topic and why you chose it",
+                "Giving a short overview of the presentation",
+                "Saying when the audience can ask questions"
+              ],
+              "decode": [
+                "Begrüßung und sich vorstellen",
+                "das Thema vorstellen und begründen",
+                "kurzen Überblick über die Präsentation geben",
+                "sagen, wann das Publikum Fragen stellen darf"
+              ],
+              "correct": 3,
+              "n": "Saying when the audience can ask questions"
+            }
           ],
           "solutionEn": "1. Greeting and introducing yourself → 2. Introducing the topic and why you chose it → 3. Giving a short overview → 4. Saying when the audience can ask questions",
           "solutionDe": "1. Begrüßung + Vorstellung → 2. Thema + Warum dieses Thema? → 3. Kurzer Überblick → 4. Fragen-Regelung",
-          "explain": "Typische Reihenfolge der Einleitung laut Folien: Greeting → Topic (+ why this topic?) → Short overview ('What will I talk about?') → Hinweis, wann Fragen erlaubt sind."
+          "explain": "Typische Reihenfolge der Einleitung laut Folien: Greeting → Topic (+ why this topic?) → Short overview ('What will I talk about?') → Hinweis, wann Fragen erlaubt sind.",
+          "decodeFull": [
+            [
+              "So",
+              "so"
+            ],
+            [
+              "beginnt",
+              "beginnt"
+            ],
+            [
+              "die",
+              "die"
+            ],
+            [
+              "Einleitung",
+              "Einleitung"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Schritt",
+              "Schritt"
+            ],
+            [
+              "1:",
+              "1:"
+            ],
+            [
+              "Greeting",
+              "Begrüßen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "introducing",
+              "Vorstellen"
+            ],
+            [
+              "yourself",
+              "sich-selbst"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Schritt",
+              "Schritt"
+            ],
+            [
+              "2:",
+              "2:"
+            ],
+            [
+              "Introducing",
+              "Einführen"
+            ],
+            [
+              "the",
+              "des"
+            ],
+            [
+              "topic",
+              "Themas"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "chose",
+              "wähltest"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Schritt",
+              "Schritt"
+            ],
+            [
+              "3:",
+              "3:"
+            ],
+            [
+              "Giving",
+              "Geben"
+            ],
+            [
+              "a",
+              "eines"
+            ],
+            [
+              "short",
+              "kurzen"
+            ],
+            [
+              "overview",
+              "Überblicks"
+            ],
+            [
+              "of",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Schritt",
+              "Schritt"
+            ],
+            [
+              "4:",
+              "4:"
+            ],
+            [
+              "Saying",
+              "Sagen"
+            ],
+            [
+              "when",
+              "wann"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "audience",
+              "Publikum"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "ask",
+              "stellen"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "So",
+                  "so"
+                ],
+                [
+                  "beginnt",
+                  "beginnt"
+                ],
+                [
+                  "die",
+                  "die"
+                ],
+                [
+                  "Einleitung",
+                  "Einleitung"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Schritt",
+                  "Schritt"
+                ],
+                [
+                  "1:",
+                  "1:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Schritt",
+                  "Schritt"
+                ],
+                [
+                  "2:",
+                  "2:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Schritt",
+                  "Schritt"
+                ],
+                [
+                  "3:",
+                  "3:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Schritt",
+                  "Schritt"
+                ],
+                [
+                  "4:",
+                  "4:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Die ganze Präsentation – Teil 1: ",
-            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 0},
+            {
+              "opts": [
+                "Introduction: greeting, topic, overview",
+                "Main part: points with explanations and examples",
+                "Conclusion: short summary and final thought",
+                "Questions from the audience"
+              ],
+              "decode": [
+                "Einleitung: Begrüßung, Thema, Überblick",
+                "Hauptteil: Punkte mit Erklärungen und Beispielen",
+                "Schluss: kurze Zusammenfassung und Schlussgedanke",
+                "Fragen aus dem Publikum"
+              ],
+              "correct": 0,
+              "n": "Introduction: greeting, topic, overview"
+            },
             " → Teil 2: ",
-            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 1},
+            {
+              "opts": [
+                "Introduction: greeting, topic, overview",
+                "Main part: points with explanations and examples",
+                "Conclusion: short summary and final thought",
+                "Questions from the audience"
+              ],
+              "decode": [
+                "Einleitung: Begrüßung, Thema, Überblick",
+                "Hauptteil: Punkte mit Erklärungen und Beispielen",
+                "Schluss: kurze Zusammenfassung und Schlussgedanke",
+                "Fragen aus dem Publikum"
+              ],
+              "correct": 1,
+              "n": "Main part: points with explanations and examples"
+            },
             " → Teil 3: ",
-            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 2},
+            {
+              "opts": [
+                "Introduction: greeting, topic, overview",
+                "Main part: points with explanations and examples",
+                "Conclusion: short summary and final thought",
+                "Questions from the audience"
+              ],
+              "decode": [
+                "Einleitung: Begrüßung, Thema, Überblick",
+                "Hauptteil: Punkte mit Erklärungen und Beispielen",
+                "Schluss: kurze Zusammenfassung und Schlussgedanke",
+                "Fragen aus dem Publikum"
+              ],
+              "correct": 2,
+              "n": "Conclusion: short summary and final thought"
+            },
             " → Teil 4: ",
-            {"opts": ["Introduction: greeting, topic, overview","Main part: points with explanations and examples","Conclusion: short summary and final thought","Questions from the audience"], "decode": ["Einleitung: Begrüßung, Thema, Überblick","Hauptteil: Punkte mit Erklärungen und Beispielen","Schluss: kurze Zusammenfassung und Schlussgedanke","Fragen aus dem Publikum"], "correct": 3}
+            {
+              "opts": [
+                "Introduction: greeting, topic, overview",
+                "Main part: points with explanations and examples",
+                "Conclusion: short summary and final thought",
+                "Questions from the audience"
+              ],
+              "decode": [
+                "Einleitung: Begrüßung, Thema, Überblick",
+                "Hauptteil: Punkte mit Erklärungen und Beispielen",
+                "Schluss: kurze Zusammenfassung und Schlussgedanke",
+                "Fragen aus dem Publikum"
+              ],
+              "correct": 3,
+              "n": "Questions from the audience"
+            }
           ],
           "solutionEn": "1. Introduction → 2. Main part (point 1, 2, 3 – each with explanation and example/fact) → 3. Conclusion (short summary, final thought) → 4. Questions",
           "solutionDe": "1. Einleitung → 2. Hauptteil (Punkt 1–3, je mit Erklärung und Beispiel/Fakt; ggf. Vor-/Nachteile und eigene Meinung) → 3. Schluss (kurze Zusammenfassung, Schlussgedanke) → 4. Fragen",
-          "explain": "Laut Folien: Im Hauptteil jeder Punkt mit Explanation + Example/Fact. Im Schluss: Signal, dass die Präsentation endet, Zusammenfassung ODER Kernbotschaft wiederholen, dann Fragen zulassen."
+          "explain": "Laut Folien: Im Hauptteil jeder Punkt mit Explanation + Example/Fact. Im Schluss: Signal, dass die Präsentation endet, Zusammenfassung ODER Kernbotschaft wiederholen, dann Fragen zulassen.",
+          "decodeFull": [
+            [
+              "Die",
+              "die"
+            ],
+            [
+              "ganze",
+              "ganze"
+            ],
+            [
+              "Präsentation",
+              "Präsentation"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Teil",
+              "Teil"
+            ],
+            [
+              "1:",
+              "1:"
+            ],
+            [
+              "Introduction:",
+              "Einleitung:"
+            ],
+            [
+              "greeting,",
+              "Begrüßung,"
+            ],
+            [
+              "topic,",
+              "Thema,"
+            ],
+            [
+              "overview",
+              "Überblick"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Teil",
+              "Teil"
+            ],
+            [
+              "2:",
+              "2:"
+            ],
+            [
+              "Main",
+              "Haupt-"
+            ],
+            [
+              "part:",
+              "teil:"
+            ],
+            [
+              "points",
+              "Punkte"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "explanations",
+              "Erklärungen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "examples",
+              "Beispielen"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Teil",
+              "Teil"
+            ],
+            [
+              "3:",
+              "3:"
+            ],
+            [
+              "Conclusion:",
+              "Schluss:"
+            ],
+            [
+              "short",
+              "kurze"
+            ],
+            [
+              "summary",
+              "Zusammenfassung"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "final",
+              "abschließender"
+            ],
+            [
+              "thought",
+              "Gedanke"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Teil",
+              "Teil"
+            ],
+            [
+              "4:",
+              "4:"
+            ],
+            [
+              "Questions",
+              "Fragen"
+            ],
+            [
+              "from",
+              "aus"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "audience",
+              "Publikum"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Die",
+                  "die"
+                ],
+                [
+                  "ganze",
+                  "ganze"
+                ],
+                [
+                  "Präsentation",
+                  "Präsentation"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "Teil",
+                  "Teil"
+                ],
+                [
+                  "1:",
+                  "1:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Teil",
+                  "Teil"
+                ],
+                [
+                  "2:",
+                  "2:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Teil",
+                  "Teil"
+                ],
+                [
+                  "3:",
+                  "3:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "Teil",
+                  "Teil"
+                ],
+                [
+                  "4:",
+                  "4:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -315,38 +2940,486 @@
         {
           "parts": [
             "According to the slides, your slides should … ",
-            {"opts": ["be crowded and full of text","use minimal text and meaningful visuals","use as many animations and transitions as possible"], "decode": ["überladen und voller Text sein","wenig Text und aussagekräftige Bilder verwenden","so viele Animationen und Übergänge wie möglich verwenden"], "correct": 1}
+            {
+              "opts": [
+                "be crowded and full of text",
+                "use minimal text and meaningful visuals",
+                "use as many animations and transitions as possible"
+              ],
+              "decode": [
+                "überladen und voller Text sein",
+                "wenig Text und aussagekräftige Bilder verwenden",
+                "so viele Animationen und Übergänge wie möglich verwenden"
+              ],
+              "correct": 1,
+              "n": "use minimal text and meaningful visuals"
+            }
           ],
           "solutionEn": "use minimal text and meaningful visuals",
           "solutionDe": "wenig Text und aussagekräftige Bilder verwenden",
-          "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen."
+          "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen.",
+          "decodeFull": [
+            [
+              "According",
+              "gemäß"
+            ],
+            [
+              "to",
+              "den"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "slides,",
+              "Folien,"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "slides",
+              "Folien"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "…",
+              "…"
+            ],
+            [
+              "use",
+              "verwenden"
+            ],
+            [
+              "minimal",
+              "minimalen"
+            ],
+            [
+              "text",
+              "Text"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "meaningful",
+              "aussagekräftiges"
+            ],
+            [
+              "visuals",
+              "Bildmaterial"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "According",
+                  "gemäß"
+                ],
+                [
+                  "to",
+                  "den"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "slides,",
+                  "Folien,"
+                ],
+                [
+                  "your",
+                  "deine"
+                ],
+                [
+                  "slides",
+                  "Folien"
+                ],
+                [
+                  "should",
+                  "sollten"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "What is a 'hook' in a presentation? ",
-            {"opts": ["a strategy to gain and maintain the audience's interest","a cable for the projector","a difficult question from the audience"], "decode": ["eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten","ein Kabel für den Beamer","eine schwierige Frage aus dem Publikum"], "correct": 0}
+            {
+              "opts": [
+                "a strategy to gain and maintain the audience's interest",
+                "a cable for the projector",
+                "a difficult question from the audience"
+              ],
+              "decode": [
+                "eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten",
+                "ein Kabel für den Beamer",
+                "eine schwierige Frage aus dem Publikum"
+              ],
+              "correct": 0,
+              "n": "a strategy to gain and maintain the audience's interest"
+            }
           ],
           "solutionEn": "a strategy to gain and maintain the audience's interest",
           "solutionDe": "eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten",
-          "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'."
+          "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'.",
+          "decodeFull": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "'hook'",
+              "'Aufhänger'"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation?",
+              "Präsentation?"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "strategy",
+              "Strategie"
+            ],
+            [
+              "to",
+              "um-zu"
+            ],
+            [
+              "gain",
+              "gewinnen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "maintain",
+              "aufrechterhalten"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "audience's",
+              "Publikums-"
+            ],
+            [
+              "interest",
+              "Interesse"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "was"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "'hook'",
+                  "'Aufhänger'"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "a",
+                  "einer"
+                ],
+                [
+                  "presentation?",
+                  "Präsentation?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Good body language during a presentation means … ",
-            {"opts": ["reading from your notes all the time","an open stance, facial expressions and eye contact","standing completely still with your hands in your pockets"], "decode": ["die ganze Zeit von den Notizen ablesen","eine offene Haltung, Mimik und Blickkontakt","völlig still stehen mit den Händen in den Taschen"], "correct": 1}
+            {
+              "opts": [
+                "reading from your notes all the time",
+                "an open stance, facial expressions and eye contact",
+                "standing completely still with your hands in your pockets"
+              ],
+              "decode": [
+                "die ganze Zeit von den Notizen ablesen",
+                "eine offene Haltung, Mimik und Blickkontakt",
+                "völlig still stehen mit den Händen in den Taschen"
+              ],
+              "correct": 1,
+              "n": "an open stance, facial expressions and eye contact"
+            }
           ],
           "solutionEn": "an open stance, facial expressions and eye contact",
           "solutionDe": "eine offene Haltung, Mimik und Blickkontakt",
-          "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt."
+          "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt.",
+          "decodeFull": [
+            [
+              "Good",
+              "gute"
+            ],
+            [
+              "body",
+              "Körper-"
+            ],
+            [
+              "language",
+              "sprache"
+            ],
+            [
+              "during",
+              "während"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "means",
+              "bedeutet"
+            ],
+            [
+              "…",
+              "…"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "open",
+              "offene"
+            ],
+            [
+              "stance,",
+              "Haltung,"
+            ],
+            [
+              "facial",
+              "Gesichts-"
+            ],
+            [
+              "expressions",
+              "ausdrücke"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "eye",
+              "Augen-"
+            ],
+            [
+              "contact",
+              "kontakt"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Good",
+                  "gute"
+                ],
+                [
+                  "body",
+                  "Körper-"
+                ],
+                [
+                  "language",
+                  "sprache"
+                ],
+                [
+                  "during",
+                  "während"
+                ],
+                [
+                  "a",
+                  "einer"
+                ],
+                [
+                  "presentation",
+                  "Präsentation"
+                ],
+                [
+                  "means",
+                  "bedeutet"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Why is repetition useful in a presentation? ",
-            {"opts": ["It makes the talk longer.","It helps memory and creates emphasis.","It replaces the conclusion."], "decode": ["sie macht den Vortrag länger","sie hilft dem Gedächtnis und betont Wichtiges","sie ersetzt den Schluss"], "correct": 1}
+            {
+              "opts": [
+                "It makes the talk longer.",
+                "It helps memory and creates emphasis.",
+                "It replaces the conclusion."
+              ],
+              "decode": [
+                "sie macht den Vortrag länger",
+                "sie hilft dem Gedächtnis und betont Wichtiges",
+                "sie ersetzt den Schluss"
+              ],
+              "correct": 1,
+              "n": "It helps memory and creates emphasis."
+            }
           ],
           "solutionEn": "It helps memory and creates emphasis.",
           "solutionDe": "Sie hilft dem Gedächtnis und betont Wichtiges.",
-          "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation."
+          "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation.",
+          "decodeFull": [
+            [
+              "Why",
+              "warum"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "repetition",
+              "Wiederholung"
+            ],
+            [
+              "useful",
+              "nützlich"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation?",
+              "Präsentation?"
+            ],
+            [
+              "It",
+              "sie"
+            ],
+            [
+              "helps",
+              "hilft"
+            ],
+            [
+              "memory",
+              "dem-Gedächtnis"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "creates",
+              "schafft"
+            ],
+            [
+              "emphasis.",
+              "Betonung."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Why",
+                  "warum"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "repetition",
+                  "Wiederholung"
+                ],
+                [
+                  "useful",
+                  "nützlich"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "a",
+                  "einer"
+                ],
+                [
+                  "presentation?",
+                  "Präsentation?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     }

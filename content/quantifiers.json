@@ -11,31 +11,144 @@
         {
           "id": "quant_t1_s01",
           "en": "There isn't much water in the bottle.",
-          "decode": [["There isn't","es-gibt-nicht"],["much","viel"],["water","Wasser"],["in","in"],["the","der"],["bottle.","Flasche."]],
+          "decode": [
+            [
+              "There isn't",
+              "es-gibt-nicht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "water",
+              "Wasser"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "bottle.",
+              "Flasche."
+            ]
+          ],
           "de": "In der Flasche ist nicht viel Wasser. (much + unzählbar, in Verneinung/Frage)"
         },
         {
           "id": "quant_t1_s02",
           "en": "He doesn't have many cups.",
-          "decode": [["He","er"],["doesn't have","hat-nicht"],["many","viele"],["cups.","Tassen."]],
+          "decode": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "doesn't have",
+              "hat-nicht"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "cups.",
+              "Tassen."
+            ]
+          ],
           "de": "Er hat nicht viele Tassen. (many + zählbar, in Verneinung/Frage)"
         },
         {
           "id": "quant_t1_s03",
           "en": "There are a lot of people in the park.",
-          "decode": [["There are","es-gibt"],["a lot of","viele"],["people","Leute"],["in","in"],["the","dem"],["park.","Park."]],
+          "decode": [
+            [
+              "There are",
+              "es-gibt"
+            ],
+            [
+              "a lot of",
+              "viele"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "park.",
+              "Park."
+            ]
+          ],
           "de": "Im Park sind viele Leute. (a lot of = bejahter Satz, zählbar UND unzählbar)"
         },
         {
           "id": "quant_t1_s04",
           "en": "She bought some milk from the store.",
-          "decode": [["She","sie"],["bought","kaufte"],["some","etwas"],["milk","Milch"],["from","aus"],["the","dem"],["store.","Geschäft."]],
+          "decode": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "milk",
+              "Milch"
+            ],
+            [
+              "from",
+              "aus"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "store.",
+              "Geschäft."
+            ]
+          ],
           "de": "Sie hat im Geschäft etwas Milch gekauft. (some = bejahter Satz)"
         },
         {
           "id": "quant_t1_s05",
           "en": "Is there any coffee left?",
-          "decode": [["Is there","gibt-es"],["any","(irgend)etwas"],["coffee","Kaffee"],["left?","übrig?"]],
+          "decode": [
+            [
+              "Is there",
+              "gibt-es"
+            ],
+            [
+              "any",
+              "(irgend)etwas"
+            ],
+            [
+              "coffee",
+              "Kaffee"
+            ],
+            [
+              "left?",
+              "übrig?"
+            ]
+          ],
           "de": "Ist noch Kaffee übrig? (any = Frage und Verneinung)"
         }
       ]
@@ -47,31 +160,172 @@
         {
           "id": "quant_t2_s01",
           "en": "There is no cake left! Ben's eaten the whole thing!",
-          "decode": [["There is","es-gibt"],["no","keinen"],["cake","Kuchen"],["left!","übrig!"],["Ben's eaten","Ben-hat-gegessen"],["the whole thing!","das-Ganze!"]],
+          "decode": [
+            [
+              "There is",
+              "es-gibt"
+            ],
+            [
+              "no",
+              "keinen"
+            ],
+            [
+              "cake",
+              "Kuchen"
+            ],
+            [
+              "left!",
+              "übrig!"
+            ],
+            [
+              "Ben's eaten",
+              "Ben-hat-gegessen"
+            ],
+            [
+              "the whole thing!",
+              "das-Ganze!"
+            ]
+          ],
           "de": "Es ist kein Kuchen mehr übrig! Ben hat alles aufgegessen! (no + Nomen = kein)"
         },
         {
           "id": "quant_t2_s02",
           "en": "She has very few friends.",
-          "decode": [["She","sie"],["has","hat"],["very","sehr"],["few","wenige"],["friends.","Freunde."]],
+          "decode": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "few",
+              "wenige"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ],
           "de": "Sie hat sehr wenige Freunde. (few + zählbar = wenige, negativ gemeint)"
         },
         {
           "id": "quant_t2_s03",
           "en": "We've got very little petrol left.",
-          "decode": [["We've got","wir-haben"],["very","sehr"],["little","wenig"],["petrol","Benzin"],["left.","übrig."]],
+          "decode": [
+            [
+              "We've got",
+              "wir-haben"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "petrol",
+              "Benzin"
+            ],
+            [
+              "left.",
+              "übrig."
+            ]
+          ],
           "de": "Wir haben nur noch sehr wenig Benzin. (little + unzählbar = wenig, negativ gemeint)"
         },
         {
           "id": "quant_t2_s04",
           "en": "We stayed a few days in Florence and visited the museums.",
-          "decode": [["We","wir"],["stayed","blieben"],["a few","ein-paar"],["days","Tage"],["in","in"],["Florence","Florenz"],["and","und"],["visited","besuchten"],["the","die"],["museums.","Museen."]],
+          "decode": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "stayed",
+              "blieben"
+            ],
+            [
+              "a few",
+              "ein-paar"
+            ],
+            [
+              "days",
+              "Tage"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Florence",
+              "Florenz"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "visited",
+              "besuchten"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "museums.",
+              "Museen."
+            ]
+          ],
           "de": "Wir blieben ein paar Tage in Florenz und besuchten die Museen. (a few = ein paar, positiv gemeint)"
         },
         {
           "id": "quant_t2_s05",
           "en": "She drank some tea and ate a little bread.",
-          "decode": [["She","sie"],["drank","trank"],["some","etwas"],["tea","Tee"],["and","und"],["ate","aß"],["a little","ein-wenig"],["bread.","Brot."]],
+          "decode": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "drank",
+              "trank"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "tea",
+              "Tee"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "ate",
+              "aß"
+            ],
+            [
+              "a little",
+              "ein-wenig"
+            ],
+            [
+              "bread.",
+              "Brot."
+            ]
+          ],
           "de": "Sie trank etwas Tee und aß ein wenig Brot. (a little = ein wenig, positiv gemeint)"
         }
       ]
@@ -88,40 +342,562 @@
         {
           "parts": [
             "Anna is planning a party for her friends. She bought ",
-            {"opts": ["some","any","much"], "decode": ["ein-paar/etwas","irgendwelche","viel"], "correct": 0},
+            {
+              "opts": [
+                "some",
+                "any",
+                "much"
+              ],
+              "decode": [
+                "ein-paar/etwas",
+                "irgendwelche",
+                "viel"
+              ],
+              "correct": 0,
+              "n": "some"
+            },
             " snacks and ",
-            {"opts": ["a little","a few","much"], "decode": ["ein-wenig","ein-paar","viel"], "correct": 1},
+            {
+              "opts": [
+                "a little",
+                "a few",
+                "much"
+              ],
+              "decode": [
+                "ein-wenig",
+                "ein-paar",
+                "viel"
+              ],
+              "correct": 1,
+              "n": "a few"
+            },
             " bottles of juice."
           ],
           "solutionEn": "She bought some snacks and a few bottles of juice.",
           "solutionDe": "Sie hat ein paar Snacks und ein paar Flaschen Saft gekauft.",
-          "explain": "some = bejahter Satz; a few + zählbares Nomen im Plural (bottles)."
+          "explain": "some = bejahter Satz; a few + zählbares Nomen im Plural (bottles).",
+          "decodeFull": [
+            [
+              "Anna",
+              "Anna"
+            ],
+            [
+              "is planning",
+              "plant"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "snacks",
+              "Snacks"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "a few",
+              "ein-paar"
+            ],
+            [
+              "bottles",
+              "Flaschen"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "juice.",
+              "Saft."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Anna",
+                  "Anna"
+                ],
+                [
+                  "is planning",
+                  "plant"
+                ],
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "party",
+                  "Party"
+                ],
+                [
+                  "for",
+                  "für"
+                ],
+                [
+                  "her",
+                  "ihre"
+                ],
+                [
+                  "friends.",
+                  "Freunde."
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "bought",
+                  "kaufte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "snacks",
+                  "Snacks"
+                ],
+                [
+                  "and",
+                  "und"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "bottles",
+                  "Flaschen"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "juice.",
+                  "Saft."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She didn't buy ",
-            {"opts": ["many","much","a few"], "decode": ["viele","viel","ein-paar"], "correct": 1},
+            {
+              "opts": [
+                "many",
+                "much",
+                "a few"
+              ],
+              "decode": [
+                "viele",
+                "viel",
+                "ein-paar"
+              ],
+              "correct": 1,
+              "n": "much"
+            },
             " soda because ",
-            {"opts": ["much","many","a little"], "decode": ["viel","viele","ein-wenig"], "correct": 1},
+            {
+              "opts": [
+                "much",
+                "many",
+                "a little"
+              ],
+              "decode": [
+                "viel",
+                "viele",
+                "ein-wenig"
+              ],
+              "correct": 1,
+              "n": "many"
+            },
             " of her friends prefer water."
           ],
           "solutionEn": "She didn't buy much soda because many of her friends prefer water.",
           "solutionDe": "Sie hat nicht viel Limonade gekauft, weil viele ihrer Freunde lieber Wasser trinken.",
-          "explain": "much + unzählbar (soda) in der Verneinung; many + zählbar (friends)."
+          "explain": "much + unzählbar (soda) in der Verneinung; many + zählbar (friends).",
+          "decodeFull": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "didn't",
+              "tat'nicht"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "soda",
+              "Limonade"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "her",
+              "ihren"
+            ],
+            [
+              "friends",
+              "Freunden"
+            ],
+            [
+              "prefer",
+              "bevorzugen"
+            ],
+            [
+              "water.",
+              "Wasser."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "didn't",
+                  "tat'nicht"
+                ],
+                [
+                  "buy",
+                  "kaufen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "soda",
+                  "Limonade"
+                ],
+                [
+                  "because",
+                  "weil"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "her",
+                  "ihren"
+                ],
+                [
+                  "friends",
+                  "Freunden"
+                ],
+                [
+                  "prefer",
+                  "bevorzugen"
+                ],
+                [
+                  "water.",
+                  "Wasser."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "There are also ",
-            {"opts": ["a lot of","much","any"], "decode": ["viele","viel","irgendwelche"], "correct": 0},
+            {
+              "opts": [
+                "a lot of",
+                "much",
+                "any"
+              ],
+              "decode": [
+                "viele",
+                "viel",
+                "irgendwelche"
+              ],
+              "correct": 0,
+              "n": "a lot of"
+            },
             " sandwiches, but there aren't ",
-            {"opts": ["some","no","any"], "decode": ["einige","keine","irgendwelche"], "correct": 2},
+            {
+              "opts": [
+                "some",
+                "no",
+                "any"
+              ],
+              "decode": [
+                "einige",
+                "keine",
+                "irgendwelche"
+              ],
+              "correct": 2,
+              "n": "any"
+            },
             " vegetarian options yet. She still has ",
-            {"opts": ["a few","a little","many"], "decode": ["ein-paar","ein-wenig","viele"], "correct": 1},
+            {
+              "opts": [
+                "a few",
+                "a little",
+                "many"
+              ],
+              "decode": [
+                "ein-paar",
+                "ein-wenig",
+                "viele"
+              ],
+              "correct": 1,
+              "n": "a little"
+            },
             " time to go to the supermarket."
           ],
           "solutionEn": "There are also a lot of sandwiches, but there aren't any vegetarian options yet. She still has a little time to go to the supermarket.",
           "solutionDe": "Es gibt auch viele Sandwiches, aber noch keine vegetarischen Optionen. Sie hat noch ein wenig Zeit, um in den Supermarkt zu gehen.",
-          "explain": "a lot of im bejahten Satz; any in der Verneinung (aren't … any); a little + unzählbar (time)."
+          "explain": "a lot of im bejahten Satz; any in der Verneinung (aren't … any); a little + unzählbar (time).",
+          "decodeFull": [
+            [
+              "There are",
+              "es-gibt"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "a lot of",
+              "viele"
+            ],
+            [
+              "sandwiches,",
+              "Sandwiches,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "any",
+              "irgendwelche"
+            ],
+            [
+              "vegetarian",
+              "vegetarischen"
+            ],
+            [
+              "options",
+              "Optionen"
+            ],
+            [
+              "yet.",
+              "noch."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "still",
+              "noch"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a little",
+              "ein-wenig"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "to go",
+              "zu gehen"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "supermarket.",
+              "Supermarkt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "There are",
+                  "es-gibt"
+                ],
+                [
+                  "also",
+                  "auch"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "sandwiches,",
+                  "Sandwiches,"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "there aren't",
+                  "es-gibt'nicht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "vegetarian",
+                  "vegetarischen"
+                ],
+                [
+                  "options",
+                  "Optionen"
+                ],
+                [
+                  "yet.",
+                  "noch."
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "still",
+                  "noch"
+                ],
+                [
+                  "has",
+                  "hat"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "time",
+                  "Zeit"
+                ],
+                [
+                  "to go",
+                  "zu gehen"
+                ],
+                [
+                  "to",
+                  "zum"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "supermarket.",
+                  "Supermarkt."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -135,102 +911,1297 @@
         {
           "parts": [
             "There aren't ",
-            {"opts": ["much","many","a little"], "decode": ["viel","viele","ein-wenig"], "correct": 1},
+            {
+              "opts": [
+                "much",
+                "many",
+                "a little"
+              ],
+              "decode": [
+                "viel",
+                "viele",
+                "ein-wenig"
+              ],
+              "correct": 1,
+              "n": "many"
+            },
             " honest people in the world these days."
           ],
           "solutionEn": "There aren't many honest people in the world these days.",
           "solutionDe": "Es gibt heutzutage nicht viele ehrliche Menschen auf der Welt.",
-          "explain": "people = zählbar (Plural) → many. much nur bei unzählbaren Nomen."
+          "explain": "people = zählbar (Plural) → many. much nur bei unzählbaren Nomen.",
+          "decodeFull": [
+            [
+              "There aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "honest",
+              "ehrliche"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "world",
+              "Welt"
+            ],
+            [
+              "these days.",
+              "heutzutage."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "There aren't",
+                  "es-gibt'nicht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "honest",
+                  "ehrliche"
+                ],
+                [
+                  "people",
+                  "Menschen"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "world",
+                  "Welt"
+                ],
+                [
+                  "these days.",
+                  "heutzutage."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "This man is a mystery. We have very ",
-            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            {
+              "opts": [
+                "few",
+                "little",
+                "a little"
+              ],
+              "decode": [
+                "wenige",
+                "wenig",
+                "ein-wenig"
+              ],
+              "correct": 1,
+              "n": "little"
+            },
             " information about his private life."
           ],
           "solutionEn": "We have very little information about his private life.",
           "solutionDe": "Wir haben sehr wenig Informationen über sein Privatleben.",
-          "explain": "information = unzählbar → little. few nur bei zählbaren Nomen; a little wäre positiv („ein wenig“), hier ist „fast nichts“ gemeint."
+          "explain": "information = unzählbar → little. few nur bei zählbaren Nomen; a little wäre positiv („ein wenig“), hier ist „fast nichts“ gemeint.",
+          "decodeFull": [
+            [
+              "This",
+              "Dieser"
+            ],
+            [
+              "man",
+              "Mann"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "mystery.",
+              "Rätsel."
+            ],
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "information",
+              "Information"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "private",
+              "privates"
+            ],
+            [
+              "life.",
+              "Leben."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "This",
+                  "Dieser"
+                ],
+                [
+                  "man",
+                  "Mann"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "mystery.",
+                  "Rätsel."
+                ],
+                [
+                  "We",
+                  "Wir"
+                ],
+                [
+                  "have",
+                  "haben"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "information",
+                  "Information"
+                ],
+                [
+                  "about",
+                  "über"
+                ],
+                [
+                  "his",
+                  "sein"
+                ],
+                [
+                  "private",
+                  "privates"
+                ],
+                [
+                  "life.",
+                  "Leben."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She isn't the most popular person in the class. She has very ",
-            {"opts": ["few","little","a few"], "decode": ["wenige","wenig","ein-paar"], "correct": 0},
+            {
+              "opts": [
+                "few",
+                "little",
+                "a few"
+              ],
+              "decode": [
+                "wenige",
+                "wenig",
+                "ein-paar"
+              ],
+              "correct": 0,
+              "n": "few"
+            },
             " friends."
           ],
           "solutionEn": "She has very few friends.",
           "solutionDe": "Sie hat sehr wenige Freunde.",
-          "explain": "friends = zählbar → few (negativ: fast keine). a few wäre positiv („ein paar“)."
+          "explain": "friends = zählbar → few (negativ: fast keine). a few wäre positiv („ein paar“).",
+          "decodeFull": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "isn't",
+              "ist'nicht"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "most popular",
+              "beliebteste"
+            ],
+            [
+              "person",
+              "Person"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "class.",
+              "Klasse."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "few",
+              "wenige"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "isn't",
+                  "ist'nicht"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "most popular",
+                  "beliebteste"
+                ],
+                [
+                  "person",
+                  "Person"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "class.",
+                  "Klasse."
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "has",
+                  "hat"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "friends.",
+                  "Freunde."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Our team is losing 1:0 but there is still ",
-            {"opts": ["any","no","some"], "decode": ["irgendeine","keine","etwas"], "correct": 2},
+            {
+              "opts": [
+                "any",
+                "no",
+                "some"
+              ],
+              "decode": [
+                "irgendeine",
+                "keine",
+                "etwas"
+              ],
+              "correct": 2,
+              "n": "some"
+            },
             " hope that they'll turn the game around."
           ],
           "solutionEn": "There is still some hope that they'll turn the game around.",
           "solutionDe": "Es gibt noch etwas Hoffnung, dass sie das Spiel drehen.",
-          "explain": "Bejahter Satz → some. any nur in Frage/Verneinung."
+          "explain": "Bejahter Satz → some. any nur in Frage/Verneinung.",
+          "decodeFull": [
+            [
+              "Our",
+              "Unser"
+            ],
+            [
+              "team",
+              "Team"
+            ],
+            [
+              "is losing",
+              "verliert"
+            ],
+            [
+              "1:0",
+              "1:0"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there is",
+              "es-gibt"
+            ],
+            [
+              "still",
+              "noch"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "hope",
+              "Hoffnung"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "they'll",
+              "sie'werden"
+            ],
+            [
+              "turn",
+              "drehen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "game",
+              "Spiel"
+            ],
+            [
+              "around.",
+              "herum."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Our",
+                  "Unser"
+                ],
+                [
+                  "team",
+                  "Team"
+                ],
+                [
+                  "is losing",
+                  "verliert"
+                ],
+                [
+                  "1:0",
+                  "1:0"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "there is",
+                  "es-gibt"
+                ],
+                [
+                  "still",
+                  "noch"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "hope",
+                  "Hoffnung"
+                ],
+                [
+                  "that",
+                  "dass"
+                ],
+                [
+                  "they'll",
+                  "sie'werden"
+                ],
+                [
+                  "turn",
+                  "drehen"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "game",
+                  "Spiel"
+                ],
+                [
+                  "around.",
+                  "herum."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Few","A few","Little"], "decode": ["wenige","ein-paar","wenig"], "correct": 0},
+            {
+              "opts": [
+                "Few",
+                "A few",
+                "Little"
+              ],
+              "decode": [
+                "wenige",
+                "ein-paar",
+                "wenig"
+              ],
+              "correct": 0,
+              "n": "few"
+            },
             " students have such good marks. She is an unmatched genius."
           ],
           "solutionEn": "Few students have such good marks.",
           "solutionDe": "Nur wenige Schüler haben so gute Noten.",
-          "explain": "Gemeint ist „fast niemand“ → Few (negativ). A few („ein paar“) würde den Sinn abschwächen; little nur bei unzählbaren Nomen."
+          "explain": "Gemeint ist „fast niemand“ → Few (negativ). A few („ein paar“) würde den Sinn abschwächen; little nur bei unzählbaren Nomen.",
+          "decodeFull": [
+            [
+              "Few",
+              "Wenige"
+            ],
+            [
+              "students",
+              "Schüler"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "such",
+              "solch"
+            ],
+            [
+              "good",
+              "gute"
+            ],
+            [
+              "marks.",
+              "Noten."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "unmatched",
+              "unübertroffenes"
+            ],
+            [
+              "genius.",
+              "Genie."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "students",
+                  "Schüler"
+                ],
+                [
+                  "have",
+                  "haben"
+                ],
+                [
+                  "such",
+                  "solch"
+                ],
+                [
+                  "good",
+                  "gute"
+                ],
+                [
+                  "marks.",
+                  "Noten."
+                ],
+                [
+                  "She",
+                  "Sie"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "an",
+                  "ein"
+                ],
+                [
+                  "unmatched",
+                  "unübertroffenes"
+                ],
+                [
+                  "genius.",
+                  "Genie."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I've read only the first chapter, that's why I don't have ",
-            {"opts": ["many","much","a few"], "decode": ["viele","viel","ein-paar"], "correct": 1},
+            {
+              "opts": [
+                "many",
+                "much",
+                "a few"
+              ],
+              "decode": [
+                "viele",
+                "viel",
+                "ein-paar"
+              ],
+              "correct": 1,
+              "n": "much"
+            },
             " to say about the characters."
           ],
           "solutionEn": "I don't have much to say about the characters.",
           "solutionDe": "Ich kann nicht viel über die Figuren sagen.",
-          "explain": "much in der Verneinung (nicht viel zu sagen) – „much“ steht hier allein (unzählbare Menge)."
+          "explain": "much in der Verneinung (nicht viel zu sagen) – „much“ steht hier allein (unzählbare Menge).",
+          "decodeFull": [
+            [
+              "I've read",
+              "ich'habe-gelesen"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "first",
+              "erste"
+            ],
+            [
+              "chapter,",
+              "Kapitel,"
+            ],
+            [
+              "that's why",
+              "deshalb"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "tu'nicht"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "to say",
+              "zu sagen"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "characters.",
+              "Charaktere."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I've read",
+                  "ich'habe-gelesen"
+                ],
+                [
+                  "only",
+                  "nur"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "first",
+                  "erste"
+                ],
+                [
+                  "chapter,",
+                  "Kapitel,"
+                ],
+                [
+                  "that's why",
+                  "deshalb"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "don't",
+                  "tu'nicht"
+                ],
+                [
+                  "have",
+                  "haben"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "to say",
+                  "zu sagen"
+                ],
+                [
+                  "about",
+                  "über"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "characters.",
+                  "Charaktere."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "There is ",
-            {"opts": ["no","any","none"], "decode": ["kein","irgendein","keiner"], "correct": 0},
+            {
+              "opts": [
+                "no",
+                "any",
+                "none"
+              ],
+              "decode": [
+                "kein",
+                "irgendein",
+                "keiner"
+              ],
+              "correct": 0,
+              "n": "no"
+            },
             " cake left! Ben's eaten the whole thing!"
           ],
           "solutionEn": "There is no cake left! Ben's eaten the whole thing!",
           "solutionDe": "Es ist kein Kuchen mehr übrig! Ben hat alles aufgegessen!",
-          "explain": "no + Nomen = kein (im bejahten Satzbau). any bräuchte eine Verneinung (isn't any); none steht ohne Nomen."
+          "explain": "no + Nomen = kein (im bejahten Satzbau). any bräuchte eine Verneinung (isn't any); none steht ohne Nomen.",
+          "decodeFull": [
+            [
+              "There is",
+              "es-gibt"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "cake",
+              "Kuchen"
+            ],
+            [
+              "left!",
+              "übrig!"
+            ],
+            [
+              "Ben's",
+              "Ben'hat"
+            ],
+            [
+              "eaten",
+              "gegessen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "whole",
+              "ganze"
+            ],
+            [
+              "thing!",
+              "Ding!"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "There is",
+                  "es-gibt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "cake",
+                  "Kuchen"
+                ],
+                [
+                  "left!",
+                  "übrig!"
+                ],
+                [
+                  "Ben's",
+                  "Ben'hat"
+                ],
+                [
+                  "eaten",
+                  "gegessen"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "whole",
+                  "ganze"
+                ],
+                [
+                  "thing!",
+                  "Ding!"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Can I ask you for ",
-            {"opts": ["a few","little","a little"], "decode": ["ein-paar","wenig","ein-wenig"], "correct": 2},
+            {
+              "opts": [
+                "a few",
+                "little",
+                "a little"
+              ],
+              "decode": [
+                "ein-paar",
+                "wenig",
+                "ein-wenig"
+              ],
+              "correct": 2,
+              "n": "a little"
+            },
             " patience? I'll be back in 5 minutes."
           ],
           "solutionEn": "Can I ask you for a little patience?",
           "solutionDe": "Darf ich dich um ein wenig Geduld bitten?",
-          "explain": "patience = unzählbar → (a) little; positiv gemeint („ein wenig Geduld“) → a little."
+          "explain": "patience = unzählbar → (a) little; positiv gemeint („ein wenig Geduld“) → a little.",
+          "decodeFull": [
+            [
+              "Can",
+              "Kann"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "ask",
+              "bitten"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "for",
+              "um"
+            ],
+            [
+              "a little",
+              "ein-wenig"
+            ],
+            [
+              "patience?",
+              "Geduld?"
+            ],
+            [
+              "I'll",
+              "ich'werde"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "back",
+              "zurück"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "5",
+              "5"
+            ],
+            [
+              "minutes.",
+              "Minuten."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Can",
+                  "Kann"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "ask",
+                  "bitten"
+                ],
+                [
+                  "you",
+                  "dich"
+                ],
+                [
+                  "for",
+                  "um"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "patience?",
+                  "Geduld?"
+                ],
+                [
+                  "I'll",
+                  "ich'werde"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "back",
+                  "zurück"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "5",
+                  "5"
+                ],
+                [
+                  "minutes.",
+                  "Minuten."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Science doesn't interest me. It's the subject I know very ",
-            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            {
+              "opts": [
+                "few",
+                "little",
+                "a little"
+              ],
+              "decode": [
+                "wenige",
+                "wenig",
+                "ein-wenig"
+              ],
+              "correct": 1,
+              "n": "little"
+            },
             " about."
           ],
           "solutionEn": "It's the subject I know very little about.",
           "solutionDe": "Es ist das Fach, über das ich sehr wenig weiß.",
-          "explain": "know little about = wenig wissen (unzählbar, negativ gemeint)."
+          "explain": "know little about = wenig wissen (unzählbar, negativ gemeint).",
+          "decodeFull": [
+            [
+              "Science",
+              "Wissenschaft"
+            ],
+            [
+              "doesn't",
+              "tut'nicht"
+            ],
+            [
+              "interest",
+              "interessieren"
+            ],
+            [
+              "me.",
+              "mich."
+            ],
+            [
+              "It's",
+              "es'ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "subject",
+              "Fach"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "know",
+              "weiß"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "about.",
+              "über."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Science",
+                  "Wissenschaft"
+                ],
+                [
+                  "doesn't",
+                  "tut'nicht"
+                ],
+                [
+                  "interest",
+                  "interessieren"
+                ],
+                [
+                  "me.",
+                  "mich."
+                ],
+                [
+                  "It's",
+                  "es'ist"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "subject",
+                  "Fach"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "know",
+                  "weiß"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "about.",
+                  "über."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The party was ok but there wasn't ",
-            {"opts": ["much","many","a lot"], "decode": ["viel","viele","viel"], "correct": 0},
+            {
+              "opts": [
+                "much",
+                "many",
+                "a lot"
+              ],
+              "decode": [
+                "viel",
+                "viele",
+                "viel"
+              ],
+              "correct": 0,
+              "n": "much"
+            },
             " dancing."
           ],
           "solutionEn": "The party was ok but there wasn't much dancing.",
           "solutionDe": "Die Party war okay, aber es wurde nicht viel getanzt.",
-          "explain": "dancing = unzählbar, Verneinung → much. „a lot“ bräuchte „of“ vor einem Nomen und passt stilistisch in Verneinungen nicht."
+          "explain": "dancing = unzählbar, Verneinung → much. „a lot“ bräuchte „of“ vor einem Nomen und passt stilistisch in Verneinungen nicht.",
+          "decodeFull": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "ok",
+              "okay"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there wasn't",
+              "es-gab'nicht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "dancing.",
+              "Tanzen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "Die"
+                ],
+                [
+                  "party",
+                  "Party"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "ok",
+                  "okay"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "there wasn't",
+                  "es-gab'nicht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "dancing.",
+                  "Tanzen."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -244,102 +2215,1129 @@
         {
           "parts": [
             "We'd better go to the petrol station. We've got very ",
-            {"opts": ["a little","few","little"], "decode": ["ein-wenig","wenige","wenig"], "correct": 2},
+            {
+              "opts": [
+                "a little",
+                "few",
+                "little"
+              ],
+              "decode": [
+                "ein-wenig",
+                "wenige",
+                "wenig"
+              ],
+              "correct": 2,
+              "n": "little"
+            },
             " petrol left."
           ],
           "solutionEn": "We've got very little petrol left.",
           "solutionDe": "Wir haben nur noch sehr wenig Benzin.",
-          "explain": "petrol = unzählbar → little (negativ: fast nichts mehr). Nach „very“ steht nie „a little“."
+          "explain": "petrol = unzählbar → little (negativ: fast nichts mehr). Nach „very“ steht nie „a little“.",
+          "decodeFull": [
+            [
+              "We'd better",
+              "wir-sollten-besser"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "to",
+              "zur"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "petrol station.",
+              "Tankstelle."
+            ],
+            [
+              "We've got",
+              "wir'haben"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "petrol",
+              "Benzin"
+            ],
+            [
+              "left.",
+              "übrig."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "We'd better",
+                  "wir-sollten-besser"
+                ],
+                [
+                  "go",
+                  "fahren"
+                ],
+                [
+                  "to",
+                  "zur"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "petrol station.",
+                  "Tankstelle."
+                ],
+                [
+                  "We've got",
+                  "wir'haben"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "petrol",
+                  "Benzin"
+                ],
+                [
+                  "left.",
+                  "übrig."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Tomorrow's party will be legendary! There'll be ",
-            {"opts": ["much","a lot of","any"], "decode": ["viel","viele","irgendwelche"], "correct": 1},
+            {
+              "opts": [
+                "much",
+                "a lot of",
+                "any"
+              ],
+              "decode": [
+                "viel",
+                "viele",
+                "irgendwelche"
+              ],
+              "correct": 1,
+              "n": "a lot of"
+            },
             " people!"
           ],
           "solutionEn": "There'll be a lot of people!",
           "solutionDe": "Da werden viele Leute sein!",
-          "explain": "Bejahter Satz + zählbares Nomen → a lot of. much nur bei unzählbaren Nomen in Frage/Verneinung."
+          "explain": "Bejahter Satz + zählbares Nomen → a lot of. much nur bei unzählbaren Nomen in Frage/Verneinung.",
+          "decodeFull": [
+            [
+              "Tomorrow's",
+              "Morgens"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "will be",
+              "wird-sein"
+            ],
+            [
+              "legendary!",
+              "legendär!"
+            ],
+            [
+              "There'll be",
+              "es-wird-geben"
+            ],
+            [
+              "a lot of",
+              "viele"
+            ],
+            [
+              "people!",
+              "Leute!"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Tomorrow's",
+                  "Morgens"
+                ],
+                [
+                  "party",
+                  "Party"
+                ],
+                [
+                  "will be",
+                  "wird-sein"
+                ],
+                [
+                  "legendary!",
+                  "legendär!"
+                ],
+                [
+                  "There'll be",
+                  "es-wird-geben"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "people!",
+                  "Leute!"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "My wallet is empty. I have ",
-            {"opts": ["any","no","much"], "decode": ["irgendein","kein","viel"], "correct": 1},
+            {
+              "opts": [
+                "any",
+                "no",
+                "much"
+              ],
+              "decode": [
+                "irgendein",
+                "kein",
+                "viel"
+              ],
+              "correct": 1,
+              "n": "no"
+            },
             " money whatsoever."
           ],
           "solutionEn": "I have no money whatsoever.",
           "solutionDe": "Ich habe überhaupt kein Geld.",
-          "explain": "no + Nomen = überhaupt kein. any bräuchte ein verneintes Verb (don't have any)."
+          "explain": "no + Nomen = überhaupt kein. any bräuchte ein verneintes Verb (don't have any).",
+          "decodeFull": [
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "wallet",
+              "Geldbeutel"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "empty.",
+              "leer."
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "money",
+              "Geld"
+            ],
+            [
+              "whatsoever.",
+              "überhaupt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "Mein"
+                ],
+                [
+                  "wallet",
+                  "Geldbeutel"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "empty.",
+                  "leer."
+                ],
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "have",
+                  "habe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "money",
+                  "Geld"
+                ],
+                [
+                  "whatsoever.",
+                  "überhaupt."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "In his new flat there is ",
-            {"opts": ["little","few","a few"], "decode": ["wenig","wenige","ein-paar"], "correct": 0},
+            {
+              "opts": [
+                "little",
+                "few",
+                "a few"
+              ],
+              "decode": [
+                "wenig",
+                "wenige",
+                "ein-paar"
+              ],
+              "correct": 0,
+              "n": "little"
+            },
             " furniture. Maybe one chair and a small table."
           ],
           "solutionEn": "In his new flat there is little furniture.",
           "solutionDe": "In seiner neuen Wohnung gibt es wenig Möbel.",
-          "explain": "furniture = unzählbar (im Englischen!) → little. Achtung: „Möbel“ ist im Deutschen Plural, im Englischen aber uncountable."
+          "explain": "furniture = unzählbar (im Englischen!) → little. Achtung: „Möbel“ ist im Deutschen Plural, im Englischen aber uncountable.",
+          "decodeFull": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "his",
+              "seiner"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "flat",
+              "Wohnung"
+            ],
+            [
+              "there is",
+              "es-gibt"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "furniture.",
+              "Möbel."
+            ],
+            [
+              "Maybe",
+              "Vielleicht"
+            ],
+            [
+              "one",
+              "einen"
+            ],
+            [
+              "chair",
+              "Stuhl"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "small",
+              "kleinen"
+            ],
+            [
+              "table.",
+              "Tisch."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "In",
+                  "In"
+                ],
+                [
+                  "his",
+                  "seiner"
+                ],
+                [
+                  "new",
+                  "neuen"
+                ],
+                [
+                  "flat",
+                  "Wohnung"
+                ],
+                [
+                  "there is",
+                  "es-gibt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "furniture.",
+                  "Möbel."
+                ],
+                [
+                  "Maybe",
+                  "Vielleicht"
+                ],
+                [
+                  "one",
+                  "einen"
+                ],
+                [
+                  "chair",
+                  "Stuhl"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "small",
+                  "kleinen"
+                ],
+                [
+                  "table.",
+                  "Tisch."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Her grades have improved greatly. She's made ",
-            {"opts": ["many","much","a lot of"], "decode": ["viele","viel","viel"], "correct": 2},
+            {
+              "opts": [
+                "many",
+                "much",
+                "a lot of"
+              ],
+              "decode": [
+                "viele",
+                "viel",
+                "viel"
+              ],
+              "correct": 2,
+              "n": "a lot of"
+            },
             " progress."
           ],
           "solutionEn": "She's made a lot of progress.",
           "solutionDe": "Sie hat große Fortschritte gemacht.",
-          "explain": "progress = unzählbar; bejahter Satz → a lot of. much wäre nur in Frage/Verneinung üblich."
+          "explain": "progress = unzählbar; bejahter Satz → a lot of. much wäre nur in Frage/Verneinung üblich.",
+          "decodeFull": [
+            [
+              "Her",
+              "Ihre"
+            ],
+            [
+              "grades",
+              "Noten"
+            ],
+            [
+              "have improved",
+              "haben-sich-verbessert"
+            ],
+            [
+              "greatly.",
+              "stark."
+            ],
+            [
+              "She's made",
+              "sie'hat-gemacht"
+            ],
+            [
+              "a lot of",
+              "viel"
+            ],
+            [
+              "progress.",
+              "Fortschritt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Her",
+                  "Ihre"
+                ],
+                [
+                  "grades",
+                  "Noten"
+                ],
+                [
+                  "have improved",
+                  "haben-sich-verbessert"
+                ],
+                [
+                  "greatly.",
+                  "stark."
+                ],
+                [
+                  "She's made",
+                  "sie'hat-gemacht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "progress.",
+                  "Fortschritt."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Norway is a very rich country. There isn't ",
-            {"opts": ["many","much","few"], "decode": ["viele","viel","wenige"], "correct": 1},
+            {
+              "opts": [
+                "many",
+                "much",
+                "few"
+              ],
+              "decode": [
+                "viele",
+                "viel",
+                "wenige"
+              ],
+              "correct": 1,
+              "n": "much"
+            },
             " poverty."
           ],
           "solutionEn": "There isn't much poverty.",
           "solutionDe": "Es gibt nicht viel Armut.",
-          "explain": "poverty = unzählbar, Verneinung → much."
+          "explain": "poverty = unzählbar, Verneinung → much.",
+          "decodeFull": [
+            [
+              "Norway",
+              "Norwegen"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "rich",
+              "reiches"
+            ],
+            [
+              "country.",
+              "Land."
+            ],
+            [
+              "There isn't",
+              "es-gibt'nicht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "poverty.",
+              "Armut."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Norway",
+                  "Norwegen"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "rich",
+                  "reiches"
+                ],
+                [
+                  "country.",
+                  "Land."
+                ],
+                [
+                  "There isn't",
+                  "es-gibt'nicht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "poverty.",
+                  "Armut."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["Any","No","Some"], "decode": ["irgendwelche","keine","einige"], "correct": 2},
+            {
+              "opts": [
+                "Any",
+                "No",
+                "Some"
+              ],
+              "decode": [
+                "irgendwelche",
+                "keine",
+                "einige"
+              ],
+              "correct": 2,
+              "n": "some"
+            },
             " school subjects are easier than others."
           ],
           "solutionEn": "Some school subjects are easier than others.",
           "solutionDe": "Manche Schulfächer sind leichter als andere.",
-          "explain": "Bejahter Satz → some (hier: „manche“)."
+          "explain": "Bejahter Satz → some (hier: „manche“).",
+          "decodeFull": [
+            [
+              "Some",
+              "Einige"
+            ],
+            [
+              "school",
+              "Schul-"
+            ],
+            [
+              "subjects",
+              "fächer"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "easier",
+              "leichter"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "others.",
+              "andere."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "school",
+                  "Schul-"
+                ],
+                [
+                  "subjects",
+                  "fächer"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "easier",
+                  "leichter"
+                ],
+                [
+                  "than",
+                  "als"
+                ],
+                [
+                  "others.",
+                  "andere."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I could rely on him in the past but this time he offered me ",
-            {"opts": ["no","any","little"], "decode": ["keine","irgendwelche","wenig"], "correct": 0},
+            {
+              "opts": [
+                "no",
+                "any",
+                "little"
+              ],
+              "decode": [
+                "keine",
+                "irgendwelche",
+                "wenig"
+              ],
+              "correct": 0,
+              "n": "no"
+            },
             " help."
           ],
           "solutionEn": "This time he offered me no help.",
           "solutionDe": "Dieses Mal hat er mir keine Hilfe angeboten.",
-          "explain": "no + Nomen = kein/keine. Der Satz ist bejaht (offered), daher kein any."
+          "explain": "no + Nomen = kein/keine. Der Satz ist bejaht (offered), daher kein any.",
+          "decodeFull": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "could",
+              "konnte"
+            ],
+            [
+              "rely",
+              "verlassen"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "past",
+              "Vergangenheit"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "time",
+              "Mal"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "offered",
+              "bot"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "no",
+              "keine"
+            ],
+            [
+              "help.",
+              "Hilfe."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "could",
+                  "konnte"
+                ],
+                [
+                  "rely",
+                  "verlassen"
+                ],
+                [
+                  "on",
+                  "auf"
+                ],
+                [
+                  "him",
+                  "ihn"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "past",
+                  "Vergangenheit"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "this",
+                  "dieses"
+                ],
+                [
+                  "time",
+                  "Mal"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "offered",
+                  "bot"
+                ],
+                [
+                  "me",
+                  "mir"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "help.",
+                  "Hilfe."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The suspect was released because too ",
-            {"opts": ["few","little","a little"], "decode": ["wenige","wenig","ein-wenig"], "correct": 1},
+            {
+              "opts": [
+                "few",
+                "little",
+                "a little"
+              ],
+              "decode": [
+                "wenige",
+                "wenig",
+                "ein-wenig"
+              ],
+              "correct": 1,
+              "n": "little"
+            },
             " evidence was presented."
           ],
           "solutionEn": "Too little evidence was presented.",
           "solutionDe": "Es wurden zu wenige Beweise vorgelegt.",
-          "explain": "evidence = unzählbar (im Englischen!) → little. „too little evidence“ = zu wenig Beweismaterial."
+          "explain": "evidence = unzählbar (im Englischen!) → little. „too little evidence“ = zu wenig Beweismaterial.",
+          "decodeFull": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "suspect",
+              "Verdächtige"
+            ],
+            [
+              "was released",
+              "wurde-freigelassen"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "too",
+              "zu"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "evidence",
+              "Beweise"
+            ],
+            [
+              "was presented.",
+              "vorgelegt-wurden."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "Der"
+                ],
+                [
+                  "suspect",
+                  "Verdächtige"
+                ],
+                [
+                  "was released",
+                  "wurde-freigelassen"
+                ],
+                [
+                  "because",
+                  "weil"
+                ],
+                [
+                  "too",
+                  "zu"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "evidence",
+                  "Beweise"
+                ],
+                [
+                  "was presented.",
+                  "vorgelegt-wurden."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "There aren't ",
-            {"opts": ["much","many","no"], "decode": ["viel","viele","keine"], "correct": 1},
+            {
+              "opts": [
+                "much",
+                "many",
+                "no"
+              ],
+              "decode": [
+                "viel",
+                "viele",
+                "keine"
+              ],
+              "correct": 1,
+              "n": "many"
+            },
             " things to do in Egypt that are free of charge."
           ],
           "solutionEn": "There aren't many things to do in Egypt that are free of charge.",
           "solutionDe": "In Ägypten gibt es nicht viele Dinge, die gratis sind.",
-          "explain": "things = zählbar, Verneinung → many. no ginge nur ohne „aren't“ (There are no things …)."
+          "explain": "things = zählbar, Verneinung → many. no ginge nur ohne „aren't“ (There are no things …).",
+          "decodeFull": [
+            [
+              "There aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "things",
+              "Dinge"
+            ],
+            [
+              "to do",
+              "zu tun"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Egypt",
+              "Ägypten"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "free of charge.",
+              "kostenlos."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "There aren't",
+                  "es-gibt'nicht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "things",
+                  "Dinge"
+                ],
+                [
+                  "to do",
+                  "zu tun"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "Egypt",
+                  "Ägypten"
+                ],
+                [
+                  "that",
+                  "die"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "free of charge.",
+                  "kostenlos."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -353,42 +3351,338 @@
         {
           "parts": [
             "How ",
-            {"opts": ["much","many"], "decode": ["viel","viele"], "correct": 0},
+            {
+              "opts": [
+                "much",
+                "many"
+              ],
+              "decode": [
+                "viel",
+                "viele"
+              ],
+              "correct": 0,
+              "n": "much"
+            },
             " money do you need?"
           ],
           "solutionEn": "How much money do you need?",
           "solutionDe": "Wie viel Geld brauchst du?",
-          "explain": "money = unzählbar → how much."
+          "explain": "money = unzählbar → how much.",
+          "decodeFull": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "money",
+              "Geld"
+            ],
+            [
+              "do",
+              "tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "need?",
+              "brauchen?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How",
+                  "Wie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "money",
+                  "Geld"
+                ],
+                [
+                  "do",
+                  "tust"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "need?",
+                  "brauchen?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "How ",
-            {"opts": ["much","many"], "decode": ["viel","viele"], "correct": 1},
+            {
+              "opts": [
+                "much",
+                "many"
+              ],
+              "decode": [
+                "viel",
+                "viele"
+              ],
+              "correct": 1,
+              "n": "many"
+            },
             " apples do you want?"
           ],
           "solutionEn": "How many apples do you want?",
           "solutionDe": "Wie viele Äpfel willst du?",
-          "explain": "apples = zählbar (Plural) → how many."
+          "explain": "apples = zählbar (Plural) → how many.",
+          "decodeFull": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "apples",
+              "Äpfel"
+            ],
+            [
+              "do",
+              "tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want?",
+              "wollen?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "How",
+                  "Wie"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "apples",
+                  "Äpfel"
+                ],
+                [
+                  "do",
+                  "tust"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "want?",
+                  "wollen?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Do you have ",
-            {"opts": ["some","any"], "decode": ["etwas","irgendetwas"], "correct": 1},
+            {
+              "opts": [
+                "some",
+                "any"
+              ],
+              "decode": [
+                "etwas",
+                "irgendetwas"
+              ],
+              "correct": 1,
+              "n": "any"
+            },
             " milk left?"
           ],
           "solutionEn": "Do you have any milk left?",
           "solutionDe": "Hast du noch Milch übrig?",
-          "explain": "Frage → any. (some nur in bejahten Sätzen oder bei Angeboten wie „Would you like some tea?“)"
+          "explain": "Frage → any. (some nur in bejahten Sätzen oder bei Angeboten wie „Would you like some tea?“)",
+          "decodeFull": [
+            [
+              "Do",
+              "Tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "any",
+              "irgendwelche"
+            ],
+            [
+              "milk",
+              "Milch"
+            ],
+            [
+              "left?",
+              "übrig?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Do",
+                  "Tust"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "have",
+                  "haben"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "milk",
+                  "Milch"
+                ],
+                [
+                  "left?",
+                  "übrig?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I bought ",
-            {"opts": ["some","any"], "decode": ["ein-paar","irgendwelche"], "correct": 0},
+            {
+              "opts": [
+                "some",
+                "any"
+              ],
+              "decode": [
+                "ein-paar",
+                "irgendwelche"
+              ],
+              "correct": 0,
+              "n": "some"
+            },
             " apples at the market."
           ],
           "solutionEn": "I bought some apples at the market.",
           "solutionDe": "Ich habe am Markt ein paar Äpfel gekauft.",
-          "explain": "Bejahter Satz → some."
+          "explain": "Bejahter Satz → some.",
+          "decodeFull": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "apples",
+              "Äpfel"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "market.",
+              "Markt."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "bought",
+                  "kaufte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "apples",
+                  "Äpfel"
+                ],
+                [
+                  "at",
+                  "auf"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "market.",
+                  "Markt."
+                ]
+              ]
+            }
+          ]
         }
       ]
     }

@@ -11,121 +11,1181 @@
         {
           "id": "mus_t1_s01",
           "en": "What made the song 'Happy' by Pharrell Williams such a massive hit?",
-          "decode": [["What","was"],["made","machte"],["the","das"],["song","Lied"],["'Happy'","„Happy“"],["by","von"],["Pharrell Williams","Pharrell Williams"],["such a","zu solch einem"],["massive","riesigen"],["hit?","Hit?"]],
+          "decode": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "made",
+              "machte"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "'Happy'",
+              "„Happy“"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Pharrell Williams",
+              "Pharrell Williams"
+            ],
+            [
+              "such a",
+              "zu solch einem"
+            ],
+            [
+              "massive",
+              "riesigen"
+            ],
+            [
+              "hit?",
+              "Hit?"
+            ]
+          ],
           "de": "Was machte das Lied „Happy“ von Pharrell Williams zu so einem Riesenhit?"
         },
         {
           "id": "mus_t1_s02",
           "en": "Was it the catchy tune that made people want to dance?",
-          "decode": [["Was it","war es"],["the","die"],["catchy","eingängige"],["tune","Melodie"],["that","die"],["made","dazu-brachte"],["people","Leute"],["want","wollen"],["to dance?","zu tanzen?"]],
+          "decode": [
+            [
+              "Was it",
+              "war es"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "catchy",
+              "eingängige"
+            ],
+            [
+              "tune",
+              "Melodie"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "made",
+              "dazu-brachte"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "want",
+              "wollen"
+            ],
+            [
+              "to dance?",
+              "zu tanzen?"
+            ]
+          ],
           "de": "War es die eingängige Melodie, die die Leute zum Tanzen brachte?"
         },
         {
           "id": "mus_t1_s03",
           "en": "Was it the upbeat lyrics, which more or less commanded people to be happy?",
-          "decode": [["Was it","war es"],["the","der"],["upbeat","fröhlich-optimistische"],["lyrics,","Liedtext,"],["which","der"],["more or less","mehr oder weniger"],["commanded","befahl"],["people","den Leuten"],["to be","zu sein"],["happy?","glücklich?"]],
+          "decode": [
+            [
+              "Was it",
+              "war es"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "upbeat",
+              "fröhlich-optimistische"
+            ],
+            [
+              "lyrics,",
+              "Liedtext,"
+            ],
+            [
+              "which",
+              "der"
+            ],
+            [
+              "more or less",
+              "mehr oder weniger"
+            ],
+            [
+              "commanded",
+              "befahl"
+            ],
+            [
+              "people",
+              "den Leuten"
+            ],
+            [
+              "to be",
+              "zu sein"
+            ],
+            [
+              "happy?",
+              "glücklich?"
+            ]
+          ],
           "de": "War es der fröhliche Text, der den Leuten mehr oder weniger befahl, glücklich zu sein?"
         },
         {
           "id": "mus_t1_s04",
           "en": "But creating 'Happy' was by no means as effortless as the song sounds.",
-          "decode": [["But","aber"],["creating","das Erschaffen von"],["'Happy'","„Happy“"],["was","war"],["by no means","keineswegs"],["as effortless as","so mühelos wie"],["the","das"],["song","Lied"],["sounds.","klingt."]],
+          "decode": [
+            [
+              "But",
+              "aber"
+            ],
+            [
+              "creating",
+              "das Erschaffen von"
+            ],
+            [
+              "'Happy'",
+              "„Happy“"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "by no means",
+              "keineswegs"
+            ],
+            [
+              "as effortless as",
+              "so mühelos wie"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "sounds.",
+              "klingt."
+            ]
+          ],
           "de": "Aber „Happy“ zu erschaffen war keineswegs so mühelos, wie das Lied klingt."
         },
         {
           "id": "mus_t1_s05",
           "en": "There were nine other versions of it before the one that we know and can sing along to now.",
-          "decode": [["There were","es gab"],["nine","neun"],["other","andere"],["versions","Versionen"],["of it","davon"],["before","vor"],["the one","derjenigen"],["that","die"],["we","wir"],["know","kennen"],["and","und"],["can","können"],["sing along to","mitsingen"],["now.","jetzt."]],
+          "decode": [
+            [
+              "There were",
+              "es gab"
+            ],
+            [
+              "nine",
+              "neun"
+            ],
+            [
+              "other",
+              "andere"
+            ],
+            [
+              "versions",
+              "Versionen"
+            ],
+            [
+              "of it",
+              "davon"
+            ],
+            [
+              "before",
+              "vor"
+            ],
+            [
+              "the one",
+              "derjenigen"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "know",
+              "kennen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "sing along to",
+              "mitsingen"
+            ],
+            [
+              "now.",
+              "jetzt."
+            ]
+          ],
           "de": "Es gab neun andere Versionen davon vor der einen, die wir jetzt kennen und mitsingen können."
         },
         {
           "id": "mus_t1_s06",
           "en": "He was recording a track to move his audience.",
-          "decode": [["He","er"],["was recording","nahm auf"],["a","einen"],["track","Song/Titel"],["to move","um zu bewegen"],["his","sein"],["audience.","Publikum."]],
+          "decode": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "was recording",
+              "nahm auf"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "track",
+              "Song/Titel"
+            ],
+            [
+              "to move",
+              "um zu bewegen"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "audience.",
+              "Publikum."
+            ]
+          ],
           "de": "Er nahm einen Song auf, um sein Publikum zu bewegen."
         },
         {
           "id": "mus_t1_s07",
           "en": "A recent study from Canada has shown that music can release a chemical in the brain which causes people to feel happy.",
-          "decode": [["A","eine"],["recent","aktuelle"],["study","Studie"],["from Canada","aus Kanada"],["has shown","hat gezeigt"],["that","dass"],["music","Musik"],["can","kann"],["release","freisetzen"],["a","eine"],["chemical","chemische-Substanz"],["in the brain","im Gehirn"],["which","die"],["causes","bewirkt"],["people","dass Menschen"],["to feel","sich fühlen"],["happy.","glücklich."]],
+          "decode": [
+            [
+              "A",
+              "eine"
+            ],
+            [
+              "recent",
+              "aktuelle"
+            ],
+            [
+              "study",
+              "Studie"
+            ],
+            [
+              "from Canada",
+              "aus Kanada"
+            ],
+            [
+              "has shown",
+              "hat gezeigt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "release",
+              "freisetzen"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "chemical",
+              "chemische-Substanz"
+            ],
+            [
+              "in the brain",
+              "im Gehirn"
+            ],
+            [
+              "which",
+              "die"
+            ],
+            [
+              "causes",
+              "bewirkt"
+            ],
+            [
+              "people",
+              "dass Menschen"
+            ],
+            [
+              "to feel",
+              "sich fühlen"
+            ],
+            [
+              "happy.",
+              "glücklich."
+            ]
+          ],
           "de": "Eine aktuelle Studie aus Kanada hat gezeigt, dass Musik im Gehirn eine chemische Substanz freisetzen kann, die Menschen glücklich macht."
         },
         {
           "id": "mus_t1_s08",
           "en": "This chemical is called dopamine, and it is normally produced as the body's reward for doing something that is good for survival, such as eating.",
-          "decode": [["This","diese"],["chemical","Substanz"],["is called","heißt"],["dopamine,","Dopamin,"],["and","und"],["it","sie"],["is","wird"],["normally","normalerweise"],["produced","produziert"],["as","als"],["the body's","die körpereigene"],["reward","Belohnung"],["for doing","für das Tun von"],["something","etwas"],["that","das"],["is","ist"],["good","gut"],["for survival,","fürs Überleben,"],["such as","wie zum Beispiel"],["eating.","Essen."]],
+          "decode": [
+            [
+              "This",
+              "diese"
+            ],
+            [
+              "chemical",
+              "Substanz"
+            ],
+            [
+              "is called",
+              "heißt"
+            ],
+            [
+              "dopamine,",
+              "Dopamin,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "it",
+              "sie"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "normally",
+              "normalerweise"
+            ],
+            [
+              "produced",
+              "produziert"
+            ],
+            [
+              "as",
+              "als"
+            ],
+            [
+              "the body's",
+              "die körpereigene"
+            ],
+            [
+              "reward",
+              "Belohnung"
+            ],
+            [
+              "for doing",
+              "für das Tun von"
+            ],
+            [
+              "something",
+              "etwas"
+            ],
+            [
+              "that",
+              "das"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "good",
+              "gut"
+            ],
+            [
+              "for survival,",
+              "fürs Überleben,"
+            ],
+            [
+              "such as",
+              "wie zum Beispiel"
+            ],
+            [
+              "eating.",
+              "Essen."
+            ]
+          ],
           "de": "Diese Substanz heißt Dopamin und wird normalerweise als Belohnung des Körpers ausgeschüttet, wenn man etwas tut, das gut fürs Überleben ist – wie zum Beispiel essen."
         },
         {
           "id": "mus_t1_s09",
           "en": "It's not clear why music is good for survival, but it certainly can stimulate dopamine release.",
-          "decode": [["It's","es ist"],["not","nicht"],["clear","klar"],["why","warum"],["music","Musik"],["is","ist"],["good","gut"],["for survival,","fürs Überleben,"],["but","aber"],["it","sie"],["certainly","sicherlich"],["can","kann"],["stimulate","anregen"],["dopamine","Dopamin-"],["release.","Ausschüttung."]],
+          "decode": [
+            [
+              "It's",
+              "es ist"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "clear",
+              "klar"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "good",
+              "gut"
+            ],
+            [
+              "for survival,",
+              "fürs Überleben,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it",
+              "sie"
+            ],
+            [
+              "certainly",
+              "sicherlich"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "stimulate",
+              "anregen"
+            ],
+            [
+              "dopamine",
+              "Dopamin-"
+            ],
+            [
+              "release.",
+              "Ausschüttung."
+            ]
+          ],
           "de": "Es ist nicht klar, warum Musik gut fürs Überleben ist, aber sie kann sicherlich die Dopamin-Ausschüttung anregen."
         },
         {
           "id": "mus_t1_s10",
           "en": "It must be a piece of music that you are into – the kind of music that sends a shiver down your spine.",
-          "decode": [["It","es"],["must","muss"],["be","sein"],["a piece of","ein Stück"],["music","Musik"],["that","auf das"],["you","du"],["are into","stehst"],["–","–"],["the kind of","die Art von"],["music","Musik"],["that","die"],["sends","jagt"],["a","einen"],["shiver","Schauer"],["down your spine.","über deinen Rücken."]],
+          "decode": [
+            [
+              "It",
+              "es"
+            ],
+            [
+              "must",
+              "muss"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "a piece of",
+              "ein Stück"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "that",
+              "auf das"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "are into",
+              "stehst"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "the kind of",
+              "die Art von"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "sends",
+              "jagt"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "shiver",
+              "Schauer"
+            ],
+            [
+              "down your spine.",
+              "über deinen Rücken."
+            ]
+          ],
           "de": "Es muss ein Musikstück sein, auf das du stehst – die Art von Musik, die dir einen Schauer über den Rücken jagt."
         },
         {
           "id": "mus_t1_s11",
           "en": "However, there are very few songs that everybody likes.",
-          "decode": [["However,","jedoch"],["there are","gibt es"],["very","sehr"],["few","wenige"],["songs","Lieder"],["that","die"],["everybody","jeder"],["likes.","mag."]],
+          "decode": [
+            [
+              "However,",
+              "jedoch"
+            ],
+            [
+              "there are",
+              "gibt es"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "few",
+              "wenige"
+            ],
+            [
+              "songs",
+              "Lieder"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "everybody",
+              "jeder"
+            ],
+            [
+              "likes.",
+              "mag."
+            ]
+          ],
           "de": "Es gibt jedoch nur sehr wenige Lieder, die jeder mag."
         },
         {
           "id": "mus_t1_s12",
           "en": "For example, there is some music that almost everybody hates, such as the screeching noise made by a neighbour who has just bought a drum kit or taken up the violin.",
-          "decode": [["For example,","zum Beispiel"],["there is","gibt es"],["some","manche"],["music","Musik"],["that","die"],["almost","fast"],["everybody","jeder"],["hates,","hasst,"],["such as","wie etwa"],["the","das"],["screeching","kreischende"],["noise","Geräusch"],["made by","gemacht von"],["a","einem"],["neighbour","Nachbarn"],["who","der"],["has just","gerade"],["bought","gekauft hat"],["a","ein"],["drum kit","Schlagzeug"],["or","oder"],["taken up","angefangen hat mit"],["the violin.","der Geige."]],
+          "decode": [
+            [
+              "For example,",
+              "zum Beispiel"
+            ],
+            [
+              "there is",
+              "gibt es"
+            ],
+            [
+              "some",
+              "manche"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "almost",
+              "fast"
+            ],
+            [
+              "everybody",
+              "jeder"
+            ],
+            [
+              "hates,",
+              "hasst,"
+            ],
+            [
+              "such as",
+              "wie etwa"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "screeching",
+              "kreischende"
+            ],
+            [
+              "noise",
+              "Geräusch"
+            ],
+            [
+              "made by",
+              "gemacht von"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "neighbour",
+              "Nachbarn"
+            ],
+            [
+              "who",
+              "der"
+            ],
+            [
+              "has just",
+              "gerade"
+            ],
+            [
+              "bought",
+              "gekauft hat"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "drum kit",
+              "Schlagzeug"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "taken up",
+              "angefangen hat mit"
+            ],
+            [
+              "the violin.",
+              "der Geige."
+            ]
+          ],
           "de": "Zum Beispiel gibt es Musik, die fast jeder hasst – etwa das kreischende Geräusch eines Nachbarn, der sich gerade ein Schlagzeug gekauft oder mit der Geige angefangen hat."
         },
         {
           "id": "mus_t1_s13",
           "en": "At the other end of the spectrum, the nearest you will get to a piece of music which is universally popular is perhaps a song like 'Happy'.",
-          "decode": [["At the other end","am anderen Ende"],["of the spectrum,","des Spektrums"],["the nearest","das Nächste"],["you will get","das du herankommst"],["to","an"],["a piece of music","ein Musikstück"],["which","das"],["is","ist"],["universally","allgemein"],["popular","beliebt"],["is","ist"],["perhaps","vielleicht"],["a","ein"],["song","Lied"],["like","wie"],["'Happy'.","„Happy“."]],
+          "decode": [
+            [
+              "At the other end",
+              "am anderen Ende"
+            ],
+            [
+              "of the spectrum,",
+              "des Spektrums"
+            ],
+            [
+              "the nearest",
+              "das Nächste"
+            ],
+            [
+              "you will get",
+              "das du herankommst"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "a piece of music",
+              "ein Musikstück"
+            ],
+            [
+              "which",
+              "das"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "universally",
+              "allgemein"
+            ],
+            [
+              "popular",
+              "beliebt"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "perhaps",
+              "vielleicht"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "'Happy'.",
+              "„Happy“."
+            ]
+          ],
           "de": "Am anderen Ende des Spektrums: Das, was einem allgemein beliebten Musikstück am nächsten kommt, ist vielleicht ein Lied wie „Happy“."
         },
         {
           "id": "mus_t1_s14",
           "en": "Music is not only used to make people feel happy, though.",
-          "decode": [["Music","Musik"],["is","wird"],["not only","nicht nur"],["used","verwendet"],["to make","um zu machen"],["people","Menschen"],["feel happy,","glücklich,"],["though.","allerdings."]],
+          "decode": [
+            [
+              "Music",
+              "Musik"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "not only",
+              "nicht nur"
+            ],
+            [
+              "used",
+              "verwendet"
+            ],
+            [
+              "to make",
+              "um zu machen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "feel happy,",
+              "glücklich,"
+            ],
+            [
+              "though.",
+              "allerdings."
+            ]
+          ],
           "de": "Musik wird allerdings nicht nur verwendet, um Menschen glücklich zu machen."
         },
         {
           "id": "mus_t1_s15",
           "en": "Supermarkets often play relaxing music when they want people to browse for longer, and research suggests that this can increase sales.",
-          "decode": [["Supermarkets","Supermärkte"],["often","oft"],["play","spielen"],["relaxing","entspannende"],["music","Musik"],["when","wenn"],["they","sie"],["want","wollen"],["people","dass Leute"],["to browse","stöbern"],["for longer,","länger,"],["and","und"],["research","die Forschung"],["suggests","legt nahe"],["that","dass"],["this","das"],["can","kann"],["increase","steigern"],["sales.","den Umsatz."]],
+          "decode": [
+            [
+              "Supermarkets",
+              "Supermärkte"
+            ],
+            [
+              "often",
+              "oft"
+            ],
+            [
+              "play",
+              "spielen"
+            ],
+            [
+              "relaxing",
+              "entspannende"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "want",
+              "wollen"
+            ],
+            [
+              "people",
+              "dass Leute"
+            ],
+            [
+              "to browse",
+              "stöbern"
+            ],
+            [
+              "for longer,",
+              "länger,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "research",
+              "die Forschung"
+            ],
+            [
+              "suggests",
+              "legt nahe"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "this",
+              "das"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "increase",
+              "steigern"
+            ],
+            [
+              "sales.",
+              "den Umsatz."
+            ]
+          ],
           "de": "Supermärkte spielen oft entspannende Musik, wenn sie wollen, dass die Leute länger stöbern – und die Forschung legt nahe, dass das den Umsatz steigern kann."
         },
         {
           "id": "mus_t1_s16",
           "en": "Owners of clothes stores, on the other hand, try to fit in with the musical taste of their customers by choosing music that is fashionable.",
-          "decode": [["Owners","Besitzer"],["of clothes stores,","von Bekleidungsgeschäften"],["on the other hand,","andererseits"],["try","versuchen"],["to fit in with","sich anzupassen an"],["the","den"],["musical","musikalischen"],["taste","Geschmack"],["of their","ihrer"],["customers","Kunden"],["by choosing","indem sie wählen"],["music","Musik"],["that","die"],["is","ist"],["fashionable.","angesagt."]],
+          "decode": [
+            [
+              "Owners",
+              "Besitzer"
+            ],
+            [
+              "of clothes stores,",
+              "von Bekleidungsgeschäften"
+            ],
+            [
+              "on the other hand,",
+              "andererseits"
+            ],
+            [
+              "try",
+              "versuchen"
+            ],
+            [
+              "to fit in with",
+              "sich anzupassen an"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "musical",
+              "musikalischen"
+            ],
+            [
+              "taste",
+              "Geschmack"
+            ],
+            [
+              "of their",
+              "ihrer"
+            ],
+            [
+              "customers",
+              "Kunden"
+            ],
+            [
+              "by choosing",
+              "indem sie wählen"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "fashionable.",
+              "angesagt."
+            ]
+          ],
           "de": "Besitzer von Bekleidungsgeschäften versuchen dagegen, sich an den Musikgeschmack ihrer Kunden anzupassen, indem sie angesagte Musik wählen."
         },
         {
           "id": "mus_t1_s17",
           "en": "National anthems have been used for centuries to stimulate feelings of patriotism.",
-          "decode": [["National anthems","Nationalhymnen"],["have been used","werden verwendet"],["for centuries","seit Jahrhunderten"],["to stimulate","um anzuregen"],["feelings","Gefühle"],["of patriotism.","von Patriotismus."]],
+          "decode": [
+            [
+              "National anthems",
+              "Nationalhymnen"
+            ],
+            [
+              "have been used",
+              "werden verwendet"
+            ],
+            [
+              "for centuries",
+              "seit Jahrhunderten"
+            ],
+            [
+              "to stimulate",
+              "um anzuregen"
+            ],
+            [
+              "feelings",
+              "Gefühle"
+            ],
+            [
+              "of patriotism.",
+              "von Patriotismus."
+            ]
+          ],
           "de": "Nationalhymnen werden seit Jahrhunderten verwendet, um patriotische Gefühle zu wecken."
         },
         {
           "id": "mus_t1_s18",
           "en": "Classical music is often played outside shops, stations and other places where youths like to hang out.",
-          "decode": [["Classical","klassische"],["music","Musik"],["is","wird"],["often","oft"],["played","gespielt"],["outside","vor"],["shops,","Geschäften,"],["stations","Bahnhöfen"],["and","und"],["other","anderen"],["places","Orten"],["where","wo"],["youths","Jugendliche"],["like to","gerne"],["hang out.","abhängen."]],
+          "decode": [
+            [
+              "Classical",
+              "klassische"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "often",
+              "oft"
+            ],
+            [
+              "played",
+              "gespielt"
+            ],
+            [
+              "outside",
+              "vor"
+            ],
+            [
+              "shops,",
+              "Geschäften,"
+            ],
+            [
+              "stations",
+              "Bahnhöfen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "other",
+              "anderen"
+            ],
+            [
+              "places",
+              "Orten"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "youths",
+              "Jugendliche"
+            ],
+            [
+              "like to",
+              "gerne"
+            ],
+            [
+              "hang out.",
+              "abhängen."
+            ]
+          ],
           "de": "Klassische Musik wird oft vor Geschäften, Bahnhöfen und anderen Orten gespielt, wo Jugendliche gerne abhängen."
         },
         {
           "id": "mus_t1_s19",
           "en": "Store managers have found that there is nothing better than a little Mozart or opera to get rid of young people.",
-          "decode": [["Store managers","Filialleiter"],["have found","haben festgestellt"],["that","dass"],["there is","es gibt"],["nothing","nichts"],["better","Besseres"],["than","als"],["a little","ein wenig"],["Mozart","Mozart"],["or","oder"],["opera","Oper"],["to get rid of","um loszuwerden"],["young people.","junge Leute."]],
+          "decode": [
+            [
+              "Store managers",
+              "Filialleiter"
+            ],
+            [
+              "have found",
+              "haben festgestellt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "there is",
+              "es gibt"
+            ],
+            [
+              "nothing",
+              "nichts"
+            ],
+            [
+              "better",
+              "Besseres"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "a little",
+              "ein wenig"
+            ],
+            [
+              "Mozart",
+              "Mozart"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "opera",
+              "Oper"
+            ],
+            [
+              "to get rid of",
+              "um loszuwerden"
+            ],
+            [
+              "young people.",
+              "junge Leute."
+            ]
+          ],
           "de": "Filialleiter haben festgestellt, dass es nichts Besseres gibt als ein wenig Mozart oder Oper, um junge Leute loszuwerden."
         },
         {
           "id": "mus_t1_s20",
           "en": "And who knows – perhaps in 100 years, Pharrell Williams' 'Happy' will be used for the same purpose!",
-          "decode": [["And","und"],["who knows","wer weiß"],["–","–"],["perhaps","vielleicht"],["in 100 years,","in 100 Jahren"],["Pharrell Williams'","Pharrell Williams'"],["'Happy'","„Happy“"],["will be used","wird verwendet werden"],["for the same","für denselben"],["purpose!","Zweck!"]],
+          "decode": [
+            [
+              "And",
+              "und"
+            ],
+            [
+              "who knows",
+              "wer weiß"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "perhaps",
+              "vielleicht"
+            ],
+            [
+              "in 100 years,",
+              "in 100 Jahren"
+            ],
+            [
+              "Pharrell Williams'",
+              "Pharrell Williams'"
+            ],
+            [
+              "'Happy'",
+              "„Happy“"
+            ],
+            [
+              "will be used",
+              "wird verwendet werden"
+            ],
+            [
+              "for the same",
+              "für denselben"
+            ],
+            [
+              "purpose!",
+              "Zweck!"
+            ]
+          ],
           "de": "Und wer weiß – vielleicht wird Pharrell Williams' „Happy“ in 100 Jahren für denselben Zweck verwendet!"
         }
       ]
@@ -142,38 +1202,434 @@
         {
           "parts": [
             "an excited or frightened feeling: ",
-            {"opts": ["a shiver","a screeching noise","a catchy tune","upbeat lyrics"], "decode": ["ein Schauer","ein kreischendes Geräusch","eine eingängige Melodie","ein fröhlicher Liedtext"], "correct": 0}
+            {
+              "opts": [
+                "a shiver",
+                "a screeching noise",
+                "a catchy tune",
+                "upbeat lyrics"
+              ],
+              "decode": [
+                "ein Schauer",
+                "ein kreischendes Geräusch",
+                "eine eingängige Melodie",
+                "ein fröhlicher Liedtext"
+              ],
+              "correct": 0,
+              "n": "a shiver"
+            }
           ],
           "solutionEn": "a shiver",
           "solutionDe": "ein Schauer (vor Aufregung oder Angst)",
-          "explain": "Im Text: 'music that sends a shiver down your spine' = Musik, die dir einen Schauer über den Rücken jagt."
+          "explain": "Im Text: 'music that sends a shiver down your spine' = Musik, die dir einen Schauer über den Rücken jagt.",
+          "decodeFull": [
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "excited",
+              "aufgeregtes"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "frightened",
+              "ängstliches"
+            ],
+            [
+              "feeling:",
+              "Gefühl:"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "shiver",
+              "Schauer"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "an",
+                  "ein"
+                ],
+                [
+                  "excited",
+                  "aufgeregtes"
+                ],
+                [
+                  "or",
+                  "oder"
+                ],
+                [
+                  "frightened",
+                  "ängstliches"
+                ],
+                [
+                  "feeling:",
+                  "Gefühl:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "words of a song full of hope, happiness and good feelings: ",
-            {"opts": ["a shiver","a screeching noise","a catchy tune","upbeat lyrics"], "decode": ["ein Schauer","ein kreischendes Geräusch","eine eingängige Melodie","ein fröhlicher Liedtext"], "correct": 3}
+            {
+              "opts": [
+                "a shiver",
+                "a screeching noise",
+                "a catchy tune",
+                "upbeat lyrics"
+              ],
+              "decode": [
+                "ein Schauer",
+                "ein kreischendes Geräusch",
+                "eine eingängige Melodie",
+                "ein fröhlicher Liedtext"
+              ],
+              "correct": 3,
+              "n": "upbeat lyrics"
+            }
           ],
           "solutionEn": "upbeat lyrics",
           "solutionDe": "fröhlicher, optimistischer Liedtext",
-          "explain": "upbeat = fröhlich, optimistisch; lyrics = Liedtext (immer Plural!)."
+          "explain": "upbeat = fröhlich, optimistisch; lyrics = Liedtext (immer Plural!).",
+          "decodeFull": [
+            [
+              "words",
+              "Worte"
+            ],
+            [
+              "of",
+              "eines"
+            ],
+            [
+              "a",
+              "-"
+            ],
+            [
+              "song",
+              "Liedes"
+            ],
+            [
+              "full",
+              "voll"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "hope,",
+              "Hoffnung,"
+            ],
+            [
+              "happiness",
+              "Freude"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "good",
+              "guten"
+            ],
+            [
+              "feelings:",
+              "Gefühlen:"
+            ],
+            [
+              "upbeat",
+              "optimistische"
+            ],
+            [
+              "lyrics",
+              "Liedtexte"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "words",
+                  "Worte"
+                ],
+                [
+                  "of",
+                  "eines"
+                ],
+                [
+                  "a",
+                  "-"
+                ],
+                [
+                  "song",
+                  "Liedes"
+                ],
+                [
+                  "full",
+                  "voll"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "hope,",
+                  "Hoffnung,"
+                ],
+                [
+                  "happiness",
+                  "Freude"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "good",
+                  "guten"
+                ],
+                [
+                  "feelings:",
+                  "Gefühlen:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "an unpleasant, loud, high sound: ",
-            {"opts": ["a shiver","a screeching noise","a catchy tune","upbeat lyrics"], "decode": ["ein Schauer","ein kreischendes Geräusch","eine eingängige Melodie","ein fröhlicher Liedtext"], "correct": 1}
+            {
+              "opts": [
+                "a shiver",
+                "a screeching noise",
+                "a catchy tune",
+                "upbeat lyrics"
+              ],
+              "decode": [
+                "ein Schauer",
+                "ein kreischendes Geräusch",
+                "eine eingängige Melodie",
+                "ein fröhlicher Liedtext"
+              ],
+              "correct": 1,
+              "n": "a screeching noise"
+            }
           ],
           "solutionEn": "a screeching noise",
           "solutionDe": "ein kreischendes Geräusch",
-          "explain": "screeching = kreischend. Im Text: das Geräusch des Nachbarn, der gerade Schlagzeug oder Geige lernt."
+          "explain": "screeching = kreischend. Im Text: das Geräusch des Nachbarn, der gerade Schlagzeug oder Geige lernt.",
+          "decodeFull": [
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "unpleasant,",
+              "unangenehmer,"
+            ],
+            [
+              "loud,",
+              "lauter,"
+            ],
+            [
+              "high",
+              "hoher"
+            ],
+            [
+              "sound:",
+              "Klang:"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "screeching",
+              "kreischendes"
+            ],
+            [
+              "noise",
+              "Geräusch"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "an",
+                  "ein"
+                ],
+                [
+                  "unpleasant,",
+                  "unangenehmer,"
+                ],
+                [
+                  "loud,",
+                  "lauter,"
+                ],
+                [
+                  "high",
+                  "hoher"
+                ],
+                [
+                  "sound:",
+                  "Klang:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "a pleasing and easy to remember song or piece of music: ",
-            {"opts": ["a shiver","a screeching noise","a catchy tune","upbeat lyrics"], "decode": ["ein Schauer","ein kreischendes Geräusch","eine eingängige Melodie","ein fröhlicher Liedtext"], "correct": 2}
+            {
+              "opts": [
+                "a shiver",
+                "a screeching noise",
+                "a catchy tune",
+                "upbeat lyrics"
+              ],
+              "decode": [
+                "ein Schauer",
+                "ein kreischendes Geräusch",
+                "eine eingängige Melodie",
+                "ein fröhlicher Liedtext"
+              ],
+              "correct": 2,
+              "n": "a catchy tune"
+            }
           ],
           "solutionEn": "a catchy tune",
           "solutionDe": "eine eingängige Melodie (ein Ohrwurm)",
-          "explain": "catchy = eingängig, bleibt im Ohr; tune = Melodie."
+          "explain": "catchy = eingängig, bleibt im Ohr; tune = Melodie.",
+          "decodeFull": [
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "pleasing",
+              "gefälliges"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "easy",
+              "leicht"
+            ],
+            [
+              "to remember",
+              "zu merkendes"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "piece",
+              "Stück"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "music:",
+              "Musik:"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "catchy",
+              "eingängige"
+            ],
+            [
+              "tune",
+              "Melodie"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "pleasing",
+                  "gefälliges"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "easy",
+                  "leicht"
+                ],
+                [
+                  "to remember",
+                  "zu merkendes"
+                ],
+                [
+                  "song",
+                  "Lied"
+                ],
+                [
+                  "or",
+                  "oder"
+                ],
+                [
+                  "piece",
+                  "Stück"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "music:",
+                  "Musik:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -187,29 +1643,400 @@
         {
           "parts": [
             "The writer thinks the song 'Happy' … ",
-            {"opts": ["will be popular for a long time","is liked by most people","will definitely become unpopular in the future"], "decode": ["wird lange Zeit beliebt sein","wird von den meisten Menschen gemocht","wird in Zukunft sicher unbeliebt werden"], "correct": 1}
+            {
+              "opts": [
+                "will be popular for a long time",
+                "is liked by most people",
+                "will definitely become unpopular in the future"
+              ],
+              "decode": [
+                "wird lange Zeit beliebt sein",
+                "wird von den meisten Menschen gemocht",
+                "wird in Zukunft sicher unbeliebt werden"
+              ],
+              "correct": 1,
+              "n": "is liked by most people"
+            }
           ],
           "solutionEn": "is liked by most people",
           "solutionDe": "wird von den meisten Menschen gemocht",
-          "explain": "Textstelle: 'the nearest you will get to a piece of music which is universally popular is perhaps a song like Happy.' Über die Zukunft sagt der Autor nichts Sicheres ('who knows – perhaps …')."
+          "explain": "Textstelle: 'the nearest you will get to a piece of music which is universally popular is perhaps a song like Happy.' Über die Zukunft sagt der Autor nichts Sicheres ('who knows – perhaps …').",
+          "decodeFull": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "writer",
+              "Autor"
+            ],
+            [
+              "thinks",
+              "denkt"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "'Happy'",
+              "'Happy'"
+            ],
+            [
+              "…",
+              "…"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "liked",
+              "gemocht"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "most",
+              "den meisten"
+            ],
+            [
+              "people",
+              "Menschen"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "Der"
+                ],
+                [
+                  "writer",
+                  "Autor"
+                ],
+                [
+                  "thinks",
+                  "denkt"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "song",
+                  "Lied"
+                ],
+                [
+                  "'Happy'",
+                  "'Happy'"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Why did Pharrell Williams write so many versions of 'Happy'? ",
-            {"opts": ["People are moved in different ways by the same type of music.","He wanted to get just the right version to move people.","People enjoy different versions of the same song.","He wanted to research people's mood when they listened to music."], "decode": ["Menschen werden von derselben Musik unterschiedlich bewegt.","Er wollte genau die richtige Version finden, um Menschen zu bewegen.","Menschen genießen verschiedene Versionen desselben Lieds.","Er wollte die Stimmung der Menschen beim Musikhören erforschen."], "correct": 1}
+            {
+              "opts": [
+                "People are moved in different ways by the same type of music.",
+                "He wanted to get just the right version to move people.",
+                "People enjoy different versions of the same song.",
+                "He wanted to research people's mood when they listened to music."
+              ],
+              "decode": [
+                "Menschen werden von derselben Musik unterschiedlich bewegt.",
+                "Er wollte genau die richtige Version finden, um Menschen zu bewegen.",
+                "Menschen genießen verschiedene Versionen desselben Lieds.",
+                "Er wollte die Stimmung der Menschen beim Musikhören erforschen."
+              ],
+              "correct": 1,
+              "n": "He wanted to get just the right version to move people."
+            }
           ],
           "solutionEn": "He wanted to get just the right version to move people.",
           "solutionDe": "Er wollte genau die richtige Version finden, um die Menschen zu bewegen.",
-          "explain": "Textstelle: 'He was recording a track to move his audience.' – Es gab neun Versionen, bevor die richtige gefunden war."
+          "explain": "Textstelle: 'He was recording a track to move his audience.' – Es gab neun Versionen, bevor die richtige gefunden war.",
+          "decodeFull": [
+            [
+              "Why",
+              "Warum"
+            ],
+            [
+              "did",
+              "-"
+            ],
+            [
+              "Pharrell",
+              "Pharrell"
+            ],
+            [
+              "Williams",
+              "Williams"
+            ],
+            [
+              "write",
+              "schrieb"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "versions",
+              "Versionen"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "'Happy'?",
+              "'Happy'?"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "wanted",
+              "wollte"
+            ],
+            [
+              "to get",
+              "bekommen"
+            ],
+            [
+              "just",
+              "genau"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "right",
+              "richtige"
+            ],
+            [
+              "version",
+              "Version"
+            ],
+            [
+              "to move",
+              "um zu bewegen"
+            ],
+            [
+              "people.",
+              "Menschen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Why",
+                  "Warum"
+                ],
+                [
+                  "did",
+                  "-"
+                ],
+                [
+                  "Pharrell",
+                  "Pharrell"
+                ],
+                [
+                  "Williams",
+                  "Williams"
+                ],
+                [
+                  "write",
+                  "schrieb"
+                ],
+                [
+                  "so",
+                  "so"
+                ],
+                [
+                  "many",
+                  "viele"
+                ],
+                [
+                  "versions",
+                  "Versionen"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "'Happy'?",
+                  "'Happy'?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "What is the main point of the whole text? ",
-            {"opts": ["Music releases a chemical in the brain.","Music stimulates people to follow famous people.","Music influences the way people feel and act.","Music inspires people to dance and march."], "decode": ["Musik setzt eine chemische Substanz im Gehirn frei.","Musik bringt Menschen dazu, Berühmtheiten zu folgen.","Musik beeinflusst, wie Menschen fühlen und handeln.","Musik inspiriert Menschen zum Tanzen und Marschieren."], "correct": 2}
+            {
+              "opts": [
+                "Music releases a chemical in the brain.",
+                "Music stimulates people to follow famous people.",
+                "Music influences the way people feel and act.",
+                "Music inspires people to dance and march."
+              ],
+              "decode": [
+                "Musik setzt eine chemische Substanz im Gehirn frei.",
+                "Musik bringt Menschen dazu, Berühmtheiten zu folgen.",
+                "Musik beeinflusst, wie Menschen fühlen und handeln.",
+                "Musik inspiriert Menschen zum Tanzen und Marschieren."
+              ],
+              "correct": 2,
+              "n": "Music influences the way people feel and act."
+            }
           ],
           "solutionEn": "Music influences the way people feel and act.",
           "solutionDe": "Musik beeinflusst, wie Menschen fühlen und handeln.",
-          "explain": "Alle Absätze zeigen das: Stimmung (Dopamin), Einkaufsverhalten, Patriotismus, „move along“. Die anderen Antworten sind nur einzelne Details."
+          "explain": "Alle Absätze zeigen das: Stimmung (Dopamin), Einkaufsverhalten, Patriotismus, „move along“. Die anderen Antworten sind nur einzelne Details.",
+          "decodeFull": [
+            [
+              "What",
+              "Was"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "point",
+              "punkt"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "whole",
+              "ganzen"
+            ],
+            [
+              "text?",
+              "Textes?"
+            ],
+            [
+              "Music",
+              "Musik"
+            ],
+            [
+              "influences",
+              "beeinflusst"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "way",
+              "Art"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "act.",
+              "handeln."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "Was"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "main",
+                  "Haupt-"
+                ],
+                [
+                  "point",
+                  "punkt"
+                ],
+                [
+                  "of",
+                  "des"
+                ],
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "whole",
+                  "ganzen"
+                ],
+                [
+                  "text?",
+                  "Textes?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -223,29 +2050,302 @@
         {
           "parts": [
             "'Happy' was an easy song to write. ",
-            {"opts": ["True","False"], "decode": ["richtig","falsch"], "correct": 1}
+            {
+              "opts": [
+                "True",
+                "False"
+              ],
+              "decode": [
+                "richtig",
+                "falsch"
+              ],
+              "correct": 1,
+              "n": "false"
+            }
           ],
           "solutionEn": "False – 'creating Happy was by no means as effortless as the song sounds.'",
           "solutionDe": "Falsch – „Happy“ zu erschaffen war keineswegs so mühelos, wie das Lied klingt.",
-          "explain": "by no means = keineswegs; effortless = mühelos. Es gab neun Versionen vor der endgültigen!"
+          "explain": "by no means = keineswegs; effortless = mühelos. Es gab neun Versionen vor der endgültigen!",
+          "decodeFull": [
+            [
+              "'Happy'",
+              "'Happy'"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "easy",
+              "leichtes"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "to write.",
+              "zu schreiben."
+            ],
+            [
+              "False",
+              "Falsch"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'Happy'",
+                  "'Happy'"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "an",
+                  "ein"
+                ],
+                [
+                  "easy",
+                  "leichtes"
+                ],
+                [
+                  "song",
+                  "Lied"
+                ],
+                [
+                  "to write.",
+                  "zu schreiben."
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Relaxing music can encourage people to spend money. ",
-            {"opts": ["True","False"], "decode": ["richtig","falsch"], "correct": 0}
+            {
+              "opts": [
+                "True",
+                "False"
+              ],
+              "decode": [
+                "richtig",
+                "falsch"
+              ],
+              "correct": 0,
+              "n": "true"
+            }
           ],
           "solutionEn": "True – 'Supermarkets often play relaxing music … and research suggests that this can increase sales.'",
           "solutionDe": "Richtig – Supermärkte spielen entspannende Musik, und das kann laut Forschung den Umsatz steigern.",
-          "explain": "browse for longer = länger stöbern → die Leute kaufen mehr."
+          "explain": "browse for longer = länger stöbern → die Leute kaufen mehr.",
+          "decodeFull": [
+            [
+              "Relaxing",
+              "Entspannende"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "encourage",
+              "ermutigen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "to spend",
+              "zu auszugeben"
+            ],
+            [
+              "money.",
+              "Geld."
+            ],
+            [
+              "True",
+              "Wahr"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Relaxing",
+                  "Entspannende"
+                ],
+                [
+                  "music",
+                  "Musik"
+                ],
+                [
+                  "can",
+                  "kann"
+                ],
+                [
+                  "encourage",
+                  "ermutigen"
+                ],
+                [
+                  "people",
+                  "Menschen"
+                ],
+                [
+                  "to spend",
+                  "zu auszugeben"
+                ],
+                [
+                  "money.",
+                  "Geld."
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "In recent times, music has been used to make people feel patriotic. ",
-            {"opts": ["True","False"], "decode": ["richtig","falsch"], "correct": 1}
+            {
+              "opts": [
+                "True",
+                "False"
+              ],
+              "decode": [
+                "richtig",
+                "falsch"
+              ],
+              "correct": 1,
+              "n": "false"
+            }
           ],
           "solutionEn": "False – 'National anthems have been used for centuries to stimulate feelings of patriotism.'",
           "solutionDe": "Falsch – Nationalhymnen werden schon seit Jahrhunderten dafür verwendet, nicht erst seit Kurzem.",
-          "explain": "for centuries = seit Jahrhunderten ≠ in recent times (in letzter Zeit). Genau lesen!"
+          "explain": "for centuries = seit Jahrhunderten ≠ in recent times (in letzter Zeit). Genau lesen!",
+          "decodeFull": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "recent",
+              "jüngster"
+            ],
+            [
+              "times,",
+              "Zeit,"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "has",
+              "ist"
+            ],
+            [
+              "been",
+              "-"
+            ],
+            [
+              "used",
+              "verwendet worden"
+            ],
+            [
+              "to make",
+              "um zu machen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "patriotic.",
+              "patriotisch."
+            ],
+            [
+              "False",
+              "Falsch"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "In",
+                  "In"
+                ],
+                [
+                  "recent",
+                  "jüngster"
+                ],
+                [
+                  "times,",
+                  "Zeit,"
+                ],
+                [
+                  "music",
+                  "Musik"
+                ],
+                [
+                  "has",
+                  "ist"
+                ],
+                [
+                  "been",
+                  "-"
+                ],
+                [
+                  "used",
+                  "verwendet worden"
+                ],
+                [
+                  "to make",
+                  "um zu machen"
+                ],
+                [
+                  "people",
+                  "Menschen"
+                ],
+                [
+                  "feel",
+                  "fühlen"
+                ],
+                [
+                  "patriotic.",
+                  "patriotisch."
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -259,42 +2359,450 @@
         {
           "parts": [
             "He only listens to rap to fit ",
-            {"opts": ["out in","in with","up with"], "decode": ["draußen in","dazupassen zu (fit in with)","mithalten mit (keep up with)"], "correct": 1},
+            {
+              "opts": [
+                "out in",
+                "in with",
+                "up with"
+              ],
+              "decode": [
+                "draußen in",
+                "dazupassen zu (fit in with)",
+                "mithalten mit (keep up with)"
+              ],
+              "correct": 1,
+              "n": "in with"
+            },
             " his friends."
           ],
           "solutionEn": "fit in with",
           "solutionDe": "dazupassen zu / sich anpassen an",
-          "explain": "fit in with = zu etwas/jemandem passen, sich anpassen. Auch im Lesetext: Geschäfte 'fit in with the musical taste of their customers'."
+          "explain": "fit in with = zu etwas/jemandem passen, sich anpassen. Auch im Lesetext: Geschäfte 'fit in with the musical taste of their customers'.",
+          "decodeFull": [
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "listens",
+              "hört"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "rap",
+              "Rap"
+            ],
+            [
+              "to fit in",
+              "um sich anzupassen"
+            ],
+            [
+              "with",
+              "an"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "only",
+                  "nur"
+                ],
+                [
+                  "listens",
+                  "hört"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "rap",
+                  "Rap"
+                ],
+                [
+                  "to fit",
+                  "um anzupassen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "his",
+                  "seine"
+                ],
+                [
+                  "friends.",
+                  "Freunde."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I know a lot of kids who are ",
-            {"opts": ["into","up to","out of"], "decode": ["begeistert von (be into)","bis zu","heraus aus"], "correct": 0},
+            {
+              "opts": [
+                "into",
+                "up to",
+                "out of"
+              ],
+              "decode": [
+                "begeistert von (be into)",
+                "bis zu",
+                "heraus aus"
+              ],
+              "correct": 0,
+              "n": "into"
+            },
             " electronic music."
           ],
           "solutionEn": "be into",
           "solutionDe": "auf etwas stehen / von etwas begeistert sein",
-          "explain": "be into something = etwas sehr mögen. Im Lesetext: 'a piece of music that you are into'."
+          "explain": "be into something = etwas sehr mögen. Im Lesetext: 'a piece of music that you are into'.",
+          "decodeFull": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "know",
+              "kenne"
+            ],
+            [
+              "a",
+              "-"
+            ],
+            [
+              "lot",
+              "viele"
+            ],
+            [
+              "of",
+              "-"
+            ],
+            [
+              "kids",
+              "Kinder"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "are",
+              "-"
+            ],
+            [
+              "into",
+              "begeistert von"
+            ],
+            [
+              "electronic",
+              "elektronischer"
+            ],
+            [
+              "music.",
+              "Musik sind."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "know",
+                  "kenne"
+                ],
+                [
+                  "a",
+                  "-"
+                ],
+                [
+                  "lot",
+                  "viele"
+                ],
+                [
+                  "of",
+                  "-"
+                ],
+                [
+                  "kids",
+                  "Kinder"
+                ],
+                [
+                  "who",
+                  "die"
+                ],
+                [
+                  "are",
+                  "-"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "electronic",
+                  "elektronischer"
+                ],
+                [
+                  "music.",
+                  "Musik sind."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "In the USA, teenagers like to hang ",
-            {"opts": ["up","out","on"], "decode": ["auflegen (hang up)","abhängen (hang out)","warten (hang on)"], "correct": 1},
+            {
+              "opts": [
+                "up",
+                "out",
+                "on"
+              ],
+              "decode": [
+                "auflegen (hang up)",
+                "abhängen (hang out)",
+                "warten (hang on)"
+              ],
+              "correct": 1,
+              "n": "out"
+            },
             " in the big malls."
           ],
           "solutionEn": "hang out",
           "solutionDe": "Zeit verbringen / abhängen",
-          "explain": "hang out = viel Zeit an einem Ort oder mit jemandem verbringen. Im Lesetext: 'places where youths like to hang out'."
+          "explain": "hang out = viel Zeit an einem Ort oder mit jemandem verbringen. Im Lesetext: 'places where youths like to hang out'.",
+          "decodeFull": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "USA,",
+              "USA,"
+            ],
+            [
+              "teenagers",
+              "Teenager"
+            ],
+            [
+              "like",
+              "mögen es"
+            ],
+            [
+              "to hang out",
+              "abzuhängen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "big",
+              "großen"
+            ],
+            [
+              "malls.",
+              "Einkaufszentren."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "In",
+                  "in"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "USA,",
+                  "USA,"
+                ],
+                [
+                  "teenagers",
+                  "Teenager"
+                ],
+                [
+                  "like",
+                  "mögen es"
+                ],
+                [
+                  "to hang",
+                  "abzuhängen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "big",
+                  "großen"
+                ],
+                [
+                  "malls.",
+                  "Einkaufszentren."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "My mum wants me to take ",
-            {"opts": ["over","up","off"], "decode": ["übernehmen (take over)","anfangen mit (take up)","ausziehen/abheben (take off)"], "correct": 1},
+            {
+              "opts": [
+                "over",
+                "up",
+                "off"
+              ],
+              "decode": [
+                "übernehmen (take over)",
+                "anfangen mit (take up)",
+                "ausziehen/abheben (take off)"
+              ],
+              "correct": 1,
+              "n": "up"
+            },
             " the piano."
           ],
           "solutionEn": "take up",
           "solutionDe": "(ein Hobby/Instrument) anfangen",
-          "explain": "take up = mit einer Tätigkeit beginnen. Im Lesetext: 'a neighbour who has … taken up the violin'."
+          "explain": "take up = mit einer Tätigkeit beginnen. Im Lesetext: 'a neighbour who has … taken up the violin'.",
+          "decodeFull": [
+            [
+              "My",
+              "Meine"
+            ],
+            [
+              "mum",
+              "Mutter"
+            ],
+            [
+              "wants",
+              "will,"
+            ],
+            [
+              "me",
+              "dass ich"
+            ],
+            [
+              "to take up",
+              "anfange mit"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "piano.",
+              "Klavier."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "meine"
+                ],
+                [
+                  "mum",
+                  "Mutter"
+                ],
+                [
+                  "wants",
+                  "will,"
+                ],
+                [
+                  "me",
+                  "dass ich"
+                ],
+                [
+                  "to take",
+                  "anfange"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "piano.",
+                  "Klavier."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -308,26 +2816,766 @@
         {
           "parts": [
             "I'm the ",
-            {"opts": ["rock","lead","drum"], "decode": ["Rock-","Lead-/Haupt-","Schlagzeug-"], "correct": 1},
+            {
+              "opts": [
+                "rock",
+                "lead",
+                "drum"
+              ],
+              "decode": [
+                "Rock-",
+                "Lead-/Haupt-",
+                "Schlagzeug-"
+              ],
+              "correct": 1,
+              "n": "lead"
+            },
             " guitarist in a ",
-            {"opts": ["drum","rock","opera"], "decode": ["Schlagzeug-","Rock-","Opern-"], "correct": 1},
+            {
+              "opts": [
+                "drum",
+                "rock",
+                "opera"
+              ],
+              "decode": [
+                "Schlagzeug-",
+                "Rock-",
+                "Opern-"
+              ],
+              "correct": 1,
+              "n": "rock"
+            },
             " band. We play about one ",
-            {"opts": ["studio","microphone","concert"], "decode": ["Studio","Mikrofon","Konzert"], "correct": 2},
+            {
+              "opts": [
+                "studio",
+                "microphone",
+                "concert"
+              ],
+              "decode": [
+                "Studio",
+                "Mikrofon",
+                "Konzert"
+              ],
+              "correct": 2,
+              "n": "concert"
+            },
             " a month. Last summer, we performed on an outdoor ",
-            {"opts": ["stage","drum kit","studio"], "decode": ["Bühne","Schlagzeug","Studio"], "correct": 0},
+            {
+              "opts": [
+                "stage",
+                "drum kit",
+                "studio"
+              ],
+              "decode": [
+                "Bühne",
+                "Schlagzeug",
+                "Studio"
+              ],
+              "correct": 0,
+              "n": "stage"
+            },
             " at a music festival. We practise in a recording ",
-            {"opts": ["concert","studio","stage"], "decode": ["Konzert","Studio","Bühne"], "correct": 1},
+            {
+              "opts": [
+                "concert",
+                "studio",
+                "stage"
+              ],
+              "decode": [
+                "Konzert",
+                "Studio",
+                "Bühne"
+              ],
+              "correct": 1,
+              "n": "studio"
+            },
             " once a week. It's great fun doing ",
-            {"opts": ["gigs","stages","drum kits"], "decode": ["Gigs/Auftritte","Bühnen","Schlagzeuge"], "correct": 0},
+            {
+              "opts": [
+                "gigs",
+                "stages",
+                "drum kits"
+              ],
+              "decode": [
+                "Gigs/Auftritte",
+                "Bühnen",
+                "Schlagzeuge"
+              ],
+              "correct": 0,
+              "n": "gig"
+            },
             ", but it's hard work carrying all the heavy equipment. I feel sorry for our drummer – he has to carry the ",
-            {"opts": ["microphone","drum kit","stage"], "decode": ["Mikrofon","Schlagzeug","Bühne"], "correct": 1},
+            {
+              "opts": [
+                "microphone",
+                "drum kit",
+                "stage"
+              ],
+              "decode": [
+                "Mikrofon",
+                "Schlagzeug",
+                "Bühne"
+              ],
+              "correct": 1,
+              "n": "drum kit"
+            },
             ". Our singer is very lucky – she only has to carry her ",
-            {"opts": ["microphone","stage","drum kit"], "decode": ["Mikrofon","Bühne","Schlagzeug"], "correct": 0},
+            {
+              "opts": [
+                "microphone",
+                "stage",
+                "drum kit"
+              ],
+              "decode": [
+                "Mikrofon",
+                "Bühne",
+                "Schlagzeug"
+              ],
+              "correct": 0,
+              "n": "microphone"
+            },
             "!"
           ],
           "solutionEn": "lead – rock – concert – stage – studio – gigs – drum kit – microphone",
           "solutionDe": "Ich bin der Leadgitarrist in einer Rockband. Wir spielen etwa ein Konzert pro Monat. Letzten Sommer sind wir bei einem Musikfestival auf einer Freiluftbühne aufgetreten. Wir proben einmal pro Woche in einem Aufnahmestudio. Gigs zu spielen macht großen Spaß, aber das schwere Equipment zu tragen ist harte Arbeit. Unser Schlagzeuger tut mir leid – er muss das Schlagzeug tragen. Unsere Sängerin hat Glück – sie muss nur ihr Mikrofon tragen!",
-          "explain": "lead guitarist = Hauptgitarrist; gig = Live-Auftritt; recording studio = Aufnahmestudio; outdoor stage = Bühne im Freien; drum kit = Schlagzeug."
+          "explain": "lead guitarist = Hauptgitarrist; gig = Live-Auftritt; recording studio = Aufnahmestudio; outdoor stage = Bühne im Freien; drum kit = Schlagzeug.",
+          "decodeFull": [
+            [
+              "I'm",
+              "Ich'bin"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "lead",
+              "Lead-"
+            ],
+            [
+              "guitarist",
+              "Gitarrist"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "rock",
+              "Rock-"
+            ],
+            [
+              "band.",
+              "band."
+            ],
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "play",
+              "spielen"
+            ],
+            [
+              "about",
+              "etwa"
+            ],
+            [
+              "one",
+              "ein"
+            ],
+            [
+              "concert",
+              "Konzert"
+            ],
+            [
+              "a",
+              "pro"
+            ],
+            [
+              "month.",
+              "Monat."
+            ],
+            [
+              "Last",
+              "Letzten"
+            ],
+            [
+              "summer,",
+              "Sommer,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "performed",
+              "traten auf"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "an",
+              "einer"
+            ],
+            [
+              "outdoor",
+              "Freiluft-"
+            ],
+            [
+              "stage",
+              "bühne"
+            ],
+            [
+              "at",
+              "bei"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "music",
+              "Musik-"
+            ],
+            [
+              "festival.",
+              "festival."
+            ],
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "practise",
+              "üben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "recording",
+              "Aufnahme-"
+            ],
+            [
+              "studio",
+              "studio"
+            ],
+            [
+              "once",
+              "einmal"
+            ],
+            [
+              "a",
+              "pro"
+            ],
+            [
+              "week.",
+              "Woche."
+            ],
+            [
+              "It's",
+              "Es'ist"
+            ],
+            [
+              "great",
+              "großer"
+            ],
+            [
+              "fun",
+              "Spaß"
+            ],
+            [
+              "doing",
+              "zu machen"
+            ],
+            [
+              "gigs,",
+              "Auftritte,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it's",
+              "es'ist"
+            ],
+            [
+              "hard",
+              "harte"
+            ],
+            [
+              "work",
+              "Arbeit"
+            ],
+            [
+              "carrying",
+              "zu tragen"
+            ],
+            [
+              "all",
+              "all"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "heavy",
+              "schwere"
+            ],
+            [
+              "equipment.",
+              "Ausrüstung."
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "feel",
+              "fühle"
+            ],
+            [
+              "sorry",
+              "Mitleid"
+            ],
+            [
+              "for",
+              "mit"
+            ],
+            [
+              "our",
+              "unserem"
+            ],
+            [
+              "drummer",
+              "Schlagzeuger"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "has",
+              "muss"
+            ],
+            [
+              "to carry",
+              "tragen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "drum",
+              "Schlagzeug-"
+            ],
+            [
+              "kit.",
+              "set."
+            ],
+            [
+              "Our",
+              "Unsere"
+            ],
+            [
+              "singer",
+              "Sängerin"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "lucky",
+              "glücklich"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "has",
+              "muss"
+            ],
+            [
+              "to carry",
+              "tragen"
+            ],
+            [
+              "her",
+              "ihr"
+            ],
+            [
+              "microphone!",
+              "Mikrofon!"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I'm",
+                  "Ich'bin"
+                ],
+                [
+                  "the",
+                  "der"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "guitarist",
+                  "Gitarrist"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "a",
+                  "einer"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "band.",
+                  "band."
+                ],
+                [
+                  "We",
+                  "Wir"
+                ],
+                [
+                  "play",
+                  "spielen"
+                ],
+                [
+                  "about",
+                  "etwa"
+                ],
+                [
+                  "one",
+                  "ein"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a",
+                  "pro"
+                ],
+                [
+                  "month.",
+                  "Monat."
+                ],
+                [
+                  "Last",
+                  "Letzten"
+                ],
+                [
+                  "summer,",
+                  "Sommer,"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "performed",
+                  "traten auf"
+                ],
+                [
+                  "on",
+                  "auf"
+                ],
+                [
+                  "an",
+                  "einer"
+                ],
+                [
+                  "outdoor",
+                  "Freiluft-"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "at",
+                  "bei"
+                ],
+                [
+                  "a",
+                  "einem"
+                ],
+                [
+                  "music",
+                  "Musik-"
+                ],
+                [
+                  "festival.",
+                  "festival."
+                ],
+                [
+                  "We",
+                  "Wir"
+                ],
+                [
+                  "practise",
+                  "üben"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "a",
+                  "einem"
+                ],
+                [
+                  "recording",
+                  "Aufnahme-"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "once",
+                  "einmal"
+                ],
+                [
+                  "a",
+                  "pro"
+                ],
+                [
+                  "week.",
+                  "Woche."
+                ],
+                [
+                  "It's",
+                  "Es'ist"
+                ],
+                [
+                  "great",
+                  "großer"
+                ],
+                [
+                  "fun",
+                  "Spaß"
+                ],
+                [
+                  "doing",
+                  "zu machen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "it's",
+                  "es'ist"
+                ],
+                [
+                  "hard",
+                  "harte"
+                ],
+                [
+                  "work",
+                  "Arbeit"
+                ],
+                [
+                  "carrying",
+                  "zu tragen"
+                ],
+                [
+                  "all",
+                  "all"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "heavy",
+                  "schwere"
+                ],
+                [
+                  "equipment.",
+                  "Ausrüstung."
+                ],
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "feel",
+                  "fühle"
+                ],
+                [
+                  "sorry",
+                  "Mitleid"
+                ],
+                [
+                  "for",
+                  "mit"
+                ],
+                [
+                  "our",
+                  "unserem"
+                ],
+                [
+                  "drummer",
+                  "Schlagzeuger"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "has",
+                  "muss"
+                ],
+                [
+                  "to carry",
+                  "tragen"
+                ],
+                [
+                  "the",
+                  "das"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Our",
+                  "Unsere"
+                ],
+                [
+                  "singer",
+                  "Sängerin"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "lucky",
+                  "glücklich"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "only",
+                  "nur"
+                ],
+                [
+                  "has",
+                  "muss"
+                ],
+                [
+                  "to carry",
+                  "tragen"
+                ],
+                [
+                  "her",
+                  "ihr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         }
       ]
     },
@@ -341,22 +3589,773 @@
         {
           "parts": [
             "Here are some photos from the rock festival which I went to last summer in Benicàssim. This is the bus ",
-            {"opts": ["which","who","where"], "decode": ["der/die/das (Sachen)","der/die (Personen)","wo (Orte)"], "correct": 0},
+            {
+              "opts": [
+                "which",
+                "who",
+                "where"
+              ],
+              "decode": [
+                "der/die/das (Sachen)",
+                "der/die (Personen)",
+                "wo (Orte)"
+              ],
+              "correct": 0,
+              "n": "which"
+            },
             " took us from the station to the festival site. Those are the girls ",
-            {"opts": ["whose","who","which"], "decode": ["deren (Besitz)","die (Personen)","die (Sachen)"], "correct": 1},
+            {
+              "opts": [
+                "whose",
+                "who",
+                "which"
+              ],
+              "decode": [
+                "deren (Besitz)",
+                "die (Personen)",
+                "die (Sachen)"
+              ],
+              "correct": 1,
+              "n": "who"
+            },
             " I went with – we're having lunch. That's the place ",
-            {"opts": ["when","where","which"], "decode": ["als/wenn (Zeit)","wo (Orte)","der/die/das (Sachen)"], "correct": 1},
+            {
+              "opts": [
+                "when",
+                "where",
+                "which"
+              ],
+              "decode": [
+                "als/wenn (Zeit)",
+                "wo (Orte)",
+                "der/die/das (Sachen)"
+              ],
+              "correct": 1,
+              "n": "where"
+            },
             " we ate. It wasn't always so quiet – we tried to go ",
-            {"opts": ["where","when","who"], "decode": ["wo (Orte)","als/wenn (Zeit)","der/die (Personen)"], "correct": 1},
+            {
+              "opts": [
+                "where",
+                "when",
+                "who"
+              ],
+              "decode": [
+                "wo (Orte)",
+                "als/wenn (Zeit)",
+                "der/die (Personen)"
+              ],
+              "correct": 1,
+              "n": "when"
+            },
             " it was less busy! This is the place ",
-            {"opts": ["when","whose","where"], "decode": ["als/wenn (Zeit)","deren (Besitz)","wo (Orte)"], "correct": 2},
+            {
+              "opts": [
+                "when",
+                "whose",
+                "where"
+              ],
+              "decode": [
+                "als/wenn (Zeit)",
+                "deren (Besitz)",
+                "wo (Orte)"
+              ],
+              "correct": 2,
+              "n": "where"
+            },
             " we slept. That's Laura inside – she's the girl ",
-            {"opts": ["who","whose","which"], "decode": ["die (Person)","deren (Besitz)","die (Sache)"], "correct": 1},
+            {
+              "opts": [
+                "who",
+                "whose",
+                "which"
+              ],
+              "decode": [
+                "die (Person)",
+                "deren (Besitz)",
+                "die (Sache)"
+              ],
+              "correct": 1,
+              "n": "whose"
+            },
             " tent it was."
           ],
           "solutionEn": "which – who – where – when – where – whose",
           "solutionDe": "which (Bus = Sache) – who (Mädchen = Personen) – where (Ort) – when (Zeit) – where (Ort) – whose (das Mädchen, DEREN Zelt es war)",
-          "explain": "who/that = Personen, which/that = Sachen, where = Orte, when = Zeitangaben, whose = Besitz. 'the girl whose tent it was' = das Mädchen, dem das Zelt gehörte."
+          "explain": "who/that = Personen, which/that = Sachen, where = Orte, when = Zeitangaben, whose = Besitz. 'the girl whose tent it was' = das Mädchen, dem das Zelt gehörte.",
+          "decodeFull": [
+            [
+              "Here",
+              "Hier"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "photos",
+              "Fotos"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "rock",
+              "Rock-"
+            ],
+            [
+              "festival",
+              "festival,"
+            ],
+            [
+              "which",
+              "zu dem"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "went",
+              "ging"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "last",
+              "letzten"
+            ],
+            [
+              "summer",
+              "Sommer"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Benicàssim.",
+              "Benicàssim."
+            ],
+            [
+              "This",
+              "Das"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "bus",
+              "Bus,"
+            ],
+            [
+              "which",
+              "der"
+            ],
+            [
+              "took",
+              "brachte"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "station",
+              "Bahnhof"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "festival",
+              "Festival-"
+            ],
+            [
+              "site.",
+              "gelände."
+            ],
+            [
+              "Those",
+              "Das"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "girls",
+              "Mädchen,"
+            ],
+            [
+              "who",
+              "mit denen"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "went",
+              "ging"
+            ],
+            [
+              "with",
+              "-"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "we're",
+              "wir'sind"
+            ],
+            [
+              "having",
+              "beim"
+            ],
+            [
+              "lunch.",
+              "Mittagessen."
+            ],
+            [
+              "That's",
+              "Das'ist"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "place",
+              "Ort,"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "ate.",
+              "aßen."
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "wasn't",
+              "war'nicht"
+            ],
+            [
+              "always",
+              "immer"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "quiet",
+              "ruhig"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "tried",
+              "versuchten"
+            ],
+            [
+              "to go",
+              "zu gehen"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "less",
+              "weniger"
+            ],
+            [
+              "busy!",
+              "voll!"
+            ],
+            [
+              "This",
+              "Das"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "place",
+              "Ort,"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "slept.",
+              "schliefen."
+            ],
+            [
+              "That's",
+              "Das'ist"
+            ],
+            [
+              "Laura",
+              "Laura"
+            ],
+            [
+              "inside",
+              "drinnen"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "she's",
+              "sie'ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "girl",
+              "Mädchen,"
+            ],
+            [
+              "whose",
+              "dessen"
+            ],
+            [
+              "tent",
+              "Zelt"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "was.",
+              "war."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Here",
+                  "Hier"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "some",
+                  "einige"
+                ],
+                [
+                  "photos",
+                  "Fotos"
+                ],
+                [
+                  "from",
+                  "von"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "rock",
+                  "Rock-"
+                ],
+                [
+                  "festival",
+                  "festival,"
+                ],
+                [
+                  "which",
+                  "zu dem"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "went",
+                  "ging"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "last",
+                  "letzten"
+                ],
+                [
+                  "summer",
+                  "Sommer"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "Benicàssim.",
+                  "Benicàssim."
+                ],
+                [
+                  "This",
+                  "Das"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "bus",
+                  "Bus,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "took",
+                  "brachte"
+                ],
+                [
+                  "us",
+                  "uns"
+                ],
+                [
+                  "from",
+                  "von"
+                ],
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "station",
+                  "Bahnhof"
+                ],
+                [
+                  "to",
+                  "zum"
+                ],
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "festival",
+                  "Festival-"
+                ],
+                [
+                  "site.",
+                  "gelände."
+                ],
+                [
+                  "Those",
+                  "Das"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "girls",
+                  "Mädchen,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "went",
+                  "ging"
+                ],
+                [
+                  "with",
+                  "-"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "we're",
+                  "wir'sind"
+                ],
+                [
+                  "having",
+                  "beim"
+                ],
+                [
+                  "lunch.",
+                  "Mittagessen."
+                ],
+                [
+                  "That's",
+                  "Das'ist"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "place",
+                  "Ort,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "ate.",
+                  "aßen."
+                ],
+                [
+                  "It",
+                  "Es"
+                ],
+                [
+                  "wasn't",
+                  "war'nicht"
+                ],
+                [
+                  "always",
+                  "immer"
+                ],
+                [
+                  "so",
+                  "so"
+                ],
+                [
+                  "quiet",
+                  "ruhig"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "tried",
+                  "versuchten"
+                ],
+                [
+                  "to go",
+                  "zu gehen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "less",
+                  "weniger"
+                ],
+                [
+                  "busy!",
+                  "voll!"
+                ],
+                [
+                  "This",
+                  "Das"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "place",
+                  "Ort,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "slept.",
+                  "schliefen."
+                ],
+                [
+                  "That's",
+                  "Das'ist"
+                ],
+                [
+                  "Laura",
+                  "Laura"
+                ],
+                [
+                  "inside",
+                  "drinnen"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "she's",
+                  "sie'ist"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "girl",
+                  "Mädchen,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "tent",
+                  "Zelt"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "was.",
+                  "war."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -370,42 +4369,474 @@
         {
           "parts": [
             "'Happy' is a song ",
-            {"opts": ["who","which","whose"], "decode": ["der/die (Personen)","das (Sachen)","dessen/deren"], "correct": 1},
+            {
+              "opts": [
+                "who",
+                "which",
+                "whose"
+              ],
+              "decode": [
+                "der/die (Personen)",
+                "das (Sachen)",
+                "dessen/deren"
+              ],
+              "correct": 1,
+              "n": "which"
+            },
             " almost everybody likes."
           ],
           "solutionEn": "which (oder: that)",
           "solutionDe": "das – „Happy“ ist ein Lied, das fast jeder mag.",
-          "explain": "Sachen → which/that. Da das Pronomen hier Objekt ist, könnte man es sogar ganz weglassen: 'Happy is a song almost everybody likes.'"
+          "explain": "Sachen → which/that. Da das Pronomen hier Objekt ist, könnte man es sogar ganz weglassen: 'Happy is a song almost everybody likes.'",
+          "decodeFull": [
+            [
+              "'Happy'",
+              "'Happy'"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "song",
+              "Lied,"
+            ],
+            [
+              "which",
+              "das"
+            ],
+            [
+              "almost",
+              "fast"
+            ],
+            [
+              "everybody",
+              "jeder"
+            ],
+            [
+              "likes.",
+              "mag."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "'Happy'",
+                  "'Happy'"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "song",
+                  "Lied,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "almost",
+                  "fast"
+                ],
+                [
+                  "everybody",
+                  "jeder"
+                ],
+                [
+                  "likes.",
+                  "mag."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I've got a neighbour ",
-            {"opts": ["who","which","whose"], "decode": ["der/die (Personen)","das (Sachen)","dessen/deren"], "correct": 0},
+            {
+              "opts": [
+                "who",
+                "which",
+                "whose"
+              ],
+              "decode": [
+                "der/die (Personen)",
+                "das (Sachen)",
+                "dessen/deren"
+              ],
+              "correct": 0,
+              "n": "who"
+            },
             " has just taken up the violin."
           ],
           "solutionEn": "who (oder: that)",
           "solutionDe": "der – Ich habe einen Nachbarn, der gerade mit der Geige angefangen hat.",
-          "explain": "Personen → who/that. Hier ist das Pronomen Subjekt des Relativsatzes und darf NICHT weggelassen werden."
+          "explain": "Personen → who/that. Hier ist das Pronomen Subjekt des Relativsatzes und darf NICHT weggelassen werden.",
+          "decodeFull": [
+            [
+              "I've",
+              "Ich'habe"
+            ],
+            [
+              "got",
+              "-"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "neighbour",
+              "Nachbarn,"
+            ],
+            [
+              "who",
+              "der"
+            ],
+            [
+              "has",
+              "-"
+            ],
+            [
+              "just",
+              "gerade"
+            ],
+            [
+              "taken up",
+              "angefangen hat mit"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "violin.",
+              "Geige."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I've",
+                  "Ich'habe"
+                ],
+                [
+                  "got",
+                  "-"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "neighbour",
+                  "Nachbarn,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "has",
+                  "-"
+                ],
+                [
+                  "just",
+                  "gerade"
+                ],
+                [
+                  "taken up",
+                  "angefangen hat mit"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "violin.",
+                  "Geige."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Mozart, ",
-            {"opts": ["that","who","whose"], "decode": ["der (nur defining!)","der (Personen)","dessen"], "correct": 1},
+            {
+              "opts": [
+                "that",
+                "who",
+                "whose"
+              ],
+              "decode": [
+                "der (nur defining!)",
+                "der (Personen)",
+                "dessen"
+              ],
+              "correct": 1,
+              "n": "who"
+            },
             " was born in Austria, was a great composer."
           ],
           "solutionEn": "who",
           "solutionDe": "der – Mozart, der in Österreich geboren wurde, war ein großartiger Komponist.",
-          "explain": "Non-defining relative clause (Zusatzinfo zwischen Kommas): Hier ist 'that' NICHT erlaubt – nur who (Personen) oder which (Sachen)."
+          "explain": "Non-defining relative clause (Zusatzinfo zwischen Kommas): Hier ist 'that' NICHT erlaubt – nur who (Personen) oder which (Sachen).",
+          "decodeFull": [
+            [
+              "Mozart,",
+              "Mozart,"
+            ],
+            [
+              "who",
+              "der"
+            ],
+            [
+              "was",
+              "-"
+            ],
+            [
+              "born",
+              "geboren wurde"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Austria,",
+              "Österreich,"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "great",
+              "großer"
+            ],
+            [
+              "composer.",
+              "Komponist."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Mozart,",
+                  "Mozart,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "was",
+                  "-"
+                ],
+                [
+                  "born",
+                  "geboren wurde"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "Austria,",
+                  "Österreich,"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "great",
+                  "großer"
+                ],
+                [
+                  "composer.",
+                  "Komponist."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Bob Marley, ",
-            {"opts": ["who's","whose","which"], "decode": ["who is (Kurzform!)","dessen (Besitz)","der/das (Sachen)"], "correct": 1},
+            {
+              "opts": [
+                "who's",
+                "whose",
+                "which"
+              ],
+              "decode": [
+                "who is (Kurzform!)",
+                "dessen (Besitz)",
+                "der/das (Sachen)"
+              ],
+              "correct": 1,
+              "n": "whose"
+            },
             " home was in Jamaica, was the most famous reggae singer."
           ],
           "solutionEn": "whose",
           "solutionDe": "dessen – Bob Marley, dessen Zuhause in Jamaika war, war der berühmteste Reggae-Sänger.",
-          "explain": "whose = dessen/deren (Besitz). Nicht verwechseln: who's = who is!"
+          "explain": "whose = dessen/deren (Besitz). Nicht verwechseln: who's = who is!",
+          "decodeFull": [
+            [
+              "Bob",
+              "Bob"
+            ],
+            [
+              "Marley,",
+              "Marley,"
+            ],
+            [
+              "whose",
+              "dessen"
+            ],
+            [
+              "home",
+              "Zuhause"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Jamaica,",
+              "Jamaika,"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "most",
+              "berühmteste"
+            ],
+            [
+              "famous",
+              "-"
+            ],
+            [
+              "reggae",
+              "Reggae-"
+            ],
+            [
+              "singer.",
+              "sänger."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Bob",
+                  "Bob"
+                ],
+                [
+                  "Marley,",
+                  "Marley,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "home",
+                  "Zuhause"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "in",
+                  "in"
+                ],
+                [
+                  "Jamaica,",
+                  "Jamaika,"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "most",
+                  "berühmteste"
+                ],
+                [
+                  "famous",
+                  "-"
+                ],
+                [
+                  "reggae",
+                  "Reggae-"
+                ],
+                [
+                  "singer.",
+                  "sänger."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -419,38 +4850,336 @@
         {
           "parts": [
             "American English: 'fall' → British English: ",
-            {"opts": ["spring","autumn","sunset"], "decode": ["Frühling","Herbst","Sonnenuntergang"], "correct": 1}
+            {
+              "opts": [
+                "spring",
+                "autumn",
+                "sunset"
+              ],
+              "decode": [
+                "Frühling",
+                "Herbst",
+                "Sonnenuntergang"
+              ],
+              "correct": 1,
+              "n": "autumn"
+            }
           ],
           "solutionEn": "autumn",
           "solutionDe": "Herbst",
-          "explain": "AE fall = BE autumn. Weitere Paare aus der Unit: movies–cinema, parking lot–car park, gas–petrol."
+          "explain": "AE fall = BE autumn. Weitere Paare aus der Unit: movies–cinema, parking lot–car park, gas–petrol.",
+          "decodeFull": [
+            [
+              "American",
+              "Amerikanisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "'fall'",
+              "'fall'"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "British",
+              "Britisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "autumn",
+              "Herbst"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "American",
+                  "Amerikanisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ],
+                [
+                  "'fall'",
+                  "'fall'"
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "British",
+                  "Britisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "American English: 'sneakers' → British English: ",
-            {"opts": ["trainers","slippers","wellies"], "decode": ["Turnschuhe","Hausschuhe","Gummistiefel"], "correct": 0}
+            {
+              "opts": [
+                "trainers",
+                "slippers",
+                "wellies"
+              ],
+              "decode": [
+                "Turnschuhe",
+                "Hausschuhe",
+                "Gummistiefel"
+              ],
+              "correct": 0,
+              "n": "trainer"
+            }
           ],
           "solutionEn": "trainers",
           "solutionDe": "Turnschuhe",
-          "explain": "AE sneakers = BE trainers. Auch wichtig: AE pants = BE trousers (Hose), AE sidewalk = BE pavement (Gehsteig)."
+          "explain": "AE sneakers = BE trainers. Auch wichtig: AE pants = BE trousers (Hose), AE sidewalk = BE pavement (Gehsteig).",
+          "decodeFull": [
+            [
+              "American",
+              "Amerikanisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "'sneakers'",
+              "'sneakers'"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "British",
+              "Britisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "trainers",
+              "Turnschuhe"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "American",
+                  "Amerikanisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ],
+                [
+                  "'sneakers'",
+                  "'sneakers'"
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "British",
+                  "Britisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "American English: 'cookie' → British English: ",
-            {"opts": ["muffin","toast","biscuit"], "decode": ["Muffin","Toast","Keks"], "correct": 2}
+            {
+              "opts": [
+                "muffin",
+                "toast",
+                "biscuit"
+              ],
+              "decode": [
+                "Muffin",
+                "Toast",
+                "Keks"
+              ],
+              "correct": 2,
+              "n": "biscuit"
+            }
           ],
           "solutionEn": "biscuit",
           "solutionDe": "Keks",
-          "explain": "AE cookie = BE biscuit. Auch: AE candy store = BE sweet shop, AE subway = BE underground."
+          "explain": "AE cookie = BE biscuit. Auch: AE candy store = BE sweet shop, AE subway = BE underground.",
+          "decodeFull": [
+            [
+              "American",
+              "Amerikanisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "'cookie'",
+              "'cookie'"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "British",
+              "Britisches"
+            ],
+            [
+              "English:",
+              "Englisch:"
+            ],
+            [
+              "biscuit",
+              "Keks"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "American",
+                  "Amerikanisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ],
+                [
+                  "'cookie'",
+                  "'cookie'"
+                ],
+                [
+                  "→",
+                  "→"
+                ],
+                [
+                  "British",
+                  "Britisches"
+                ],
+                [
+                  "English:",
+                  "Englisch:"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         },
         {
           "parts": [
             "Which spelling is British English? ",
-            {"opts": ["color","colour"], "decode": ["Farbe (amerikanische Schreibung)","Farbe (britische Schreibung)"], "correct": 1}
+            {
+              "opts": [
+                "color",
+                "colour"
+              ],
+              "decode": [
+                "Farbe (amerikanische Schreibung)",
+                "Farbe (britische Schreibung)"
+              ],
+              "correct": 1,
+              "n": "colour"
+            }
           ],
           "solutionEn": "colour",
           "solutionDe": "Farbe – britische Schreibweise mit -our",
-          "explain": "BE: colour, humour, centre, theatre, tyre, traveller – AE: color, humor, center, theater, tire, traveler."
+          "explain": "BE: colour, humour, centre, theatre, tyre, traveller – AE: color, humor, center, theater, tire, traveler.",
+          "decodeFull": [
+            [
+              "Which",
+              "Welche"
+            ],
+            [
+              "spelling",
+              "Schreibweise"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "British",
+              "Britisches"
+            ],
+            [
+              "English?",
+              "Englisch?"
+            ],
+            [
+              "colour",
+              "colour"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Which",
+                  "Welche"
+                ],
+                [
+                  "spelling",
+                  "Schreibweise"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "British",
+                  "Britisches"
+                ],
+                [
+                  "English?",
+                  "Englisch?"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            }
+          ]
         }
       ]
     },
@@ -464,28 +5193,1317 @@
         {
           "parts": [
             "",
-            {"opts": ["A song which I hate","One album that I really like","One concert I visited"], "decode": ["ein Lied, das ich hasse","ein Album, das ich wirklich mag","ein Konzert, das ich besucht habe"], "correct": 1},
+            {
+              "opts": [
+                "A song which I hate",
+                "One album that I really like",
+                "One concert I visited"
+              ],
+              "decode": [
+                "ein Lied, das ich hasse",
+                "ein Album, das ich wirklich mag",
+                "ein Konzert, das ich besucht habe"
+              ],
+              "correct": 1,
+              "n": "One album that I really like"
+            },
             " is 'Divide' by Ed Sheeran. It was ",
-            {"opts": ["published","performed","released"], "decode": ["veröffentlicht (Bücher)","aufgeführt","veröffentlicht (Musik/Alben)"], "correct": 2},
+            {
+              "opts": [
+                "published",
+                "performed",
+                "released"
+              ],
+              "decode": [
+                "veröffentlicht (Bücher)",
+                "aufgeführt",
+                "veröffentlicht (Musik/Alben)"
+              ],
+              "correct": 2,
+              "n": "release"
+            },
             " in 2017. The album mainly belongs to the ",
-            {"opts": ["folk","pop","classical"], "decode": ["Folk-","Pop-","Klassik-"], "correct": 1},
+            {
+              "opts": [
+                "folk",
+                "pop",
+                "classical"
+              ],
+              "decode": [
+                "Folk-",
+                "Pop-",
+                "Klassik-"
+              ],
+              "correct": 1,
+              "n": "pop"
+            },
             " genre, but it also includes some folk and acoustic elements. Ed Sheeran ",
-            {"opts": ["is known","knows","is knowing"], "decode": ["ist bekannt","weiß/kennt","(falsche Verbform)"], "correct": 0},
+            {
+              "opts": [
+                "is known",
+                "knows",
+                "is knowing"
+              ],
+              "decode": [
+                "ist bekannt",
+                "weiß/kennt",
+                "(falsche Verbform)"
+              ],
+              "correct": 0,
+              "n": "know"
+            },
             " for his expressive lyrics, catchy melodies, and clear vocals. Many of the songs are based on guitar music and have a strong beat and rhythm. My favourite ",
-            {"opts": ["listener on the album","track on the album","genre on the album"], "decode": ["Hörer auf dem Album","Titel/Song auf dem Album","Genre auf dem Album"], "correct": 1},
+            {
+              "opts": [
+                "listener on the album",
+                "track on the album",
+                "genre on the album"
+              ],
+              "decode": [
+                "Hörer auf dem Album",
+                "Titel/Song auf dem Album",
+                "Genre auf dem Album"
+              ],
+              "correct": 1,
+              "n": "track on the album"
+            },
             " is 'Perfect'. It is a romantic ballad with gentle instrumentals and emotional lyrics. Many ",
-            {"opts": ["singers","listeners","melodies"], "decode": ["Sänger","Hörer","Melodien"], "correct": 1},
+            {
+              "opts": [
+                "singers",
+                "listeners",
+                "melodies"
+              ],
+              "decode": [
+                "Sänger",
+                "Hörer",
+                "Melodien"
+              ],
+              "correct": 1,
+              "n": "listener"
+            },
             " enjoy this song because it is calm, melodic, and pleasant to listen to. I ",
-            {"opts": ["like this album","belong to this album","sound this album"], "decode": ["mag dieses Album","gehöre zu diesem Album","(ergibt keinen Sinn)"], "correct": 0},
+            {
+              "opts": [
+                "like this album",
+                "belong to this album",
+                "sound this album"
+              ],
+              "decode": [
+                "mag dieses Album",
+                "gehöre zu diesem Album",
+                "(ergibt keinen Sinn)"
+              ],
+              "correct": 0,
+              "n": "like this album"
+            },
             " because it offers a variety of musical styles and tempos. Some tracks are lively and rhythmic, like 'Shape of You', while ",
-            {"opts": ["other","others","each other"], "decode": ["andere (vor einem Nomen)","andere (allein stehend)","einander"], "correct": 1},
+            {
+              "opts": [
+                "other",
+                "others",
+                "each other"
+              ],
+              "decode": [
+                "andere (vor einem Nomen)",
+                "andere (allein stehend)",
+                "einander"
+              ],
+              "correct": 1,
+              "n": "other"
+            },
             " are slower and more emotional. The album has strong songwriting and an enjoyable sound. I would definitely ",
-            {"opts": ["release","record","recommend"], "decode": ["veröffentlichen","aufnehmen","empfehlen"], "correct": 2},
+            {
+              "opts": [
+                "release",
+                "record",
+                "recommend"
+              ],
+              "decode": [
+                "veröffentlichen",
+                "aufnehmen",
+                "empfehlen"
+              ],
+              "correct": 2,
+              "n": "recommend"
+            },
             " it to people who like modern pop music."
           ],
           "solutionEn": "One album that I really like – released – pop – is known – track on the album – listeners – like this album – others – recommend",
           "solutionDe": "Bausteine: Ein Album, das ich wirklich mag, ist … / Es wurde … veröffentlicht / gehört zum …-Genre / ist bekannt für … / Mein Lieblingstitel auf dem Album / viele Hörer / Ich mag dieses Album, weil … / andere (Songs) / Ich würde es … empfehlen.",
-          "explain": "Diese Review-Bausteine für die Schularbeit merken: 'One album that I really like is …', 'It was released in …', 'belongs to the … genre', 'is known for …', 'My favourite track', 'I would recommend it to people who …'. – 'others' steht allein (Pronomen), 'other' nur vor einem Nomen."
+          "explain": "Diese Review-Bausteine für die Schularbeit merken: 'One album that I really like is …', 'It was released in …', 'belongs to the … genre', 'is known for …', 'My favourite track', 'I would recommend it to people who …'. – 'others' steht allein (Pronomen), 'other' nur vor einem Nomen.",
+          "decodeFull": [
+            [
+              "One",
+              "Ein"
+            ],
+            [
+              "album",
+              "Album,"
+            ],
+            [
+              "that",
+              "das"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "like",
+              "mag,"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "'Divide'",
+              "'Divide'"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Ed",
+              "Ed"
+            ],
+            [
+              "Sheeran.",
+              "Sheeran."
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "released",
+              "veröffentlicht"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "2017.",
+              "Jahr 2017."
+            ],
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "mainly",
+              "hauptsächlich"
+            ],
+            [
+              "belongs",
+              "gehört"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "pop",
+              "Pop-"
+            ],
+            [
+              "genre,",
+              "Genre,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "includes",
+              "enthält"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "folk",
+              "Folk-"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "acoustic",
+              "akustische"
+            ],
+            [
+              "elements.",
+              "Elemente."
+            ],
+            [
+              "Ed",
+              "Ed"
+            ],
+            [
+              "Sheeran",
+              "Sheeran"
+            ],
+            [
+              "is known",
+              "ist bekannt"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "expressive",
+              "ausdrucksstarken"
+            ],
+            [
+              "lyrics,",
+              "Texte,"
+            ],
+            [
+              "catchy",
+              "eingängigen"
+            ],
+            [
+              "melodies,",
+              "Melodien"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "clear",
+              "klaren"
+            ],
+            [
+              "vocals.",
+              "Gesang."
+            ],
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "of",
+              "der"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "songs",
+              "Lieder"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "based",
+              "basiert"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "guitar",
+              "Gitarren-"
+            ],
+            [
+              "music",
+              "musik"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "strong",
+              "starken"
+            ],
+            [
+              "beat",
+              "Beat"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "rhythm.",
+              "Rhythmus."
+            ],
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "favourite",
+              "Lieblings-"
+            ],
+            [
+              "track",
+              "stück"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "'Perfect'.",
+              "'Perfect'."
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "romantic",
+              "romantische"
+            ],
+            [
+              "ballad",
+              "Ballade"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "gentle",
+              "sanften"
+            ],
+            [
+              "instrumentals",
+              "Instrumentalteilen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "emotional",
+              "emotionalen"
+            ],
+            [
+              "lyrics.",
+              "Texten."
+            ],
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "listeners",
+              "Hörer"
+            ],
+            [
+              "enjoy",
+              "genießen"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "song",
+              "Lied,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "calm,",
+              "ruhig,"
+            ],
+            [
+              "melodic,",
+              "melodisch"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "pleasant",
+              "angenehm"
+            ],
+            [
+              "to listen",
+              "zu hören"
+            ],
+            [
+              "to.",
+              "-"
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "album",
+              "Album,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "offers",
+              "bietet"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "variety",
+              "Vielfalt"
+            ],
+            [
+              "of",
+              "an"
+            ],
+            [
+              "musical",
+              "musikalischen"
+            ],
+            [
+              "styles",
+              "Stilen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "tempos.",
+              "Tempi."
+            ],
+            [
+              "Some",
+              "Einige"
+            ],
+            [
+              "tracks",
+              "Stücke"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "lively",
+              "lebhaft"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "rhythmic,",
+              "rhythmisch,"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "'Shape",
+              "'Shape"
+            ],
+            [
+              "of",
+              "of"
+            ],
+            [
+              "You',",
+              "You',"
+            ],
+            [
+              "while",
+              "während"
+            ],
+            [
+              "others",
+              "andere"
+            ],
+            [
+              "are",
+              "-"
+            ],
+            [
+              "slower",
+              "langsamer"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "more",
+              "-"
+            ],
+            [
+              "emotional.",
+              "emotionaler sind."
+            ],
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "strong",
+              "starkes"
+            ],
+            [
+              "songwriting",
+              "Songwriting"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "enjoyable",
+              "angenehmen"
+            ],
+            [
+              "sound.",
+              "Klang."
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "definitely",
+              "definitiv"
+            ],
+            [
+              "recommend",
+              "empfehlen"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "people",
+              "Menschen,"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "like",
+              "mögen."
+            ],
+            [
+              "modern",
+              "moderne"
+            ],
+            [
+              "pop",
+              "Pop-"
+            ],
+            [
+              "music.",
+              "musik"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "'Divide'",
+                  "'Divide'"
+                ],
+                [
+                  "by",
+                  "von"
+                ],
+                [
+                  "Ed",
+                  "Ed"
+                ],
+                [
+                  "Sheeran.",
+                  "Sheeran."
+                ],
+                [
+                  "It",
+                  "Es"
+                ],
+                [
+                  "was",
+                  "wurde"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "in",
+                  "im"
+                ],
+                [
+                  "2017.",
+                  "Jahr 2017."
+                ],
+                [
+                  "The",
+                  "Das"
+                ],
+                [
+                  "album",
+                  "Album"
+                ],
+                [
+                  "mainly",
+                  "hauptsächlich"
+                ],
+                [
+                  "belongs",
+                  "gehört"
+                ],
+                [
+                  "to",
+                  "zum"
+                ],
+                [
+                  "the",
+                  "-"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "genre,",
+                  "Genre,"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "also",
+                  "auch"
+                ],
+                [
+                  "includes",
+                  "enthält"
+                ],
+                [
+                  "some",
+                  "einige"
+                ],
+                [
+                  "folk",
+                  "Folk-"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "acoustic",
+                  "akustische"
+                ],
+                [
+                  "elements.",
+                  "Elemente."
+                ],
+                [
+                  "Ed",
+                  "Ed"
+                ],
+                [
+                  "Sheeran",
+                  "Sheeran"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "for",
+                  "für"
+                ],
+                [
+                  "his",
+                  "seine"
+                ],
+                [
+                  "expressive",
+                  "ausdrucksstarken"
+                ],
+                [
+                  "lyrics,",
+                  "Texte,"
+                ],
+                [
+                  "catchy",
+                  "eingängigen"
+                ],
+                [
+                  "melodies,",
+                  "Melodien"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "clear",
+                  "klaren"
+                ],
+                [
+                  "vocals.",
+                  "Gesang."
+                ],
+                [
+                  "Many",
+                  "Viele"
+                ],
+                [
+                  "of",
+                  "der"
+                ],
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "songs",
+                  "Lieder"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "based",
+                  "basiert"
+                ],
+                [
+                  "on",
+                  "auf"
+                ],
+                [
+                  "guitar",
+                  "Gitarren-"
+                ],
+                [
+                  "music",
+                  "musik"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "have",
+                  "haben"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "strong",
+                  "starken"
+                ],
+                [
+                  "beat",
+                  "Beat"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "rhythm.",
+                  "Rhythmus."
+                ],
+                [
+                  "My",
+                  "Mein"
+                ],
+                [
+                  "favourite",
+                  "Lieblings-"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "'Perfect'.",
+                  "'Perfect'."
+                ],
+                [
+                  "It",
+                  "Es"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "romantic",
+                  "romantische"
+                ],
+                [
+                  "ballad",
+                  "Ballade"
+                ],
+                [
+                  "with",
+                  "mit"
+                ],
+                [
+                  "gentle",
+                  "sanften"
+                ],
+                [
+                  "instrumentals",
+                  "Instrumentalteilen"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "emotional",
+                  "emotionalen"
+                ],
+                [
+                  "lyrics.",
+                  "Texten."
+                ],
+                [
+                  "Many",
+                  "Viele"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "enjoy",
+                  "genießen"
+                ],
+                [
+                  "this",
+                  "dieses"
+                ],
+                [
+                  "song",
+                  "Lied,"
+                ],
+                [
+                  "because",
+                  "weil"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "calm,",
+                  "ruhig,"
+                ],
+                [
+                  "melodic,",
+                  "melodisch"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "pleasant",
+                  "angenehm"
+                ],
+                [
+                  "to listen",
+                  "zu hören"
+                ],
+                [
+                  "to.",
+                  "-"
+                ],
+                [
+                  "I",
+                  "Ich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "because",
+                  "weil"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "offers",
+                  "bietet"
+                ],
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "variety",
+                  "Vielfalt"
+                ],
+                [
+                  "of",
+                  "an"
+                ],
+                [
+                  "musical",
+                  "musikalischen"
+                ],
+                [
+                  "styles",
+                  "Stilen"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "tempos.",
+                  "Tempi."
+                ],
+                [
+                  "Some",
+                  "Einige"
+                ],
+                [
+                  "tracks",
+                  "Stücke"
+                ],
+                [
+                  "are",
+                  "sind"
+                ],
+                [
+                  "lively",
+                  "lebhaft"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "rhythmic,",
+                  "rhythmisch,"
+                ],
+                [
+                  "like",
+                  "wie"
+                ],
+                [
+                  "'Shape",
+                  "'Shape"
+                ],
+                [
+                  "of",
+                  "of"
+                ],
+                [
+                  "You',",
+                  "You',"
+                ],
+                [
+                  "while",
+                  "während"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "are",
+                  "-"
+                ],
+                [
+                  "slower",
+                  "langsamer"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "more",
+                  "-"
+                ],
+                [
+                  "emotional.",
+                  "emotionaler sind."
+                ],
+                [
+                  "The",
+                  "Das"
+                ],
+                [
+                  "album",
+                  "Album"
+                ],
+                [
+                  "has",
+                  "hat"
+                ],
+                [
+                  "strong",
+                  "starkes"
+                ],
+                [
+                  "songwriting",
+                  "Songwriting"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "an",
+                  "einen"
+                ],
+                [
+                  "enjoyable",
+                  "angenehmen"
+                ],
+                [
+                  "sound.",
+                  "Klang."
+                ],
+                [
+                  "I",
+                  "Ich"
+                ],
+                [
+                  "would",
+                  "würde"
+                ],
+                [
+                  "definitely",
+                  "definitiv"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "people",
+                  "Menschen,"
+                ],
+                [
+                  "who",
+                  "die"
+                ],
+                [
+                  "like",
+                  "mögen."
+                ],
+                [
+                  "modern",
+                  "moderne"
+                ],
+                [
+                  "pop",
+                  "Pop-"
+                ],
+                [
+                  "music.",
+                  "musik"
+                ]
+              ]
+            }
+          ]
         }
       ]
     }

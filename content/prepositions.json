@@ -11,61 +11,379 @@
         {
           "id": "prep_t1_s01",
           "en": "It's so noisy – I can't concentrate on my homework.",
-          "decode": [["It's","es-ist"],["so","so"],["noisy –","laut –"],["I","ich"],["can't","kann-nicht"],["concentrate","konzentrieren"],["on","auf"],["my","meine"],["homework.","Hausübung."]],
+          "decode": [
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "noisy –",
+              "laut –"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can't",
+              "kann-nicht"
+            ],
+            [
+              "concentrate",
+              "konzentrieren"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "homework.",
+              "Hausübung."
+            ]
+          ],
           "de": "Es ist so laut – ich kann mich nicht auf meine Hausübung konzentrieren. (concentrate ON)"
         },
         {
           "id": "prep_t1_s02",
           "en": "Don't worry – I'll pay for the tickets.",
-          "decode": [["Don't worry –","keine-Sorge –"],["I'll","ich-werde"],["pay","zahlen"],["for","für"],["the","die"],["tickets.","Karten."]],
+          "decode": [
+            [
+              "Don't worry –",
+              "keine-Sorge –"
+            ],
+            [
+              "I'll",
+              "ich-werde"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "tickets.",
+              "Karten."
+            ]
+          ],
           "de": "Keine Sorge – ich zahle für die Karten. (pay FOR)"
         },
         {
           "id": "prep_t1_s03",
           "en": "The car belongs to my father.",
-          "decode": [["The","das"],["car","Auto"],["belongs","gehört"],["to","zu"],["my","meinem"],["father.","Vater."]],
+          "decode": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "belongs",
+              "gehört"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "father.",
+              "Vater."
+            ]
+          ],
           "de": "Das Auto gehört meinem Vater. (belong TO)"
         },
         {
           "id": "prep_t1_s04",
           "en": "I borrowed a pen from my classmate.",
-          "decode": [["I","ich"],["borrowed","borgte"],["a","einen"],["pen","Stift"],["from","von"],["my","meinem"],["classmate.","Mitschüler."]],
+          "decode": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "borrowed",
+              "borgte"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "pen",
+              "Stift"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "classmate.",
+              "Mitschüler."
+            ]
+          ],
           "de": "Ich habe mir von meinem Mitschüler einen Stift ausgeborgt. (borrow FROM)"
         },
         {
           "id": "prep_t1_s05",
           "en": "I've been waiting for the bus for more than twenty minutes!",
-          "decode": [["I've been waiting","ich-warte-schon"],["for","auf"],["the","den"],["bus","Bus"],["for","seit"],["more than","mehr-als"],["twenty","zwanzig"],["minutes!","Minuten!"]],
+          "decode": [
+            [
+              "I've been waiting",
+              "ich-warte-schon"
+            ],
+            [
+              "for",
+              "auf"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus",
+              "Bus"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "more than",
+              "mehr-als"
+            ],
+            [
+              "twenty",
+              "zwanzig"
+            ],
+            [
+              "minutes!",
+              "Minuten!"
+            ]
+          ],
           "de": "Ich warte schon seit mehr als zwanzig Minuten auf den Bus! (wait FOR – nicht „wait on“!)"
         },
         {
           "id": "prep_t1_s06",
           "en": "It depends on John – we'll eat when he gets home.",
-          "decode": [["It","es"],["depends","hängt-ab"],["on","von"],["John –","John –"],["we'll","wir-werden"],["eat","essen"],["when","wenn"],["he","er"],["gets","kommt"],["home.","nach-Hause."]],
+          "decode": [
+            [
+              "It",
+              "es"
+            ],
+            [
+              "depends",
+              "hängt-ab"
+            ],
+            [
+              "on",
+              "von"
+            ],
+            [
+              "John –",
+              "John –"
+            ],
+            [
+              "we'll",
+              "wir-werden"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "gets",
+              "kommt"
+            ],
+            [
+              "home.",
+              "nach-Hause."
+            ]
+          ],
           "de": "Es hängt von John ab – wir essen, wenn er nach Hause kommt. (depend ON – nicht „depend from“!)"
         },
         {
           "id": "prep_t1_s07",
           "en": "When we arrived at the cinema, the film had already started.",
-          "decode": [["When","als"],["we","wir"],["arrived","ankamen"],["at","bei"],["the","dem"],["cinema,","Kino,"],["the","der"],["film","Film"],["had","hatte"],["already","schon"],["started.","begonnen."]],
+          "decode": [
+            [
+              "When",
+              "als"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "arrived",
+              "ankamen"
+            ],
+            [
+              "at",
+              "bei"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "cinema,",
+              "Kino,"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "film",
+              "Film"
+            ],
+            [
+              "had",
+              "hatte"
+            ],
+            [
+              "already",
+              "schon"
+            ],
+            [
+              "started.",
+              "begonnen."
+            ]
+          ],
           "de": "Als wir beim Kino ankamen, hatte der Film schon begonnen. (arrive AT + Gebäude/Ort)"
         },
         {
           "id": "prep_t1_s08",
           "en": "Please explain this problem to us.",
-          "decode": [["Please","bitte"],["explain","erkläre"],["this","dieses"],["problem","Problem"],["to us.","uns."]],
+          "decode": [
+            [
+              "Please",
+              "bitte"
+            ],
+            [
+              "explain",
+              "erkläre"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "problem",
+              "Problem"
+            ],
+            [
+              "to us.",
+              "uns."
+            ]
+          ],
           "de": "Bitte erkläre uns dieses Problem. (explain something TO somebody)"
         },
         {
           "id": "prep_t1_s09",
           "en": "She was listening to the radio when the doorbell rang.",
-          "decode": [["She","sie"],["was listening","hörte-gerade"],["to","zu"],["the","dem"],["radio","Radio"],["when","als"],["the","die"],["doorbell","Türklingel"],["rang.","läutete."]],
+          "decode": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "was listening",
+              "hörte-gerade"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "radio",
+              "Radio"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "doorbell",
+              "Türklingel"
+            ],
+            [
+              "rang.",
+              "läutete."
+            ]
+          ],
           "de": "Sie hörte gerade Radio, als es an der Tür läutete. (listen TO)"
         },
         {
           "id": "prep_t1_s10",
           "en": "John worries about his exam results all the time.",
-          "decode": [["John","John"],["worries","macht-sich-Sorgen"],["about","um"],["his","seine"],["exam results","Prüfungsergebnisse"],["all the time.","die-ganze-Zeit."]],
+          "decode": [
+            [
+              "John",
+              "John"
+            ],
+            [
+              "worries",
+              "macht-sich-Sorgen"
+            ],
+            [
+              "about",
+              "um"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "exam results",
+              "Prüfungsergebnisse"
+            ],
+            [
+              "all the time.",
+              "die-ganze-Zeit."
+            ]
+          ],
           "de": "John macht sich ständig Sorgen um seine Prüfungsergebnisse. (worry ABOUT)"
         }
       ]
@@ -77,13 +395,71 @@
         {
           "id": "prep_t2_s01",
           "en": "When will we arrive in Beijing?",
-          "decode": [["When","wann"],["will","werden"],["we","wir"],["arrive","ankommen"],["in","in"],["Beijing?","Peking?"]],
+          "decode": [
+            [
+              "When",
+              "wann"
+            ],
+            [
+              "will",
+              "werden"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "arrive",
+              "ankommen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Beijing?",
+              "Peking?"
+            ]
+          ],
           "de": "Wann kommen wir in Peking an? (arrive IN + Stadt/Land, arrive AT + Gebäude/Ort)"
         },
         {
           "id": "prep_t2_s02",
           "en": "They arrived in Bombay at 8:00 p.m. on July 30.",
-          "decode": [["They","sie"],["arrived","kamen-an"],["in","in"],["Bombay","Bombay"],["at","um"],["8:00 p.m.","20:00-Uhr"],["on","am"],["July 30.","30.-Juli."]],
+          "decode": [
+            [
+              "They",
+              "sie"
+            ],
+            [
+              "arrived",
+              "kamen-an"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Bombay",
+              "Bombay"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "8:00 p.m.",
+              "20:00-Uhr"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "July 30.",
+              "30.-Juli."
+            ]
+          ],
           "de": "Sie kamen am 30. Juli um 20:00 Uhr in Bombay an. (in + Stadt, at + Uhrzeit, on + Datum)"
         }
       ]
@@ -100,102 +476,1186 @@
         {
           "parts": [
             "It's so noisy – I can't concentrate ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " my homework."
           ],
           "solutionEn": "It's so noisy – I can't concentrate on my homework.",
           "solutionDe": "Es ist so laut – ich kann mich nicht auf meine Hausübung konzentrieren.",
-          "explain": "concentrate ON = sich konzentrieren auf. Niemals „concentrate at/in“."
+          "explain": "concentrate ON = sich konzentrieren auf. Niemals „concentrate at/in“.",
+          "decodeFull": [
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "noisy",
+              "laut"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can't",
+              "kann-nicht"
+            ],
+            [
+              "concentrate",
+              "mich-konzentrieren"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "homework.",
+              "Hausaufgaben."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "It's",
+                  "es-ist"
+                ],
+                [
+                  "so",
+                  "so"
+                ],
+                [
+                  "noisy",
+                  "laut"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "can't",
+                  "kann-nicht"
+                ],
+                [
+                  "concentrate",
+                  "mich-konzentrieren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meine"
+                ],
+                [
+                  "homework.",
+                  "Hausaufgaben."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Don't worry – I'll pay ",
-            {"opts": ["to","about","for"], "decode": ["zu","über","für"], "correct": 2},
+            {
+              "opts": [
+                "to",
+                "about",
+                "for"
+              ],
+              "decode": [
+                "zu",
+                "über",
+                "für"
+              ],
+              "correct": 2,
+              "n": "for"
+            },
             " the tickets."
           ],
           "solutionEn": "Don't worry – I'll pay for the tickets.",
           "solutionDe": "Keine Sorge – ich zahle für die Karten.",
-          "explain": "pay FOR something = für etwas (be)zahlen."
+          "explain": "pay FOR something = für etwas (be)zahlen.",
+          "decodeFull": [
+            [
+              "Don't",
+              "nicht"
+            ],
+            [
+              "worry",
+              "sorge-dich"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "I'll",
+              "ich-werde"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "tickets.",
+              "Tickets."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Don't",
+                  "nicht"
+                ],
+                [
+                  "worry",
+                  "sorge-dich"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "I'll",
+                  "ich-werde"
+                ],
+                [
+                  "pay",
+                  "zahlen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "tickets.",
+                  "Tickets."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The car belongs ",
-            {"opts": ["of","to","with"], "decode": ["von","zu","mit"], "correct": 1},
+            {
+              "opts": [
+                "of",
+                "to",
+                "with"
+              ],
+              "decode": [
+                "von",
+                "zu",
+                "mit"
+              ],
+              "correct": 1,
+              "n": "to"
+            },
             " my father, so I don't think we can use it."
           ],
           "solutionEn": "The car belongs to my father, so I don't think we can use it.",
           "solutionDe": "Das Auto gehört meinem Vater, also können wir es wohl nicht benutzen.",
-          "explain": "belong TO somebody = jemandem gehören."
+          "explain": "belong TO somebody = jemandem gehören.",
+          "decodeFull": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "belongs",
+              "gehört"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "father,",
+              "Vater,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "nicht"
+            ],
+            [
+              "think",
+              "glaube"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "use",
+              "benutzen"
+            ],
+            [
+              "it.",
+              "es."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "das"
+                ],
+                [
+                  "car",
+                  "Auto"
+                ],
+                [
+                  "belongs",
+                  "gehört"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meinem"
+                ],
+                [
+                  "father,",
+                  "Vater,"
+                ],
+                [
+                  "so",
+                  "also"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "don't",
+                  "nicht"
+                ],
+                [
+                  "think",
+                  "glaube"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "can",
+                  "können"
+                ],
+                [
+                  "use",
+                  "benutzen"
+                ],
+                [
+                  "it.",
+                  "es."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I borrowed a pen ",
-            {"opts": ["to","of","from"], "decode": ["zu","von","von"], "correct": 2},
+            {
+              "opts": [
+                "to",
+                "of",
+                "from"
+              ],
+              "decode": [
+                "zu",
+                "von",
+                "von"
+              ],
+              "correct": 2,
+              "n": "from"
+            },
             " my classmate."
           ],
           "solutionEn": "I borrowed a pen from my classmate.",
           "solutionDe": "Ich habe mir von meinem Mitschüler einen Stift ausgeborgt.",
-          "explain": "borrow FROM somebody = sich von jemandem ausborgen. (lend to = jemandem borgen)"
+          "explain": "borrow FROM somebody = sich von jemandem ausborgen. (lend to = jemandem borgen)",
+          "decodeFull": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "borrowed",
+              "lieh"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "pen",
+              "Stift"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "classmate.",
+              "Klassenkameraden."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "borrowed",
+                  "lieh"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "pen",
+                  "Stift"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meinem"
+                ],
+                [
+                  "classmate.",
+                  "Klassenkameraden."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I've been waiting ",
-            {"opts": ["on","for","to"], "decode": ["auf", "auf", "zu"], "correct": 1},
+            {
+              "opts": [
+                "on",
+                "for",
+                "to"
+              ],
+              "decode": [
+                "auf",
+                "auf",
+                "zu"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             " the bus for more than twenty minutes!"
           ],
           "solutionEn": "I've been waiting for the bus for more than twenty minutes!",
           "solutionDe": "Ich warte schon seit mehr als zwanzig Minuten auf den Bus!",
-          "explain": "wait FOR = warten auf. Das deutsche „auf“ verleitet zu „wait on“ – falsch!"
+          "explain": "wait FOR = warten auf. Das deutsche „auf“ verleitet zu „wait on“ – falsch!",
+          "decodeFull": [
+            [
+              "I've",
+              "ich-bin"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "waiting",
+              "wartend"
+            ],
+            [
+              "for",
+              "auf"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus",
+              "Bus"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "twenty",
+              "zwanzig"
+            ],
+            [
+              "minutes!",
+              "Minuten!"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I've",
+                  "ich-bin"
+                ],
+                [
+                  "been",
+                  "gewesen"
+                ],
+                [
+                  "waiting",
+                  "wartend"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "bus",
+                  "Bus"
+                ],
+                [
+                  "for",
+                  "seit"
+                ],
+                [
+                  "more",
+                  "mehr"
+                ],
+                [
+                  "than",
+                  "als"
+                ],
+                [
+                  "twenty",
+                  "zwanzig"
+                ],
+                [
+                  "minutes!",
+                  "Minuten!"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "What time shall we eat dinner? – It depends ",
-            {"opts": ["on","of","from"], "decode": ["von", "von", "von"], "correct": 0},
+            {
+              "opts": [
+                "on",
+                "of",
+                "from"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "von"
+              ],
+              "correct": 0,
+              "n": "on"
+            },
             " John: we'll eat when he gets home."
           ],
           "solutionEn": "It depends on John – we'll eat when he gets home.",
           "solutionDe": "Es hängt von John ab – wir essen, wenn er nach Hause kommt.",
-          "explain": "depend ON = abhängen von. Das deutsche „von“ verleitet zu „depend from/of“ – beides falsch!"
+          "explain": "depend ON = abhängen von. Das deutsche „von“ verleitet zu „depend from/of“ – beides falsch!",
+          "decodeFull": [
+            [
+              "What",
+              "welche"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "shall",
+              "sollen"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "dinner?",
+              "Abendessen?"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "It",
+              "es"
+            ],
+            [
+              "depends",
+              "hängt-ab"
+            ],
+            [
+              "on",
+              "von"
+            ],
+            [
+              "John:",
+              "John:"
+            ],
+            [
+              "we'll",
+              "wir-werden"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "gets",
+              "kommt"
+            ],
+            [
+              "home.",
+              "nach-Hause."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "welche"
+                ],
+                [
+                  "time",
+                  "Zeit"
+                ],
+                [
+                  "shall",
+                  "sollen"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "eat",
+                  "essen"
+                ],
+                [
+                  "dinner?",
+                  "Abendessen?"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "It",
+                  "es"
+                ],
+                [
+                  "depends",
+                  "hängt-ab"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "John:",
+                  "John:"
+                ],
+                [
+                  "we'll",
+                  "wir-werden"
+                ],
+                [
+                  "eat",
+                  "essen"
+                ],
+                [
+                  "when",
+                  "wenn"
+                ],
+                [
+                  "he",
+                  "er"
+                ],
+                [
+                  "gets",
+                  "kommt"
+                ],
+                [
+                  "home.",
+                  "nach-Hause."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "When we arrived ",
-            {"opts": ["in","at","to"], "decode": ["in","bei","zu"], "correct": 1},
+            {
+              "opts": [
+                "in",
+                "at",
+                "to"
+              ],
+              "decode": [
+                "in",
+                "bei",
+                "zu"
+              ],
+              "correct": 1,
+              "n": "at"
+            },
             " the cinema, the film had already started."
           ],
           "solutionEn": "When we arrived at the cinema, the film had already started.",
           "solutionDe": "Als wir beim Kino ankamen, hatte der Film schon begonnen.",
-          "explain": "arrive AT + Gebäude/Ort (cinema, station, airport); arrive IN + Stadt/Land. Niemals „arrive to“!"
+          "explain": "arrive AT + Gebäude/Ort (cinema, station, airport); arrive IN + Stadt/Land. Niemals „arrive to“!",
+          "decodeFull": [
+            [
+              "When",
+              "als"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "arrived",
+              "ankamen"
+            ],
+            [
+              "at",
+              "an"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "cinema,",
+              "Kino,"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "film",
+              "Film"
+            ],
+            [
+              "had",
+              "hatte"
+            ],
+            [
+              "already",
+              "schon"
+            ],
+            [
+              "started.",
+              "begonnen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "When",
+                  "als"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "arrived",
+                  "ankamen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "cinema,",
+                  "Kino,"
+                ],
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "film",
+                  "Film"
+                ],
+                [
+                  "had",
+                  "hatte"
+                ],
+                [
+                  "already",
+                  "schon"
+                ],
+                [
+                  "started.",
+                  "begonnen."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Please explain this problem ",
-            {"opts": ["for","to","at"], "decode": ["für","zu","bei"], "correct": 1},
+            {
+              "opts": [
+                "for",
+                "to",
+                "at"
+              ],
+              "decode": [
+                "für",
+                "zu",
+                "bei"
+              ],
+              "correct": 1,
+              "n": "to"
+            },
             " us."
           ],
           "solutionEn": "Please explain this problem to us.",
           "solutionDe": "Bitte erkläre uns dieses Problem.",
-          "explain": "explain something TO somebody = jemandem etwas erklären."
+          "explain": "explain something TO somebody = jemandem etwas erklären.",
+          "decodeFull": [
+            [
+              "Please",
+              "bitte"
+            ],
+            [
+              "explain",
+              "erkläre"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "problem",
+              "Problem"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "us.",
+              "uns."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Please",
+                  "bitte"
+                ],
+                [
+                  "explain",
+                  "erkläre"
+                ],
+                [
+                  "this",
+                  "dieses"
+                ],
+                [
+                  "problem",
+                  "Problem"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "us.",
+                  "uns."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She was listening ",
-            {"opts": ["at","to","on"], "decode": ["bei","zu","auf"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "to",
+                "on"
+              ],
+              "decode": [
+                "bei",
+                "zu",
+                "auf"
+              ],
+              "correct": 1,
+              "n": "to"
+            },
             " the radio when the doorbell rang."
           ],
           "solutionEn": "She was listening to the radio when the doorbell rang.",
           "solutionDe": "Sie hörte gerade Radio, als es an der Tür läutete.",
-          "explain": "listen TO = zuhören / anhören. Im Deutschen ohne Präposition („Radio hören“) – im Englischen immer mit to!"
+          "explain": "listen TO = zuhören / anhören. Im Deutschen ohne Präposition („Radio hören“) – im Englischen immer mit to!",
+          "decodeFull": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "listening",
+              "hörend"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "radio",
+              "Radio"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "doorbell",
+              "Türklingel"
+            ],
+            [
+              "rang.",
+              "läutete."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "sie"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "listening",
+                  "hörend"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "radio",
+                  "Radio"
+                ],
+                [
+                  "when",
+                  "als"
+                ],
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "doorbell",
+                  "Türklingel"
+                ],
+                [
+                  "rang.",
+                  "läutete."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "John worries ",
-            {"opts": ["of","on","about"], "decode": ["von","auf","um"], "correct": 2},
+            {
+              "opts": [
+                "of",
+                "on",
+                "about"
+              ],
+              "decode": [
+                "von",
+                "auf",
+                "um"
+              ],
+              "correct": 2,
+              "n": "about"
+            },
             " his exam results all the time."
           ],
           "solutionEn": "John worries about his exam results all the time.",
           "solutionDe": "John macht sich ständig Sorgen um seine Prüfungsergebnisse.",
-          "explain": "worry ABOUT = sich Sorgen machen um/über."
+          "explain": "worry ABOUT = sich Sorgen machen um/über.",
+          "decodeFull": [
+            [
+              "John",
+              "John"
+            ],
+            [
+              "worries",
+              "sorgt-sich"
+            ],
+            [
+              "about",
+              "um"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "exam",
+              "Prüfungs-"
+            ],
+            [
+              "results",
+              "ergebnisse"
+            ],
+            [
+              "all",
+              "die-ganze"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "time.",
+              "Zeit."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "John",
+                  "John"
+                ],
+                [
+                  "worries",
+                  "sorgt-sich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "his",
+                  "seine"
+                ],
+                [
+                  "exam",
+                  "Prüfungs-"
+                ],
+                [
+                  "results",
+                  "ergebnisse"
+                ],
+                [
+                  "all",
+                  "die-ganze"
+                ],
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "time.",
+                  "Zeit."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -209,102 +1669,1016 @@
         {
           "parts": [
             "My flatmate listens ",
-            {"opts": ["at","for","to"], "decode": ["bei","für","zu"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "for",
+                "to"
+              ],
+              "decode": [
+                "bei",
+                "für",
+                "zu"
+              ],
+              "correct": 2,
+              "n": "to"
+            },
             " a lot of jazz."
           ],
           "solutionEn": "My flatmate listens to a lot of jazz.",
           "solutionDe": "Mein Mitbewohner hört viel Jazz.",
-          "explain": "listen TO music/jazz/the radio."
+          "explain": "listen TO music/jazz/the radio.",
+          "decodeFull": [
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "flatmate",
+              "Mitbewohner"
+            ],
+            [
+              "listens",
+              "hört"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "lot",
+              "Menge"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "jazz.",
+              "Jazz."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "mein"
+                ],
+                [
+                  "flatmate",
+                  "Mitbewohner"
+                ],
+                [
+                  "listens",
+                  "hört"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "lot",
+                  "Menge"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "jazz.",
+                  "Jazz."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "David paid ",
-            {"opts": ["for","to","about"], "decode": ["für","zu","über"], "correct": 0},
+            {
+              "opts": [
+                "for",
+                "to",
+                "about"
+              ],
+              "decode": [
+                "für",
+                "zu",
+                "über"
+              ],
+              "correct": 0,
+              "n": "for"
+            },
             " the drinks."
           ],
           "solutionEn": "David paid for the drinks.",
           "solutionDe": "David hat die Getränke bezahlt.",
-          "explain": "pay FOR something."
+          "explain": "pay FOR something.",
+          "decodeFull": [
+            [
+              "David",
+              "David"
+            ],
+            [
+              "paid",
+              "zahlte"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "drinks.",
+              "Getränke."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "David",
+                  "David"
+                ],
+                [
+                  "paid",
+                  "zahlte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "drinks.",
+                  "Getränke."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Who does that house belong ",
-            {"opts": ["to","of","for"], "decode": ["zu","von","für"], "correct": 0},
+            {
+              "opts": [
+                "to",
+                "of",
+                "for"
+              ],
+              "decode": [
+                "zu",
+                "von",
+                "für"
+              ],
+              "correct": 0,
+              "n": "to"
+            },
             "?"
           ],
           "solutionEn": "Who does that house belong to?",
           "solutionDe": "Wem gehört dieses Haus?",
-          "explain": "belong TO – die Präposition bleibt auch in der Frage am Satzende stehen."
+          "explain": "belong TO – die Präposition bleibt auch in der Frage am Satzende stehen.",
+          "decodeFull": [
+            [
+              "Who",
+              "wem"
+            ],
+            [
+              "does",
+              "-"
+            ],
+            [
+              "that",
+              "jenes"
+            ],
+            [
+              "house",
+              "Haus"
+            ],
+            [
+              "belong",
+              "gehört"
+            ],
+            [
+              "to?",
+              "?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Who",
+                  "wem"
+                ],
+                [
+                  "does",
+                  "-"
+                ],
+                [
+                  "that",
+                  "jenes"
+                ],
+                [
+                  "house",
+                  "Haus"
+                ],
+                [
+                  "belong",
+                  "gehört"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "Don't worry ",
-            {"opts": ["for","about","of"], "decode": ["für","um","von"], "correct": 1},
+            {
+              "opts": [
+                "for",
+                "about",
+                "of"
+              ],
+              "decode": [
+                "für",
+                "um",
+                "von"
+              ],
+              "correct": 1,
+              "n": "about"
+            },
             " Gemma, she'll be fine."
           ],
           "solutionEn": "Don't worry about Gemma, she'll be fine.",
           "solutionDe": "Mach dir keine Sorgen um Gemma, ihr wird nichts passieren.",
-          "explain": "worry ABOUT somebody/something."
+          "explain": "worry ABOUT somebody/something.",
+          "decodeFull": [
+            [
+              "Don't",
+              "nicht"
+            ],
+            [
+              "worry",
+              "sorge-dich"
+            ],
+            [
+              "about",
+              "um"
+            ],
+            [
+              "Gemma,",
+              "Gemma,"
+            ],
+            [
+              "she'll",
+              "sie-wird"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "fine.",
+              "in-Ordnung."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Don't",
+                  "nicht"
+                ],
+                [
+                  "worry",
+                  "sorge-dich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Gemma,",
+                  "Gemma,"
+                ],
+                [
+                  "she'll",
+                  "sie-wird"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "fine.",
+                  "in-Ordnung."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She borrowed a jumper ",
-            {"opts": ["of","to","from"], "decode": ["von","zu","von"], "correct": 2},
+            {
+              "opts": [
+                "of",
+                "to",
+                "from"
+              ],
+              "decode": [
+                "von",
+                "zu",
+                "von"
+              ],
+              "correct": 2,
+              "n": "from"
+            },
             " Julie."
           ],
           "solutionEn": "She borrowed a jumper from Julie.",
           "solutionDe": "Sie hat sich von Julie einen Pullover ausgeborgt.",
-          "explain": "borrow FROM somebody."
+          "explain": "borrow FROM somebody.",
+          "decodeFull": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "borrowed",
+              "lieh"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "jumper",
+              "Pullover"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "Julie.",
+              "Julie."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "sie"
+                ],
+                [
+                  "borrowed",
+                  "lieh"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "jumper",
+                  "Pullover"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Julie.",
+                  "Julie."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Please be quiet – I need to concentrate ",
-            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 0},
+            {
+              "opts": [
+                "on",
+                "in",
+                "at"
+              ],
+              "decode": [
+                "auf",
+                "in",
+                "bei"
+              ],
+              "correct": 0,
+              "n": "on"
+            },
             " this book."
           ],
           "solutionEn": "Please be quiet – I need to concentrate on this book.",
           "solutionDe": "Bitte sei leise – ich muss mich auf dieses Buch konzentrieren.",
-          "explain": "concentrate ON something."
+          "explain": "concentrate ON something.",
+          "decodeFull": [
+            [
+              "Please",
+              "bitte"
+            ],
+            [
+              "be",
+              "sei"
+            ],
+            [
+              "quiet",
+              "leise"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "need",
+              "brauche"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "concentrate",
+              "konzentrieren"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "book.",
+              "Buch."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Please",
+                  "bitte"
+                ],
+                [
+                  "be",
+                  "sei"
+                ],
+                [
+                  "quiet",
+                  "leise"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "need",
+                  "brauche"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "concentrate",
+                  "konzentrieren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "this",
+                  "dieses"
+                ],
+                [
+                  "book.",
+                  "Buch."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "I want to go to the beach tomorrow but it depends ",
-            {"opts": ["from","of","on"], "decode": ["von","von","von"], "correct": 2},
+            {
+              "opts": [
+                "from",
+                "of",
+                "on"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "von"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " the weather."
           ],
           "solutionEn": "I want to go to the beach tomorrow but it depends on the weather.",
           "solutionDe": "Ich will morgen an den Strand, aber es hängt vom Wetter ab.",
-          "explain": "depend ON – Klassiker: Im Deutschen „von“, im Englischen ON!"
+          "explain": "depend ON – Klassiker: Im Deutschen „von“, im Englischen ON!",
+          "decodeFull": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "want",
+              "will"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "beach",
+              "Strand"
+            ],
+            [
+              "tomorrow",
+              "morgen"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "depends",
+              "hängt-ab"
+            ],
+            [
+              "on",
+              "von"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "weather.",
+              "Wetter."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "want",
+                  "will"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "go",
+                  "gehen"
+                ],
+                [
+                  "to",
+                  "an"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "beach",
+                  "Strand"
+                ],
+                [
+                  "tomorrow",
+                  "morgen"
+                ],
+                [
+                  "but",
+                  "aber"
+                ],
+                [
+                  "it",
+                  "es"
+                ],
+                [
+                  "depends",
+                  "hängt-ab"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "weather.",
+                  "Wetter."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Who are you waiting ",
-            {"opts": ["on","for","to"], "decode": ["auf","auf","zu"], "correct": 1},
+            {
+              "opts": [
+                "on",
+                "for",
+                "to"
+              ],
+              "decode": [
+                "auf",
+                "auf",
+                "zu"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             "?"
           ],
           "solutionEn": "Who are you waiting for?",
           "solutionDe": "Auf wen wartest du?",
-          "explain": "wait FOR somebody – auch in Fragen bleibt for am Ende stehen."
+          "explain": "wait FOR somebody – auch in Fragen bleibt for am Ende stehen.",
+          "decodeFull": [
+            [
+              "Who",
+              "auf-wen"
+            ],
+            [
+              "are",
+              "-"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "waiting",
+              "wartest"
+            ],
+            [
+              "for?",
+              "?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Who",
+                  "auf-wen"
+                ],
+                [
+                  "are",
+                  "-"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "waiting",
+                  "wartest"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "When will we arrive ",
-            {"opts": ["at","to","in"], "decode": ["bei","zu","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "to",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "zu",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " Beijing?"
           ],
           "solutionEn": "When will we arrive in Beijing?",
           "solutionDe": "Wann kommen wir in Peking an?",
-          "explain": "arrive IN + Stadt/Land (Beijing); arrive AT + Gebäude/Ort (cinema, airport)."
+          "explain": "arrive IN + Stadt/Land (Beijing); arrive AT + Gebäude/Ort (cinema, airport).",
+          "decodeFull": [
+            [
+              "When",
+              "wann"
+            ],
+            [
+              "will",
+              "werden"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "arrive",
+              "ankommen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Beijing?",
+              "Peking?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "When",
+                  "wann"
+                ],
+                [
+                  "will",
+                  "werden"
+                ],
+                [
+                  "we",
+                  "wir"
+                ],
+                [
+                  "arrive",
+                  "ankommen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Beijing?",
+                  "Peking?"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "The policeman explained ",
-            {"opts": ["to","at","for"], "decode": ["zu","bei","für"], "correct": 0},
+            {
+              "opts": [
+                "to",
+                "at",
+                "for"
+              ],
+              "decode": [
+                "zu",
+                "bei",
+                "für"
+              ],
+              "correct": 0,
+              "n": "to"
+            },
             " the children why they should never run across a road."
           ],
           "solutionEn": "The policeman explained to the children why they should never run across a road.",
           "solutionDe": "Der Polizist erklärte den Kindern, warum sie nie über eine Straße laufen sollten.",
-          "explain": "explain TO somebody – das to steht direkt vor der Person."
+          "explain": "explain TO somebody – das to steht direkt vor der Person.",
+          "decodeFull": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "policeman",
+              "Polizist"
+            ],
+            [
+              "explained",
+              "erklärte"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "children",
+              "Kindern"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "never",
+              "niemals"
+            ],
+            [
+              "run",
+              "laufen"
+            ],
+            [
+              "across",
+              "über"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "road.",
+              "Straße."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "The",
+                  "der"
+                ],
+                [
+                  "policeman",
+                  "Polizist"
+                ],
+                [
+                  "explained",
+                  "erklärte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "children",
+                  "Kindern"
+                ],
+                [
+                  "why",
+                  "warum"
+                ],
+                [
+                  "they",
+                  "sie"
+                ],
+                [
+                  "should",
+                  "sollten"
+                ],
+                [
+                  "never",
+                  "niemals"
+                ],
+                [
+                  "run",
+                  "laufen"
+                ],
+                [
+                  "across",
+                  "über"
+                ],
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "road.",
+                  "Straße."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -318,150 +2692,2247 @@
         {
           "parts": [
             "They arrived ",
-            {"opts": ["at","in","on"], "decode": ["bei","in","auf"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "in",
+                "on"
+              ],
+              "decode": [
+                "bei",
+                "in",
+                "auf"
+              ],
+              "correct": 1,
+              "n": "in"
+            },
             " Bombay ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " 8:00 p.m. ",
-            {"opts": ["in","at","on"], "decode": ["im","um","am"], "correct": 2},
+            {
+              "opts": [
+                "in",
+                "at",
+                "on"
+              ],
+              "decode": [
+                "im",
+                "um",
+                "am"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " July 30."
           ],
           "solutionEn": "They arrived in Bombay at 8:00 p.m. on July 30.",
           "solutionDe": "Sie kamen am 30. Juli um 20:00 Uhr in Bombay an.",
-          "explain": "arrive in + Stadt; at + Uhrzeit; on + Datum/Tag."
+          "explain": "arrive in + Stadt; at + Uhrzeit; on + Datum/Tag.",
+          "decodeFull": [
+            [
+              "They",
+              "sie"
+            ],
+            [
+              "arrived",
+              "kamen-an"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Bombay",
+              "Bombay"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "8:00 p.m.",
+              "20:00 Uhr"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "July 30.",
+              "30. Juli."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "They",
+                  "sie"
+                ],
+                [
+                  "arrived",
+                  "kamen-an"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Bombay",
+                  "Bombay"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "8:00 p.m.",
+                  "20:00 Uhr"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "July 30.",
+                  "30. Juli."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Charles lives ",
-            {"opts": ["in","on","at"], "decode": ["in","auf","bei"], "correct": 1},
+            {
+              "opts": [
+                "in",
+                "on",
+                "at"
+              ],
+              "decode": [
+                "in",
+                "auf",
+                "bei"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " College Avenue ",
-            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 1},
+            {
+              "opts": [
+                "on",
+                "in",
+                "at"
+              ],
+              "decode": [
+                "auf",
+                "in",
+                "bei"
+              ],
+              "correct": 1,
+              "n": "in"
+            },
             " an apartment. Phoenix is located ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " the state of Arizona."
           ],
           "solutionEn": "Charles lives on College Avenue in an apartment. Phoenix is located in the state of Arizona.",
           "solutionDe": "Charles wohnt in einer Wohnung in der College Avenue. Phoenix liegt im Bundesstaat Arizona.",
-          "explain": "on + Straße; in + Wohnung/Gebiet/Bundesstaat."
+          "explain": "on + Straße; in + Wohnung/Gebiet/Bundesstaat.",
+          "decodeFull": [
+            [
+              "Charles",
+              "Charles"
+            ],
+            [
+              "lives",
+              "wohnt"
+            ],
+            [
+              "on",
+              "in-der"
+            ],
+            [
+              "College Avenue",
+              "College Avenue"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "an",
+              "einer"
+            ],
+            [
+              "apartment.",
+              "Wohnung."
+            ],
+            [
+              "Phoenix",
+              "Phoenix"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "located",
+              "gelegen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "state",
+              "Bundesstaat"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "Arizona.",
+              "Arizona."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Charles",
+                  "Charles"
+                ],
+                [
+                  "lives",
+                  "wohnt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "College Avenue",
+                  "College Avenue"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "an",
+                  "einer"
+                ],
+                [
+                  "apartment.",
+                  "Wohnung."
+                ],
+                [
+                  "Phoenix",
+                  "Phoenix"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "located",
+                  "gelegen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "state",
+                  "Bundesstaat"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "Arizona.",
+                  "Arizona."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "John asked me to go ",
-            {"opts": ["with","to","by"], "decode": ["mit","zu","bei"], "correct": 0},
+            {
+              "opts": [
+                "with",
+                "to",
+                "by"
+              ],
+              "decode": [
+                "mit",
+                "zu",
+                "bei"
+              ],
+              "correct": 0,
+              "n": "with"
+            },
             " him to buy a pair of shoes. Put a pad ",
-            {"opts": ["under","below","on"], "decode": ["unter","unterhalb","auf"], "correct": 0},
+            {
+              "opts": [
+                "under",
+                "below",
+                "on"
+              ],
+              "decode": [
+                "unter",
+                "unterhalb",
+                "auf"
+              ],
+              "correct": 0,
+              "n": "under"
+            },
             " the hot dish to protect the table."
           ],
           "solutionEn": "John asked me to go with him to buy a pair of shoes. Put a pad under the hot dish to protect the table.",
           "solutionDe": "John bat mich, mit ihm Schuhe kaufen zu gehen. Leg eine Unterlage unter die heiße Schüssel, um den Tisch zu schützen.",
-          "explain": "go with somebody = mitgehen; under = direkt unter etwas."
+          "explain": "go with somebody = mitgehen; under = direkt unter etwas.",
+          "decodeFull": [
+            [
+              "John",
+              "John"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "him",
+              "ihm"
+            ],
+            [
+              "to",
+              "um"
+            ],
+            [
+              "buy",
+              "zu-kaufen"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "pair",
+              "Paar"
+            ],
+            [
+              "of",
+              "-"
+            ],
+            [
+              "shoes.",
+              "Schuhe."
+            ],
+            [
+              "Put",
+              "leg"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "pad",
+              "Brett"
+            ],
+            [
+              "under",
+              "unter"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "hot",
+              "heiße"
+            ],
+            [
+              "dish",
+              "Gericht"
+            ],
+            [
+              "to",
+              "um"
+            ],
+            [
+              "protect",
+              "zu-schützen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "table.",
+              "Tisch."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "John",
+                  "John"
+                ],
+                [
+                  "asked",
+                  "bat"
+                ],
+                [
+                  "me",
+                  "mich"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "go",
+                  "gehen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "him",
+                  "ihm"
+                ],
+                [
+                  "to",
+                  "um"
+                ],
+                [
+                  "buy",
+                  "zu-kaufen"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "pair",
+                  "Paar"
+                ],
+                [
+                  "of",
+                  "-"
+                ],
+                [
+                  "shoes.",
+                  "Schuhe."
+                ],
+                [
+                  "Put",
+                  "leg"
+                ],
+                [
+                  "a",
+                  "ein"
+                ],
+                [
+                  "pad",
+                  "Brett"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "hot",
+                  "heiße"
+                ],
+                [
+                  "dish",
+                  "Gericht"
+                ],
+                [
+                  "to",
+                  "um"
+                ],
+                [
+                  "protect",
+                  "zu-schützen"
+                ],
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "table.",
+                  "Tisch."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Mr. Walker has ",
-            {"opts": ["on","in","at"], "decode": ["an","in","bei"], "correct": 0},
+            {
+              "opts": [
+                "on",
+                "in",
+                "at"
+              ],
+              "decode": [
+                "an",
+                "in",
+                "bei"
+              ],
+              "correct": 0,
+              "n": "on"
+            },
             " a grey suit today. This story was written ",
-            {"opts": ["from","by","of"], "decode": ["von","von","von"], "correct": 1},
+            {
+              "opts": [
+                "from",
+                "by",
+                "of"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "von"
+              ],
+              "correct": 1,
+              "n": "by"
+            },
             " Conan Doyle."
           ],
           "solutionEn": "Mr. Walker has on a grey suit today. This story was written by Conan Doyle.",
           "solutionDe": "Mr. Walker trägt heute einen grauen Anzug (have on = anhaben). Diese Geschichte wurde von Conan Doyle geschrieben.",
-          "explain": "have on = anhaben/tragen; im Passiv steht der Urheber mit BY (nicht from!)."
+          "explain": "have on = anhaben/tragen; im Passiv steht der Urheber mit BY (nicht from!).",
+          "decodeFull": [
+            [
+              "Mr. Walker",
+              "Herr Walker"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "on",
+              "an"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "grey",
+              "grauen"
+            ],
+            [
+              "suit",
+              "Anzug"
+            ],
+            [
+              "today.",
+              "heute."
+            ],
+            [
+              "This",
+              "diese"
+            ],
+            [
+              "story",
+              "Geschichte"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "written",
+              "geschrieben"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Conan Doyle.",
+              "Conan Doyle."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Mr. Walker",
+                  "Herr Walker"
+                ],
+                [
+                  "has",
+                  "hat"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "grey",
+                  "grauen"
+                ],
+                [
+                  "suit",
+                  "Anzug"
+                ],
+                [
+                  "today.",
+                  "heute."
+                ],
+                [
+                  "This",
+                  "diese"
+                ],
+                [
+                  "story",
+                  "Geschichte"
+                ],
+                [
+                  "was",
+                  "wurde"
+                ],
+                [
+                  "written",
+                  "geschrieben"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Conan Doyle.",
+                  "Conan Doyle."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "My aunt stayed ",
-            {"opts": ["at","in","by"], "decode": ["bei","in","neben"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "in",
+                "by"
+              ],
+              "decode": [
+                "bei",
+                "in",
+                "neben"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " our house ",
-            {"opts": ["since","for","during"], "decode": ["seit","für/lang","während"], "correct": 1},
+            {
+              "opts": [
+                "since",
+                "for",
+                "during"
+              ],
+              "decode": [
+                "seit",
+                "für/lang",
+                "während"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             " two weeks. Mary is a good housekeeper; she always sweeps ",
-            {"opts": ["under","over","behind"], "decode": ["unter","über","hinter"], "correct": 0},
+            {
+              "opts": [
+                "under",
+                "over",
+                "behind"
+              ],
+              "decode": [
+                "unter",
+                "über",
+                "hinter"
+              ],
+              "correct": 0,
+              "n": "under"
+            },
             " the bed."
           ],
           "solutionEn": "My aunt stayed at our house for two weeks. Mary is a good housekeeper; she always sweeps under the bed.",
           "solutionDe": "Meine Tante blieb zwei Wochen bei uns zu Hause. Mary ist eine gute Hausfrau; sie kehrt immer unter dem Bett.",
-          "explain": "at our house = bei uns; for + Zeitdauer (zwei Wochen lang), since + Zeitpunkt!"
+          "explain": "at our house = bei uns; for + Zeitdauer (zwei Wochen lang), since + Zeitpunkt!",
+          "decodeFull": [
+            [
+              "My",
+              "meine"
+            ],
+            [
+              "aunt",
+              "Tante"
+            ],
+            [
+              "stayed",
+              "blieb"
+            ],
+            [
+              "at",
+              "in"
+            ],
+            [
+              "our",
+              "unserem"
+            ],
+            [
+              "house",
+              "Haus"
+            ],
+            [
+              "for",
+              "-"
+            ],
+            [
+              "two",
+              "zwei"
+            ],
+            [
+              "weeks.",
+              "Wochen."
+            ],
+            [
+              "Mary",
+              "Mary"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "good",
+              "gute"
+            ],
+            [
+              "housekeeper;",
+              "Haushälterin;"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "always",
+              "immer"
+            ],
+            [
+              "sweeps",
+              "fegt"
+            ],
+            [
+              "under",
+              "unter"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "bed.",
+              "Bett."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "meine"
+                ],
+                [
+                  "aunt",
+                  "Tante"
+                ],
+                [
+                  "stayed",
+                  "blieb"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "our",
+                  "unserem"
+                ],
+                [
+                  "house",
+                  "Haus"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "two",
+                  "zwei"
+                ],
+                [
+                  "weeks.",
+                  "Wochen."
+                ],
+                [
+                  "Mary",
+                  "Mary"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "a",
+                  "eine"
+                ],
+                [
+                  "good",
+                  "gute"
+                ],
+                [
+                  "housekeeper;",
+                  "Haushälterin;"
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "always",
+                  "immer"
+                ],
+                [
+                  "sweeps",
+                  "fegt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "bed.",
+                  "Bett."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "They had to drive ",
-            {"opts": ["around","across","along"], "decode": ["um-…-herum","quer-über","entlang"], "correct": 0},
+            {
+              "opts": [
+                "around",
+                "across",
+                "along"
+              ],
+              "decode": [
+                "um-…-herum",
+                "quer-über",
+                "entlang"
+              ],
+              "correct": 0,
+              "n": "around"
+            },
             " the block four times before they found a parking place. There is an ink spot ",
-            {"opts": ["in","at","on"], "decode": ["in","bei","auf"], "correct": 2},
+            {
+              "opts": [
+                "in",
+                "at",
+                "on"
+              ],
+              "decode": [
+                "in",
+                "bei",
+                "auf"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " the collar ",
-            {"opts": ["of","from","off"], "decode": ["von","von","weg-von"], "correct": 0},
+            {
+              "opts": [
+                "of",
+                "from",
+                "off"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "weg-von"
+              ],
+              "correct": 0,
+              "n": "of"
+            },
             " your shirt."
           ],
           "solutionEn": "They had to drive around the block four times before they found a parking place. There is an ink spot on the collar of your shirt.",
           "solutionDe": "Sie mussten viermal um den Block fahren, bevor sie einen Parkplatz fanden. Auf dem Kragen deines Hemdes ist ein Tintenfleck.",
-          "explain": "drive around the block = um den Block fahren; on + Oberfläche (Kragen); of = Genitiv (des Hemdes)."
+          "explain": "drive around the block = um den Block fahren; on + Oberfläche (Kragen); of = Genitiv (des Hemdes).",
+          "decodeFull": [
+            [
+              "They",
+              "sie"
+            ],
+            [
+              "had",
+              "mussten"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "drive",
+              "fahren"
+            ],
+            [
+              "around",
+              "um"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "block",
+              "Block"
+            ],
+            [
+              "four",
+              "vier"
+            ],
+            [
+              "times",
+              "Mal"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "found",
+              "fanden"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "parking",
+              "Park-"
+            ],
+            [
+              "place.",
+              "platz."
+            ],
+            [
+              "There",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "ink",
+              "Tinten-"
+            ],
+            [
+              "spot",
+              "fleck"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "collar",
+              "Kragen"
+            ],
+            [
+              "of",
+              "-"
+            ],
+            [
+              "your",
+              "deines"
+            ],
+            [
+              "shirt.",
+              "Hemdes."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "They",
+                  "sie"
+                ],
+                [
+                  "had",
+                  "mussten"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "drive",
+                  "fahren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "block",
+                  "Block"
+                ],
+                [
+                  "four",
+                  "vier"
+                ],
+                [
+                  "times",
+                  "Mal"
+                ],
+                [
+                  "before",
+                  "bevor"
+                ],
+                [
+                  "they",
+                  "sie"
+                ],
+                [
+                  "found",
+                  "fanden"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "parking",
+                  "Park-"
+                ],
+                [
+                  "place.",
+                  "platz."
+                ],
+                [
+                  "There",
+                  "es"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "an",
+                  "ein"
+                ],
+                [
+                  "ink",
+                  "Tinten-"
+                ],
+                [
+                  "spot",
+                  "fleck"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "collar",
+                  "Kragen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your",
+                  "deines"
+                ],
+                [
+                  "shirt.",
+                  "Hemdes."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Please write ",
-            {"opts": ["with","in","by"], "decode": ["mit","in/mit","durch"], "correct": 1},
+            {
+              "opts": [
+                "with",
+                "in",
+                "by"
+              ],
+              "decode": [
+                "mit",
+                "in/mit",
+                "durch"
+              ],
+              "correct": 1,
+              "n": "in"
+            },
             " ink, and don't forget to write ",
-            {"opts": ["on","in","at"], "decode": ["auf","in","bei"], "correct": 0},
+            {
+              "opts": [
+                "on",
+                "in",
+                "at"
+              ],
+              "decode": [
+                "auf",
+                "in",
+                "bei"
+              ],
+              "correct": 0,
+              "n": "on"
+            },
             " every other line."
           ],
           "solutionEn": "Please write in ink, and don't forget to write on every other line.",
           "solutionDe": "Bitte schreib mit Tinte und vergiss nicht, nur jede zweite Zeile zu beschreiben.",
-          "explain": "write in ink = feste Wendung (mit Tinte schreiben); on a line = auf einer Zeile."
+          "explain": "write in ink = feste Wendung (mit Tinte schreiben); on a line = auf einer Zeile.",
+          "decodeFull": [
+            [
+              "Please",
+              "bitte"
+            ],
+            [
+              "write",
+              "schreibe"
+            ],
+            [
+              "in",
+              "mit"
+            ],
+            [
+              "ink,",
+              "Tinte,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "don't",
+              "nicht"
+            ],
+            [
+              "forget",
+              "vergiss"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "write",
+              "schreiben"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "every",
+              "jede"
+            ],
+            [
+              "other",
+              "zweite"
+            ],
+            [
+              "line.",
+              "Zeile."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Please",
+                  "bitte"
+                ],
+                [
+                  "write",
+                  "schreibe"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "ink,",
+                  "Tinte,"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "don't",
+                  "nicht"
+                ],
+                [
+                  "forget",
+                  "vergiss"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "write",
+                  "schreiben"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "every",
+                  "jede"
+                ],
+                [
+                  "other",
+                  "zweite"
+                ],
+                [
+                  "line.",
+                  "Zeile."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Did you receive a letter ",
-            {"opts": ["of","from","by"], "decode": ["von","von","durch"], "correct": 1},
+            {
+              "opts": [
+                "of",
+                "from",
+                "by"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "durch"
+              ],
+              "correct": 1,
+              "n": "from"
+            },
             " your brother yesterday? The bus will not leave ",
-            {"opts": ["for","in","until"], "decode": ["für/lang","in","bis"], "correct": 0},
+            {
+              "opts": [
+                "for",
+                "in",
+                "until"
+              ],
+              "decode": [
+                "für/lang",
+                "in",
+                "bis"
+              ],
+              "correct": 0,
+              "n": "for"
+            },
             " fifteen minutes."
           ],
           "solutionEn": "Did you receive a letter from your brother yesterday? The bus will not leave for fifteen minutes.",
           "solutionDe": "Hast du gestern einen Brief von deinem Bruder bekommen? Der Bus fährt erst in fünfzehn Minuten ab.",
-          "explain": "receive from = bekommen von; not … for fifteen minutes = die nächsten 15 Minuten (noch) nicht."
+          "explain": "receive from = bekommen von; not … for fifteen minutes = die nächsten 15 Minuten (noch) nicht.",
+          "decodeFull": [
+            [
+              "Did",
+              "-"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "receive",
+              "erhieltest"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "letter",
+              "Brief"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "brother",
+              "Bruder"
+            ],
+            [
+              "yesterday?",
+              "gestern?"
+            ],
+            [
+              "The",
+              "der"
+            ],
+            [
+              "bus",
+              "Bus"
+            ],
+            [
+              "will",
+              "wird"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "leave",
+              "abfahren"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "fifteen",
+              "fünfzehn"
+            ],
+            [
+              "minutes.",
+              "Minuten."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Did",
+                  "-"
+                ],
+                [
+                  "you",
+                  "du"
+                ],
+                [
+                  "receive",
+                  "erhieltest"
+                ],
+                [
+                  "a",
+                  "einen"
+                ],
+                [
+                  "letter",
+                  "Brief"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your",
+                  "deinem"
+                ],
+                [
+                  "brother",
+                  "Bruder"
+                ],
+                [
+                  "yesterday?",
+                  "gestern?"
+                ],
+                [
+                  "The",
+                  "der"
+                ],
+                [
+                  "bus",
+                  "Bus"
+                ],
+                [
+                  "will",
+                  "wird"
+                ],
+                [
+                  "not",
+                  "nicht"
+                ],
+                [
+                  "leave",
+                  "abfahren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "fifteen",
+                  "fünfzehn"
+                ],
+                [
+                  "minutes.",
+                  "Minuten."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Elections are held ",
-            {"opts": ["at","in","on"], "decode": ["um","im","am"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "in",
+                "on"
+              ],
+              "decode": [
+                "um",
+                "im",
+                "am"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " the first Tuesday ",
-            {"opts": ["on","in","at"], "decode": ["am","im","um"], "correct": 1},
+            {
+              "opts": [
+                "on",
+                "in",
+                "at"
+              ],
+              "decode": [
+                "am",
+                "im",
+                "um"
+              ],
+              "correct": 1,
+              "n": "in"
+            },
             " November. Maximo always entertains us ",
-            {"opts": ["with","by","of"], "decode": ["mit","durch","von"], "correct": 0},
+            {
+              "opts": [
+                "with",
+                "by",
+                "of"
+              ],
+              "decode": [
+                "mit",
+                "durch",
+                "von"
+              ],
+              "correct": 0,
+              "n": "with"
+            },
             " stories of his experiences."
           ],
           "solutionEn": "Elections are held on the first Tuesday in November. Maximo always entertains us with stories of his experiences.",
           "solutionDe": "Wahlen finden am ersten Dienstag im November statt. Maximo unterhält uns immer mit Geschichten über seine Erlebnisse.",
-          "explain": "on + Tag (Tuesday); in + Monat (November); entertain with = unterhalten mit."
+          "explain": "on + Tag (Tuesday); in + Monat (November); entertain with = unterhalten mit.",
+          "decodeFull": [
+            [
+              "Elections",
+              "Wahlen"
+            ],
+            [
+              "are",
+              "werden"
+            ],
+            [
+              "held",
+              "abgehalten"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "first",
+              "ersten"
+            ],
+            [
+              "Tuesday",
+              "Dienstag"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "November.",
+              "November."
+            ],
+            [
+              "Maximo",
+              "Maximo"
+            ],
+            [
+              "always",
+              "immer"
+            ],
+            [
+              "entertains",
+              "unterhält"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "stories",
+              "Geschichten"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "his",
+              "seinen"
+            ],
+            [
+              "experiences.",
+              "Erlebnissen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Elections",
+                  "Wahlen"
+                ],
+                [
+                  "are",
+                  "werden"
+                ],
+                [
+                  "held",
+                  "abgehalten"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "first",
+                  "ersten"
+                ],
+                [
+                  "Tuesday",
+                  "Dienstag"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "November.",
+                  "November."
+                ],
+                [
+                  "Maximo",
+                  "Maximo"
+                ],
+                [
+                  "always",
+                  "immer"
+                ],
+                [
+                  "entertains",
+                  "unterhält"
+                ],
+                [
+                  "us",
+                  "uns"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "stories",
+                  "Geschichten"
+                ],
+                [
+                  "of",
+                  "von"
+                ],
+                [
+                  "his",
+                  "seinen"
+                ],
+                [
+                  "experiences.",
+                  "Erlebnissen."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Does this bus go ",
-            {"opts": ["to","at","until"], "decode": ["nach","bei","bis"], "correct": 0},
+            {
+              "opts": [
+                "to",
+                "at",
+                "until"
+              ],
+              "decode": [
+                "nach",
+                "bei",
+                "bis"
+              ],
+              "correct": 0,
+              "n": "to"
+            },
             " Central City? Mr. and Mrs. Simpson have lived ",
-            {"opts": ["in","at","on"], "decode": ["in","bei","auf/in"], "correct": 2},
+            {
+              "opts": [
+                "in",
+                "at",
+                "on"
+              ],
+              "decode": [
+                "in",
+                "bei",
+                "auf/in"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " Chesnut Street ",
-            {"opts": ["since","for","from"], "decode": ["seit","seit/lang","von"], "correct": 1},
+            {
+              "opts": [
+                "since",
+                "for",
+                "from"
+              ],
+              "decode": [
+                "seit",
+                "seit/lang",
+                "von"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             " six years."
           ],
           "solutionEn": "Does this bus go to Central City? Mr. and Mrs. Simpson have lived on Chesnut Street for six years.",
           "solutionDe": "Fährt dieser Bus nach Central City? Die Simpsons wohnen seit sechs Jahren in der Chesnut Street.",
-          "explain": "go to + Ziel; on + Straße; for + Zeitdauer (six years), since + Zeitpunkt (z. B. since 2020)."
+          "explain": "go to + Ziel; on + Straße; for + Zeitdauer (six years), since + Zeitpunkt (z. B. since 2020).",
+          "decodeFull": [
+            [
+              "Does",
+              "-"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "bus",
+              "Bus"
+            ],
+            [
+              "go",
+              "fährt"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Central City?",
+              "Central City?"
+            ],
+            [
+              "Mr. and Mrs. Simpson",
+              "Herr und Frau Simpson"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "lived",
+              "gewohnt"
+            ],
+            [
+              "on",
+              "in-der"
+            ],
+            [
+              "Chesnut Street",
+              "Chesnut Street"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "six",
+              "sechs"
+            ],
+            [
+              "years.",
+              "Jahren."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Does",
+                  "-"
+                ],
+                [
+                  "this",
+                  "dieser"
+                ],
+                [
+                  "bus",
+                  "Bus"
+                ],
+                [
+                  "go",
+                  "fährt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Central City?",
+                  "Central City?"
+                ],
+                [
+                  "Mr. and Mrs. Simpson",
+                  "Herr und Frau Simpson"
+                ],
+                [
+                  "have",
+                  "haben"
+                ],
+                [
+                  "lived",
+                  "gewohnt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Chesnut Street",
+                  "Chesnut Street"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "six",
+                  "sechs"
+                ],
+                [
+                  "years.",
+                  "Jahren."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Dr. Parks has been living ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " Mobile ",
-            {"opts": ["for","since","from"], "decode": ["seit/lang","seit","von"], "correct": 1},
+            {
+              "opts": [
+                "for",
+                "since",
+                "from"
+              ],
+              "decode": [
+                "seit/lang",
+                "seit",
+                "von"
+              ],
+              "correct": 1,
+              "n": "since"
+            },
             " October. He dived ",
-            {"opts": ["into","to","in"], "decode": ["hinein-in","zu","in"], "correct": 0},
+            {
+              "opts": [
+                "into",
+                "to",
+                "in"
+              ],
+              "decode": [
+                "hinein-in",
+                "zu",
+                "in"
+              ],
+              "correct": 0,
+              "n": "into"
+            },
             " the lake and swam ",
-            {"opts": ["at","into","to"], "decode": ["bei","hinein-in","zu"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "into",
+                "to"
+              ],
+              "decode": [
+                "bei",
+                "hinein-in",
+                "zu"
+              ],
+              "correct": 2,
+              "n": "to"
+            },
             " the boat."
           ],
           "solutionEn": "Dr. Parks has been living in Mobile since October. He dived into the lake and swam to the boat.",
           "solutionDe": "Dr. Parks lebt seit Oktober in Mobile. Er tauchte in den See und schwamm zum Boot.",
-          "explain": "in + Stadt; since + Zeitpunkt (October); into = Bewegung hinein; to = Bewegung zu einem Ziel."
+          "explain": "in + Stadt; since + Zeitpunkt (October); into = Bewegung hinein; to = Bewegung zu einem Ziel.",
+          "decodeFull": [
+            [
+              "Dr. Parks",
+              "Dr. Parks"
+            ],
+            [
+              "has",
+              "-"
+            ],
+            [
+              "been",
+              "-"
+            ],
+            [
+              "living",
+              "wohnt"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Mobile",
+              "Mobile"
+            ],
+            [
+              "since",
+              "seit"
+            ],
+            [
+              "October.",
+              "Oktober."
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "dived",
+              "tauchte"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "lake",
+              "See"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "swam",
+              "schwamm"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "boat.",
+              "Boot."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Dr. Parks",
+                  "Dr. Parks"
+                ],
+                [
+                  "has",
+                  "-"
+                ],
+                [
+                  "been",
+                  "-"
+                ],
+                [
+                  "living",
+                  "wohnt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Mobile",
+                  "Mobile"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "October.",
+                  "Oktober."
+                ],
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "dived",
+                  "tauchte"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "lake",
+                  "See"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "swam",
+                  "schwamm"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "boat.",
+                  "Boot."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -475,74 +4946,1147 @@
         {
           "parts": [
             "Stop worrying ",
-            {"opts": ["about","for","on"], "decode": ["um/über","für","auf"], "correct": 0},
+            {
+              "opts": [
+                "about",
+                "for",
+                "on"
+              ],
+              "decode": [
+                "um/über",
+                "für",
+                "auf"
+              ],
+              "correct": 0,
+              "n": "about"
+            },
             " your exam – everything will be fine. I've waited ",
-            {"opts": ["on","for","at"], "decode": ["auf","auf","bei"], "correct": 1},
+            {
+              "opts": [
+                "on",
+                "for",
+                "at"
+              ],
+              "decode": [
+                "auf",
+                "auf",
+                "bei"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             " Judy for 30 minutes. I'm going home."
           ],
           "solutionEn": "Stop worrying about your exam – everything will be fine. I've waited for Judy for 30 minutes.",
           "solutionDe": "Hör auf, dir wegen der Prüfung Sorgen zu machen – alles wird gut. Ich habe 30 Minuten auf Judy gewartet. Ich gehe heim.",
-          "explain": "worry ABOUT; wait FOR."
+          "explain": "worry ABOUT; wait FOR.",
+          "decodeFull": [
+            [
+              "Stop",
+              "hör-auf"
+            ],
+            [
+              "worrying",
+              "dir-Sorgen-zu-machen"
+            ],
+            [
+              "about",
+              "um"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "exam",
+              "Prüfung"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "everything",
+              "alles"
+            ],
+            [
+              "will",
+              "wird"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "fine.",
+              "gut."
+            ],
+            [
+              "I've",
+              "ich-habe"
+            ],
+            [
+              "waited",
+              "gewartet"
+            ],
+            [
+              "for",
+              "auf"
+            ],
+            [
+              "Judy",
+              "Judy"
+            ],
+            [
+              "for",
+              "-"
+            ],
+            [
+              "30",
+              "30"
+            ],
+            [
+              "minutes.",
+              "Minuten."
+            ],
+            [
+              "I'm",
+              "ich"
+            ],
+            [
+              "going",
+              "gehe"
+            ],
+            [
+              "home.",
+              "nach-Hause."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Stop",
+                  "hör-auf"
+                ],
+                [
+                  "worrying",
+                  "dir-Sorgen-zu-machen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your",
+                  "deine"
+                ],
+                [
+                  "exam",
+                  "Prüfung"
+                ],
+                [
+                  "–",
+                  "–"
+                ],
+                [
+                  "everything",
+                  "alles"
+                ],
+                [
+                  "will",
+                  "wird"
+                ],
+                [
+                  "be",
+                  "sein"
+                ],
+                [
+                  "fine.",
+                  "gut."
+                ],
+                [
+                  "I've",
+                  "ich-habe"
+                ],
+                [
+                  "waited",
+                  "gewartet"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Judy",
+                  "Judy"
+                ],
+                [
+                  "for",
+                  "-"
+                ],
+                [
+                  "30",
+                  "30"
+                ],
+                [
+                  "minutes.",
+                  "Minuten."
+                ],
+                [
+                  "I'm",
+                  "ich"
+                ],
+                [
+                  "going",
+                  "gehe"
+                ],
+                [
+                  "home.",
+                  "nach-Hause."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Stop talking and concentrate ",
-            {"opts": ["at","in","on"], "decode": ["bei","in","auf"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "in",
+                "on"
+              ],
+              "decode": [
+                "bei",
+                "in",
+                "auf"
+              ],
+              "correct": 2,
+              "n": "on"
+            },
             " your work. Don't forget to pay ",
-            {"opts": ["for","to","of"], "decode": ["für","zu","von"], "correct": 0},
+            {
+              "opts": [
+                "for",
+                "to",
+                "of"
+              ],
+              "decode": [
+                "für",
+                "zu",
+                "von"
+              ],
+              "correct": 0,
+              "n": "for"
+            },
             " the newspaper."
           ],
           "solutionEn": "Stop talking and concentrate on your work. Don't forget to pay for the newspaper.",
           "solutionDe": "Hör auf zu reden und konzentriere dich auf deine Arbeit. Vergiss nicht, die Zeitung zu bezahlen.",
-          "explain": "concentrate ON; pay FOR."
+          "explain": "concentrate ON; pay FOR.",
+          "decodeFull": [
+            [
+              "Stop",
+              "hör-auf"
+            ],
+            [
+              "talking",
+              "zu-reden"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "concentrate",
+              "konzentriere-dich"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "work.",
+              "Arbeit."
+            ],
+            [
+              "Don't",
+              "nicht"
+            ],
+            [
+              "forget",
+              "vergiss"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "newspaper.",
+              "Zeitung."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Stop",
+                  "hör-auf"
+                ],
+                [
+                  "talking",
+                  "zu-reden"
+                ],
+                [
+                  "and",
+                  "und"
+                ],
+                [
+                  "concentrate",
+                  "konzentriere-dich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "your",
+                  "deine"
+                ],
+                [
+                  "work.",
+                  "Arbeit."
+                ],
+                [
+                  "Don't",
+                  "nicht"
+                ],
+                [
+                  "forget",
+                  "vergiss"
+                ],
+                [
+                  "to",
+                  "zu"
+                ],
+                [
+                  "pay",
+                  "zahlen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "die"
+                ],
+                [
+                  "newspaper.",
+                  "Zeitung."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "He explained the computer program ",
-            {"opts": ["to","for","with"], "decode": ["zu","für","mit"], "correct": 0},
+            {
+              "opts": [
+                "to",
+                "for",
+                "with"
+              ],
+              "decode": [
+                "zu",
+                "für",
+                "mit"
+              ],
+              "correct": 0,
+              "n": "to"
+            },
             " me. I don't know what we'll do at the weekend. It depends ",
-            {"opts": ["from","on","of"], "decode": ["von","von","von"], "correct": 1},
+            {
+              "opts": [
+                "from",
+                "on",
+                "of"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "von"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " the weather."
           ],
           "solutionEn": "He explained the computer program to me. It depends on the weather.",
           "solutionDe": "Er hat mir das Computerprogramm erklärt. Es hängt vom Wetter ab.",
-          "explain": "explain TO somebody; depend ON something."
+          "explain": "explain TO somebody; depend ON something.",
+          "decodeFull": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "explained",
+              "erklärte"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "computer",
+              "Computer-"
+            ],
+            [
+              "program",
+              "programm"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "me.",
+              "mir."
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "nicht"
+            ],
+            [
+              "know",
+              "weiß"
+            ],
+            [
+              "what",
+              "was"
+            ],
+            [
+              "we'll",
+              "wir-werden"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "at",
+              "am"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "weekend.",
+              "Wochenende."
+            ],
+            [
+              "It",
+              "es"
+            ],
+            [
+              "depends",
+              "hängt-ab"
+            ],
+            [
+              "on",
+              "von"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "weather.",
+              "Wetter."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "explained",
+                  "erklärte"
+                ],
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "computer",
+                  "Computer-"
+                ],
+                [
+                  "program",
+                  "programm"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "me.",
+                  "mir."
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "don't",
+                  "nicht"
+                ],
+                [
+                  "know",
+                  "weiß"
+                ],
+                [
+                  "what",
+                  "was"
+                ],
+                [
+                  "we'll",
+                  "wir-werden"
+                ],
+                [
+                  "do",
+                  "tun"
+                ],
+                [
+                  "at",
+                  "am"
+                ],
+                [
+                  "the",
+                  "-"
+                ],
+                [
+                  "weekend.",
+                  "Wochenende."
+                ],
+                [
+                  "It",
+                  "es"
+                ],
+                [
+                  "depends",
+                  "hängt-ab"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "dem"
+                ],
+                [
+                  "weather.",
+                  "Wetter."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She will arrive ",
-            {"opts": ["at","to","in"], "decode": ["bei","zu","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "to",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "zu",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " Beijing at 3pm. I like to listen ",
-            {"opts": ["to","at","on"], "decode": ["zu","bei","auf"], "correct": 0},
+            {
+              "opts": [
+                "to",
+                "at",
+                "on"
+              ],
+              "decode": [
+                "zu",
+                "bei",
+                "auf"
+              ],
+              "correct": 0,
+              "n": "to"
+            },
             " the radio when I wake up."
           ],
           "solutionEn": "She will arrive in Beijing at 3pm. I like to listen to the radio when I wake up.",
           "solutionDe": "Sie kommt um 15 Uhr in Peking an. Ich höre gern Radio, wenn ich aufwache.",
-          "explain": "arrive IN + Stadt; listen TO."
+          "explain": "arrive IN + Stadt; listen TO.",
+          "decodeFull": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "will",
+              "wird"
+            ],
+            [
+              "arrive",
+              "ankommen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Beijing",
+              "Peking"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "3pm.",
+              "15:00 Uhr."
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "listen",
+              "hören"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "radio",
+              "Radio"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "wake",
+              "aufwache"
+            ],
+            [
+              "up.",
+              "-"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "sie"
+                ],
+                [
+                  "will",
+                  "wird"
+                ],
+                [
+                  "arrive",
+                  "ankommen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Beijing",
+                  "Peking"
+                ],
+                [
+                  "at",
+                  "um"
+                ],
+                [
+                  "3pm.",
+                  "15:00 Uhr."
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "like",
+                  "mag"
+                ],
+                [
+                  "to",
+                  "-"
+                ],
+                [
+                  "listen",
+                  "hören"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "radio",
+                  "Radio"
+                ],
+                [
+                  "when",
+                  "wenn"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "wake",
+                  "aufwache"
+                ],
+                [
+                  "up.",
+                  "-"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "He borrowed £20 ",
-            {"opts": ["from","of","by"], "decode": ["von","von","durch"], "correct": 0},
+            {
+              "opts": [
+                "from",
+                "of",
+                "by"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "durch"
+              ],
+              "correct": 0,
+              "n": "from"
+            },
             " his brother. Who does this coat belong ",
-            {"opts": ["with","to","of"], "decode": ["mit","zu","von"], "correct": 1},
+            {
+              "opts": [
+                "with",
+                "to",
+                "of"
+              ],
+              "decode": [
+                "mit",
+                "zu",
+                "von"
+              ],
+              "correct": 1,
+              "n": "to"
+            },
             "?"
           ],
           "solutionEn": "He borrowed £20 from his brother. Who does this coat belong to?",
           "solutionDe": "Er hat sich 20 Pfund von seinem Bruder ausgeborgt. Wem gehört dieser Mantel?",
-          "explain": "borrow FROM; belong TO."
+          "explain": "borrow FROM; belong TO.",
+          "decodeFull": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "borrowed",
+              "lieh"
+            ],
+            [
+              "£20",
+              "20 Pfund"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "his",
+              "seinem"
+            ],
+            [
+              "brother.",
+              "Bruder."
+            ],
+            [
+              "Who",
+              "wem"
+            ],
+            [
+              "does",
+              "-"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "coat",
+              "Mantel"
+            ],
+            [
+              "belong",
+              "gehört"
+            ],
+            [
+              "to?",
+              "?"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "borrowed",
+                  "lieh"
+                ],
+                [
+                  "£20",
+                  "20 Pfund"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "his",
+                  "seinem"
+                ],
+                [
+                  "brother.",
+                  "Bruder."
+                ],
+                [
+                  "Who",
+                  "wem"
+                ],
+                [
+                  "does",
+                  "-"
+                ],
+                [
+                  "this",
+                  "dieser"
+                ],
+                [
+                  "coat",
+                  "Mantel"
+                ],
+                [
+                  "belong",
+                  "gehört"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": []
+            }
+          ]
         },
         {
           "parts": [
             "She left without paying ",
-            {"opts": ["for","about","to"], "decode": ["für","über","zu"], "correct": 0},
+            {
+              "opts": [
+                "for",
+                "about",
+                "to"
+              ],
+              "decode": [
+                "für",
+                "über",
+                "zu"
+              ],
+              "correct": 0,
+              "n": "for"
+            },
             " the meal. It was so hot, I couldn't concentrate ",
-            {"opts": ["on","at","for"], "decode": ["auf","bei","für"], "correct": 0},
+            {
+              "opts": [
+                "on",
+                "at",
+                "for"
+              ],
+              "decode": [
+                "auf",
+                "bei",
+                "für"
+              ],
+              "correct": 0,
+              "n": "on"
+            },
             " my book."
           ],
           "solutionEn": "She left without paying for the meal. It was so hot, I couldn't concentrate on my book.",
           "solutionDe": "Sie ging, ohne das Essen zu bezahlen. Es war so heiß, dass ich mich nicht auf mein Buch konzentrieren konnte.",
-          "explain": "pay FOR; concentrate ON."
+          "explain": "pay FOR; concentrate ON.",
+          "decodeFull": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "left",
+              "ging"
+            ],
+            [
+              "without",
+              "ohne"
+            ],
+            [
+              "paying",
+              "zu-zahlen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "meal.",
+              "Essen."
+            ],
+            [
+              "It",
+              "es"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "hot,",
+              "heiß,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "couldn't",
+              "konnte-nicht"
+            ],
+            [
+              "concentrate",
+              "mich-konzentrieren"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "book.",
+              "Buch."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She",
+                  "sie"
+                ],
+                [
+                  "left",
+                  "ging"
+                ],
+                [
+                  "without",
+                  "ohne"
+                ],
+                [
+                  "paying",
+                  "zu-zahlen"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "das"
+                ],
+                [
+                  "meal.",
+                  "Essen."
+                ],
+                [
+                  "It",
+                  "es"
+                ],
+                [
+                  "was",
+                  "war"
+                ],
+                [
+                  "so",
+                  "so"
+                ],
+                [
+                  "hot,",
+                  "heiß,"
+                ],
+                [
+                  "I",
+                  "ich"
+                ],
+                [
+                  "couldn't",
+                  "konnte-nicht"
+                ],
+                [
+                  "concentrate",
+                  "mich-konzentrieren"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "mein"
+                ],
+                [
+                  "book.",
+                  "Buch."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -556,74 +6100,1044 @@
         {
           "parts": [
             "England is famous ",
-            {"opts": ["of","for","about"], "decode": ["von","für","über"], "correct": 1},
+            {
+              "opts": [
+                "of",
+                "for",
+                "about"
+              ],
+              "decode": [
+                "von",
+                "für",
+                "über"
+              ],
+              "correct": 1,
+              "n": "for"
+            },
             " its rainy weather. I'm very proud ",
-            {"opts": ["on","about","of"], "decode": ["auf","über","auf/von"], "correct": 2},
+            {
+              "opts": [
+                "on",
+                "about",
+                "of"
+              ],
+              "decode": [
+                "auf",
+                "über",
+                "auf/von"
+              ],
+              "correct": 2,
+              "n": "of"
+            },
             " my daughter, she worked very hard."
           ],
           "solutionEn": "England is famous for its rainy weather. I'm very proud of my daughter, she worked very hard.",
           "solutionDe": "England ist für sein Regenwetter berühmt. Ich bin sehr stolz auf meine Tochter, sie hat hart gearbeitet.",
-          "explain": "famous FOR = berühmt für; proud OF = stolz auf (nicht „proud on“ – typischer Deutsch-Fehler!)."
+          "explain": "famous FOR = berühmt für; proud OF = stolz auf (nicht „proud on“ – typischer Deutsch-Fehler!).",
+          "decodeFull": [
+            [
+              "England",
+              "England"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "famous",
+              "berühmt"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "its",
+              "sein"
+            ],
+            [
+              "rainy",
+              "regnerisches"
+            ],
+            [
+              "weather.",
+              "Wetter."
+            ],
+            [
+              "I'm",
+              "ich-bin"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "proud",
+              "stolz"
+            ],
+            [
+              "of",
+              "auf"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "daughter,",
+              "Tochter,"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "worked",
+              "arbeitete"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "hard.",
+              "hart."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "England",
+                  "England"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "famous",
+                  "berühmt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "its",
+                  "sein"
+                ],
+                [
+                  "rainy",
+                  "regnerisches"
+                ],
+                [
+                  "weather.",
+                  "Wetter."
+                ],
+                [
+                  "I'm",
+                  "ich-bin"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "proud",
+                  "stolz"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meine"
+                ],
+                [
+                  "daughter,",
+                  "Tochter,"
+                ],
+                [
+                  "she",
+                  "sie"
+                ],
+                [
+                  "worked",
+                  "arbeitete"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "hard.",
+                  "hart."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "He isn't really interested ",
-            {"opts": ["in","on","for"], "decode": ["in/an","auf","für"], "correct": 0},
+            {
+              "opts": [
+                "in",
+                "on",
+                "for"
+              ],
+              "decode": [
+                "in/an",
+                "auf",
+                "für"
+              ],
+              "correct": 0,
+              "n": "in"
+            },
             " getting married. Luke is very pleased ",
-            {"opts": ["about","with","of"], "decode": ["über","mit","von"], "correct": 1},
+            {
+              "opts": [
+                "about",
+                "with",
+                "of"
+              ],
+              "decode": [
+                "über",
+                "mit",
+                "von"
+              ],
+              "correct": 1,
+              "n": "with"
+            },
             " his exam results."
           ],
           "solutionEn": "He isn't really interested in getting married. Luke is very pleased with his exam results.",
           "solutionDe": "Er ist nicht wirklich daran interessiert zu heiraten. Luke ist mit seinen Prüfungsergebnissen sehr zufrieden.",
-          "explain": "interested IN; pleased WITH = zufrieden mit."
+          "explain": "interested IN; pleased WITH = zufrieden mit.",
+          "decodeFull": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "isn't",
+              "ist-nicht"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "interested",
+              "interessiert"
+            ],
+            [
+              "in",
+              "an"
+            ],
+            [
+              "getting",
+              "-"
+            ],
+            [
+              "married.",
+              "Heiraten."
+            ],
+            [
+              "Luke",
+              "Luke"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "pleased",
+              "zufrieden"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "his",
+              "seinen"
+            ],
+            [
+              "exam",
+              "Prüfungs-"
+            ],
+            [
+              "results.",
+              "ergebnissen."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "He",
+                  "er"
+                ],
+                [
+                  "isn't",
+                  "ist-nicht"
+                ],
+                [
+                  "really",
+                  "wirklich"
+                ],
+                [
+                  "interested",
+                  "interessiert"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "getting",
+                  "-"
+                ],
+                [
+                  "married.",
+                  "Heiraten."
+                ],
+                [
+                  "Luke",
+                  "Luke"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "pleased",
+                  "zufrieden"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "his",
+                  "seinen"
+                ],
+                [
+                  "exam",
+                  "Prüfungs-"
+                ],
+                [
+                  "results.",
+                  "ergebnissen."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "Unfortunately, I'm very bad ",
-            {"opts": ["in","at","with"], "decode": ["in","bei/in","mit"], "correct": 1},
+            {
+              "opts": [
+                "in",
+                "at",
+                "with"
+              ],
+              "decode": [
+                "in",
+                "bei/in",
+                "mit"
+              ],
+              "correct": 1,
+              "n": "at"
+            },
             " music. I've been married ",
-            {"opts": ["with","to","at"], "decode": ["mit","zu/mit","bei"], "correct": 1},
+            {
+              "opts": [
+                "with",
+                "to",
+                "at"
+              ],
+              "decode": [
+                "mit",
+                "zu/mit",
+                "bei"
+              ],
+              "correct": 1,
+              "n": "to"
+            },
             " my husband for 10 years."
           ],
           "solutionEn": "Unfortunately, I'm very bad at music. I've been married to my husband for 10 years.",
           "solutionDe": "Leider bin ich sehr schlecht in Musik. Ich bin seit 10 Jahren mit meinem Mann verheiratet.",
-          "explain": "good/bad AT = gut/schlecht in (nicht „in“!); married TO = verheiratet mit (nicht „with“!)."
+          "explain": "good/bad AT = gut/schlecht in (nicht „in“!); married TO = verheiratet mit (nicht „with“!).",
+          "decodeFull": [
+            [
+              "Unfortunately,",
+              "leider"
+            ],
+            [
+              "I'm",
+              "ich-bin"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "bad",
+              "schlecht"
+            ],
+            [
+              "at",
+              "in"
+            ],
+            [
+              "music.",
+              "Musik."
+            ],
+            [
+              "I've",
+              "ich-bin"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "married",
+              "verheiratet"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "husband",
+              "Mann"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "10",
+              "10"
+            ],
+            [
+              "years.",
+              "Jahren."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Unfortunately,",
+                  "leider"
+                ],
+                [
+                  "I'm",
+                  "ich-bin"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "bad",
+                  "schlecht"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "music.",
+                  "Musik."
+                ],
+                [
+                  "I've",
+                  "ich-bin"
+                ],
+                [
+                  "been",
+                  "gewesen"
+                ],
+                [
+                  "married",
+                  "verheiratet"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "my",
+                  "meinem"
+                ],
+                [
+                  "husband",
+                  "Mann"
+                ],
+                [
+                  "for",
+                  "seit"
+                ],
+                [
+                  "10",
+                  "10"
+                ],
+                [
+                  "years.",
+                  "Jahren."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "She's very excited ",
-            {"opts": ["about","for","of"], "decode": ["über/auf","für","von"], "correct": 0},
+            {
+              "opts": [
+                "about",
+                "for",
+                "of"
+              ],
+              "decode": [
+                "über/auf",
+                "für",
+                "von"
+              ],
+              "correct": 0,
+              "n": "about"
+            },
             " the party. Julie is very different ",
-            {"opts": ["to","than","from"], "decode": ["zu","als","von"], "correct": 2},
+            {
+              "opts": [
+                "to",
+                "than",
+                "from"
+              ],
+              "decode": [
+                "zu",
+                "als",
+                "von"
+              ],
+              "correct": 2,
+              "n": "from"
+            },
             " her sister."
           ],
           "solutionEn": "She's very excited about the party. Julie is very different from her sister.",
           "solutionDe": "Sie freut sich sehr auf die Party. Julie ist ganz anders als ihre Schwester.",
-          "explain": "excited ABOUT = aufgeregt/freut sich auf; different FROM = anders als."
+          "explain": "excited ABOUT = aufgeregt/freut sich auf; different FROM = anders als.",
+          "decodeFull": [
+            [
+              "She's",
+              "sie-ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "excited",
+              "aufgeregt"
+            ],
+            [
+              "about",
+              "wegen"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "party.",
+              "Party."
+            ],
+            [
+              "Julie",
+              "Julie"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "different",
+              "verschieden"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "her",
+              "ihrer"
+            ],
+            [
+              "sister.",
+              "Schwester."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "She's",
+                  "sie-ist"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "excited",
+                  "aufgeregt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "der"
+                ],
+                [
+                  "party.",
+                  "Party."
+                ],
+                [
+                  "Julie",
+                  "Julie"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "different",
+                  "verschieden"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "her",
+                  "ihrer"
+                ],
+                [
+                  "sister.",
+                  "Schwester."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "My niece is afraid ",
-            {"opts": ["from","of","about"], "decode": ["vor","vor/von","über"], "correct": 1},
+            {
+              "opts": [
+                "from",
+                "of",
+                "about"
+              ],
+              "decode": [
+                "vor",
+                "vor/von",
+                "über"
+              ],
+              "correct": 1,
+              "n": "of"
+            },
             " dogs. A ball gown is similar ",
-            {"opts": ["with","as","to"], "decode": ["mit","wie","zu"], "correct": 2},
+            {
+              "opts": [
+                "with",
+                "as",
+                "to"
+              ],
+              "decode": [
+                "mit",
+                "wie",
+                "zu"
+              ],
+              "correct": 2,
+              "n": "to"
+            },
             " an evening dress."
           ],
           "solutionEn": "My niece is afraid of dogs. A ball gown is similar to an evening dress.",
           "solutionDe": "Meine Nichte hat Angst vor Hunden. Ein Ballkleid ist einem Abendkleid ähnlich.",
-          "explain": "afraid OF = Angst vor (das deutsche „vor“ verleitet zu from!); similar TO = ähnlich wie."
+          "explain": "afraid OF = Angst vor (das deutsche „vor“ verleitet zu from!); similar TO = ähnlich wie.",
+          "decodeFull": [
+            [
+              "My",
+              "meine"
+            ],
+            [
+              "niece",
+              "Nichte"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "afraid",
+              "ängstlich"
+            ],
+            [
+              "of",
+              "vor"
+            ],
+            [
+              "dogs.",
+              "Hunden."
+            ],
+            [
+              "A",
+              "ein"
+            ],
+            [
+              "ball",
+              "Ball-"
+            ],
+            [
+              "gown",
+              "kleid"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "similar",
+              "ähnlich"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "an",
+              "einem"
+            ],
+            [
+              "evening",
+              "Abend-"
+            ],
+            [
+              "dress.",
+              "kleid."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "My",
+                  "meine"
+                ],
+                [
+                  "niece",
+                  "Nichte"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "afraid",
+                  "ängstlich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "dogs.",
+                  "Hunden."
+                ],
+                [
+                  "A",
+                  "ein"
+                ],
+                [
+                  "ball",
+                  "Ball-"
+                ],
+                [
+                  "gown",
+                  "kleid"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "similar",
+                  "ähnlich"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "an",
+                  "einem"
+                ],
+                [
+                  "evening",
+                  "Abend-"
+                ],
+                [
+                  "dress.",
+                  "kleid."
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "What is your town famous ",
-            {"opts": ["for","of","with"], "decode": ["für","von","mit"], "correct": 0},
+            {
+              "opts": [
+                "for",
+                "of",
+                "with"
+              ],
+              "decode": [
+                "für",
+                "von",
+                "mit"
+              ],
+              "correct": 0,
+              "n": "for"
+            },
             "? English cheese is very different ",
-            {"opts": ["from","of","to"], "decode": ["von","von","zu"], "correct": 0},
+            {
+              "opts": [
+                "from",
+                "of",
+                "to"
+              ],
+              "decode": [
+                "von",
+                "von",
+                "zu"
+              ],
+              "correct": 0,
+              "n": "from"
+            },
             " French cheese."
           ],
           "solutionEn": "What is your town famous for? English cheese is very different from French cheese.",
           "solutionDe": "Wofür ist deine Stadt berühmt? Englischer Käse ist ganz anders als französischer Käse.",
-          "explain": "famous FOR (auch in Fragen am Ende); different FROM."
+          "explain": "famous FOR (auch in Fragen am Ende); different FROM.",
+          "decodeFull": [
+            [
+              "What",
+              "wofür"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "town",
+              "Stadt"
+            ],
+            [
+              "famous",
+              "berühmt"
+            ],
+            [
+              "for?",
+              "?"
+            ],
+            [
+              "English",
+              "englischer"
+            ],
+            [
+              "cheese",
+              "Käse"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "different",
+              "verschieden"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "French",
+              "französischem"
+            ],
+            [
+              "cheese.",
+              "Käse."
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": [
+                [
+                  "What",
+                  "wofür"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "your",
+                  "deine"
+                ],
+                [
+                  "town",
+                  "Stadt"
+                ],
+                [
+                  "famous",
+                  "berühmt"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "English",
+                  "englischer"
+                ],
+                [
+                  "cheese",
+                  "Käse"
+                ],
+                [
+                  "is",
+                  "ist"
+                ],
+                [
+                  "very",
+                  "sehr"
+                ],
+                [
+                  "different",
+                  "verschieden"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "French",
+                  "französischem"
+                ],
+                [
+                  "cheese.",
+                  "Käse."
+                ]
+              ]
+            }
+          ]
         }
       ]
     },
@@ -637,66 +7151,634 @@
         {
           "parts": [
             "",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " Monday, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " 9 o'clock, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " midnight, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " 2012"
           ],
           "solutionEn": "on Monday – at 9 o'clock – at midnight – in 2012",
           "solutionDe": "am Montag – um 9 Uhr – um Mitternacht – im Jahr 2012",
-          "explain": "at + Uhrzeit (at 9 o'clock, at midnight); on + Tag (on Monday); in + Jahr (in 2012)."
+          "explain": "at + Uhrzeit (at 9 o'clock, at midnight); on + Tag (on Monday); in + Jahr (in 2012).",
+          "decodeFull": [
+            [
+              "on",
+              "am"
+            ],
+            [
+              "Monday,",
+              "Montag,"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "9 o'clock,",
+              "9 Uhr,"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "midnight,",
+              "Mitternacht,"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "2012",
+              "Jahr 2012"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Monday,",
+                  "Montag,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "9 o'clock,",
+                  "9 Uhr,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "midnight,",
+                  "Mitternacht,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "2012",
+                  "Jahr 2012"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " Friday, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " January 1st, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " January, ",
-            {"opts": ["at","on","in"], "decode": ["um","am","im"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "um",
+                "am",
+                "im"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " summer"
           ],
           "solutionEn": "on Friday – on January 1st – in January – in summer",
           "solutionDe": "am Freitag – am 1. Jänner – im Jänner – im Sommer",
-          "explain": "on + Tag und Datum (on Friday, on January 1st); in + Monat und Jahreszeit (in January, in summer)."
+          "explain": "on + Tag und Datum (on Friday, on January 1st); in + Monat und Jahreszeit (in January, in summer).",
+          "decodeFull": [
+            [
+              "on",
+              "am"
+            ],
+            [
+              "Friday,",
+              "Freitag,"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "January 1st,",
+              "1. Januar,"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "January,",
+              "Januar,"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "summer",
+              "Sommer"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Friday,",
+                  "Freitag,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "January 1st,",
+                  "1. Januar,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "January,",
+                  "Januar,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "summer",
+                  "Sommer"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["at","on","in"], "decode": ["bei/in","auf","in"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei/in",
+                "auf",
+                "in"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " Union Bank, ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf/in","in"], "correct": 1},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf/in",
+                "in"
+              ],
+              "correct": 1,
+              "n": "on"
+            },
             " Pine Street, ",
-            {"opts": ["at","on","in"], "decode": ["bei/in","auf","in"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei/in",
+                "auf",
+                "in"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " 277 Pine Street, ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " Los Angeles"
           ],
           "solutionEn": "at Union Bank – on Pine Street – at 277 Pine Street – in Los Angeles",
           "solutionDe": "bei der Union Bank – in der Pine Street – Pine Street 277 (genaue Adresse) – in Los Angeles",
-          "explain": "at + bestimmter Ort/genaue Adresse mit Hausnummer; on + Straße (ohne Nummer); in + Stadt."
+          "explain": "at + bestimmter Ort/genaue Adresse mit Hausnummer; on + Straße (ohne Nummer); in + Stadt.",
+          "decodeFull": [
+            [
+              "at",
+              "bei-der"
+            ],
+            [
+              "Union Bank,",
+              "Union Bank,"
+            ],
+            [
+              "on",
+              "in-der"
+            ],
+            [
+              "Pine Street,",
+              "Pine Street,"
+            ],
+            [
+              "at",
+              "in"
+            ],
+            [
+              "277 Pine Street,",
+              "277 Pine Street,"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Los Angeles",
+              "Los Angeles"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Union Bank,",
+                  "Union Bank,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Pine Street,",
+                  "Pine Street,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "277 Pine Street,",
+                  "277 Pine Street,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Los Angeles",
+                  "Los Angeles"
+                ]
+              ]
+            }
+          ]
         },
         {
           "parts": [
             "",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " California, ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 2},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 2,
+              "n": "in"
+            },
             " the United States, ",
-            {"opts": ["at","on","in"], "decode": ["bei/an","auf","in"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei/an",
+                "auf",
+                "in"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " Minnesota University, ",
-            {"opts": ["at","on","in"], "decode": ["bei","auf","in"], "correct": 0},
+            {
+              "opts": [
+                "at",
+                "on",
+                "in"
+              ],
+              "decode": [
+                "bei",
+                "auf",
+                "in"
+              ],
+              "correct": 0,
+              "n": "at"
+            },
             " Shoes for Less"
           ],
           "solutionEn": "in California – in the United States – at Minnesota University – at Shoes for Less",
           "solutionDe": "in Kalifornien – in den USA – an der Minnesota University – bei „Shoes for Less“ (Geschäft)",
-          "explain": "in + Bundesstaat/Land; at + Institution/Geschäft (Universität, Bank, Shop)."
+          "explain": "in + Bundesstaat/Land; at + Institution/Geschäft (Universität, Bank, Shop).",
+          "decodeFull": [
+            [
+              "in",
+              "in"
+            ],
+            [
+              "California,",
+              "Kalifornien,"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "United States,",
+              "Vereinigten Staaten,"
+            ],
+            [
+              "at",
+              "an-der"
+            ],
+            [
+              "Minnesota University,",
+              "Minnesota University,"
+            ],
+            [
+              "at",
+              "bei"
+            ],
+            [
+              "Shoes for Less",
+              "Shoes for Less"
+            ]
+          ],
+          "wfw": [
+            {
+              "t": "t",
+              "w": []
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "California,",
+                  "Kalifornien,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "the",
+                  "den"
+                ],
+                [
+                  "United States,",
+                  "Vereinigten Staaten,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Minnesota University,",
+                  "Minnesota University,"
+                ]
+              ]
+            },
+            {
+              "t": "g"
+            },
+            {
+              "t": "t",
+              "w": [
+                [
+                  "Shoes for Less",
+                  "Shoes for Less"
+                ]
+              ]
+            }
+          ]
         }
       ]
     }
