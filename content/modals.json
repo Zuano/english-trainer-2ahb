@@ -501,8 +501,7 @@
                 "Fähigkeit",
                 "Möglichkeit"
               ],
-              "correct": 1,
-              "n": "ability"
+              "correct": 1
             }
           ],
           "solutionEn": "She can speak three languages fluently. → ability",
@@ -603,8 +602,7 @@
                 "Erlaubnis-in-der-Vergangenheit",
                 "Rat"
               ],
-              "correct": 0,
-              "n": "past ability"
+              "correct": 0
             }
           ],
           "solutionEn": "When he was younger, he could run 10 miles without stopping. → past ability",
@@ -749,8 +747,7 @@
                 "Wahrscheinlichkeit",
                 "höfliche-Erlaubnis"
               ],
-              "correct": 2,
-              "n": "formal permission"
+              "correct": 2
             }
           ],
           "solutionEn": "May I borrow your pen for a moment? → formal permission",
@@ -871,8 +868,7 @@
                 "Sicherheit",
                 "Fähigkeit"
               ],
-              "correct": 0,
-              "n": "possibility"
+              "correct": 0
             }
           ],
           "solutionEn": "It looks cloudy today. It might rain later. → possibility",
@@ -989,8 +985,7 @@
                 "Rat",
                 "Erlaubnis"
               ],
-              "correct": 1,
-              "n": "advice"
+              "correct": 1
             }
           ],
           "solutionEn": "You should see a doctor about that cough. → advice / recommendation",
@@ -1107,8 +1102,7 @@
                 "Möglichkeit",
                 "Verpflichtung"
               ],
-              "correct": 2,
-              "n": "obligation"
+              "correct": 2
             }
           ],
           "solutionEn": "You must wear a seatbelt while driving. → obligation / strong necessity",
@@ -1228,8 +1222,7 @@
                 "müsste/sollte",
                 "könnte"
               ],
-              "correct": 2,
-              "n": "should"
+              "correct": 2
             },
             " be home by now. Where can he be?"
           ],
@@ -1354,8 +1347,7 @@
                 "solltest",
                 "kannst"
               ],
-              "correct": 2,
-              "n": "ought to"
+              "correct": 2
             },
             " go to the emergency room."
           ],
@@ -1496,8 +1488,7 @@
                 "musst-nicht",
                 "musstest"
               ],
-              "correct": 0,
-              "n": "could"
+              "correct": 0
             },
             " try this new diet."
           ],
@@ -1638,8 +1629,7 @@
                 "könnte",
                 "sollte"
               ],
-              "correct": 0,
-              "n": "will"
+              "correct": 0
             },
             " call an ambulance!"
           ],
@@ -1756,8 +1746,7 @@
                 "brauchst-nicht",
                 "kannst-nicht"
               ],
-              "correct": 2,
-              "n": "needn't"
+              "correct": 2
             },
             " come too early. We won't leave until 9 o'clock."
           ],
@@ -1882,8 +1871,7 @@
                 "würden",
                 "dürfen-nicht"
               ],
-              "correct": 1,
-              "n": "must"
+              "correct": 1
             },
             " be accompanied by an adult at the zoo."
           ],
@@ -2000,8 +1988,7 @@
                 "konntest-nicht",
                 "solltest"
               ],
-              "correct": 1,
-              "n": "mustn't"
+              "correct": 1
             },
             " talk during tests. It's forbidden!"
           ],
@@ -2094,8 +2081,7 @@
                 "müssen-(sicher)",
                 "müssen-(Pflicht)"
               ],
-              "correct": 2,
-              "n": "must"
+              "correct": 2
             },
             " be near the fire."
           ],
@@ -2220,8 +2206,7 @@
                 "sollten-nicht",
                 "konnten-nicht"
               ],
-              "correct": 3,
-              "n": "couldn't"
+              "correct": 3
             },
             " hear him because he was whispering."
           ],
@@ -2322,8 +2307,7 @@
                 "kannst-nicht",
                 "solltest-nicht"
               ],
-              "correct": 2,
-              "n": "can't"
+              "correct": 2
             },
             " be serious!"
           ],
@@ -2439,8 +2423,7 @@
                 "solltest",
                 "würdest"
               ],
-              "correct": 3,
-              "n": "would"
+              "correct": 3
             },
             " you like to have dinner with me tonight?"
           ],
@@ -2544,8 +2527,7 @@
                 "könntest-nicht",
                 "kannst"
               ],
-              "correct": 0,
-              "n": "mustn't"
+              "correct": 0
             },
             " let him hear about the party tomorrow. It's a surprise!"
           ],
@@ -2677,8 +2659,7 @@
                 "würde",
                 "brauche"
               ],
-              "correct": 1,
-              "n": "may"
+              "correct": 1
             },
             " I speak to the Chief Councellor, please?"
           ],
@@ -2775,7 +2756,7 @@
                 "muss"
               ],
               "correct": 0,
-              "n": "must have"
+              "n": "have"
             },
             " missed the bus."
           ],
@@ -3890,8 +3871,7 @@
                 "wir-wissen-vielleicht-morgen",
                 "wir-müssten-morgen-eigentlich-wissen"
               ],
-              "correct": 0,
-              "n": "We may know the answers tomorrow."
+              "correct": 0
             }
           ],
           "solutionEn": "We may know the answers tomorrow.",
@@ -4014,8 +3994,7 @@
                 "du-rufst-vielleicht-nicht-an",
                 "du-solltest-besser-nicht-anrufen"
               ],
-              "correct": 1,
-              "n": "You'd better not ring him now. It's rather late."
+              "correct": 1
             }
           ],
           "solutionEn": "You'd better not ring him now. It's rather late.",
@@ -4174,8 +4153,7 @@
                 "du-wirst-nicht-kommen",
                 "du-musst-nicht-kommen"
               ],
-              "correct": 1,
-              "n": "You don't have to come if you don't want to."
+              "correct": 1
             }
           ],
           "solutionEn": "You don't have to come if you don't want to.",
@@ -4306,8 +4284,7 @@
                 "du-musst-nicht-so-hart-arbeiten",
                 "du-solltest-nicht-so-hart-arbeiten"
               ],
-              "correct": 1,
-              "n": "You shouldn't work so hard."
+              "correct": 1
             }
           ],
           "solutionEn": "You shouldn't work so hard.",
@@ -4442,8 +4419,7 @@
                 "das-könnten-die-Schlüssel-sein",
                 "das-müssen-die-Schlüssel-sein"
               ],
-              "correct": 0,
-              "n": "These might be the keys."
+              "correct": 0
             }
           ],
           "solutionEn": "These might be the keys.",
@@ -4538,8 +4514,7 @@
                 "wir-sollten-besser-nicht-einsperren",
                 "das-können/dürfen-wir-nicht-machen"
               ],
-              "correct": 1,
-              "n": "We can't lock the cat in the house for a week."
+              "correct": 1
             }
           ],
           "solutionEn": "We can't lock the cat in the house for a week.",
@@ -4746,8 +4721,7 @@
                 "wird-vielleicht-verkündet",
                 "wird-sicher-verkündet"
               ],
-              "correct": 0,
-              "n": "The decision might be announced next week."
+              "correct": 0
             }
           ],
           "solutionEn": "The decision might be announced next week.",
@@ -4890,8 +4864,7 @@
                 "sosehr-ich-es-auch-versuche",
                 "(diese-Struktur-gibt-es-nicht)"
               ],
-              "correct": 0,
-              "n": "Try as I may, I can never solve The Times crossword."
+              "correct": 0
             }
           ],
           "solutionEn": "Try as I may, I can never solve The Times crossword.",
@@ -5058,8 +5031,7 @@
                 "wir-müssen-stattdessen-essen-gehen",
                 "wir-könnten-stattdessen-essen-gehen"
               ],
-              "correct": 1,
-              "n": "I know. We could go out to eat instead."
+              "correct": 1
             }
           ],
           "solutionEn": "I know. We could go out to eat instead.",

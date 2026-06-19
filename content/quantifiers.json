@@ -353,8 +353,7 @@
                 "irgendwelche",
                 "viel"
               ],
-              "correct": 0,
-              "n": "some"
+              "correct": 0
             },
             " snacks and ",
             {
@@ -368,8 +367,7 @@
                 "ein-paar",
                 "viel"
               ],
-              "correct": 1,
-              "n": "a few"
+              "correct": 1
             },
             " bottles of juice."
           ],
@@ -536,8 +534,7 @@
                 "viel",
                 "ein-paar"
               ],
-              "correct": 1,
-              "n": "much"
+              "correct": 1
             },
             " soda because ",
             {
@@ -551,8 +548,7 @@
                 "viele",
                 "ein-wenig"
               ],
-              "correct": 1,
-              "n": "many"
+              "correct": 1
             },
             " of her friends prefer water."
           ],
@@ -687,8 +683,7 @@
                 "viel",
                 "irgendwelche"
               ],
-              "correct": 0,
-              "n": "a lot of"
+              "correct": 0
             },
             " sandwiches, but there aren't ",
             {
@@ -702,8 +697,7 @@
                 "keine",
                 "irgendwelche"
               ],
-              "correct": 2,
-              "n": "any"
+              "correct": 2
             },
             " vegetarian options yet. She still has ",
             {
@@ -717,8 +711,7 @@
                 "ein-wenig",
                 "viele"
               ],
-              "correct": 1,
-              "n": "a little"
+              "correct": 1
             },
             " time to go to the supermarket."
           ],
@@ -922,8 +915,7 @@
                 "viele",
                 "ein-wenig"
               ],
-              "correct": 1,
-              "n": "many"
+              "correct": 1
             },
             " honest people in the world these days."
           ],
@@ -1022,8 +1014,7 @@
                 "wenig",
                 "ein-wenig"
               ],
-              "correct": 1,
-              "n": "little"
+              "correct": 1
             },
             " information about his private life."
           ],
@@ -1170,8 +1161,7 @@
                 "wenig",
                 "ein-paar"
               ],
-              "correct": 0,
-              "n": "few"
+              "correct": 0
             },
             " friends."
           ],
@@ -1310,8 +1300,7 @@
                 "keine",
                 "etwas"
               ],
-              "correct": 2,
-              "n": "some"
+              "correct": 2
             },
             " hope that they'll turn the game around."
           ],
@@ -1466,8 +1455,7 @@
                 "ein-paar",
                 "wenig"
               ],
-              "correct": 0,
-              "n": "few"
+              "correct": 0
             },
             " students have such good marks. She is an unmatched genius."
           ],
@@ -1589,8 +1577,7 @@
                 "viel",
                 "ein-paar"
               ],
-              "correct": 1,
-              "n": "much"
+              "correct": 1
             },
             " to say about the characters."
           ],
@@ -1737,8 +1724,7 @@
                 "irgendein",
                 "keiner"
               ],
-              "correct": 0,
-              "n": "no"
+              "correct": 0
             },
             " cake left! Ben's eaten the whole thing!"
           ],
@@ -1845,8 +1831,7 @@
                 "wenig",
                 "ein-wenig"
               ],
-              "correct": 2,
-              "n": "a little"
+              "correct": 2
             },
             " patience? I'll be back in 5 minutes."
           ],
@@ -1985,8 +1970,7 @@
                 "wenig",
                 "ein-wenig"
               ],
-              "correct": 1,
-              "n": "little"
+              "correct": 1
             },
             " about."
           ],
@@ -2117,8 +2101,7 @@
                 "viele",
                 "viel"
               ],
-              "correct": 0,
-              "n": "much"
+              "correct": 0
             },
             " dancing."
           ],
@@ -2226,8 +2209,7 @@
                 "wenige",
                 "wenig"
               ],
-              "correct": 2,
-              "n": "little"
+              "correct": 2
             },
             " petrol left."
           ],
@@ -2342,8 +2324,7 @@
                 "viele",
                 "irgendwelche"
               ],
-              "correct": 1,
-              "n": "a lot of"
+              "correct": 1
             },
             " people!"
           ],
@@ -2434,8 +2415,7 @@
                 "kein",
                 "viel"
               ],
-              "correct": 1,
-              "n": "no"
+              "correct": 1
             },
             " money whatsoever."
           ],
@@ -2542,8 +2522,7 @@
                 "wenige",
                 "ein-paar"
               ],
-              "correct": 0,
-              "n": "little"
+              "correct": 0
             },
             " furniture. Maybe one chair and a small table."
           ],
@@ -2690,8 +2669,7 @@
                 "viel",
                 "viel"
               ],
-              "correct": 2,
-              "n": "a lot of"
+              "correct": 2
             },
             " progress."
           ],
@@ -2782,8 +2760,7 @@
                 "viel",
                 "wenige"
               ],
-              "correct": 1,
-              "n": "much"
+              "correct": 1
             },
             " poverty."
           ],
@@ -2890,8 +2867,7 @@
                 "keine",
                 "einige"
               ],
-              "correct": 2,
-              "n": "some"
+              "correct": 2
             },
             " school subjects are easier than others."
           ],
@@ -2981,8 +2957,7 @@
                 "irgendwelche",
                 "wenig"
               ],
-              "correct": 0,
-              "n": "no"
+              "correct": 0
             },
             " help."
           ],
@@ -3145,8 +3120,7 @@
                 "wenig",
                 "ein-wenig"
               ],
-              "correct": 1,
-              "n": "little"
+              "correct": 1
             },
             " evidence was presented."
           ],
@@ -3245,8 +3219,7 @@
                 "viele",
                 "keine"
               ],
-              "correct": 1,
-              "n": "many"
+              "correct": 1
             },
             " things to do in Egypt that are free of charge."
           ],
@@ -3360,8 +3333,7 @@
                 "viel",
                 "viele"
               ],
-              "correct": 0,
-              "n": "much"
+              "correct": 0
             },
             " money do you need?"
           ],
@@ -3442,8 +3414,7 @@
                 "viel",
                 "viele"
               ],
-              "correct": 1,
-              "n": "many"
+              "correct": 1
             },
             " apples do you want?"
           ],
@@ -3524,8 +3495,7 @@
                 "etwas",
                 "irgendetwas"
               ],
-              "correct": 1,
-              "n": "any"
+              "correct": 1
             },
             " milk left?"
           ],
@@ -3606,8 +3576,7 @@
                 "ein-paar",
                 "irgendwelche"
               ],
-              "correct": 0,
-              "n": "some"
+              "correct": 0
             },
             " apples at the market."
           ],

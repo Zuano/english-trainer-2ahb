@@ -1215,8 +1215,7 @@
                 "eine eingängige Melodie",
                 "ein fröhlicher Liedtext"
               ],
-              "correct": 0,
-              "n": "a shiver"
+              "correct": 0
             }
           ],
           "solutionEn": "a shiver",
@@ -1299,8 +1298,7 @@
                 "eine eingängige Melodie",
                 "ein fröhlicher Liedtext"
               ],
-              "correct": 3,
-              "n": "upbeat lyrics"
+              "correct": 3
             }
           ],
           "solutionEn": "upbeat lyrics",
@@ -1431,8 +1429,7 @@
                 "eine eingängige Melodie",
                 "ein fröhlicher Liedtext"
               ],
-              "correct": 1,
-              "n": "a screeching noise"
+              "correct": 1
             }
           ],
           "solutionEn": "a screeching noise",
@@ -1519,8 +1516,7 @@
                 "eine eingängige Melodie",
                 "ein fröhlicher Liedtext"
               ],
-              "correct": 2,
-              "n": "a catchy tune"
+              "correct": 2
             }
           ],
           "solutionEn": "a catchy tune",
@@ -1654,8 +1650,7 @@
                 "wird von den meisten Menschen gemocht",
                 "wird in Zukunft sicher unbeliebt werden"
               ],
-              "correct": 1,
-              "n": "is liked by most people"
+              "correct": 1
             }
           ],
           "solutionEn": "is liked by most people",
@@ -1762,8 +1757,7 @@
                 "Menschen genießen verschiedene Versionen desselben Lieds.",
                 "Er wollte die Stimmung der Menschen beim Musikhören erforschen."
               ],
-              "correct": 1,
-              "n": "He wanted to get just the right version to move people."
+              "correct": 1
             }
           ],
           "solutionEn": "He wanted to get just the right version to move people.",
@@ -1914,8 +1908,7 @@
                 "Musik beeinflusst, wie Menschen fühlen und handeln.",
                 "Musik inspiriert Menschen zum Tanzen und Marschieren."
               ],
-              "correct": 2,
-              "n": "Music influences the way people feel and act."
+              "correct": 2
             }
           ],
           "solutionEn": "Music influences the way people feel and act.",
@@ -2059,8 +2052,7 @@
                 "richtig",
                 "falsch"
               ],
-              "correct": 1,
-              "n": "false"
+              "correct": 1
             }
           ],
           "solutionEn": "False – 'creating Happy was by no means as effortless as the song sounds.'",
@@ -2143,8 +2135,7 @@
                 "richtig",
                 "falsch"
               ],
-              "correct": 0,
-              "n": "true"
+              "correct": 0
             }
           ],
           "solutionEn": "True – 'Supermarkets often play relaxing music … and research suggests that this can increase sales.'",
@@ -2235,8 +2226,7 @@
                 "richtig",
                 "falsch"
               ],
-              "correct": 1,
-              "n": "false"
+              "correct": 1
             }
           ],
           "solutionEn": "False – 'National anthems have been used for centuries to stimulate feelings of patriotism.'",
@@ -2370,8 +2360,7 @@
                 "dazupassen zu (fit in with)",
                 "mithalten mit (keep up with)"
               ],
-              "correct": 1,
-              "n": "in with"
+              "correct": 1
             },
             " his friends."
           ],
@@ -2478,8 +2467,7 @@
                 "bis zu",
                 "heraus aus"
               ],
-              "correct": 0,
-              "n": "into"
+              "correct": 0
             },
             " electronic music."
           ],
@@ -2602,8 +2590,7 @@
                 "abhängen (hang out)",
                 "warten (hang on)"
               ],
-              "correct": 1,
-              "n": "out"
+              "correct": 1
             },
             " in the big malls."
           ],
@@ -2722,8 +2709,7 @@
                 "anfangen mit (take up)",
                 "ausziehen/abheben (take off)"
               ],
-              "correct": 1,
-              "n": "up"
+              "correct": 1
             },
             " the piano."
           ],
@@ -2827,8 +2813,7 @@
                 "Lead-/Haupt-",
                 "Schlagzeug-"
               ],
-              "correct": 1,
-              "n": "lead"
+              "correct": 1
             },
             " guitarist in a ",
             {
@@ -2842,8 +2827,7 @@
                 "Rock-",
                 "Opern-"
               ],
-              "correct": 1,
-              "n": "rock"
+              "correct": 1
             },
             " band. We play about one ",
             {
@@ -2857,8 +2841,7 @@
                 "Mikrofon",
                 "Konzert"
               ],
-              "correct": 2,
-              "n": "concert"
+              "correct": 2
             },
             " a month. Last summer, we performed on an outdoor ",
             {
@@ -2872,8 +2855,7 @@
                 "Schlagzeug",
                 "Studio"
               ],
-              "correct": 0,
-              "n": "stage"
+              "correct": 0
             },
             " at a music festival. We practise in a recording ",
             {
@@ -2887,8 +2869,7 @@
                 "Studio",
                 "Bühne"
               ],
-              "correct": 1,
-              "n": "studio"
+              "correct": 1
             },
             " once a week. It's great fun doing ",
             {
@@ -2902,8 +2883,7 @@
                 "Bühnen",
                 "Schlagzeuge"
               ],
-              "correct": 0,
-              "n": "gig"
+              "correct": 0
             },
             ", but it's hard work carrying all the heavy equipment. I feel sorry for our drummer – he has to carry the ",
             {
@@ -2917,8 +2897,7 @@
                 "Schlagzeug",
                 "Bühne"
               ],
-              "correct": 1,
-              "n": "drum kit"
+              "correct": 1
             },
             ". Our singer is very lucky – she only has to carry her ",
             {
@@ -2932,8 +2911,7 @@
                 "Bühne",
                 "Schlagzeug"
               ],
-              "correct": 0,
-              "n": "microphone"
+              "correct": 0
             },
             "!"
           ],
@@ -3600,8 +3578,7 @@
                 "der/die (Personen)",
                 "wo (Orte)"
               ],
-              "correct": 0,
-              "n": "which"
+              "correct": 0
             },
             " took us from the station to the festival site. Those are the girls ",
             {
@@ -3615,8 +3592,7 @@
                 "die (Personen)",
                 "die (Sachen)"
               ],
-              "correct": 1,
-              "n": "who"
+              "correct": 1
             },
             " I went with – we're having lunch. That's the place ",
             {
@@ -3630,8 +3606,7 @@
                 "wo (Orte)",
                 "der/die/das (Sachen)"
               ],
-              "correct": 1,
-              "n": "where"
+              "correct": 1
             },
             " we ate. It wasn't always so quiet – we tried to go ",
             {
@@ -3645,8 +3620,7 @@
                 "als/wenn (Zeit)",
                 "der/die (Personen)"
               ],
-              "correct": 1,
-              "n": "when"
+              "correct": 1
             },
             " it was less busy! This is the place ",
             {
@@ -3660,8 +3634,7 @@
                 "deren (Besitz)",
                 "wo (Orte)"
               ],
-              "correct": 2,
-              "n": "where"
+              "correct": 2
             },
             " we slept. That's Laura inside – she's the girl ",
             {
@@ -3675,8 +3648,7 @@
                 "deren (Besitz)",
                 "die (Sache)"
               ],
-              "correct": 1,
-              "n": "whose"
+              "correct": 1
             },
             " tent it was."
           ],
@@ -4380,8 +4352,7 @@
                 "das (Sachen)",
                 "dessen/deren"
               ],
-              "correct": 1,
-              "n": "which"
+              "correct": 1
             },
             " almost everybody likes."
           ],
@@ -4480,8 +4451,7 @@
                 "das (Sachen)",
                 "dessen/deren"
               ],
-              "correct": 0,
-              "n": "who"
+              "correct": 0
             },
             " has just taken up the violin."
           ],
@@ -4596,8 +4566,7 @@
                 "der (Personen)",
                 "dessen"
               ],
-              "correct": 1,
-              "n": "who"
+              "correct": 1
             },
             " was born in Austria, was a great composer."
           ],
@@ -4712,8 +4681,7 @@
                 "dessen (Besitz)",
                 "der/das (Sachen)"
               ],
-              "correct": 1,
-              "n": "whose"
+              "correct": 1
             },
             " home was in Jamaica, was the most famous reggae singer."
           ],
@@ -4861,8 +4829,7 @@
                 "Herbst",
                 "Sonnenuntergang"
               ],
-              "correct": 1,
-              "n": "autumn"
+              "correct": 1
             }
           ],
           "solutionEn": "autumn",
@@ -4947,8 +4914,7 @@
                 "Hausschuhe",
                 "Gummistiefel"
               ],
-              "correct": 0,
-              "n": "trainer"
+              "correct": 0
             }
           ],
           "solutionEn": "trainers",
@@ -5033,8 +4999,7 @@
                 "Toast",
                 "Keks"
               ],
-              "correct": 2,
-              "n": "biscuit"
+              "correct": 2
             }
           ],
           "solutionEn": "biscuit",
@@ -5117,8 +5082,7 @@
                 "Farbe (amerikanische Schreibung)",
                 "Farbe (britische Schreibung)"
               ],
-              "correct": 1,
-              "n": "colour"
+              "correct": 1
             }
           ],
           "solutionEn": "colour",
@@ -5204,8 +5168,7 @@
                 "ein Album, das ich wirklich mag",
                 "ein Konzert, das ich besucht habe"
               ],
-              "correct": 1,
-              "n": "One album that I really like"
+              "correct": 1
             },
             " is 'Divide' by Ed Sheeran. It was ",
             {
@@ -5219,8 +5182,7 @@
                 "aufgeführt",
                 "veröffentlicht (Musik/Alben)"
               ],
-              "correct": 2,
-              "n": "release"
+              "correct": 2
             },
             " in 2017. The album mainly belongs to the ",
             {
@@ -5234,8 +5196,7 @@
                 "Pop-",
                 "Klassik-"
               ],
-              "correct": 1,
-              "n": "pop"
+              "correct": 1
             },
             " genre, but it also includes some folk and acoustic elements. Ed Sheeran ",
             {
@@ -5264,8 +5225,7 @@
                 "Titel/Song auf dem Album",
                 "Genre auf dem Album"
               ],
-              "correct": 1,
-              "n": "track on the album"
+              "correct": 1
             },
             " is 'Perfect'. It is a romantic ballad with gentle instrumentals and emotional lyrics. Many ",
             {
@@ -5279,8 +5239,7 @@
                 "Hörer",
                 "Melodien"
               ],
-              "correct": 1,
-              "n": "listener"
+              "correct": 1
             },
             " enjoy this song because it is calm, melodic, and pleasant to listen to. I ",
             {
@@ -5294,8 +5253,7 @@
                 "gehöre zu diesem Album",
                 "(ergibt keinen Sinn)"
               ],
-              "correct": 0,
-              "n": "like this album"
+              "correct": 0
             },
             " because it offers a variety of musical styles and tempos. Some tracks are lively and rhythmic, like 'Shape of You', while ",
             {
@@ -5309,8 +5267,7 @@
                 "andere (allein stehend)",
                 "einander"
               ],
-              "correct": 1,
-              "n": "other"
+              "correct": 1
             },
             " are slower and more emotional. The album has strong songwriting and an enjoyable sound. I would definitely ",
             {
@@ -5324,8 +5281,7 @@
                 "aufnehmen",
                 "empfehlen"
               ],
-              "correct": 2,
-              "n": "recommend"
+              "correct": 2
             },
             " it to people who like modern pop music."
           ],

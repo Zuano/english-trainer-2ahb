@@ -487,8 +487,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " my homework."
           ],
@@ -603,8 +602,7 @@
                 "über",
                 "für"
               ],
-              "correct": 2,
-              "n": "for"
+              "correct": 2
             },
             " the tickets."
           ],
@@ -703,8 +701,7 @@
                 "zu",
                 "mit"
               ],
-              "correct": 1,
-              "n": "to"
+              "correct": 1
             },
             " my father, so I don't think we can use it."
           ],
@@ -851,8 +848,7 @@
                 "von",
                 "von"
               ],
-              "correct": 2,
-              "n": "from"
+              "correct": 2
             },
             " my classmate."
           ],
@@ -943,8 +939,7 @@
                 "auf",
                 "zu"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             " the bus for more than twenty minutes!"
           ],
@@ -1067,8 +1062,7 @@
                 "von",
                 "von"
               ],
-              "correct": 0,
-              "n": "on"
+              "correct": 0
             },
             " John: we'll eat when he gets home."
           ],
@@ -1239,8 +1233,7 @@
                 "bei",
                 "zu"
               ],
-              "correct": 1,
-              "n": "at"
+              "correct": 1
             },
             " the cinema, the film had already started."
           ],
@@ -1363,8 +1356,7 @@
                 "zu",
                 "bei"
               ],
-              "correct": 1,
-              "n": "to"
+              "correct": 1
             },
             " us."
           ],
@@ -1447,8 +1439,7 @@
                 "zu",
                 "auf"
               ],
-              "correct": 1,
-              "n": "to"
+              "correct": 1
             },
             " the radio when the doorbell rang."
           ],
@@ -1563,8 +1554,7 @@
                 "auf",
                 "um"
               ],
-              "correct": 2,
-              "n": "about"
+              "correct": 2
             },
             " his exam results all the time."
           ],
@@ -1680,8 +1670,7 @@
                 "für",
                 "zu"
               ],
-              "correct": 2,
-              "n": "to"
+              "correct": 2
             },
             " a lot of jazz."
           ],
@@ -1780,8 +1769,7 @@
                 "zu",
                 "über"
               ],
-              "correct": 0,
-              "n": "for"
+              "correct": 0
             },
             " the drinks."
           ],
@@ -1856,8 +1844,7 @@
                 "von",
                 "für"
               ],
-              "correct": 0,
-              "n": "to"
+              "correct": 0
             },
             "?"
           ],
@@ -1939,8 +1926,7 @@
                 "um",
                 "von"
               ],
-              "correct": 1,
-              "n": "about"
+              "correct": 1
             },
             " Gemma, she'll be fine."
           ],
@@ -2031,8 +2017,7 @@
                 "zu",
                 "von"
               ],
-              "correct": 2,
-              "n": "from"
+              "correct": 2
             },
             " Julie."
           ],
@@ -2115,8 +2100,7 @@
                 "in",
                 "bei"
               ],
-              "correct": 0,
-              "n": "on"
+              "correct": 0
             },
             " this book."
           ],
@@ -2239,8 +2223,7 @@
                 "von",
                 "von"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " the weather."
           ],
@@ -2387,8 +2370,7 @@
                 "auf",
                 "zu"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             "?"
           ],
@@ -2462,8 +2444,7 @@
                 "zu",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " Beijing?"
           ],
@@ -2546,8 +2527,7 @@
                 "bei",
                 "für"
               ],
-              "correct": 0,
-              "n": "to"
+              "correct": 0
             },
             " the children why they should never run across a road."
           ],
@@ -2703,8 +2683,7 @@
                 "in",
                 "auf"
               ],
-              "correct": 1,
-              "n": "in"
+              "correct": 1
             },
             " Bombay ",
             {
@@ -2718,8 +2697,7 @@
                 "am",
                 "im"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " 8:00 p.m. ",
             {
@@ -2733,8 +2711,7 @@
                 "um",
                 "am"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " July 30."
           ],
@@ -2841,8 +2818,7 @@
                 "auf",
                 "bei"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " College Avenue ",
             {
@@ -2856,8 +2832,7 @@
                 "in",
                 "bei"
               ],
-              "correct": 1,
-              "n": "in"
+              "correct": 1
             },
             " an apartment. Phoenix is located ",
             {
@@ -2871,8 +2846,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " the state of Arizona."
           ],
@@ -3035,8 +3009,7 @@
                 "zu",
                 "bei"
               ],
-              "correct": 0,
-              "n": "with"
+              "correct": 0
             },
             " him to buy a pair of shoes. Put a pad ",
             {
@@ -3050,8 +3023,7 @@
                 "unterhalb",
                 "auf"
               ],
-              "correct": 0,
-              "n": "under"
+              "correct": 0
             },
             " the hot dish to protect the table."
           ],
@@ -3282,8 +3254,7 @@
                 "in",
                 "bei"
               ],
-              "correct": 0,
-              "n": "on"
+              "correct": 0
             },
             " a grey suit today. This story was written ",
             {
@@ -3297,8 +3268,7 @@
                 "von",
                 "von"
               ],
-              "correct": 1,
-              "n": "by"
+              "correct": 1
             },
             " Conan Doyle."
           ],
@@ -3441,8 +3411,7 @@
                 "in",
                 "neben"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " our house ",
             {
@@ -3456,8 +3425,7 @@
                 "für/lang",
                 "während"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             " two weeks. Mary is a good housekeeper; she always sweeps ",
             {
@@ -3471,8 +3439,7 @@
                 "über",
                 "hinter"
               ],
-              "correct": 0,
-              "n": "under"
+              "correct": 0
             },
             " the bed."
           ],
@@ -3675,8 +3642,7 @@
                 "quer-über",
                 "entlang"
               ],
-              "correct": 0,
-              "n": "around"
+              "correct": 0
             },
             " the block four times before they found a parking place. There is an ink spot ",
             {
@@ -3690,8 +3656,7 @@
                 "bei",
                 "auf"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " the collar ",
             {
@@ -3705,8 +3670,7 @@
                 "von",
                 "weg-von"
               ],
-              "correct": 0,
-              "n": "of"
+              "correct": 0
             },
             " your shirt."
           ],
@@ -3957,8 +3921,7 @@
                 "in/mit",
                 "durch"
               ],
-              "correct": 1,
-              "n": "in"
+              "correct": 1
             },
             " ink, and don't forget to write ",
             {
@@ -3972,8 +3935,7 @@
                 "in",
                 "bei"
               ],
-              "correct": 0,
-              "n": "on"
+              "correct": 0
             },
             " every other line."
           ],
@@ -4116,8 +4078,7 @@
                 "von",
                 "durch"
               ],
-              "correct": 1,
-              "n": "from"
+              "correct": 1
             },
             " your brother yesterday? The bus will not leave ",
             {
@@ -4131,8 +4092,7 @@
                 "in",
                 "bis"
               ],
-              "correct": 0,
-              "n": "for"
+              "correct": 0
             },
             " fifteen minutes."
           ],
@@ -4307,8 +4267,7 @@
                 "im",
                 "am"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " the first Tuesday ",
             {
@@ -4322,8 +4281,7 @@
                 "im",
                 "um"
               ],
-              "correct": 1,
-              "n": "in"
+              "correct": 1
             },
             " November. Maximo always entertains us ",
             {
@@ -4337,8 +4295,7 @@
                 "durch",
                 "von"
               ],
-              "correct": 0,
-              "n": "with"
+              "correct": 0
             },
             " stories of his experiences."
           ],
@@ -4525,8 +4482,7 @@
                 "bei",
                 "bis"
               ],
-              "correct": 0,
-              "n": "to"
+              "correct": 0
             },
             " Central City? Mr. and Mrs. Simpson have lived ",
             {
@@ -4540,8 +4496,7 @@
                 "bei",
                 "auf/in"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " Chesnut Street ",
             {
@@ -4555,8 +4510,7 @@
                 "seit/lang",
                 "von"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             " six years."
           ],
@@ -4711,8 +4665,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " Mobile ",
             {
@@ -4726,8 +4679,7 @@
                 "seit",
                 "von"
               ],
-              "correct": 1,
-              "n": "since"
+              "correct": 1
             },
             " October. He dived ",
             {
@@ -4741,8 +4693,7 @@
                 "zu",
                 "in"
               ],
-              "correct": 0,
-              "n": "into"
+              "correct": 0
             },
             " the lake and swam ",
             {
@@ -4756,8 +4707,7 @@
                 "hinein-in",
                 "zu"
               ],
-              "correct": 2,
-              "n": "to"
+              "correct": 2
             },
             " the boat."
           ],
@@ -4957,8 +4907,7 @@
                 "für",
                 "auf"
               ],
-              "correct": 0,
-              "n": "about"
+              "correct": 0
             },
             " your exam – everything will be fine. I've waited ",
             {
@@ -4972,8 +4921,7 @@
                 "auf",
                 "bei"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             " Judy for 30 minutes. I'm going home."
           ],
@@ -5172,8 +5120,7 @@
                 "in",
                 "auf"
               ],
-              "correct": 2,
-              "n": "on"
+              "correct": 2
             },
             " your work. Don't forget to pay ",
             {
@@ -5187,8 +5134,7 @@
                 "zu",
                 "von"
               ],
-              "correct": 0,
-              "n": "for"
+              "correct": 0
             },
             " the newspaper."
           ],
@@ -5339,8 +5285,7 @@
                 "für",
                 "mit"
               ],
-              "correct": 0,
-              "n": "to"
+              "correct": 0
             },
             " me. I don't know what we'll do at the weekend. It depends ",
             {
@@ -5354,8 +5299,7 @@
                 "von",
                 "von"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " the weather."
           ],
@@ -5562,8 +5506,7 @@
                 "zu",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " Beijing at 3pm. I like to listen ",
             {
@@ -5577,8 +5520,7 @@
                 "bei",
                 "auf"
               ],
-              "correct": 0,
-              "n": "to"
+              "correct": 0
             },
             " the radio when I wake up."
           ],
@@ -5761,8 +5703,7 @@
                 "von",
                 "durch"
               ],
-              "correct": 0,
-              "n": "from"
+              "correct": 0
             },
             " his brother. Who does this coat belong ",
             {
@@ -5776,8 +5717,7 @@
                 "zu",
                 "von"
               ],
-              "correct": 1,
-              "n": "to"
+              "correct": 1
             },
             "?"
           ],
@@ -5911,8 +5851,7 @@
                 "über",
                 "zu"
               ],
-              "correct": 0,
-              "n": "for"
+              "correct": 0
             },
             " the meal. It was so hot, I couldn't concentrate ",
             {
@@ -5926,8 +5865,7 @@
                 "bei",
                 "für"
               ],
-              "correct": 0,
-              "n": "on"
+              "correct": 0
             },
             " my book."
           ],
@@ -6111,8 +6049,7 @@
                 "für",
                 "über"
               ],
-              "correct": 1,
-              "n": "for"
+              "correct": 1
             },
             " its rainy weather. I'm very proud ",
             {
@@ -6126,8 +6063,7 @@
                 "über",
                 "auf/von"
               ],
-              "correct": 2,
-              "n": "of"
+              "correct": 2
             },
             " my daughter, she worked very hard."
           ],
@@ -6302,8 +6238,7 @@
                 "auf",
                 "für"
               ],
-              "correct": 0,
-              "n": "in"
+              "correct": 0
             },
             " getting married. Luke is very pleased ",
             {
@@ -6317,8 +6252,7 @@
                 "mit",
                 "von"
               ],
-              "correct": 1,
-              "n": "with"
+              "correct": 1
             },
             " his exam results."
           ],
@@ -6477,8 +6411,7 @@
                 "bei/in",
                 "mit"
               ],
-              "correct": 1,
-              "n": "at"
+              "correct": 1
             },
             " music. I've been married ",
             {
@@ -6492,8 +6425,7 @@
                 "zu/mit",
                 "bei"
               ],
-              "correct": 1,
-              "n": "to"
+              "correct": 1
             },
             " my husband for 10 years."
           ],
@@ -6652,8 +6584,7 @@
                 "für",
                 "von"
               ],
-              "correct": 0,
-              "n": "about"
+              "correct": 0
             },
             " the party. Julie is very different ",
             {
@@ -6667,8 +6598,7 @@
                 "als",
                 "von"
               ],
-              "correct": 2,
-              "n": "from"
+              "correct": 2
             },
             " her sister."
           ],
@@ -6811,8 +6741,7 @@
                 "vor/von",
                 "über"
               ],
-              "correct": 1,
-              "n": "of"
+              "correct": 1
             },
             " dogs. A ball gown is similar ",
             {
@@ -6826,8 +6755,7 @@
                 "wie",
                 "zu"
               ],
-              "correct": 2,
-              "n": "to"
+              "correct": 2
             },
             " an evening dress."
           ],
@@ -6986,8 +6914,7 @@
                 "von",
                 "mit"
               ],
-              "correct": 0,
-              "n": "for"
+              "correct": 0
             },
             "? English cheese is very different ",
             {
@@ -7001,8 +6928,7 @@
                 "von",
                 "zu"
               ],
-              "correct": 0,
-              "n": "from"
+              "correct": 0
             },
             " French cheese."
           ],
@@ -7162,8 +7088,7 @@
                 "am",
                 "im"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " Monday, ",
             {
@@ -7177,8 +7102,7 @@
                 "am",
                 "im"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " 9 o'clock, ",
             {
@@ -7192,8 +7116,7 @@
                 "am",
                 "im"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " midnight, ",
             {
@@ -7207,8 +7130,7 @@
                 "am",
                 "im"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " 2012"
           ],
@@ -7318,8 +7240,7 @@
                 "am",
                 "im"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " Friday, ",
             {
@@ -7333,8 +7254,7 @@
                 "am",
                 "im"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " January 1st, ",
             {
@@ -7348,8 +7268,7 @@
                 "am",
                 "im"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " January, ",
             {
@@ -7363,8 +7282,7 @@
                 "am",
                 "im"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " summer"
           ],
@@ -7474,8 +7392,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " Union Bank, ",
             {
@@ -7489,8 +7406,7 @@
                 "auf/in",
                 "in"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " Pine Street, ",
             {
@@ -7504,8 +7420,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " 277 Pine Street, ",
             {
@@ -7519,8 +7434,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " Los Angeles"
           ],
@@ -7630,8 +7544,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " California, ",
             {
@@ -7645,8 +7558,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 2,
-              "n": "in"
+              "correct": 2
             },
             " the United States, ",
             {
@@ -7660,8 +7572,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " Minnesota University, ",
             {
@@ -7675,8 +7586,7 @@
                 "auf",
                 "in"
               ],
-              "correct": 0,
-              "n": "at"
+              "correct": 0
             },
             " Shoes for Less"
           ],

@@ -1781,8 +1781,7 @@
                 "Bestätigungs-Fehler",
                 "Satiren"
               ],
-              "correct": 0,
-              "n": "fact-checkers"
+              "correct": 0
             },
             " to flag up any posts deemed to contain incorrect or misleading information."
           ],
@@ -1945,8 +1944,7 @@
                 "postfaktische Politik",
                 "Faktenprüfer"
               ],
-              "correct": 1,
-              "n": "post-truth politics"
+              "correct": 1
             },
             ", supporters of Brexit continued to refer to a potential £350 million extra per week for the health service even after this figure was widely proven to be false."
           ],
@@ -2241,8 +2239,7 @@
                 "Desinformation",
                 "Propaganda"
               ],
-              "correct": 0,
-              "n": "satirical"
+              "correct": 0
             },
             " and no one would have believed it was real."
           ],
@@ -2565,8 +2562,7 @@
                 "postfaktische Politik",
                 "Satire"
               ],
-              "correct": 0,
-              "n": "confirmation bias"
+              "correct": 0
             },
             ", even when it is proved that information is false, people will continue to believe that it is true."
           ],
@@ -2765,8 +2761,7 @@
                 "Desinformation (absichtlich täuschend)",
                 "Satire"
               ],
-              "correct": 1,
-              "n": "disinformation"
+              "correct": 1
             },
             " with the intention of depriving people of their legal right to vote. His posts encouraged people to vote in the 2016 election by text or by social media posts, neither of which are legally valid ways of voting."
           ],
@@ -3209,8 +3204,7 @@
                 "Propaganda",
                 "Bestätigungsfehler"
               ],
-              "correct": 1,
-              "n": "propaganda"
+              "correct": 1
             },
             " was seen as a vital part of the war effort during World War 2 to increase public support for the allies of the United States and to foster hatred of the enemy."
           ],
@@ -3526,8 +3520,7 @@
                 "Mundpropaganda",
                 "Rundfunkmedien (TV/Radio)"
               ],
-              "correct": 1,
-              "n": "word of mouth"
+              "correct": 1
             }
           ],
           "solutionEn": "word of mouth = information spreads through personal conversations and recommendations. (Scenario T)",
@@ -3712,8 +3705,7 @@
                 "Rundfunkmedien (TV/Radio)",
                 "Medienhäuser"
               ],
-              "correct": 0,
-              "n": "print media"
+              "correct": 0
             }
           ],
           "solutionEn": "print media = printed news like newspapers and magazines. (Scenario Q)",
@@ -3882,8 +3874,7 @@
                 "Mundpropaganda",
                 "Rundfunkmedien (TV/Radio)"
               ],
-              "correct": 2,
-              "n": "broadcast media"
+              "correct": 2
             }
           ],
           "solutionEn": "broadcast media = TV and radio. (Scenario P)",
@@ -4036,8 +4027,7 @@
                 "Echokammer",
                 "Presse"
               ],
-              "correct": 0,
-              "n": "media outlets"
+              "correct": 0
             }
           ],
           "solutionEn": "media outlets = the different companies that publish news (newspapers, TV stations, news websites). (Scenario O)",
@@ -4214,8 +4204,7 @@
                 "zufällig stoßen auf",
                 "berichten über"
               ],
-              "correct": 1,
-              "n": "to stumble upon"
+              "correct": 1
             }
           ],
           "solutionEn": "to stumble upon = to find something by chance, without looking for it. (Scenario E)",
@@ -4368,8 +4357,7 @@
                 "zufällig stoßen auf",
                 "berichten über"
               ],
-              "correct": 0,
-              "n": "to skim"
+              "correct": 0
             }
           ],
           "solutionEn": "to skim = to read something quickly to get the main idea. (Scenario G)",
@@ -4538,8 +4526,7 @@
                 "Klickköder",
                 "Falschnachrichten"
               ],
-              "correct": 2,
-              "n": "fake news"
+              "correct": 2
             }
           ],
           "solutionEn": "fake news = completely false stories that are presented as real news, often to influence people. (Scenario L)",
@@ -4692,8 +4679,7 @@
                 "Falschnachrichten",
                 "leichte Unterhaltungs-Nachrichten"
               ],
-              "correct": 0,
-              "n": "clickbait"
+              "correct": 0
             }
           ],
           "solutionEn": "clickbait = a sensational headline whose only goal is to make you click. (Scenario K)",
@@ -4862,8 +4848,7 @@
                 "Filterblase",
                 "Echokammer"
               ],
-              "correct": 1,
-              "n": "filter bubble"
+              "correct": 1
             }
           ],
           "solutionEn": "filter bubble = you only see content that matches your own interests and opinions. (Scenario J)",
@@ -5032,8 +5017,7 @@
                 "Filterblase",
                 "Echokammer"
               ],
-              "correct": 0,
-              "n": "algorithms"
+              "correct": 0
             }
           ],
           "solutionEn": "algorithms = computer programs that decide which content you see. (Scenario I)",
@@ -5210,8 +5194,7 @@
                 "leichte Unterhaltungs-Nachrichten",
                 "Printmedien"
               ],
-              "correct": 0,
-              "n": "snackable content"
+              "correct": 0
             }
           ],
           "solutionEn": "snackable content = short, easy-to-consume content (like a snack). (No scenario on the worksheet – own example)",
@@ -5420,8 +5403,7 @@
                 "irreführend",
                 "reißerisch"
               ],
-              "correct": 2,
-              "n": "sensational"
+              "correct": 2
             }
           ],
           "solutionEn": "sensational = exaggerated and shocking in order to attract attention. (Scenario B)",
@@ -5574,8 +5556,7 @@
                 "reißerisch",
                 "irreführend"
               ],
-              "correct": 0,
-              "n": "credible"
+              "correct": 0
             }
           ],
           "solutionEn": "credible = believable, reliable and trustworthy. (Scenario S)",
@@ -5720,8 +5701,7 @@
                 "glaubwürdig",
                 "irreführend"
               ],
-              "correct": 2,
-              "n": "misleading"
+              "correct": 2
             }
           ],
           "solutionEn": "misleading = giving a wrong impression. (Scenario A)",
@@ -5898,8 +5878,7 @@
                 "Bequemlichkeit",
                 "Mundpropaganda"
               ],
-              "correct": 0,
-              "n": "critical thinking"
+              "correct": 0
             }
           ],
           "solutionEn": "critical thinking = questioning information instead of believing it immediately. (Scenario H)",
@@ -6044,8 +6023,7 @@
                 "Echokammer",
                 "Algorithmen"
               ],
-              "correct": 1,
-              "n": "echo chamber"
+              "correct": 1
             }
           ],
           "solutionEn": "echo chamber = a group or space where people only hear opinions similar to their own. (Scenario M)",
@@ -6214,8 +6192,7 @@
                 "Falschnachrichten",
                 "Klickköder"
               ],
-              "correct": 0,
-              "n": "soft news"
+              "correct": 0
             }
           ],
           "solutionEn": "soft news = entertaining news (gossip, lifestyle) instead of hard, important facts. (Scenario F)",
@@ -6352,8 +6329,7 @@
                 "überfliegen",
                 "berichten über"
               ],
-              "correct": 2,
-              "n": "to cover"
+              "correct": 2
             }
           ],
           "solutionEn": "to cover (news) = to report on an event. (Scenario N)",
@@ -6482,8 +6458,7 @@
                 "Medienhäuser",
                 "Rundfunkmedien (TV/Radio)"
               ],
-              "correct": 0,
-              "n": "press"
+              "correct": 0
             }
           ],
           "solutionEn": "press = journalists and news organisations as an institution. (Scenario D)",
@@ -6596,8 +6571,7 @@
                 "Beweise / Belege",
                 "kritisches Denken"
               ],
-              "correct": 1,
-              "n": "evidence"
+              "correct": 1
             }
           ],
           "solutionEn": "evidence = facts, data and sources that prove something. (Scenario C)",
@@ -6726,8 +6700,7 @@
                 "kritisches Denken",
                 "Bequemlichkeit"
               ],
-              "correct": 2,
-              "n": "convenience"
+              "correct": 2
             }
           ],
           "solutionEn": "convenience = something is easy and comfortable to use. (Scenario R)",
@@ -6929,8 +6902,7 @@
                 "die Vorlaufzeit und die Verpflichtung zur Qualität",
                 "die Sprache und die Anzahl der Bilder"
               ],
-              "correct": 1,
-              "n": "the lead time and the commitment to quality"
+              "correct": 1
             }
           ],
           "solutionEn": "Two differences mentioned in the text are the lead time and the commitment to quality. (The text also mentions the cumulative effect and that new media is instant and interactive.)",
@@ -7123,8 +7095,7 @@
                 "die Zeit, die Leser mit einem Artikel verbringen",
                 "die Zeit, die eine Geschichte beliebt bleibt"
               ],
-              "correct": 0,
-              "n": "the time media need to prepare news before publishing"
+              "correct": 0
             }
           ],
           "solutionEn": "'Lead time' is the time media need to prepare news before publishing it: journalists research, write articles and check the facts.",
@@ -7253,8 +7224,7 @@
                 "weil traditionelle Medien schneller veröffentlichen als neue Medien",
                 "weil Menschen ihren korrekten und zuverlässigen Berichten mit der Zeit vertrauen"
               ],
-              "correct": 2,
-              "n": "because people trust their correct and reliable reports over time"
+              "correct": 2
             }
           ],
           "solutionEn": "Traditional media often has greater longevity because its reports are correct and reliable, so people trust them over time.",
@@ -7395,8 +7365,7 @@
                 "Ja – alles online wird zuerst von Faktenprüfern geprüft",
                 "Ja – neue Medien sind zuverlässig, weil sie so schnell sind"
               ],
-              "correct": 0,
-              "n": "No – anyone can publish content, so information might not be true or complete"
+              "correct": 0
             }
           ],
           "solutionEn": "No. New media is often less controlled: anyone can publish content, so some information might not be true or complete. Because news is shared so quickly, it is sometimes not checked properly.",
@@ -7593,8 +7562,7 @@
                 "weil Journalisten recherchieren, Artikel schreiben und Fakten prüfen, bevor sie veröffentlichen",
                 "weil Leser Nachrichten nur am Morgen wollen"
               ],
-              "correct": 1,
-              "n": "because journalists research their topics, write articles and check the facts before publishing"
+              "correct": 1
             }
           ],
           "solutionEn": "Traditional media needs a longer lead time because journalists research their topics, write articles and check the facts before publishing them.",
@@ -7747,8 +7715,7 @@
                 "Sie versprechen, schneller als neue Medien zu sein",
                 "Sie berichten nur über hochwertige Produkte"
               ],
-              "correct": 0,
-              "n": "They feel responsible for giving correct and reliable information"
+              "correct": 0
             }
           ],
           "solutionEn": "'Commitment to quality' means that traditional media companies feel responsible for giving correct and reliable information.",
@@ -7901,8 +7868,7 @@
                 "wie lange Berichte über die Zeit vertrauenswürdig und relevant bleiben",
                 "wie lange ein Journalist für eine Firma arbeitet"
               ],
-              "correct": 1,
-              "n": "how long reports stay trusted and relevant over time"
+              "correct": 1
             }
           ],
           "solutionEn": "'Longevity' refers to how long reports stay trusted and relevant over time.",
@@ -8039,8 +8005,7 @@
                 "Nutzer werden vom Nachrichtenlesen immer müder",
                 "Nachrichtenartikel werden automatisch jeden Tag länger"
               ],
-              "correct": 0,
-              "n": "Users collect information from many different sources and share it, so a story is easier to follow as it develops"
+              "correct": 0
             }
           ],
           "solutionEn": "The cumulative effect: users collect information from many different sources and share it with others, which makes it easier to follow and track a story as it develops.",
@@ -8221,8 +8186,7 @@
                 "weil neue Medien falsche Informationen sofort löschen",
                 "weil Nutzer in Nachrichten-Apps interaktive Spiele spielen können"
               ],
-              "correct": 0,
-              "n": "because users can comment, like and share content immediately, which creates a fast exchange of ideas"
+              "correct": 0
             }
           ],
           "solutionEn": "New media is instant and interactive because users can comment, like and share content immediately, which creates a fast exchange of ideas.",
@@ -8396,8 +8360,7 @@
                 "falsche oder irreführende Informationen, die wie echte Nachrichten präsentiert werden",
                 "alle Nachrichten über berühmte Leute"
               ],
-              "correct": 1,
-              "n": "false or misleading information that is presented as if it were real news"
+              "correct": 1
             }
           ],
           "solutionEn": "Fake news is false or misleading information that is presented as if it were real news, often spread on social media.",
@@ -8510,8 +8473,7 @@
                 "weil Fake News immer sorgfältig auf Fakten geprüft werden",
                 "weil Fake News nur in seriösen Qualitätszeitungen erscheinen"
               ],
-              "correct": 0,
-              "n": "because of confirmation bias – fake news often confirms what people already believe"
+              "correct": 0
             }
           ],
           "solutionEn": "People often believe fake news because of confirmation bias: it confirms what they already believe. Emotional, sensational stories are also shared without checking.",
@@ -8636,8 +8598,7 @@
                 "weil sie oft reißerisch und emotional ist und Menschen sie ungeprüft schnell teilen",
                 "weil sie nur von offiziellen Nachrichtenagenturen verbreitet wird"
               ],
-              "correct": 1,
-              "n": "because it is often sensational and emotional, so people share it quickly without checking"
+              "correct": 1
             }
           ],
           "solutionEn": "Fake news spreads faster because it is often sensational and emotional, so people share it quickly without checking it first. Algorithms then show popular posts to even more people.",
@@ -8794,8 +8755,7 @@
                 "Sie haben keine Wirkung, weil sie niemand liest",
                 "Sie können Misstrauen gegenüber Medien erzeugen und Meinungen und sogar Wahlen beeinflussen"
               ],
-              "correct": 2,
-              "n": "It can create distrust in the media and influence opinions and even elections"
+              "correct": 2
             }
           ],
           "solutionEn": "Fake news can create distrust in the media, divide society and influence opinions and even elections.",

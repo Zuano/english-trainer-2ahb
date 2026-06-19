@@ -703,8 +703,7 @@
                 "Hauptteil: Argumente und Beispiele in klaren Absätzen",
                 "Schluss: zusammenfassen + Leser um Kommentare bitten"
               ],
-              "correct": 0,
-              "n": "Title: catchy, with your name, date and time"
+              "correct": 0
             },
             " 2. Danach: ",
             {
@@ -720,8 +719,7 @@
                 "Hauptteil: Argumente und Beispiele in klaren Absätzen",
                 "Schluss: zusammenfassen + Leser um Kommentare bitten"
               ],
-              "correct": 1,
-              "n": "Introduction: greeting + present the topic in an interesting way"
+              "correct": 1
             },
             " 3. Dann: ",
             {
@@ -737,8 +735,7 @@
                 "Hauptteil: Argumente und Beispiele in klaren Absätzen",
                 "Schluss: zusammenfassen + Leser um Kommentare bitten"
               ],
-              "correct": 2,
-              "n": "Main body: your arguments and examples in clear paragraphs"
+              "correct": 2
             },
             " 4. Zum Schluss: ",
             {
@@ -754,8 +751,7 @@
                 "Hauptteil: Argumente und Beispiele in klaren Absätzen",
                 "Schluss: zusammenfassen + Leser um Kommentare bitten"
               ],
-              "correct": 3,
-              "n": "Conclusion: sum up + ask your readers for comments"
+              "correct": 3
             }
           ],
           "solutionEn": "Title (catchy, with name, date and time) → Introduction (greeting + interesting opening) → Main body (arguments and examples in paragraphs) → Conclusion (sum up + ask for comments).",
@@ -1013,8 +1009,7 @@
                 "tatest du jemals (passt nicht zu 'thought')",
                 "tust du jemals (passt nicht zu 'thought')"
               ],
-              "correct": 0,
-              "n": "Have you ever"
+              "correct": 0
             },
             " thought about how much time you spend on your phone?"
           ],
@@ -1120,8 +1115,7 @@
                 "sehr geehrte Damen und Herren (formeller Brief)",
                 "mit freundlichen Grüßen (Briefschluss)"
               ],
-              "correct": 0,
-              "n": "Hi guys"
+              "correct": 0
             },
             ", today I want to share some thoughts about social media."
           ],
@@ -1227,8 +1221,7 @@
                 "wörtlich 'nach meiner Meinung' – falsches Englisch",
                 "wörtlich 'bei meiner Meinung' – falsches Englisch"
               ],
-              "correct": 0,
-              "n": "In my opinion"
+              "correct": 0
             },
             ", social media has more advantages than disadvantages."
           ],
@@ -1318,8 +1311,7 @@
                 "unüblich im Englischen",
                 "falsche Präposition (at)"
               ],
-              "correct": 0,
-              "n": "On the one hand"
+              "correct": 0
             },
             ", social media connects people all over the world. ",
             {
@@ -1333,8 +1325,7 @@
                 "unüblich als Verbindungswort",
                 "falsche Präposition (at)"
               ],
-              "correct": 0,
-              "n": "On the other hand"
+              "correct": 0
             },
             ", it can be addictive and stressful."
           ],
@@ -1476,8 +1467,7 @@
                 "gibt es nicht",
                 "zusammenzählend (Mathematik)"
               ],
-              "correct": 0,
-              "n": "Summing up"
+              "correct": 0
             },
             ", it can be said that social media is both a blessing and a curse."
           ],
@@ -1599,8 +1589,7 @@
                 "hochachtungsvoll, Alex (formeller Brief)",
                 "Details im Anhang (Büro-E-Mail)"
               ],
-              "correct": 0,
-              "n": "Leave your comment below!"
+              "correct": 0
             }
           ],
           "solutionEn": "I can't wait to read your opinion! Leave your comment below!",
@@ -1698,7 +1687,7 @@
                 "wörtlich 'frei sprechend' – falsch"
               ],
               "correct": 0,
-              "n": "Frankly speaking"
+              "n": "speak"
             },
             ", I check my phone far too often."
           ],
@@ -1797,8 +1786,7 @@
                 "mindestens 250 Wörter",
                 "genau 100 Wörter"
               ],
-              "correct": 0,
-              "n": "140–180 words"
+              "correct": 0
             }
           ],
           "solutionEn": "The task says: Write a blog entry (140–180 words).",
@@ -1915,8 +1903,7 @@
                 "formell, wie ein Geschäftsbrief",
                 "wissenschaftlich, mit vielen Fachbegriffen"
               ],
-              "correct": 0,
-              "n": "informal and personal, with contractions like 'I don't'"
+              "correct": 0
             }
           ],
           "solutionEn": "A blog entry is informal and personal: use the first person, contractions (I don't, I can't) and a friendly tone.",
@@ -2029,8 +2016,7 @@
                 "sie nie direkt ansprechen",
                 "nur Passivsätze verwenden"
               ],
-              "correct": 0,
-              "n": "ask questions and use exclamations, e.g. 'What do you think?'"
+              "correct": 0
             }
           ],
           "solutionEn": "Interact with your readers: ask questions and use exclamations, e.g. 'What do you think?', 'It's awesome!', 'Easier said than done. Right?'",
@@ -2151,8 +2137,7 @@
                 "deine Wohnadresse und die Adresse der Schule",
                 "eine lange Zusammenfassung des ganzen Texts"
               ],
-              "correct": 0,
-              "n": "a catchy title, your name, date and time"
+              "correct": 0
             }
           ],
           "solutionEn": "At the top: a catchy title, your name, date and time – e.g. 'CHIPS, BURGERS AND COLA MAKE ME HAPPY, by PeterPan, 2 June 2023, at 5 pm'.",
@@ -2273,8 +2258,7 @@
                 "Past Perfect (had + 3. Verbform)",
                 "Will-Future (will + Grundform)"
               ],
-              "correct": 0,
-              "n": "Present Perfect"
+              "correct": 0
             }
           ],
           "solutionEn": "'I have just tried vegan food' is Present Perfect (have/has + past participle).",
@@ -2363,8 +2347,7 @@
                 "nur die negativen Seiten von Social Media beschreiben",
                 "einen formellen Brief an Jamie über deine Schule schreiben"
               ],
-              "correct": 0,
-              "n": "respond to Jamie, describe how social media affects young people, give positive AND negative aspects, and explain its importance in your life"
+              "correct": 0
             }
           ],
           "solutionEn": "The task: respond to Jamie's comment, describe how social media affects young people, mention both positive and negative aspects, and explain whether social media is important in your life – plus a suitable title.",
@@ -2533,8 +2516,7 @@
                 "sie machen den Text länger, damit man die Wortzahl erreicht",
                 "man braucht sie nur in formellen Briefen"
               ],
-              "correct": 0,
-              "n": "they make your text structured, logical and easy to read"
+              "correct": 0
             }
           ],
           "solutionEn": "Paragraphs and linking words (however, on the one hand, summing up) make your text structured, logical and easy to read.",

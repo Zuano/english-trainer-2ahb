@@ -723,8 +723,7 @@
                 "wirst-aufhören",
                 "aufhörtest"
               ],
-              "correct": 0,
-              "n": "stop"
+              "correct": 0
             },
             " eating, you ",
             {
@@ -738,8 +737,7 @@
                 "wirst-verhungern",
                 "würdest-verhungern"
               ],
-              "correct": 0,
-              "n": "starve"
+              "correct": 0
             },
             "."
           ],
@@ -952,8 +950,7 @@
                 "werden-essen",
                 "aßen"
               ],
-              "correct": 0,
-              "n": "eat"
+              "correct": 0
             },
             " too much junk food, they ",
             {
@@ -967,8 +964,7 @@
                 "werden-zunehmen",
                 "nahmen-zu"
               ],
-              "correct": 0,
-              "n": "gain"
+              "correct": 0
             },
             " weight."
           ],
@@ -1094,8 +1090,7 @@
                 "werden-verlassen",
                 "verließen"
               ],
-              "correct": 0,
-              "n": "leave"
+              "correct": 0
             },
             " the area."
           ],
@@ -1222,8 +1217,7 @@
                 "werde-schauen",
                 "schaute"
               ],
-              "correct": 0,
-              "n": "watch"
+              "correct": 0
             },
             " the news in English, my English ",
             {
@@ -1373,8 +1367,7 @@
                 "werden-haben",
                 "hatten"
               ],
-              "correct": 0,
-              "n": "have"
+              "correct": 0
             },
             " a pet, they ",
             {
@@ -1500,8 +1493,7 @@
                 "werden-machen",
                 "machten"
               ],
-              "correct": 0,
-              "n": "do"
+              "correct": 0
             },
             " a lot of sports, we ",
             {
@@ -1650,8 +1642,7 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0,
-              "n": "learn"
+              "correct": 0
             },
             " to speak Chinese."
           ],
@@ -1918,8 +1909,7 @@
                 "wirst-ziehen",
                 "zogst"
               ],
-              "correct": 0,
-              "n": "move"
+              "correct": 0
             },
             " to Cuba, you ",
             {
@@ -2041,8 +2031,7 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0,
-              "n": "learn"
+              "correct": 0
             },
             " hard, you ",
             {
@@ -2172,8 +2161,7 @@
                 "wirst-essen",
                 "aßest"
               ],
-              "correct": 0,
-              "n": "eat"
+              "correct": 0
             },
             " healthy food, you ",
             {
@@ -2422,8 +2410,7 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0,
-              "n": "study"
+              "correct": 0
             },
             " English three times a week, you ",
             {
@@ -3731,8 +3718,7 @@
                 "trinkst",
                 "würdest-trinken"
               ],
-              "correct": 0,
-              "n": "drank"
+              "correct": 0
             },
             " too much alcohol, you ",
             {
@@ -5469,8 +5455,7 @@
                 "falls",
                 "außer-wenn"
               ],
-              "correct": 0,
-              "n": "when"
+              "correct": 0
             },
             " she comes, I'll call you."
           ],
@@ -5601,8 +5586,7 @@
                 "wenn",
                 "sobald"
               ],
-              "correct": 0,
-              "n": "unless"
+              "correct": 0
             },
             " you exercise regularly. (= if you don't exercise regularly)"
           ],
@@ -8705,8 +8689,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 0,
-              "n": "Typ 0"
+              "correct": 0
             }
           ],
           "solutionEn": "Type 0: If you strike a match, it starts burning.",
@@ -8817,8 +8800,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 1,
-              "n": "Typ I"
+              "correct": 1
             }
           ],
           "solutionEn": "Type I: If we learn Japanese, we will be able to communicate with people in Japan.",
@@ -8961,8 +8943,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 2,
-              "n": "Typ II"
+              "correct": 2
             }
           ],
           "solutionEn": "Type II: If you sent her a message, she would be happy.",
@@ -9089,8 +9070,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 3,
-              "n": "Typ III"
+              "correct": 3
             }
           ],
           "solutionEn": "Type III: If I hadn't broken my leg, I would have gone skiing.",
@@ -9217,8 +9197,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 1,
-              "n": "Typ I"
+              "correct": 1
             }
           ],
           "solutionEn": "Type I: Get ready if you want to catch the bus!",
@@ -9337,8 +9316,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 2,
-              "n": "Typ II"
+              "correct": 2
             }
           ],
           "solutionEn": "Type II: It would be nice if we went to see Granny at the weekend.",
@@ -9489,8 +9467,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 3,
-              "n": "Typ III"
+              "correct": 3
             }
           ],
           "solutionEn": "Type III: I would have said hello if I had seen you.",
@@ -9609,8 +9586,7 @@
                 "bloße-Annahme",
                 "unmögliche-Vergangenheit"
               ],
-              "correct": 0,
-              "n": "Typ 0"
+              "correct": 0
             }
           ],
           "solutionEn": "Type 0: If you want to study in the USA, you have to pass an exam in English.",

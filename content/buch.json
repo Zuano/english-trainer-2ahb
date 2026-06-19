@@ -1556,7 +1556,7 @@
                 "wirst-nicht-zahlen-müssen"
               ],
               "correct": 0,
-              "n": "would not have to pay"
+              "n": "pay"
             },
             " (not must pay) such high costs every month."
           ],
@@ -2078,7 +2078,7 @@
                 "du-es-wieder-getan-hättest"
               ],
               "correct": 0,
-              "n": "you do it again"
+              "n": "do"
             },
             "."
           ],
@@ -2184,8 +2184,7 @@
                 "niemand-wird-bemerken",
                 "niemand-bemerkte"
               ],
-              "correct": 0,
-              "n": "nobody would have noticed that Grandpa needed help"
+              "correct": 0
             },
             "."
           ],
@@ -2438,8 +2437,7 @@
                 "sie-nicht-so-reich-ist",
                 "sie-nicht-so-reich-wäre"
               ],
-              "correct": 0,
-              "n": "she had not been so rich"
+              "correct": 0
             },
             "."
           ],
@@ -2577,8 +2575,7 @@
                 "er-wird-eine-Chance-haben",
                 "er-hätte-eine-Chance-gehabt"
               ],
-              "correct": 0,
-              "n": "he would have a chance to qualify"
+              "correct": 0
             },
             "."
           ],
@@ -2704,8 +2701,7 @@
                 "ich-mehr-Zeit-habe",
                 "ich-mehr-Zeit-hätte"
               ],
-              "correct": 0,
-              "n": "I had had more time to study"
+              "correct": 0
             },
             "."
           ],
@@ -2831,8 +2827,7 @@
                 "du-sie-nicht-gießen-würdest",
                 "du-sie-nicht-gießen-wirst"
               ],
-              "correct": 0,
-              "n": "you do not water them regularly"
+              "correct": 0
             },
             "."
           ],
@@ -2951,7 +2946,7 @@
                 "wir-gingen-wandern"
               ],
               "correct": 0,
-              "n": "we would have gone hiking"
+              "n": "hike"
             },
             "."
           ],
@@ -3065,8 +3060,7 @@
                 "er-wird-helfen-müssen",
                 "er-musste-helfen"
               ],
-              "correct": 0,
-              "n": "he would have to help in the household"
+              "correct": 0
             },
             "."
           ],
@@ -3189,7 +3183,7 @@
                 "der-Meeresspiegel-stieg"
               ],
               "correct": 0,
-              "n": "sea levels will rise"
+              "n": "rise"
             },
             "."
           ],
@@ -3301,8 +3295,7 @@
                 "durfte-nicht",
                 "brauchte-nicht"
               ],
-              "correct": 0,
-              "n": "could not"
+              "correct": 0
             },
             " (nicht können) go out for seven days."
           ],
@@ -3425,8 +3418,7 @@
                 "können",
                 "sollten-nicht"
               ],
-              "correct": 0,
-              "n": "must"
+              "correct": 0
             },
             " (müssen) be kept on a lead."
           ],
@@ -3517,8 +3509,7 @@
                 "müssen",
                 "dürfen-nicht"
               ],
-              "correct": 0,
-              "n": "can"
+              "correct": 0
             },
             " (können) make mistakes."
           ],
@@ -3601,8 +3592,7 @@
                 "kann",
                 "durfte"
               ],
-              "correct": 0,
-              "n": "could"
+              "correct": 0
             },
             " (können) swim pretty fast."
           ],
@@ -3709,8 +3699,7 @@
                 "muss",
                 "sollte"
               ],
-              "correct": 0,
-              "n": "may"
+              "correct": 0
             },
             " (dürfen) I go to the disco tonight?\" – Father: \"No, you ",
             {
@@ -3724,8 +3713,7 @@
                 "brauchst-nicht",
                 "konntest-nicht"
               ],
-              "correct": 0,
-              "n": "may not"
+              "correct": 0
             },
             " (nicht dürfen).\""
           ],
@@ -3868,8 +3856,7 @@
                 "darf",
                 "konnte"
               ],
-              "correct": 0,
-              "n": "was allowed to"
+              "correct": 0
             },
             " (dürfen) go last week!\" – Father: \"You ",
             {
@@ -3884,7 +3871,7 @@
                 "durftest"
               ],
               "correct": 0,
-              "n": "will be allowed to"
+              "n": "allow"
             },
             " (dürfen) go when you are as old as Sue.\""
           ],
@@ -4067,8 +4054,7 @@
                 "kann-nicht",
                 "konnte-nicht"
               ],
-              "correct": 0,
-              "n": "will not be able to"
+              "correct": 0
             },
             " (nicht können) help us tomorrow. He is ill. That is why we ",
             {
@@ -4083,7 +4069,7 @@
                 "mussten"
               ],
               "correct": 0,
-              "n": "will have to"
+              "n": "have"
             },
             " (müssen) work alone."
           ],
@@ -4226,8 +4212,7 @@
                 "darfst-nicht",
                 "kannst-nicht"
               ],
-              "correct": 0,
-              "n": "need not"
+              "correct": 0
             },
             " (nicht brauchen) phone her, because she is not at home at the moment."
           ],
@@ -4342,8 +4327,7 @@
                 "darfst",
                 "konntest"
               ],
-              "correct": 0,
-              "n": "must"
+              "correct": 0
             },
             " (müssen) do as I say."
           ],
@@ -4426,8 +4410,7 @@
                 "darf-nicht",
                 "konnte-nicht"
               ],
-              "correct": 0,
-              "n": "does not have to"
+              "correct": 0
             },
             " (nicht müssen) be at home before midnight."
           ],
@@ -4510,8 +4493,7 @@
                 "müssen",
                 "dürfen"
               ],
-              "correct": 0,
-              "n": "should not"
+              "correct": 0
             },
             " (eigentlich nicht sollen) eat many sweets. Instead, they ",
             {
@@ -4525,8 +4507,7 @@
                 "dürfen-nicht",
                 "konnten"
               ],
-              "correct": 0,
-              "n": "should"
+              "correct": 0
             },
             " (sollen) eat more fruit."
           ],
@@ -4653,8 +4634,7 @@
                 "konnte",
                 "muss"
               ],
-              "correct": 0,
-              "n": "can"
+              "correct": 0
             },
             " (können) play the piano. He ",
             {
@@ -4668,8 +4648,7 @@
                 "kann",
                 "konnte"
               ],
-              "correct": 0,
-              "n": "has been able to"
+              "correct": 0
             },
             " (können) play the piano for five years."
           ],
@@ -4788,8 +4767,7 @@
                 "kann",
                 "sollte"
               ],
-              "correct": 0,
-              "n": "must"
+              "correct": 0
             },
             " (müssen) be a mistake."
           ],
@@ -4873,7 +4851,7 @@
                 "mussten"
               ],
               "correct": 0,
-              "n": "will have to"
+              "n": "have"
             },
             " (müssen) work very hard for their A-levels next year."
           ],
@@ -4972,8 +4950,7 @@
                 "dürfen",
                 "sollten-nicht"
               ],
-              "correct": 0,
-              "n": "must"
+              "correct": 0
             },
             " (müssen) be quiet. Otherwise, we ",
             {
@@ -4987,8 +4964,7 @@
                 "müssen",
                 "brauchen"
               ],
-              "correct": 0,
-              "n": "could"
+              "correct": 0
             },
             " (können) wake up the baby, and then mother will be angry."
           ],
@@ -5139,8 +5115,7 @@
                 "kann-nicht",
                 "darf-nicht"
               ],
-              "correct": 0,
-              "n": "could not"
+              "correct": 0
             },
             " (nicht können) go to Vienna at seven and ",
             {
@@ -5155,7 +5130,7 @@
                 "wird-müssen"
               ],
               "correct": 0,
-              "n": "had to"
+              "n": "have"
             },
             " (müssen) wait for the nine o'clock train instead."
           ],
@@ -5314,8 +5289,7 @@
                 "kann",
                 "musste"
               ],
-              "correct": 0,
-              "n": "must"
+              "correct": 0
             },
             " (müssen) be very clever."
           ],
@@ -5438,8 +5412,7 @@
                 "kann",
                 "konnte"
               ],
-              "correct": 0,
-              "n": "will be able to"
+              "correct": 0
             },
             " (können) swim the English Channel soon. They ",
             {
@@ -5453,8 +5426,7 @@
                 "dürfen-nicht",
                 "konnten-nicht"
               ],
-              "correct": 0,
-              "n": "did not need to"
+              "correct": 0
             },
             " (nicht brauchen) clean everything before they started to paint."
           ],
@@ -5615,8 +5587,7 @@
                 "jenes",
                 "davor"
               ],
-              "correct": 0,
-              "n": "then"
+              "correct": 0
             },
             " · today → ",
             {
@@ -5630,8 +5601,7 @@
                 "an-diesem-Tag",
                 "am-nächsten-Tag"
               ],
-              "correct": 0,
-              "n": "that day"
+              "correct": 0
             },
             " · here → ",
             {
@@ -5645,8 +5615,7 @@
                 "jenes",
                 "dann"
               ],
-              "correct": 0,
-              "n": "there"
+              "correct": 0
             },
             " · this → ",
             {
@@ -5660,8 +5629,7 @@
                 "diese",
                 "dort"
               ],
-              "correct": 0,
-              "n": "that"
+              "correct": 0
             }
           ],
           "solutionEn": "now → then, today → that day, here → there, this → that",
@@ -5806,8 +5774,7 @@
                 "jenes",
                 "sie"
               ],
-              "correct": 0,
-              "n": "those"
+              "correct": 0
             },
             " · ago → ",
             {
@@ -5821,8 +5788,7 @@
                 "später",
                 "dann"
               ],
-              "correct": 0,
-              "n": "before"
+              "correct": 0
             },
             " · yesterday → ",
             {
@@ -5836,8 +5802,7 @@
                 "zwei-Tage-davor",
                 "an-jenem-Tag"
               ],
-              "correct": 0,
-              "n": "the day before"
+              "correct": 0
             },
             " · last week → ",
             {
@@ -5851,8 +5816,7 @@
                 "nächste-Woche",
                 "die-folgende-Woche"
               ],
-              "correct": 0,
-              "n": "the week before"
+              "correct": 0
             }
           ],
           "solutionEn": "these → those, ago → before, yesterday → the day before, last week → the week before",
@@ -5997,8 +5961,7 @@
                 "in-zwei-Tagen",
                 "an-jenem-Tag"
               ],
-              "correct": 0,
-              "n": "the next day"
+              "correct": 0
             },
             " · the day after tomorrow → ",
             {
@@ -6012,8 +5975,7 @@
                 "am-nächsten-Tag",
                 "zwei-Tage-davor"
               ],
-              "correct": 0,
-              "n": "in two days' time"
+              "correct": 0
             },
             " · the day before yesterday → ",
             {
@@ -6027,8 +5989,7 @@
                 "am-Tag-davor",
                 "davor"
               ],
-              "correct": 0,
-              "n": "two days before"
+              "correct": 0
             },
             " · next week → ",
             {
@@ -6042,8 +6003,7 @@
                 "die-Woche-davor",
                 "jene-Woche"
               ],
-              "correct": 0,
-              "n": "the following week"
+              "correct": 0
             }
           ],
           "solutionEn": "tomorrow → the next day / the following day, the day after tomorrow → in two days' time, the day before yesterday → two days before, next week → the following week",
@@ -6217,8 +6177,7 @@
                 "dich",
                 "ihn"
               ],
-              "correct": 0,
-              "n": "me"
+              "correct": 0
             },
             " at the train station."
           ],
@@ -6378,7 +6337,7 @@
                 "du-vorhattest"
               ],
               "correct": 0,
-              "n": "I was going to do"
+              "n": "do"
             },
             " ",
             {
@@ -6392,8 +6351,7 @@
                 "morgen",
                 "an-jenem-Tag"
               ],
-              "correct": 0,
-              "n": "the next day"
+              "correct": 0
             },
             "."
           ],
@@ -6737,8 +6695,7 @@
                 "kann",
                 "darf"
               ],
-              "correct": 0,
-              "n": "could"
+              "correct": 0
             },
             " phone from ",
             {
@@ -6752,8 +6709,7 @@
                 "diesem",
                 "dem-nächsten"
               ],
-              "correct": 0,
-              "n": "that"
+              "correct": 0
             },
             " office."
           ],
@@ -7356,7 +7312,7 @@
                 "dass-ich-je-getroffen-hatte"
               ],
               "correct": 0,
-              "n": "if I had ever met"
+              "n": "meet"
             },
             " her before."
           ],
@@ -7511,8 +7467,7 @@
                 "letzten-Samstag",
                 "nächsten-Samstag"
               ],
-              "correct": 0,
-              "n": "the Saturday before"
+              "correct": 0
             },
             " ",
             {
@@ -7744,8 +7699,7 @@
                 "diesem",
                 "dem"
               ],
-              "correct": 0,
-              "n": "that"
+              "correct": 0
             },
             " village nothing ever ",
             {
@@ -7953,8 +7907,7 @@
                 "heute",
                 "am-Tag-davor"
               ],
-              "correct": 0,
-              "n": "that day"
+              "correct": 0
             },
             "."
           ],
@@ -8187,8 +8140,7 @@
                 "letztes-Wochenende",
                 "nächstes-Wochenende"
               ],
-              "correct": 0,
-              "n": "the weekend before"
+              "correct": 0
             },
             "."
           ],
@@ -8321,8 +8273,7 @@
                 "am-nächsten-Tag-sie-treffen-würden",
                 "morgen-wir-treffen-würden"
               ],
-              "correct": 0,
-              "n": "tomorrow they are going to meet"
+              "correct": 0
             },
             " Granny."
           ],
@@ -8470,7 +8421,7 @@
                 "mochte-sie"
               ],
               "correct": 0,
-              "n": "if she had liked"
+              "n": "like"
             },
             " her last holiday."
           ],
@@ -8758,7 +8709,7 @@
                 "nicht-durfte"
               ],
               "correct": 0,
-              "n": "did not have to"
+              "n": "have"
             },
             " water the flowers because he ",
             {
@@ -10194,8 +10145,7 @@
                 "werden-haben",
                 "hatten"
               ],
-              "correct": 0,
-              "n": "have"
+              "correct": 0
             },
             " (have) an English exam tomorrow. So they ",
             {
@@ -10738,8 +10688,7 @@
                 "läutete-gerade",
                 "läutet"
               ],
-              "correct": 0,
-              "n": "rang"
+              "correct": 0
             },
             " (ring)."
           ],
@@ -11205,8 +11154,7 @@
                 "wollte",
                 "werde-wollen"
               ],
-              "correct": 0,
-              "n": "want"
+              "correct": 0
             },
             " (want) to go to Sweden or Norway, but the children ",
             {
@@ -11695,7 +11643,7 @@
                 "fuhr-der-Zug"
               ],
               "correct": 0,
-              "n": "does the train leave"
+              "n": "leave"
             },
             " (the train, leave)?\" – \"It usually ",
             {

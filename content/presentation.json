@@ -602,8 +602,7 @@
                 "Begrüßung des Publikums",
                 "Ende des Vortrags"
               ],
-              "correct": 1,
-              "n": "welcoming the audience"
+              "correct": 1
             }
           ],
           "solutionEn": "welcoming the audience",
@@ -744,8 +743,7 @@
                 "Umgang mit Fragen",
                 "Begrüßung des Publikums"
               ],
-              "correct": 0,
-              "n": "moving to the next point"
+              "correct": 0
             }
           ],
           "solutionEn": "moving to the next point",
@@ -854,8 +852,7 @@
                 "eine berühmte Person zitieren",
                 "eine Folie/Grafik einführen"
               ],
-              "correct": 2,
-              "n": "introducing a visual"
+              "correct": 2
             }
           ],
           "solutionEn": "introducing a visual",
@@ -988,8 +985,7 @@
                 "Zusammenfassung am Schluss",
                 "mit einem interessanten Fakt einsteigen"
               ],
-              "correct": 1,
-              "n": "summarizing at the end"
+              "correct": 1
             }
           ],
           "solutionEn": "summarizing at the end",
@@ -1126,8 +1122,7 @@
                 "eine Grafik erklären",
                 "das Thema vorstellen"
               ],
-              "correct": 0,
-              "n": "dealing with questions"
+              "correct": 0
             }
           ],
           "solutionEn": "dealing with questions",
@@ -1236,8 +1231,7 @@
                 "auf einen früheren Punkt zurückkommen",
                 "das Ziel/den Zweck nennen"
               ],
-              "correct": 2,
-              "n": "stating your purpose"
+              "correct": 2
             }
           ],
           "solutionEn": "stating your purpose",
@@ -1403,8 +1397,7 @@
                 "vorstellen",
                 "präsentieren"
               ],
-              "correct": 1,
-              "n": "introduce"
+              "correct": 1
             },
             " myself. My name is Lisa Berger."
           ],
@@ -1511,8 +1504,7 @@
                 "geschnitten",
                 "zerbrochen"
               ],
-              "correct": 0,
-              "n": "divide"
+              "correct": 0
             },
             " my presentation into three main parts."
           ],
@@ -1611,8 +1603,7 @@
                 "weiter",
                 "hinauf"
               ],
-              "correct": 1,
-              "n": "on"
+              "correct": 1
             },
             " to my next point."
           ],
@@ -1711,8 +1702,7 @@
                 "Ziel(einlauf)",
                 "Halt"
               ],
-              "correct": 0,
-              "n": "end"
+              "correct": 0
             },
             " of this talk you will be familiar with the topic."
           ],
@@ -1851,8 +1841,7 @@
                 "schauen",
                 "sehen"
               ],
-              "correct": 2,
-              "n": "see"
+              "correct": 2
             },
             " here, prices went up significantly."
           ],
@@ -1959,8 +1948,7 @@
                 "trägt",
                 "setzt"
               ],
-              "correct": 0,
-              "n": "bring"
+              "correct": 0
             },
             " me to the end of my presentation."
           ],
@@ -2067,8 +2055,7 @@
                 "Aufmerksamkeit",
                 "Interesse"
               ],
-              "correct": 1,
-              "n": "attention"
+              "correct": 1
             },
             " to this chart."
           ],
@@ -2175,8 +2162,7 @@
                 "glücklich",
                 "froh"
               ],
-              "correct": 0,
-              "n": "free"
+              "correct": 0
             },
             " to ask questions at any time."
           ],
@@ -2286,8 +2272,7 @@
                 "kurzen Überblick über die Präsentation geben",
                 "sagen, wann das Publikum Fragen stellen darf"
               ],
-              "correct": 0,
-              "n": "Greeting and introducing yourself"
+              "correct": 0
             },
             " → Schritt 2: ",
             {
@@ -2303,8 +2288,7 @@
                 "kurzen Überblick über die Präsentation geben",
                 "sagen, wann das Publikum Fragen stellen darf"
               ],
-              "correct": 1,
-              "n": "Introducing the topic and why you chose it"
+              "correct": 1
             },
             " → Schritt 3: ",
             {
@@ -2320,8 +2304,7 @@
                 "kurzen Überblick über die Präsentation geben",
                 "sagen, wann das Publikum Fragen stellen darf"
               ],
-              "correct": 2,
-              "n": "Giving a short overview of the presentation"
+              "correct": 2
             },
             " → Schritt 4: ",
             {
@@ -2337,8 +2320,7 @@
                 "kurzen Überblick über die Präsentation geben",
                 "sagen, wann das Publikum Fragen stellen darf"
               ],
-              "correct": 3,
-              "n": "Saying when the audience can ask questions"
+              "correct": 3
             }
           ],
           "solutionEn": "1. Greeting and introducing yourself → 2. Introducing the topic and why you chose it → 3. Giving a short overview → 4. Saying when the audience can ask questions",
@@ -2629,8 +2611,7 @@
                 "Schluss: kurze Zusammenfassung und Schlussgedanke",
                 "Fragen aus dem Publikum"
               ],
-              "correct": 0,
-              "n": "Introduction: greeting, topic, overview"
+              "correct": 0
             },
             " → Teil 2: ",
             {
@@ -2646,8 +2627,7 @@
                 "Schluss: kurze Zusammenfassung und Schlussgedanke",
                 "Fragen aus dem Publikum"
               ],
-              "correct": 1,
-              "n": "Main part: points with explanations and examples"
+              "correct": 1
             },
             " → Teil 3: ",
             {
@@ -2663,8 +2643,7 @@
                 "Schluss: kurze Zusammenfassung und Schlussgedanke",
                 "Fragen aus dem Publikum"
               ],
-              "correct": 2,
-              "n": "Conclusion: short summary and final thought"
+              "correct": 2
             },
             " → Teil 4: ",
             {
@@ -2680,8 +2659,7 @@
                 "Schluss: kurze Zusammenfassung und Schlussgedanke",
                 "Fragen aus dem Publikum"
               ],
-              "correct": 3,
-              "n": "Questions from the audience"
+              "correct": 3
             }
           ],
           "solutionEn": "1. Introduction → 2. Main part (point 1, 2, 3 – each with explanation and example/fact) → 3. Conclusion (short summary, final thought) → 4. Questions",
@@ -2951,8 +2929,7 @@
                 "wenig Text und aussagekräftige Bilder verwenden",
                 "so viele Animationen und Übergänge wie möglich verwenden"
               ],
-              "correct": 1,
-              "n": "use minimal text and meaningful visuals"
+              "correct": 1
             }
           ],
           "solutionEn": "use minimal text and meaningful visuals",
@@ -3069,8 +3046,7 @@
                 "ein Kabel für den Beamer",
                 "eine schwierige Frage aus dem Publikum"
               ],
-              "correct": 0,
-              "n": "a strategy to gain and maintain the audience's interest"
+              "correct": 0
             }
           ],
           "solutionEn": "a strategy to gain and maintain the audience's interest",
@@ -3195,8 +3171,7 @@
                 "eine offene Haltung, Mimik und Blickkontakt",
                 "völlig still stehen mit den Händen in den Taschen"
               ],
-              "correct": 1,
-              "n": "an open stance, facial expressions and eye contact"
+              "correct": 1
             }
           ],
           "solutionEn": "an open stance, facial expressions and eye contact",
@@ -3321,8 +3296,7 @@
                 "sie hilft dem Gedächtnis und betont Wichtiges",
                 "sie ersetzt den Schluss"
               ],
-              "correct": 1,
-              "n": "It helps memory and creates emphasis."
+              "correct": 1
             }
           ],
           "solutionEn": "It helps memory and creates emphasis.",

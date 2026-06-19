@@ -2040,8 +2040,7 @@
                 "deinen",
                 "ihren"
               ],
-              "correct": 0,
-              "n": "my"
+              "correct": 0
             },
             " name."
           ],
@@ -2829,7 +2828,7 @@
                 "hatte mich mehr ausruhen müssen"
               ],
               "correct": 0,
-              "n": "needed to rest more"
+              "n": "rest"
             },
             "."
           ],
@@ -3429,7 +3428,7 @@
                 "hat getrunken"
               ],
               "correct": 0,
-              "n": "had drunk"
+              "n": "drink"
             },
             " a coke."
           ],
@@ -3569,7 +3568,7 @@
                 "trank"
               ],
               "correct": 0,
-              "n": "had drunk"
+              "n": "drink"
             },
             " a coke."
           ],
@@ -3709,7 +3708,7 @@
                 "würde trank"
               ],
               "correct": 0,
-              "n": "would drink"
+              "n": "drink"
             },
             " a coke."
           ],
@@ -4609,8 +4608,7 @@
                 "jetzt",
                 "heute"
               ],
-              "correct": 0,
-              "n": "then"
+              "correct": 0
             },
             "."
           ],
@@ -4748,8 +4746,7 @@
                 "gestern",
                 "am nächsten Tag"
               ],
-              "correct": 0,
-              "n": "the day before"
+              "correct": 0
             },
             "."
           ],
@@ -4887,8 +4884,7 @@
                 "morgen",
                 "am letzten Tag"
               ],
-              "correct": 0,
-              "n": "the next day"
+              "correct": 0
             },
             "."
           ],
@@ -5010,8 +5006,7 @@
                 "hier",
                 "überall"
               ],
-              "correct": 0,
-              "n": "there"
+              "correct": 0
             },
             "."
           ],
@@ -5149,8 +5144,7 @@
                 "an diesem Tag",
                 "heute"
               ],
-              "correct": 0,
-              "n": "that day"
+              "correct": 0
             },
             "."
           ],
@@ -5272,8 +5266,7 @@
                 "dieses",
                 "diese"
               ],
-              "correct": 0,
-              "n": "that"
+              "correct": 0
             },
             " car ",
             {
@@ -5287,8 +5280,7 @@
                 "letzte Woche",
                 "nächste Woche"
               ],
-              "correct": 0,
-              "n": "the week before"
+              "correct": 0
             },
             "."
           ],
@@ -5439,8 +5431,7 @@
                 "nächste Woche",
                 "die Woche davor"
               ],
-              "correct": 0,
-              "n": "the following week"
+              "correct": 0
             },
             "."
           ],
@@ -5562,8 +5553,7 @@
                 "vor einem Jahr",
                 "im folgenden Jahr"
               ],
-              "correct": 0,
-              "n": "the previous year"
+              "correct": 0
             },
             "."
           ],
@@ -5858,8 +5848,7 @@
                 "dass",
                 "was"
               ],
-              "correct": 0,
-              "n": "if"
+              "correct": 0
             },
             " I ",
             {
@@ -6137,8 +6126,7 @@
                 "befahl",
                 "schrie an"
               ],
-              "correct": 0,
-              "n": "ask"
+              "correct": 0
             },
             " me ",
             {
@@ -6288,8 +6276,7 @@
                 "bat",
                 "schlug vor"
               ],
-              "correct": 0,
-              "n": "tell"
+              "correct": 0
             },
             " me to help her."
           ],

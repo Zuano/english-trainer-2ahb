@@ -517,8 +517,7 @@
                 "viel Geld ausgeben",
                 "alles oben Genannte"
               ],
-              "correct": 1,
-              "n": "tell you how much something costs"
+              "correct": 1
             }
           ],
           "solutionEn": "tell you how much something costs",
@@ -649,8 +648,7 @@
                 "groß",
                 "bar bezahlt"
               ],
-              "correct": 0,
-              "n": "expensive"
+              "correct": 0
             }
           ],
           "solutionEn": "expensive",
@@ -765,8 +763,7 @@
                 "einkaufen gehen",
                 "dein Geld entgegennehmen"
               ],
-              "correct": 3,
-              "n": "take your money"
+              "correct": 3
             }
           ],
           "solutionEn": "take your money",
@@ -893,8 +890,7 @@
                 "einen Verkäufer",
                 "eine Registrierkasse"
               ],
-              "correct": 1,
-              "n": "change"
+              "correct": 1
             }
           ],
           "solutionEn": "change",
@@ -1029,8 +1025,7 @@
                 "ein Sackerl Äpfel kaufen",
                 "den Preis eines Pullovers herausfinden"
               ],
-              "correct": 2,
-              "n": "buy a bag of apples"
+              "correct": 2
             }
           ],
           "solutionEn": "buy a bag of apples",
@@ -1173,8 +1168,7 @@
                 "du verkaufst es an einen Kunden",
                 "du legst es in eine Schachtel"
               ],
-              "correct": 0,
-              "n": "you replace it with another product"
+              "correct": 0
             }
           ],
           "solutionEn": "you replace it with another product",
@@ -1305,8 +1299,7 @@
                 "sie probieren Kleidung an",
                 "sie kaufen Dinge"
               ],
-              "correct": 2,
-              "n": "they try on clothes"
+              "correct": 2
             }
           ],
           "solutionEn": "they try on clothes",
@@ -1453,8 +1446,7 @@
                 "du verkaufst es",
                 "du kaufst es"
               ],
-              "correct": 3,
-              "n": "you buy it"
+              "correct": 3
             }
           ],
           "solutionEn": "you buy it",
@@ -1597,8 +1589,7 @@
                 "wenn sie einen Einkaufskorb nehmen",
                 "nachdem sie etwas gekauft haben"
               ],
-              "correct": 3,
-              "n": "after they buy something"
+              "correct": 3
             }
           ],
           "solutionEn": "after they buy something",
@@ -1705,8 +1696,7 @@
                 "kaufen",
                 "benutzen"
               ],
-              "correct": 0,
-              "n": "steal"
+              "correct": 0
             }
           ],
           "solutionEn": "steal",
@@ -1833,8 +1823,7 @@
                 "du kannst ihn um Hilfe bitten",
                 "du kannst ihn fahren (wie ein Auto)"
               ],
-              "correct": 1,
-              "n": "you can put things in it"
+              "correct": 1
             }
           ],
           "solutionEn": "you can put things in it",
@@ -1981,8 +1970,7 @@
                 "die Zeit, in der das Geschäft geschlossen ist",
                 "die Zeit, in der das Geschäft sehr voll ist"
               ],
-              "correct": 0,
-              "n": "the time when the store is open"
+              "correct": 0
             }
           ],
           "solutionEn": "the time when the store is open",
@@ -2077,8 +2065,7 @@
                 "12 Unzen",
                 "alles oben Genannte"
               ],
-              "correct": 3,
-              "n": "all of the above"
+              "correct": 3
             }
           ],
           "solutionEn": "all of the above",
@@ -2209,8 +2196,7 @@
                 "kaufen nichts",
                 "nichts davon"
               ],
-              "correct": 2,
-              "n": "buy nothing"
+              "correct": 2
             }
           ],
           "solutionEn": "buy nothing",
@@ -2312,8 +2298,7 @@
                 "Fischhändler",
                 "Blumenhändler"
               ],
-              "correct": 1,
-              "n": "fishmonger's"
+              "correct": 1
             },
             "."
           ],
@@ -2435,8 +2420,7 @@
                 "Spirituosenhandlung",
                 "Optiker"
               ],
-              "correct": 0,
-              "n": "greengrocer's"
+              "correct": 0
             },
             " around the corner."
           ],
@@ -2591,8 +2575,7 @@
                 "Blumenhändler",
                 "Optiker"
               ],
-              "correct": 1,
-              "n": "florist"
+              "correct": 1
             },
             "."
           ],
@@ -2730,8 +2713,7 @@
                 "Optiker",
                 "Spirituosenhandlung"
               ],
-              "correct": 2,
-              "n": "off licence"
+              "correct": 2
             },
             "."
           ],
@@ -2885,8 +2867,7 @@
                 "Optiker",
                 "Kassier"
               ],
-              "correct": 1,
-              "n": "optician"
+              "correct": 1
             },
             " to get new glasses."
           ],
@@ -3050,8 +3031,7 @@
                 "Preise vergleichen",
                 "Ladendiebstahl begehen"
               ],
-              "correct": 1,
-              "n": "shop around"
+              "correct": 1
             },
             " and compare prices in different stores."
           ],
@@ -3202,8 +3182,7 @@
                 "Lebensmittel einkaufen",
                 "online einkaufen"
               ],
-              "correct": 0,
-              "n": "window shopping"
+              "correct": 0
             },
             " and looked at the beautiful shop windows."
           ],
@@ -3386,8 +3365,7 @@
                 "Einkaufsliste",
                 "Impulskauf"
               ],
-              "correct": 2,
-              "n": "impulse purchase"
+              "correct": 2
             },
             "."
           ],
@@ -3545,8 +3523,7 @@
                 "Lebensmitteleinkauf",
                 "Weihnachtseinkäufe"
               ],
-              "correct": 1,
-              "n": "grocery shopping"
+              "correct": 1
             },
             " this afternoon."
           ],
@@ -3689,8 +3666,7 @@
                 "umtauschen",
                 "zurückbringen"
               ],
-              "correct": 2,
-              "n": "return"
+              "correct": 2
             },
             " them to the store."
           ],
@@ -3829,8 +3805,7 @@
                 "Black Friday",
                 "Ostermontag"
               ],
-              "correct": 1,
-              "n": "Black Friday"
+              "correct": 1
             },
             " in November."
           ],

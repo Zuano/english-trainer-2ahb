@@ -651,8 +651,7 @@
                 "Tut",
                 "Hat"
               ],
-              "correct": 0,
-              "n": "be"
+              "correct": 0
             },
             " the building ",
             {
@@ -1066,7 +1065,7 @@
                 "tun nicht"
               ],
               "correct": 0,
-              "n": "are not"
+              "n": "be"
             },
             " ",
             {
@@ -1172,7 +1171,7 @@
                 "tut nicht"
               ],
               "correct": 0,
-              "n": "is not"
+              "n": "be"
             },
             " ",
             {
@@ -1314,7 +1313,7 @@
                 "haben nicht"
               ],
               "correct": 0,
-              "n": "are not"
+              "n": "be"
             },
             " ",
             {
@@ -1551,7 +1550,7 @@
                 "tat nicht"
               ],
               "correct": 0,
-              "n": "was not"
+              "n": "be"
             },
             " ",
             {
@@ -3495,8 +3494,7 @@
                 "mit",
                 "aus"
               ],
-              "correct": 0,
-              "n": "by"
+              "correct": 0
             },
             " Thomas Edison."
           ],
@@ -4101,7 +4099,7 @@
                 "werden gewesen"
               ],
               "correct": 0,
-              "n": "will be"
+              "n": "be"
             },
             " ",
             {
@@ -4243,7 +4241,7 @@
                 "ist gewesen"
               ],
               "correct": 0,
-              "n": "has been"
+              "n": "be"
             },
             " ",
             {
@@ -4385,7 +4383,7 @@
                 "müssen gewesen"
               ],
               "correct": 0,
-              "n": "must be"
+              "n": "be"
             },
             " ",
             {
@@ -4669,7 +4667,7 @@
                 "helfen werden"
               ],
               "correct": 0,
-              "n": "be helped"
+              "n": "help"
             },
             " by you."
           ],
