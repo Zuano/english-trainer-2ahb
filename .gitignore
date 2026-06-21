@@ -15,3 +15,6 @@ gen_exercise_audio.py
 # Backups / Sicherungskopien (nicht Teil der Website)
 *.bak*
 content.bak/
+
+# Temporary files / Temporaere Dateien
+*.tmp

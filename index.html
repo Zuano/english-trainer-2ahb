@@ -133,6 +133,17 @@
   .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:24px;background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:99px;font-weight:700;font-size:14px;z-index:998;animation:fly2 2.2s forwards}
   @keyframes fly2{0%{opacity:0;transform:translateX(-50%) translateY(15px)}12%{opacity:1;transform:translateX(-50%)}80%{opacity:1}100%{opacity:0}}
   @media(max-width:640px){ .htitle{font-size:14.5px} .qtext{font-size:15px} main{padding:10px 10px 70px} .card{padding:13px} }
+  /* Sprachumschalter */
+  .langwrap{position:relative}
+  .langbtn{display:flex;align-items:center;gap:6px;background:rgba(255,255,255,.20);border:none;color:#fff;border-radius:999px;padding:5px 10px;font-size:13px;font-weight:700;cursor:pointer;line-height:1}
+  .langbtn .fl{font-size:16px} .langbtn .car{font-size:10px;opacity:.85}
+  .langmenu{position:absolute;right:0;top:calc(100% + 7px);background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:6px;min-width:172px;z-index:200;display:none}
+  .langmenu.open{display:block}
+  .langmenu button{display:flex;align-items:center;gap:9px;width:100%;background:transparent;border:none;color:var(--ink);border-radius:8px;padding:8px 10px;font-size:14px;font-weight:600;cursor:pointer;text-align:left}
+  .langmenu button:hover{background:var(--bg)} .langmenu button.sel{background:var(--acc);color:#fff}
+  .langmenu .fl{font-size:18px;line-height:1}
+  [dir="rtl"]{text-align:right}
+  @media(max-width:640px){ .langbtn .lnm{display:none} }
 </style>
 </head>
 <body>
@@ -145,6 +156,10 @@
     <div class="stats">
       <span class="pill" id="streak">🔥 0</span>
       <span class="pill" id="points">⭐ 0 P</span>
+      <div class="langwrap">
+        <button class="langbtn" id="langbtn" aria-haspopup="true" aria-label="Sprache / Language"><span class="fl" id="langflag">🇦🇹</span><span class="lnm" id="langname">Deutsch</span><span class="car">▾</span></button>
+        <div class="langmenu" id="langmenu" role="menu"></div>
+      </div>
     </div>
   </div>
 </header>
@@ -154,10 +169,63 @@
 <script src="content.js"></script>
 <script src="timings.js"></script>
 <script src="timings_ex.js"></script>
+<script src="translations.js"></script>
+<script src="i18n.js"></script>
 <script>
 "use strict";
 /* ---------- State ---------- */
 const TOPICS = window.LERN_CONTENT.topics;
+/* ---------- Sprache / i18n (Layer ueber content.js, Deutsch-Fallback) ---------- */
+const LANGS = [
+  {code:"de", flag:"🇦🇹", name:"Deutsch",  rtl:false},
+  {code:"fa", flag:"🇮🇷", name:"فارسی",    rtl:true },
+  {code:"ro", flag:"🇷🇴", name:"Română",   rtl:false},
+  {code:"tr", flag:"🇹🇷", name:"Türkçe",   rtl:false},
+  {code:"ar", flag:"🇸🇦", name:"العربية",  rtl:true },
+  {code:"th", flag:"🇹🇭", name:"ภาษาไทย",  rtl:false},
+];
+const LKEY="lf_lang";
+let LANG = localStorage.getItem(LKEY) || "de";
+if(!LANGS.some(l=>l.code===LANG)) LANG="de";
+const TR = window.LERN_TR || {sent:{},q:{},ex:{}};
+const UI = window.UI_I18N || {home:{}};
+const HOME_DE = {
+ "HOME::title":"Hi! 👋 Bereit für die Schularbeit?",
+ "HOME::lead":"So funktioniert's – in 3 Schritten pro Thema:",
+ "HOME::step1":"1️⃣ Lesen & Hören – englischer Text mit Wort-für-Wort-Übersetzung (Birkenbihl-Methode) und sinnvoller Übersetzung. Beim Vorlesen leuchtet das aktuelle Wort auf.",
+ "HOME::step2":"2️⃣ Üben – Aufgaben der Professorin als Dropdown-Aufgaben. Nichts tippen, nur klug auswählen.",
+ "HOME::step3":"3️⃣ Prüfung – Mini-Schularbeit mit Note. Fehler landen automatisch in „Nochmal üben“.",
+ "HOME::uinote":"",
+};
+function langDef(){ return LANGS.find(l=>l.code===LANG)||LANGS[0]; }
+function isRTL(){ return !!langDef().rtl; }
+function dirAttr(){ return isRTL() ? ' dir="rtl"' : ' dir="auto"'; }
+function aWord(sid,i,de){ if(LANG==="de")return de; const o=TR.sent&&TR.sent[sid]&&TR.sent[sid][LANG]; return (o&&o.d&&o.d[i]!=null&&o.d[i]!=="")?o.d[i]:de; }
+function aSent(sid,de){ if(LANG==="de")return de; const o=TR.sent&&TR.sent[sid]&&TR.sent[sid][LANG]; return (o&&o.s)?o.s:de; }
+function aExTitle(exid,de){ if(LANG==="de")return de; const o=TR.ex&&TR.ex[exid]&&TR.ex[exid][LANG]; return (o&&o.title)?o.title:de; }
+function aExInstr(exid,de){ if(LANG==="de")return de; const o=TR.ex&&TR.ex[exid]&&TR.ex[exid][LANG]; return (o&&o.instruction)?o.instruction:de; }
+function aSol(qid,de){ if(LANG==="de")return de; const o=TR.q&&TR.q[qid]&&TR.q[qid][LANG]; return (o&&o.sol)?o.sol:de; }
+function aExp(qid,de){ if(LANG==="de")return de; const o=TR.q&&TR.q[qid]&&TR.q[qid][LANG]; return (o&&o.exp)?o.exp:de; }
+function aGap(qid,gi,oi,de){ if(LANG==="de")return de; const o=TR.q&&TR.q[qid]&&TR.q[qid][LANG]; const g=o&&o.gaps; return (g&&g[gi]&&g[gi][oi]!=null&&g[gi][oi]!=="")?g[gi][oi]:de; }
+function aStem(qid,pi,de){ if(LANG==="de")return de; const o=TR.q&&TR.q[qid]&&TR.q[qid][LANG]; const s=o&&o.stem; return (s&&s[pi])?s[pi]:de; }
+function aWfw(qid,si,k,de){ if(LANG==="de")return de; const o=TR.q&&TR.q[qid]&&TR.q[qid][LANG]; const w=o&&o.wfw; return (w&&w[si]&&w[si][k]!=null&&w[si][k]!=="")?w[si][k]:de; }
+function aHome(key){ if(LANG==="de")return HOME_DE[key]||""; const o=UI.home&&UI.home[key]; return (o&&o[LANG])?o[LANG]:(HOME_DE[key]||""); }
+function renderLangSwitcher(){
+  const def=langDef(); const f=$("#langflag"), n=$("#langname"), menu=$("#langmenu");
+  if(f)f.textContent=def.flag; if(n)n.textContent=def.name;
+  if(!menu)return; menu.innerHTML="";
+  LANGS.forEach(l=>{ const b=document.createElement("button"); b.type="button"; b.setAttribute("role","menuitem");
+    if(l.code===LANG)b.className="sel";
+    b.innerHTML='<span class="fl">'+l.flag+'</span><span>'+esc(l.name)+'</span>';
+    b.onclick=()=>{ setLang(l.code); menu.classList.remove("open"); };
+    menu.appendChild(b); });
+}
+function setLang(code){ if(!LANGS.some(l=>l.code===code))code="de"; LANG=code; try{localStorage.setItem(LKEY,code);}catch(e){}
+  document.documentElement.lang=code; renderLangSwitcher(); render(); }
+function initLangUI(){ const btn=$("#langbtn"), menu=$("#langmenu");
+  if(btn&&menu){ btn.onclick=(e)=>{ e.stopPropagation(); menu.classList.toggle("open"); };
+    document.addEventListener("click",()=>menu.classList.remove("open")); }
+  document.documentElement.lang=LANG; renderLangSwitcher(); }
 const SKEY = "lf_state_v2";
 let S = load();
 function load(){
@@ -323,14 +391,22 @@ function renderHome(v){
   const hpct = hr.n? Math.round(hr.h/hr.n*100):0;
   const badges = Object.keys(S.badges).length;
   const lastEx = S.exams[S.exams.length-1];
-  v.innerHTML = `
+  const introCard = (LANG==="de") ? `
   <div class="card">
     <h2>Hi! 👋 Bereit für die Schularbeit?</h2>
     <p class="muted" style="margin:4px 0 10px">So funktioniert's – in 3 Schritten pro Thema:</p>
     <p style="margin:0 0 12px"><b>1️⃣ Lesen &amp; Hören</b> – englischer Text mit Wort-für-Wort-Übersetzung (Birkenbihl-Methode) und sinnvoller Übersetzung. Beim Vorlesen leuchtet das aktuelle Wort auf.<br>
     <b>2️⃣ Üben</b> – Aufgaben der Professorin als Dropdown-Aufgaben. Nichts tippen, nur klug auswählen. Jede Aufgabe hat einen Lösungs-Button – und neu: „🔤 Wort für Wort“ (ganzer Satz mit deutscher Übersetzung unter jedem Wort) und „🔊 Vorlesen“.<br>
     <b>3️⃣ Prüfung</b> – Mini-Schularbeit mit Note. Fehler landen automatisch in „Nochmal üben“.</p>
-  </div>
+  </div>` : `
+  <div class="card">
+    <h2${dirAttr()}>${esc(aHome("HOME::title"))}</h2>
+    <p class="muted" style="margin:4px 0 10px"${dirAttr()}>${esc(aHome("HOME::lead"))}</p>
+    <p style="margin:0 0 12px;line-height:1.75"${dirAttr()}>${esc(aHome("HOME::step1"))}<br><br>${esc(aHome("HOME::step2"))}<br><br>${esc(aHome("HOME::step3"))}</p>
+    ${aHome("HOME::uinote") ? `<p class="small muted" style="margin:0"${dirAttr()}>${esc(aHome("HOME::uinote"))}</p>` : ""}
+  </div>`;
+  v.innerHTML = `
+  ${introCard}
   <div class="card">
     <h3>📊 Dein Lernfortschritt</h3>
     <div style="display:flex;align-items:center;gap:10px;margin-top:8px">
@@ -412,9 +488,9 @@ function renderBirkenbihl(v,t){
     if(canAudio()){ c.querySelector('[data-act="all"]').onclick=()=>playText(ids); c.querySelector('[data-act="stop"]').onclick=stopSeq; }
     text.sentences.forEach(s=>{
       const row=document.createElement("div"); row.className="sent"; row.id="sent_"+s.id;
-      const words=s.decode.map((p,i)=>`<span class="w" data-i="${i}"><b>${esc(p[0])}</b><span>${esc(p[1])}</span></span>`).join("");
+      const words=s.decode.map((p,i)=>`<span class="w" data-i="${i}"><b>${esc(p[0])}</b><span${dirAttr()}>${esc(aWord(s.id,i,p[1]))}</span></span>`).join("");
       row.innerHTML=`<div class="srow">${canAudio()?`<button class="play">▶</button>`:""}<div class="words">${words}</div></div>
-        <div class="de">💬 ${esc(s.de)}</div>`;
+        <div class="de"${dirAttr()}>💬 ${esc(aSent(s.id,s.de))}</div>`;
       if(canAudio()) row.querySelector(".play").onclick=()=>playSentence(s.id);
       c.appendChild(row);
     });
@@ -426,8 +502,8 @@ function renderBirkenbihl(v,t){
 function renderExercises(v,t){
   (t.exercises||[]).filter(x=>subFilter(t,x)).forEach(ex=>{
     const c=document.createElement("div"); c.className="ex";
-    c.innerHTML=`<div class="exhead"><h3>${esc(ex.title)}</h3><span class="src">${esc(ex.source||"")}</span></div>
-      <div class="small muted">${esc(ex.instruction||"")}</div>`;
+    c.innerHTML=`<div class="exhead"><h3>${esc(aExTitle(ex.id,ex.title))}</h3><span class="src">${esc(ex.source||"")}</span></div>
+      <div class="small muted"${dirAttr()}>${esc(aExInstr(ex.id,ex.instruction||""))}</div>`;
     ex.questions.forEach((q,i)=> c.appendChild(questionEl(t,ex,q,ex.id+"_q"+i,false)));
     v.appendChild(c);
   });
@@ -442,17 +518,18 @@ function addExerciseTools(wrap,q,qid){
   tools.append(wfwBtn, playBtn); wrap.appendChild(tools);
   const panel=document.createElement("div"); panel.className="wfw";
   let hi=0;
+  const gmap={}; let _gc=0; q.parts.forEach((pp,pi)=>{ if(typeof pp==="object"){ gmap[pi]=_gc++; } });
   let html='<div class="wfwhint">Ganzer Satz Wort für Wort. Die <b>Antwort-Optionen</b> sind farbig markiert (Englisch + Bedeutung) – welche richtig ist, wählst du selbst 😉</div><div class="words">';
   q.wfw.forEach((seg,idx)=>{
     if(seg.t==="t"){
-      (seg.w||[]).forEach(p=>{ html+=`<span class="w" data-hi="${hi++}"><b>${esc(p[0])}</b><span>${esc(p[1])}</span></span>`; });
+      (seg.w||[]).forEach((p,wi)=>{ html+=`<span class="w" data-hi="${hi++}"><b>${esc(p[0])}</b><span${dirAttr()}>${esc(aWfw(qid,idx,wi,p[1]))}</span></span>`; });
     } else {
       const part=q.parts[idx];
       html+='<span class="optset">';
       part.opts.forEach((o,oi)=>{
         const c=OPTCOLORS[oi%OPTCOLORS.length];
-        const de=(part.decode&&part.decode[oi])?part.decode[oi]:"";
-        html+=`<span class="optchip" data-hi="${hi++}" style="--oc:${c};--ocbg:${c}1e"><span class="ocw"><span class="ocb">${OPTLETTERS[oi]}</span>${esc(o)}</span>${de?`<span class="ocd">${esc(de)}</span>`:""}</span>`;
+        const de=aGap(qid,gmap[idx],oi,(part.decode&&part.decode[oi])?part.decode[oi]:"");
+        html+=`<span class="optchip" data-hi="${hi++}" style="--oc:${c};--ocbg:${c}1e"><span class="ocw"><span class="ocb">${OPTLETTERS[oi]}</span>${esc(o)}</span>${de?`<span class="ocd"${dirAttr()}>${esc(de)}</span>`:""}</span>`;
       });
       html+='</span>';
     }
@@ -469,14 +546,15 @@ function questionEl(topic,ex,q,qid,examMode){
   const st=S.q[qid];
   const body=document.createElement("div"); body.className="qtext"; wrap.appendChild(body);
   const gaps=[];
-  q.parts.forEach(p=>{
-    if(typeof p==="string"){ body.appendChild(document.createTextNode(p)); return; }
+  q.parts.forEach((p,pi)=>{
+    if(typeof p==="string"){ body.appendChild(document.createTextNode(aStem(qid,pi,p))); return; }
+    const gi=gaps.length;
     const gw=document.createElement("span"); gw.className="gapwrap";
     const sel=document.createElement("select");
     const ph=document.createElement("option"); ph.value=""; ph.textContent="— wählen —"; ph.disabled=true; ph.selected=true; sel.appendChild(ph);
     shuffle(p.opts.map((o,oi)=>({o,oi}))).forEach(({o,oi})=>{ const op=document.createElement("option"); op.value=oi; op.textContent=o; sel.appendChild(op); });
     const dec=document.createElement("span"); dec.className="gapdec"; dec.innerHTML="&nbsp;";
-    sel.onchange=()=>{ const oi=+sel.value; dec.textContent = (p.decode&&p.decode[oi]) ? p.decode[oi] : " "; sel.classList.remove("ok","bad"); };
+    sel.onchange=()=>{ const oi=+sel.value; dec.textContent = aGap(qid,gi,oi,(p.decode&&p.decode[oi])?p.decode[oi]:" "); dec.setAttribute("dir", isRTL()?"rtl":"auto"); sel.classList.remove("ok","bad"); };
     gw.appendChild(sel); gw.appendChild(dec); body.appendChild(gw);
     if(p.n){ const hint=document.createElement("span"); hint.className="gaphint"; hint.textContent=p.n; body.appendChild(hint); }
     gaps.push({p,sel});
@@ -485,7 +563,7 @@ function questionEl(topic,ex,q,qid,examMode){
   const fb=document.createElement("span"); fb.className="feedback";
   const solBox=document.createElement("div");
   const showSol=(gray)=>{ solBox.className="sol"+(gray?" gray":"");
-    solBox.innerHTML=`<div class="en">✅ ${esc(q.solutionEn||"")}</div><div>💬 ${esc(q.solutionDe||"")}</div>${q.explain?`<div class="small" style="margin-top:4px">💡 ${esc(q.explain)}</div>`:""}`;
+    solBox.innerHTML=`<div class="en">✅ ${esc(q.solutionEn||"")}</div><div${dirAttr()}>💬 ${esc(aSol(qid,q.solutionDe||""))}</div>${q.explain?`<div class="small" style="margin-top:4px"${dirAttr()}>💡 ${esc(aExp(qid,q.explain))}</div>`:""}`;
     if(!solBox.parentNode) wrap.appendChild(solBox); };
   const lock=()=> gaps.forEach(g=>g.sel.disabled=true);
   const applyCorrect=()=> gaps.forEach(g=>{ g.sel.value=String(g.p.correct); g.sel.dispatchEvent(new Event("change")); g.sel.classList.add("ok"); });
@@ -552,13 +630,13 @@ function startExam(v,topic,pool,n){
     if(ok){ el.classList.add("ok"); }
     else { if(!S.pool.includes(o.qid)) S.pool.push(o.qid);
       const sol=document.createElement("div"); sol.className="sol";
-      sol.innerHTML=`<div class="en">✅ ${esc(o.q.solutionEn||"")}</div><div>💬 ${esc(o.q.solutionDe||"")}</div>${o.q.explain?`<div class="small" style="margin-top:4px">💡 ${esc(o.q.explain)}</div>`:""}`;
+      sol.innerHTML=`<div class="en">✅ ${esc(o.q.solutionEn||"")}</div><div${dirAttr()}>💬 ${esc(aSol(o.qid,o.q.solutionDe||""))}</div>${o.q.explain?`<div class="small" style="margin-top:4px"${dirAttr()}>💡 ${esc(aExp(o.qid,o.q.explain))}</div>`:""}`;
       el.appendChild(sol); }
     results.set(o.qid, ok); save(); return ok;
   };
   const els=qs.map((o,i)=>{
     const box=document.createElement("div"); box.className="examq";
-    box.innerHTML=`<div class="small muted" style="margin-bottom:2px">Frage ${i+1} · ${o.topic? esc(o.topic.title):""} ${esc(o.ex.title)}</div>`;
+    box.innerHTML=`<div class="small muted" style="margin-bottom:2px">Frage ${i+1} · ${o.topic? esc(o.topic.title):""} ${esc(aExTitle(o.ex.id,o.ex.title))}</div>`;
     const el=questionEl(o.topic,o.ex,o.q,o.qid,true); box.appendChild(el);
     const row=document.createElement("div"); row.className="qbtns";
     const chk=document.createElement("button"); chk.className="btn ghost"; chk.textContent="Satz prüfen";
@@ -607,7 +685,7 @@ function renderPool(v){
   S.pool.slice().forEach(qid=>{
     const o=QINDEX[qid]; if(!o) return;
     const box=document.createElement("div"); box.className="ex";
-    box.innerHTML=`<div class="exhead"><h3>${o.topic.icon} ${esc(o.topic.title)} · ${esc(o.ex.title)}</h3><span class="src">${esc(o.ex.instruction||"")}</span></div>`;
+    box.innerHTML=`<div class="exhead"><h3>${o.topic.icon} ${esc(o.topic.title)} · ${esc(aExTitle(o.ex.id,o.ex.title))}</h3><span class="src"${dirAttr()}>${esc(aExInstr(o.ex.id,o.ex.instruction||""))}</span></div>`;
     if(S.q[qid]) { S.q[qid].s="open"; }   // frisch versuchen
     box.appendChild(questionEl(o.topic,o.ex,o.q,qid,false));
     v.appendChild(box);
@@ -615,7 +693,7 @@ function renderPool(v){
   save();
 }
 /* ---------- Start ---------- */
-updateHeader(); save(); render();
+initLangUI(); updateHeader(); save(); render();
 </script>
 </body>
 </html>
