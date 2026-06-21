@@ -205,8 +205,8 @@ function updateHearUI(){
 function updateHeader(){
   $("#points").textContent = "⭐ " + S.points + " P";
   $("#streak").textContent = "🔥 " + S.streak;
-  const days = Math.ceil((new Date("2026-06-19") - new Date())/864e5);
-  $("#countdown").textContent = days > 0 ? `Noch ${days} Tag${days===1?"":"e"} bis zur Schularbeit (19.6.)` : "Schularbeit ist heute – good luck! 🍀";
+  const days = Math.ceil((new Date("2026-06-26") - new Date())/864e5);
+  $("#countdown").textContent = days > 0 ? `Noch ${days} Tag${days===1?"":"e"} bis zur Wiederholung (Progress Check 26.6.)` : "Heute ist die Wiederholung – good luck! 🍀";
 }
 function toast(msg){ const d=document.createElement("div"); d.className="toast"; d.textContent=msg; document.body.appendChild(d); setTimeout(()=>d.remove(),2300); }
 const PRAISE = ["Super! 💪","Genau richtig! 🎯","Stark! ⚡","Perfekt! ✨","Weiter so! 🚀","Excellent! 🏆","Du rockst das! 🤘"];

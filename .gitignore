@@ -13,6 +13,5 @@ lernstoff-trainer.skill
 gen_exercise_audio.py
 
 # Backups / Sicherungskopien (nicht Teil der Website)
-*.bak
-*.bak2
+*.bak*
 content.bak/
