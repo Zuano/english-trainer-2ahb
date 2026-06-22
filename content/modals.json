@@ -1329,7 +1329,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "My son should be home by now. Where can he be?"
         },
         {
           "parts": [
@@ -1470,7 +1471,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I think your thumb is broken. You ought to go to the emergency room."
         },
         {
           "parts": [
@@ -1611,7 +1613,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you are interested in losing weight, you could try this new diet."
         },
         {
           "parts": [
@@ -1728,7 +1731,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "John's fallen down the stairs! I will call an ambulance!"
         },
         {
           "parts": [
@@ -1853,7 +1857,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You needn't come too early. We won't leave until 9 o'clock."
         },
         {
           "parts": [
@@ -1970,7 +1975,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Children must be accompanied by an adult at the zoo."
         },
         {
           "parts": [
@@ -2063,7 +2069,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You mustn't talk during tests. It's forbidden!"
         },
         {
           "parts": [
@@ -2188,7 +2195,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I can feel the heat. We must be near the fire."
         },
         {
           "parts": [
@@ -2289,7 +2297,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "They couldn't hear him because he was whispering."
         },
         {
           "parts": [
@@ -2406,7 +2415,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You've never heard of Britney Spears? You can't be serious!"
         },
         {
           "parts": [
@@ -2509,7 +2519,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Would you like to have dinner with me tonight?"
         },
         {
           "parts": [
@@ -2642,7 +2653,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You mustn't let him hear about the party tomorrow. It's a surprise!"
         },
         {
           "parts": [
@@ -2737,7 +2749,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "May I speak to the Chief Councellor, please?"
         },
         {
           "parts": [
@@ -2847,7 +2860,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "He has arrived late. He must have missed the bus."
         }
       ]
     },
@@ -3008,7 +3022,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You should get a good lawyer."
         },
         {
           "parts": [
@@ -3184,7 +3199,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You don't have to have a university degree for that job."
         },
         {
           "parts": [
@@ -3328,7 +3344,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "My father may pick you up."
         },
         {
           "parts": [
@@ -3448,7 +3465,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You mustn't eat in class."
         },
         {
           "parts": [
@@ -3632,7 +3650,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "He must be a poor person."
         },
         {
           "parts": [
@@ -3848,7 +3867,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "The legend of Hercules can't be true."
         }
       ]
     },
@@ -3980,7 +4000,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "We may know the answers tomorrow."
         },
         {
           "parts": [
@@ -4139,7 +4160,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "You'd better not ring him now. It's rather late."
         },
         {
           "parts": [
@@ -4270,7 +4292,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "You don't have to come if you don't want to."
         },
         {
           "parts": [
@@ -4405,7 +4428,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "You shouldn't work so hard."
         },
         {
           "parts": [
@@ -4500,7 +4524,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "These might be the keys."
         },
         {
           "parts": [
@@ -4707,7 +4732,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "We can't lock the cat in the house for a week."
         },
         {
           "parts": [
@@ -4850,7 +4876,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "The decision might be announced next week."
         },
         {
           "parts": [
@@ -5017,7 +5044,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Try as I may, I can never solve The Times crossword."
         },
         {
           "parts": [
@@ -5168,7 +5196,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "I know. We could go out to eat instead."
         }
       ]
     },
@@ -5259,7 +5288,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "That can't have been Nick that you saw."
         },
         {
           "parts": [
@@ -5377,7 +5407,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I caught a later train because I had to see a client."
         },
         {
           "parts": [
@@ -5483,7 +5514,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I don't know who rang, but it could have been Jim."
         },
         {
           "parts": [
@@ -5597,7 +5629,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "It's a pity you didn't ask because I could have helped you."
         },
         {
           "parts": [
@@ -5719,7 +5752,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "It's your own fault, you shouldn't have gone to bed so late."
         }
       ]
     }

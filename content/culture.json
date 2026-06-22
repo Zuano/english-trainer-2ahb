@@ -1,3331 +1,3491 @@
 {
- "id": "culture",
- "title": "Culture",
- "icon": "🌍",
- "phase": 1,
- "order": 0,
- "birkenbihl": [
-  {
-   "id": "cult_t1",
-   "title": "1 · Einleitung – Britain's multicultural society",
-   "sentences": [
+  "id": "culture",
+  "title": "Culture",
+  "icon": "🌍",
+  "phase": 1,
+  "order": 0,
+  "birkenbihl": [
     {
-     "id": "cult_t1_s01",
-     "en": "Unit six.",
-     "decode": [
-      [
-       "Unit",
-       "Einheit"
-      ],
-      [
-       "six.",
-       "sechs."
+      "id": "cult_t1",
+      "title": "1 · Einleitung – Britain's multicultural society",
+      "sentences": [
+        {
+          "id": "cult_t1_s01",
+          "en": "Unit six.",
+          "decode": [
+            [
+              "Unit",
+              "Einheit"
+            ],
+            [
+              "six.",
+              "sechs."
+            ]
+          ],
+          "de": "Einheit 6."
+        },
+        {
+          "id": "cult_t1_s02",
+          "en": "Britain's multicultural society",
+          "decode": [
+            [
+              "Britain's",
+              "Großbritanniens"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ]
+          ],
+          "de": "Großbritanniens multikulturelle Gesellschaft."
+        },
+        {
+          "id": "cult_t1_s03",
+          "en": "As we know, Britain has a multiracial and multicultural society.",
+          "decode": [
+            [
+              "As",
+              "Wie"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "know,",
+              "wissen,"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "multiracial",
+              "multiethnische"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society.",
+              "Gesellschaft."
+            ]
+          ],
+          "de": "Wie wir wissen, hat Großbritannien eine multiethnische und multikulturelle Gesellschaft."
+        },
+        {
+          "id": "cult_t1_s04",
+          "en": "It is home to a great heritage and many traditions making it unique in Europe, indeed, in the entire world.",
+          "decode": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "home",
+              "Heimat"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "great",
+              "großes"
+            ],
+            [
+              "heritage",
+              "Erbe"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "traditions",
+              "Traditionen,"
+            ],
+            [
+              "making",
+              "macht"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "unique",
+              "einzigartig"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Europe,",
+              "Europa,"
+            ],
+            [
+              "indeed,",
+              "in der Tat,"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "entire",
+              "ganzen"
+            ],
+            [
+              "world.",
+              "Welt."
+            ]
+          ],
+          "de": "Es ist Heimat eines großen Erbes und vieler Traditionen, was es einzigartig in Europa macht – ja, in der ganzen Welt."
+        },
+        {
+          "id": "cult_t1_s05",
+          "en": "So why do people choose to live in Great Britain instead of living in the country of their origin?",
+          "decode": [
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "choose",
+              "wählen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "live",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Great",
+              "Groß-"
+            ],
+            [
+              "Britain",
+              "britannien"
+            ],
+            [
+              "instead",
+              "statt"
+            ],
+            [
+              "of",
+              "zu"
+            ],
+            [
+              "living",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "their",
+              "ihrer"
+            ],
+            [
+              "origin?",
+              "Herkunft?"
+            ]
+          ],
+          "de": "Warum entscheiden sich Menschen also, in Großbritannien zu leben, statt im Land ihrer Herkunft?"
+        },
+        {
+          "id": "cult_t1_s06",
+          "en": "What makes Britain so appealing to them?",
+          "decode": [
+            [
+              "What",
+              "Was"
+            ],
+            [
+              "makes",
+              "macht"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "appealing",
+              "reizvoll"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "them?",
+              "sie?"
+            ]
+          ],
+          "de": "Was macht Großbritannien für sie so reizvoll?"
+        },
+        {
+          "id": "cult_t1_s07",
+          "en": "Let's find out what they say.",
+          "decode": [
+            [
+              "Let's",
+              "Lasst uns"
+            ],
+            [
+              "find",
+              "finden"
+            ],
+            [
+              "out",
+              "heraus"
+            ],
+            [
+              "what",
+              "was"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "say.",
+              "sagen."
+            ]
+          ],
+          "de": "Finden wir heraus, was sie sagen."
+        }
       ]
-     ],
-     "de": "Einheit 6."
     },
     {
-     "id": "cult_t1_s02",
-     "en": "Britain's multicultural society",
-     "decode": [
-      [
-       "Britain's",
-       "Großbritanniens"
-      ],
-      [
-       "multicultural",
-       "multikulturelle"
-      ],
-      [
-       "society",
-       "Gesellschaft"
+      "id": "cult_t2",
+      "title": "2 · Juan aus Paraguay",
+      "sentences": [
+        {
+          "id": "cult_t2_s01",
+          "en": "Hello, my name is Juan.",
+          "decode": [
+            [
+              "Hello,",
+              "Hallo,"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "Juan.",
+              "Juan."
+            ]
+          ],
+          "de": "Hallo, mein Name ist Juan."
+        },
+        {
+          "id": "cult_t2_s02",
+          "en": "I come from Paraguay, and I have been living here in the UK for fourteen years.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "come",
+              "komme"
+            ],
+            [
+              "from",
+              "aus"
+            ],
+            [
+              "Paraguay,",
+              "Paraguay,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "living",
+              "wohnend"
+            ],
+            [
+              "here",
+              "hier"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "fourteen",
+              "vierzehn"
+            ],
+            [
+              "years.",
+              "Jahren."
+            ]
+          ],
+          "de": "Ich komme aus Paraguay und lebe hier im UK schon seit vierzehn Jahren."
+        },
+        {
+          "id": "cult_t2_s03",
+          "en": "In my opinion, Britain is better.",
+          "decode": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "opinion,",
+              "Meinung,"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "better.",
+              "besser."
+            ]
+          ],
+          "de": "Meiner Meinung nach ist Großbritannien besser."
+        },
+        {
+          "id": "cult_t2_s04",
+          "en": "For example, the culture in Great Britain is more multicultural.",
+          "decode": [
+            [
+              "For",
+              "Zum"
+            ],
+            [
+              "example,",
+              "Beispiel,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "culture",
+              "Kultur"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Great",
+              "Groß-"
+            ],
+            [
+              "Britain",
+              "britannien"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "multicultural.",
+              "multikulturell."
+            ]
+          ],
+          "de": "Zum Beispiel ist die Kultur in Großbritannien multikultureller."
+        },
+        {
+          "id": "cult_t2_s05",
+          "en": "I mean, it is not just British people.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "mean,",
+              "meine,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "just",
+              "nur"
+            ],
+            [
+              "British",
+              "britische"
+            ],
+            [
+              "people.",
+              "Leute."
+            ]
+          ],
+          "de": "Ich meine, es sind nicht nur Briten."
+        },
+        {
+          "id": "cult_t2_s06",
+          "en": "There are also other cultures like Indians, Pakistani, Chinese, Caribbeans, and so on.",
+          "decode": [
+            [
+              "There",
+              "Es"
+            ],
+            [
+              "are",
+              "gibt"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "other",
+              "andere"
+            ],
+            [
+              "cultures",
+              "Kulturen"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "Indians,",
+              "Inder,"
+            ],
+            [
+              "Pakistani,",
+              "Pakistaner,"
+            ],
+            [
+              "Chinese,",
+              "Chinesen,"
+            ],
+            [
+              "Caribbeans,",
+              "Karibik-Bewohner,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "on.",
+              "weiter."
+            ]
+          ],
+          "de": "Es gibt auch andere Kulturen wie Inder, Pakistaner, Chinesen, Karibik-Bewohner und so weiter."
+        },
+        {
+          "id": "cult_t2_s07",
+          "en": "Mm, the population in my home country is mainly made up of Paraguayans.",
+          "decode": [
+            [
+              "Mm,",
+              "Mm,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "population",
+              "Bevölkerung"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "home",
+              "Heimat-"
+            ],
+            [
+              "country",
+              "land"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "mainly",
+              "hauptsächlich"
+            ],
+            [
+              "made",
+              "zusammen-"
+            ],
+            [
+              "up",
+              "gesetzt"
+            ],
+            [
+              "of",
+              "aus"
+            ],
+            [
+              "Paraguayans.",
+              "Paraguayern."
+            ]
+          ],
+          "de": "Die Bevölkerung in meinem Heimatland besteht hauptsächlich aus Paraguayern."
+        },
+        {
+          "id": "cult_t2_s08",
+          "en": "Another advantage of living in the UK is that people are safer and more equal compared to where I come from.",
+          "decode": [
+            [
+              "Another",
+              "Ein weiterer"
+            ],
+            [
+              "advantage",
+              "Vorteil"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "living",
+              "Lebens"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "is",
+              "ist,"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "safer",
+              "sicherer"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "equal",
+              "gleichberechtigt"
+            ],
+            [
+              "compared",
+              "verglichen"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "come",
+              "komme"
+            ],
+            [
+              "from.",
+              "her."
+            ]
+          ],
+          "de": "Ein weiterer Vorteil des Lebens im UK ist, dass die Menschen sicherer und gleichberechtigter sind als dort, wo ich herkomme."
+        }
       ]
-     ],
-     "de": "Großbritanniens multikulturelle Gesellschaft."
     },
     {
-     "id": "cult_t1_s03",
-     "en": "As we know, Britain has a multiracial and multicultural society.",
-     "decode": [
-      [
-       "As",
-       "Wie"
-      ],
-      [
-       "we",
-       "wir"
-      ],
-      [
-       "know,",
-       "wissen,"
-      ],
-      [
-       "Britain",
-       "Großbritannien"
-      ],
-      [
-       "has",
-       "hat"
-      ],
-      [
-       "a",
-       "eine"
-      ],
-      [
-       "multiracial",
-       "multiethnische"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "multicultural",
-       "multikulturelle"
-      ],
-      [
-       "society.",
-       "Gesellschaft."
+      "id": "cult_t3",
+      "title": "3 · London & die Tube",
+      "sentences": [
+        {
+          "id": "cult_t3_s01",
+          "en": "I quite like London.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "quite",
+              "sehr"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "London.",
+              "London."
+            ]
+          ],
+          "de": "Ich mag London sehr."
+        },
+        {
+          "id": "cult_t3_s02",
+          "en": "I like that it's busy and that it's on the go all the time.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "it's",
+              "es ist"
+            ],
+            [
+              "busy",
+              "belebt"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "it's",
+              "es ist"
+            ],
+            [
+              "on",
+              "in"
+            ],
+            [
+              "the",
+              "—"
+            ],
+            [
+              "go",
+              "Bewegung"
+            ],
+            [
+              "all",
+              "die ganze"
+            ],
+            [
+              "the",
+              "—"
+            ],
+            [
+              "time.",
+              "Zeit."
+            ]
+          ],
+          "de": "Ich mag, dass es belebt ist und dass ständig etwas los ist."
+        },
+        {
+          "id": "cult_t3_s03",
+          "en": "The best thing ever is the London Tube.",
+          "decode": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "best",
+              "beste"
+            ],
+            [
+              "thing",
+              "Ding"
+            ],
+            [
+              "ever",
+              "überhaupt"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "London",
+              "Londoner"
+            ],
+            [
+              "Tube.",
+              "U-Bahn (Tube)."
+            ]
+          ],
+          "de": "Das Allerbeste ist die Londoner U-Bahn (die Tube)."
+        },
+        {
+          "id": "cult_t3_s04",
+          "en": "I hear people complain about the Tube all the time.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "hear",
+              "höre"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "complain",
+              "klagen"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "Tube",
+              "Tube"
+            ],
+            [
+              "all",
+              "die ganze"
+            ],
+            [
+              "the",
+              "—"
+            ],
+            [
+              "time.",
+              "Zeit."
+            ]
+          ],
+          "de": "Ich höre die Leute ständig über die Tube schimpfen."
+        },
+        {
+          "id": "cult_t3_s05",
+          "en": "I tell them, \"Move to Ireland for two weeks, and when you are back, you will fall in love with London's underground.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "tell",
+              "sage"
+            ],
+            [
+              "them,",
+              "ihnen:"
+            ],
+            [
+              "\"Move",
+              "„Zieh"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Ireland",
+              "Irland"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "two",
+              "zwei"
+            ],
+            [
+              "weeks,",
+              "Wochen,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "are",
+              "bist"
+            ],
+            [
+              "back,",
+              "zurück,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "fall",
+              "fallen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "love",
+              "Liebe"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "London's",
+              "Londons"
+            ],
+            [
+              "underground.",
+              "U-Bahn."
+            ]
+          ],
+          "de": "Ich sage ihnen: „Zieh für zwei Wochen nach Irland, und wenn du zurück bist, wirst du dich in Londons U-Bahn verlieben."
+        },
+        {
+          "id": "cult_t3_s06",
+          "en": "Trust me.\"",
+          "decode": [
+            [
+              "Trust",
+              "Vertrau"
+            ],
+            [
+              "me.\"",
+              "mir.\""
+            ]
+          ],
+          "de": "Glaub mir.“"
+        },
+        {
+          "id": "cult_t3_s07",
+          "en": "Public transport is terrible over there, but here in London, it is brilliant.",
+          "decode": [
+            [
+              "Public",
+              "Öffentlicher"
+            ],
+            [
+              "transport",
+              "Verkehr"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "terrible",
+              "schrecklich"
+            ],
+            [
+              "over",
+              "dort"
+            ],
+            [
+              "there,",
+              "drüben,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "here",
+              "hier"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "London,",
+              "London,"
+            ],
+            [
+              "it",
+              "er"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "brilliant.",
+              "brillant."
+            ]
+          ],
+          "de": "Die öffentlichen Verkehrsmittel sind dort drüben schrecklich, aber hier in London sind sie super."
+        },
+        {
+          "id": "cult_t3_s08",
+          "en": "I don't care if my Tube is delayed by five or ten minutes.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "don't",
+              "nicht"
+            ],
+            [
+              "care",
+              "kümmere mich"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "Tube",
+              "Tube"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "delayed",
+              "verspätet"
+            ],
+            [
+              "by",
+              "um"
+            ],
+            [
+              "five",
+              "fünf"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "ten",
+              "zehn"
+            ],
+            [
+              "minutes.",
+              "Minuten."
+            ]
+          ],
+          "de": "Es ist mir egal, ob meine Tube fünf oder zehn Minuten Verspätung hat."
+        },
+        {
+          "id": "cult_t3_s09",
+          "en": "I'll get there in the end.",
+          "decode": [
+            [
+              "I'll",
+              "Ich werde"
+            ],
+            [
+              "get",
+              "gelangen"
+            ],
+            [
+              "there",
+              "dorthin"
+            ],
+            [
+              "in",
+              "am"
+            ],
+            [
+              "the",
+              "—"
+            ],
+            [
+              "end.",
+              "Ende."
+            ]
+          ],
+          "de": "Ich komme am Ende schon dort an."
+        }
       ]
-     ],
-     "de": "Wie wir wissen, hat Großbritannien eine multiethnische und multikulturelle Gesellschaft."
     },
     {
-     "id": "cult_t1_s04",
-     "en": "It is home to a great heritage and many traditions making it unique in Europe, indeed, in the entire world.",
-     "decode": [
-      [
-       "It",
-       "Es"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "home",
-       "Heimat"
-      ],
-      [
-       "to",
-       "für"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "great",
-       "großes"
-      ],
-      [
-       "heritage",
-       "Erbe"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "many",
-       "viele"
-      ],
-      [
-       "traditions",
-       "Traditionen,"
-      ],
-      [
-       "making",
-       "macht"
-      ],
-      [
-       "it",
-       "es"
-      ],
-      [
-       "unique",
-       "einzigartig"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "Europe,",
-       "Europa,"
-      ],
-      [
-       "indeed,",
-       "in der Tat,"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "der"
-      ],
-      [
-       "entire",
-       "ganzen"
-      ],
-      [
-       "world.",
-       "Welt."
+      "id": "cult_t4",
+      "title": "4 · „The gateway to Europe“",
+      "sentences": [
+        {
+          "id": "cult_t4_s01",
+          "en": "I have chosen to live in the UK because, first of all, it is where I was born.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "chosen",
+              "gewählt"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "live",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "because,",
+              "weil,"
+            ],
+            [
+              "first",
+              "zuerst"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "all,",
+              "allem,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "born.",
+              "geboren."
+            ]
+          ],
+          "de": "Ich habe mich entschieden, im UK zu leben, weil ich – zuallererst – hier geboren bin."
+        },
+        {
+          "id": "cult_t4_s02",
+          "en": "It is where I grew up.",
+          "decode": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist,"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "grew",
+              "wuchs"
+            ],
+            [
+              "up.",
+              "auf."
+            ]
+          ],
+          "de": "Hier bin ich aufgewachsen."
+        },
+        {
+          "id": "cult_t4_s03",
+          "en": "Even though my parents moved back to the Caribbean, I decided to stay in the UK because it's the gateway to Europe.",
+          "decode": [
+            [
+              "Even",
+              "Auch"
+            ],
+            [
+              "though",
+              "obwohl"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "parents",
+              "Eltern"
+            ],
+            [
+              "moved",
+              "zogen"
+            ],
+            [
+              "back",
+              "zurück"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "Caribbean,",
+              "Karibik,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "decided",
+              "entschied"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "stay",
+              "bleiben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it's",
+              "es ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "gateway",
+              "Tor"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Europe.",
+              "Europa."
+            ]
+          ],
+          "de": "Obwohl meine Eltern zurück in die Karibik gezogen sind, habe ich beschlossen, im UK zu bleiben, weil es das Tor nach Europa ist."
+        },
+        {
+          "id": "cult_t4_s04",
+          "en": "I love traveling.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "love",
+              "liebe"
+            ],
+            [
+              "traveling.",
+              "Reisen."
+            ]
+          ],
+          "de": "Ich liebe das Reisen."
+        },
+        {
+          "id": "cult_t4_s05",
+          "en": "I love flying.",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "love",
+              "liebe"
+            ],
+            [
+              "flying.",
+              "Fliegen."
+            ]
+          ],
+          "de": "Ich liebe das Fliegen."
+        },
+        {
+          "id": "cult_t4_s06",
+          "en": "I've been to places like Australia.",
+          "decode": [
+            [
+              "I've",
+              "Ich bin"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "places",
+              "Orten"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "Australia.",
+              "Australien."
+            ]
+          ],
+          "de": "Ich war schon an Orten wie Australien."
+        },
+        {
+          "id": "cult_t4_s07",
+          "en": "I've been to Germany.",
+          "decode": [
+            [
+              "I've",
+              "Ich bin"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "Germany.",
+              "Deutschland."
+            ]
+          ],
+          "de": "Ich war schon in Deutschland."
+        },
+        {
+          "id": "cult_t4_s08",
+          "en": "I have been to Sweden, and I've already been to Paris a few times, and I actually love Europe,",
+          "decode": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "have",
+              "bin"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "Sweden,",
+              "Schweden,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "I've",
+              "ich bin"
+            ],
+            [
+              "already",
+              "schon"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "Paris",
+              "Paris"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "few",
+              "paar"
+            ],
+            [
+              "times,",
+              "Mal,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "actually",
+              "tatsächlich"
+            ],
+            [
+              "love",
+              "liebe"
+            ],
+            [
+              "Europe,",
+              "Europa,"
+            ]
+          ],
+          "de": "Ich war in Schweden, und ich war schon ein paar Mal in Paris, und ich liebe Europa wirklich,"
+        },
+        {
+          "id": "cult_t4_s09",
+          "en": "and London is the gateway to Europe.",
+          "decode": [
+            [
+              "and",
+              "und"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "gateway",
+              "Tor"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Europe.",
+              "Europa."
+            ]
+          ],
+          "de": "und London ist das Tor nach Europa."
+        },
+        {
+          "id": "cult_t4_s10",
+          "en": "So that's one of the major reasons why I live in the UK.",
+          "decode": [
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "that's",
+              "das ist"
+            ],
+            [
+              "one",
+              "einer"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "major",
+              "wichtigsten"
+            ],
+            [
+              "reasons",
+              "Gründen,"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "live",
+              "lebe"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK.",
+              "UK."
+            ]
+          ],
+          "de": "Das ist also einer der wichtigsten Gründe, warum ich im UK lebe."
+        },
+        {
+          "id": "cult_t4_s11",
+          "en": "Also, education in the UK is a bit cheaper compared to what you would have to pay when going to a university in the US or in the Caribbean.",
+          "decode": [
+            [
+              "Also,",
+              "Außerdem,"
+            ],
+            [
+              "education",
+              "Bildung"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "bit",
+              "bisschen"
+            ],
+            [
+              "cheaper",
+              "billiger"
+            ],
+            [
+              "compared",
+              "verglichen"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "what",
+              "dem, was"
+            ],
+            [
+              "you",
+              "man"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "have",
+              "müssen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "going",
+              "gehend"
+            ],
+            [
+              "to",
+              "auf"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "university",
+              "Universität"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "US",
+              "USA"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "Caribbean.",
+              "Karibik."
+            ]
+          ],
+          "de": "Außerdem ist die Ausbildung im UK etwas billiger als das, was man zahlen müsste, wenn man auf eine Universität in den USA oder in der Karibik geht."
+        },
+        {
+          "id": "cult_t4_s12",
+          "en": "It is a lot easier to get university grants for people who cannot afford education.",
+          "decode": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "lot",
+              "viel"
+            ],
+            [
+              "easier",
+              "leichter"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "get",
+              "bekommen"
+            ],
+            [
+              "university",
+              "Uni-"
+            ],
+            [
+              "grants",
+              "Stipendien"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "people",
+              "Leute,"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "cannot",
+              "nicht können"
+            ],
+            [
+              "afford",
+              "leisten"
+            ],
+            [
+              "education.",
+              "Bildung."
+            ]
+          ],
+          "de": "Es ist viel leichter, Uni-Stipendien für Leute zu bekommen, die sich Bildung nicht leisten können."
+        },
+        {
+          "id": "cult_t4_s13",
+          "en": "So these are my main reasons for living in the UK.",
+          "decode": [
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "these",
+              "das"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "reasons",
+              "gründe"
+            ],
+            [
+              "for",
+              "fürs"
+            ],
+            [
+              "living",
+              "Leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK.",
+              "UK."
+            ]
+          ],
+          "de": "Das sind also meine Hauptgründe, im UK zu leben."
+        }
       ]
-     ],
-     "de": "Es ist Heimat eines großen Erbes und vieler Traditionen, was es einzigartig in Europa macht – ja, in der ganzen Welt."
     },
     {
-     "id": "cult_t1_s05",
-     "en": "So why do people choose to live in Great Britain instead of living in the country of their origin?",
-     "decode": [
-      [
-       "So",
-       "Also"
-      ],
-      [
-       "why",
-       "warum"
-      ],
-      [
-       "do",
-       "tun"
-      ],
-      [
-       "people",
-       "Menschen"
-      ],
-      [
-       "choose",
-       "wählen"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "live",
-       "leben"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "Great",
-       "Groß-"
-      ],
-      [
-       "Britain",
-       "britannien"
-      ],
-      [
-       "instead",
-       "statt"
-      ],
-      [
-       "of",
-       "zu"
-      ],
-      [
-       "living",
-       "leben"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "country",
-       "Land"
-      ],
-      [
-       "of",
-       "von"
-      ],
-      [
-       "their",
-       "ihrer"
-      ],
-      [
-       "origin?",
-       "Herkunft?"
+      "id": "cult_t5",
+      "title": "5 · Menschen & Orte in London",
+      "sentences": [
+        {
+          "id": "cult_t5_s01",
+          "en": "People here are very friendly.",
+          "decode": [
+            [
+              "People",
+              "Menschen"
+            ],
+            [
+              "here",
+              "hier"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "friendly.",
+              "freundlich."
+            ]
+          ],
+          "de": "Die Menschen hier sind sehr freundlich."
+        },
+        {
+          "id": "cult_t5_s02",
+          "en": "People are very good.",
+          "decode": [
+            [
+              "People",
+              "Menschen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "good.",
+              "gut."
+            ]
+          ],
+          "de": "Die Menschen sind sehr gut."
+        },
+        {
+          "id": "cult_t5_s03",
+          "en": "The Tube, the planes, the buses are really good.",
+          "decode": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "Tube,",
+              "Tube,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "planes,",
+              "Flugzeuge,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "buses",
+              "Busse"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "good.",
+              "gut."
+            ]
+          ],
+          "de": "Die Tube, die Flugzeuge, die Busse sind wirklich gut."
+        },
+        {
+          "id": "cult_t5_s04",
+          "en": "The London Eye is a really good place and also the London Dungeon.",
+          "decode": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "Eye",
+              "Eye"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "good",
+              "guter"
+            ],
+            [
+              "place",
+              "Ort"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "Dungeon.",
+              "Dungeon."
+            ]
+          ],
+          "de": "Das London Eye ist ein wirklich guter Ort und auch das London Dungeon."
+        },
+        {
+          "id": "cult_t5_s05",
+          "en": "London is a really good place.",
+          "decode": [
+            [
+              "London",
+              "London"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "good",
+              "guter"
+            ],
+            [
+              "place.",
+              "Ort."
+            ]
+          ],
+          "de": "London ist ein wirklich guter Ort."
+        }
       ]
-     ],
-     "de": "Warum entscheiden sich Menschen also, in Großbritannien zu leben, statt im Land ihrer Herkunft?"
     },
     {
-     "id": "cult_t1_s06",
-     "en": "What makes Britain so appealing to them?",
-     "decode": [
-      [
-       "What",
-       "Was"
-      ],
-      [
-       "makes",
-       "macht"
-      ],
-      [
-       "Britain",
-       "Großbritannien"
-      ],
-      [
-       "so",
-       "so"
-      ],
-      [
-       "appealing",
-       "reizvoll"
-      ],
-      [
-       "to",
-       "für"
-      ],
-      [
-       "them?",
-       "sie?"
+      "id": "cult_t6",
+      "title": "6 · Fazit – a vibrant culture",
+      "sentences": [
+        {
+          "id": "cult_t6_s01",
+          "en": "Our multicultural, multiracial society adds much color to our lives.",
+          "decode": [
+            [
+              "Our",
+              "Unsere"
+            ],
+            [
+              "multicultural,",
+              "multikulturelle,"
+            ],
+            [
+              "multiracial",
+              "multiethnische"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "adds",
+              "verleiht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "color",
+              "Farbe"
+            ],
+            [
+              "to",
+              "—"
+            ],
+            [
+              "our",
+              "unserem"
+            ],
+            [
+              "lives.",
+              "Leben."
+            ]
+          ],
+          "de": "Unsere multikulturelle, multiethnische Gesellschaft verleiht unserem Leben viel Farbe."
+        },
+        {
+          "id": "cult_t6_s02",
+          "en": "Britain's diverse society makes for a very interesting and vibrant culture.",
+          "decode": [
+            [
+              "Britain's",
+              "Großbritanniens"
+            ],
+            [
+              "diverse",
+              "vielfältige"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "makes",
+              "sorgt"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "interesting",
+              "interessante"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "vibrant",
+              "lebendige"
+            ],
+            [
+              "culture.",
+              "Kultur."
+            ]
+          ],
+          "de": "Großbritanniens vielfältige Gesellschaft sorgt für eine sehr interessante und lebendige Kultur."
+        },
+        {
+          "id": "cult_t6_s03",
+          "en": "We can all enjoy the benefits of living together in the UK, a country with so many beautiful places and which has so much to offer to all of us.",
+          "decode": [
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "all",
+              "alle"
+            ],
+            [
+              "enjoy",
+              "genießen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "benefits",
+              "Vorteile"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "living",
+              "Lebens"
+            ],
+            [
+              "together",
+              "zusammen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK,",
+              "UK,"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "many",
+              "vielen"
+            ],
+            [
+              "beautiful",
+              "schönen"
+            ],
+            [
+              "places",
+              "Orten"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "which",
+              "das"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "offer",
+              "bieten"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "all",
+              "alle"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "us.",
+              "uns."
+            ]
+          ],
+          "de": "Wir alle können die Vorteile des Zusammenlebens im UK genießen – ein Land mit so vielen schönen Orten, das uns allen so viel zu bieten hat."
+        }
       ]
-     ],
-     "de": "Was macht Großbritannien für sie so reizvoll?"
-    },
-    {
-     "id": "cult_t1_s07",
-     "en": "Let's find out what they say.",
-     "decode": [
-      [
-       "Let's",
-       "Lasst uns"
-      ],
-      [
-       "find",
-       "finden"
-      ],
-      [
-       "out",
-       "heraus"
-      ],
-      [
-       "what",
-       "was"
-      ],
-      [
-       "they",
-       "sie"
-      ],
-      [
-       "say.",
-       "sagen."
-      ]
-     ],
-     "de": "Finden wir heraus, was sie sagen."
     }
-   ]
-  },
-  {
-   "id": "cult_t2",
-   "title": "2 · Juan aus Paraguay",
-   "sentences": [
+  ],
+  "exercises": [
     {
-     "id": "cult_t2_s01",
-     "en": "Hello, my name is Juan.",
-     "decode": [
-      [
-       "Hello,",
-       "Hallo,"
-      ],
-      [
-       "my",
-       "mein"
-      ],
-      [
-       "name",
-       "Name"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "Juan.",
-       "Juan."
+      "id": "cult_ex01",
+      "title": "Hörverstehen: Reasons for living in the UK (A–D)",
+      "source": "Listening-Worksheet · Track 13 (Originalfragen 0–7)",
+      "type": "mc",
+      "instruction": "Wähle wie im Original-Hörverstehen die richtige Antwort. Tipp: Hör dir zuerst den Text unter „Lesen & Hören“ an.",
+      "questions": [
+        {
+          "parts": [
+            "(0) Britain is unique because ",
+            {
+              "opts": [
+                "of its fish and chips",
+                "many tourists visit it every year",
+                "it is home to a rich, diverse culture",
+                "it allows many immigrants to live there"
+              ],
+              "correct": 2,
+              "decode": [
+                "wegen Fish & Chips",
+                "viele Touristen besuchen es jedes Jahr",
+                "es beherbergt eine reiche, vielfältige Kultur",
+                "es lässt viele Einwanderer dort leben"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "Britain is unique because it is home to a rich, diverse culture.",
+          "solutionDe": "Großbritannien ist einzigartig, weil es eine reiche, vielfältige Kultur beherbergt.",
+          "explain": "Im Text: „home to a great heritage and many traditions … unique“. (Beispiel 0 – schon vorgegeben.)",
+          "read": "Britain is unique because it is home to a rich, diverse culture."
+        },
+        {
+          "parts": [
+            "(1) According to Juan, there is ",
+            {
+              "opts": [
+                "a big payment gap between Paraguay and the UK",
+                "a big difference between Paraguay and the UK",
+                "a greater number of males than females in Paraguay",
+                "a huge difference in all areas of life in Paraguay"
+              ],
+              "correct": 1,
+              "decode": [
+                "eine große Lohnlücke zwischen Paraguay und dem UK",
+                "ein großer Unterschied zwischen Paraguay und dem UK",
+                "mehr Männer als Frauen in Paraguay",
+                "ein riesiger Unterschied in allen Lebensbereichen in Paraguay"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "According to Juan, there is a big difference between Paraguay and the UK.",
+          "solutionDe": "Laut Juan gibt es einen großen Unterschied zwischen Paraguay und dem UK.",
+          "explain": "Juan vergleicht Kultur, Bevölkerung und Sicherheit/Gleichheit – also ein großer Unterschied zwischen den Ländern.",
+          "read": "According to Juan, there is a big difference between Paraguay and the UK."
+        },
+        {
+          "parts": [
+            "(2) Juan believes that in the UK people are ",
+            {
+              "opts": [
+                "safer than in Paraguay",
+                "less safe than in Paraguay",
+                "more equal but less safe than in Paraguay",
+                "more equal and safer than in Paraguay"
+              ],
+              "correct": 3,
+              "decode": [
+                "sicherer als in Paraguay",
+                "weniger sicher als in Paraguay",
+                "gleichberechtigter, aber weniger sicher als in Paraguay",
+                "gleichberechtigter und sicherer als in Paraguay"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "Juan believes that in the UK people are more equal and safer than in Paraguay.",
+          "solutionDe": "Juan glaubt, dass die Menschen im UK gleichberechtigter und sicherer sind als in Paraguay.",
+          "explain": "Originalzitat: „people are safer and more equal compared to where I come from.“",
+          "read": "Juan believes that in the UK people are more equal and safer than in Paraguay."
+        },
+        {
+          "parts": [
+            "(3) The next speaker admires London ",
+            {
+              "opts": [
+                "for its beautiful sights",
+                "for its awe-inspiring architecture",
+                "for the monarchy",
+                "because it is always busy"
+              ],
+              "correct": 3,
+              "decode": [
+                "für seine schönen Sehenswürdigkeiten",
+                "für seine beeindruckende Architektur",
+                "für die Monarchie",
+                "weil es immer geschäftig ist"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "The next speaker admires London because it is always busy.",
+          "solutionDe": "Der nächste Sprecher bewundert London, weil dort immer etwas los ist.",
+          "explain": "„I like that it's busy and that it's on the go all the time.“",
+          "read": "The next speaker admires London because it is always busy."
+        },
+        {
+          "parts": [
+            "(4) According to the same speaker, the best thing about London ",
+            {
+              "opts": [
+                "is the food",
+                "are the clubs",
+                "are the markets",
+                "is the underground (the Tube)"
+              ],
+              "correct": 3,
+              "decode": [
+                "ist das Essen",
+                "sind die Clubs",
+                "sind die Märkte",
+                "ist die U-Bahn (die Tube)"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "According to the same speaker, the best thing about London is the underground (the Tube).",
+          "solutionDe": "Laut demselben Sprecher ist das Beste an London die U-Bahn (die Tube).",
+          "explain": "„The best thing ever is the London Tube.“ Tube = underground.",
+          "read": "According to the same speaker, the best thing about London is the underground."
+        },
+        {
+          "parts": [
+            "(5) Some people live in the UK because ",
+            {
+              "opts": [
+                "they are married here",
+                "it is a good starting point for travelling Europe",
+                "they were forced to leave their home country",
+                "they get good financial support from the government"
+              ],
+              "correct": 1,
+              "decode": [
+                "sie sind hier verheiratet",
+                "es ist ein guter Ausgangspunkt, um Europa zu bereisen",
+                "sie wurden gezwungen, ihr Heimatland zu verlassen",
+                "sie bekommen gute finanzielle Unterstützung vom Staat"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "Some people live in the UK because it is a good starting point for travelling Europe.",
+          "solutionDe": "Manche leben im UK, weil es ein guter Ausgangspunkt ist, um Europa zu bereisen.",
+          "explain": "„it's the gateway to Europe … London is the gateway to Europe.“ gateway = Tor/Ausgangspunkt.",
+          "read": "Some people live in the UK because it is a good starting point for travelling Europe."
+        },
+        {
+          "parts": [
+            "(6) Compared to the Caribbean, students in the UK ",
+            {
+              "opts": [
+                "enjoy better education",
+                "have better financial support at university",
+                "have to pay lower tuition fees",
+                "have a better course programme to choose from"
+              ],
+              "correct": 2,
+              "decode": [
+                "genießen eine bessere Bildung",
+                "haben bessere finanzielle Unterstützung an der Uni",
+                "müssen niedrigere Studiengebühren zahlen",
+                "haben ein besseres Kursangebot zur Auswahl"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "Compared to the Caribbean, students in the UK have to pay lower tuition fees.",
+          "solutionDe": "Verglichen mit der Karibik müssen Studierende im UK niedrigere Studiengebühren zahlen.",
+          "explain": "„education in the UK is a bit cheaper compared to … a university in the US or in the Caribbean.“ Der direkte Vergleich ist der Preis (cheaper). „grants“ wären zwar leichter zu bekommen, aber gefragt ist der Vergleich zur Karibik.",
+          "read": "Compared to the Caribbean, students in the UK have to pay lower tuition fees."
+        },
+        {
+          "parts": [
+            "(7) A multicultural society ",
+            {
+              "opts": [
+                "improves a culture",
+                "causes a lot of tension",
+                "does not make much difference",
+                "causes people to lose jobs"
+              ],
+              "correct": 0,
+              "decode": [
+                "bereichert eine Kultur",
+                "verursacht viel Spannung",
+                "macht keinen großen Unterschied",
+                "führt dazu, dass Menschen Jobs verlieren"
+              ]
+            },
+            "."
+          ],
+          "solutionEn": "A multicultural society improves a culture.",
+          "solutionDe": "Eine multikulturelle Gesellschaft bereichert eine Kultur.",
+          "explain": "Schluss: „adds much color … a very interesting and vibrant culture.“",
+          "read": "A multicultural society improves a culture."
+        }
       ]
-     ],
-     "de": "Hallo, mein Name ist Juan."
     },
     {
-     "id": "cult_t2_s02",
-     "en": "I come from Paraguay, and I have been living here in the UK for fourteen years.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "come",
-       "komme"
-      ],
-      [
-       "from",
-       "aus"
-      ],
-      [
-       "Paraguay,",
-       "Paraguay,"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "have",
-       "habe"
-      ],
-      [
-       "been",
-       "gewesen"
-      ],
-      [
-       "living",
-       "wohnend"
-      ],
-      [
-       "here",
-       "hier"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK",
-       "UK"
-      ],
-      [
-       "for",
-       "seit"
-      ],
-      [
-       "fourteen",
-       "vierzehn"
-      ],
-      [
-       "years.",
-       "Jahren."
+      "id": "cult_ex02",
+      "title": "Lückentext: Schlüsselwörter aus dem Hörtext",
+      "source": "Track 13 – Wortschatz im Kontext",
+      "type": "cloze",
+      "instruction": "Setze das fehlende Wort ein. Alle Sätze stammen direkt aus dem Hörtext.",
+      "questions": [
+        {
+          "parts": [
+            "As we know, Britain has a multiracial and ",
+            {
+              "opts": [
+                "multicultural",
+                "multinational",
+                "multipurpose"
+              ],
+              "correct": 0,
+              "decode": [
+                "multikulturell",
+                "multinational",
+                "Mehrzweck-"
+              ]
+            },
+            " society."
+          ],
+          "solutionEn": "…a multiracial and multicultural society.",
+          "solutionDe": "…eine multiethnische und multikulturelle Gesellschaft.",
+          "explain": "multicultural = multikulturell (viele Kulturen).",
+          "read": "As we know, Britain has a multiracial and multicultural society."
+        },
+        {
+          "parts": [
+            "It is home to a great ",
+            {
+              "opts": [
+                "heritage",
+                "origin",
+                "tension"
+              ],
+              "correct": 0,
+              "decode": [
+                "Erbe",
+                "Herkunft",
+                "Spannung"
+              ]
+            },
+            " and many traditions."
+          ],
+          "solutionEn": "It is home to a great heritage and many traditions.",
+          "solutionDe": "Es ist Heimat eines großen Erbes und vieler Traditionen.",
+          "explain": "heritage = (kulturelles) Erbe.",
+          "read": "It is home to a great heritage and many traditions."
+        },
+        {
+          "parts": [
+            "Why do people choose to live in Britain instead of in the country of their ",
+            {
+              "opts": [
+                "origin",
+                "region",
+                "religion"
+              ],
+              "correct": 0,
+              "decode": [
+                "Herkunft",
+                "Region",
+                "Religion"
+              ]
+            },
+            "?"
+          ],
+          "solutionEn": "…the country of their origin?",
+          "solutionDe": "…das Land ihrer Herkunft?",
+          "explain": "origin = Herkunft, Ursprung.",
+          "read": "Why do people choose to live in Britain instead of in the country of their origin?"
+        },
+        {
+          "parts": [
+            "What makes Britain so ",
+            {
+              "opts": [
+                "appealing",
+                "appalling",
+                "applying"
+              ],
+              "correct": 0,
+              "decode": [
+                "reizvoll",
+                "abscheulich",
+                "sich bewerbend"
+              ]
+            },
+            " to them?"
+          ],
+          "solutionEn": "What makes Britain so appealing to them?",
+          "solutionDe": "Was macht Großbritannien für sie so reizvoll?",
+          "explain": "appealing = reizvoll, ansprechend (nicht: appalling = abscheulich).",
+          "read": "What makes Britain so appealing to them?"
+        },
+        {
+          "parts": [
+            "Another ",
+            {
+              "opts": [
+                "advantage",
+                "advance",
+                "adventure"
+              ],
+              "correct": 0,
+              "decode": [
+                "Vorteil",
+                "Fortschritt",
+                "Abenteuer"
+              ]
+            },
+            " of living in the UK is that people are safer."
+          ],
+          "solutionEn": "Another advantage of living in the UK…",
+          "solutionDe": "Ein weiterer Vorteil des Lebens im UK…",
+          "explain": "advantage = Vorteil.",
+          "read": "Another advantage of living in the UK is that people are safer."
+        },
+        {
+          "parts": [
+            "People are safer and more ",
+            {
+              "opts": [
+                "equal",
+                "equally",
+                "equality"
+              ],
+              "correct": 0,
+              "decode": [
+                "gleichberechtigt",
+                "gleichermaßen",
+                "Gleichheit"
+              ]
+            },
+            " compared to where I come from."
+          ],
+          "solutionEn": "…safer and more equal…",
+          "solutionDe": "…sicherer und gleichberechtigter…",
+          "explain": "equal (Adjektiv) = gleich(berechtigt).",
+          "read": "People are safer and more equal compared to where I come from."
+        },
+        {
+          "parts": [
+            "London is the ",
+            {
+              "opts": [
+                "gateway",
+                "highway",
+                "doorway"
+              ],
+              "correct": 0,
+              "decode": [
+                "Tor",
+                "Autobahn",
+                "Türöffnung"
+              ]
+            },
+            " to Europe."
+          ],
+          "solutionEn": "London is the gateway to Europe.",
+          "solutionDe": "London ist das Tor nach Europa.",
+          "explain": "gateway to Europe = Tor nach Europa.",
+          "read": "London is the gateway to Europe."
+        },
+        {
+          "parts": [
+            "It is a lot easier to get university ",
+            {
+              "opts": [
+                "grants",
+                "grades",
+                "guests"
+              ],
+              "correct": 0,
+              "decode": [
+                "Stipendien",
+                "Noten",
+                "Gäste"
+              ]
+            },
+            " for people who cannot afford education."
+          ],
+          "solutionEn": "…to get university grants…",
+          "solutionDe": "…Uni-Stipendien zu bekommen…",
+          "explain": "grant = Stipendium / Zuschuss.",
+          "read": "It is a lot easier to get university grants for people who cannot afford education."
+        },
+        {
+          "parts": [
+            "Our multicultural society adds much ",
+            {
+              "opts": [
+                "color",
+                "culture",
+                "comfort"
+              ],
+              "correct": 0,
+              "decode": [
+                "Farbe",
+                "Kultur",
+                "Komfort"
+              ]
+            },
+            " to our lives."
+          ],
+          "solutionEn": "…adds much color to our lives.",
+          "solutionDe": "…verleiht unserem Leben viel Farbe.",
+          "explain": "to add color = Farbe/Lebendigkeit verleihen.",
+          "read": "Our multicultural society adds much color to our lives."
+        },
+        {
+          "parts": [
+            "Britain's diverse society makes for a very interesting and ",
+            {
+              "opts": [
+                "vibrant",
+                "violent",
+                "vacant"
+              ],
+              "correct": 0,
+              "decode": [
+                "lebendig",
+                "gewalttätig",
+                "leerstehend"
+              ]
+            },
+            " culture."
+          ],
+          "solutionEn": "…interesting and vibrant culture.",
+          "solutionDe": "…interessante und lebendige Kultur.",
+          "explain": "vibrant = lebendig, pulsierend.",
+          "read": "Britain's diverse society makes for a very interesting and vibrant culture."
+        }
       ]
-     ],
-     "de": "Ich komme aus Paraguay und lebe hier im UK schon seit vierzehn Jahren."
     },
     {
-     "id": "cult_t2_s03",
-     "en": "In my opinion, Britain is better.",
-     "decode": [
-      [
-       "In",
-       "In"
-      ],
-      [
-       "my",
-       "meiner"
-      ],
-      [
-       "opinion,",
-       "Meinung,"
-      ],
-      [
-       "Britain",
-       "Großbritannien"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "better.",
-       "besser."
+      "id": "cult_ex03",
+      "title": "Vokabeln Culture (Englisch → Deutsch)",
+      "source": "Listening + Reading „Friends across cultures“",
+      "type": "vocab",
+      "instruction": "Wähle die richtige deutsche Bedeutung. Wortschatz aus der Culture-Einheit (Hören + Lesen).",
+      "questions": [
+        {
+          "parts": [
+            "Britain is a ",
+            {
+              "opts": [
+                "multicultural",
+                "monolingual",
+                "old-fashioned"
+              ],
+              "correct": 0,
+              "decode": [
+                "multikulturell",
+                "einsprachig",
+                "altmodisch"
+              ]
+            },
+            " society with people from many different backgrounds."
+          ],
+          "solutionEn": "Britain is a multicultural society with people from many different backgrounds.",
+          "solutionDe": "Großbritannien ist eine multikulturelle Gesellschaft mit Menschen aus vielen verschiedenen Herkünften.",
+          "read": "Britain is a multicultural society with people from many different backgrounds."
+        },
+        {
+          "parts": [
+            "London has a ",
+            {
+              "opts": [
+                "multiracial",
+                "single-coloured",
+                "rural"
+              ],
+              "correct": 0,
+              "decode": [
+                "multiethnisch (viele Ethnien)",
+                "einfarbig",
+                "ländlich"
+              ]
+            },
+            " population, with people of many different ethnic backgrounds living side by side."
+          ],
+          "solutionEn": "London has a multiracial population, with people of many different ethnic backgrounds living side by side.",
+          "solutionDe": "London hat eine multiethnische Bevölkerung, in der Menschen vieler verschiedener ethnischer Herkünfte Seite an Seite leben.",
+          "read": "London has a multiracial population, with people of many different ethnic backgrounds living side by side."
+        },
+        {
+          "parts": [
+            "Britain is proud of its rich cultural ",
+            {
+              "opts": [
+                "heritage",
+                "heating",
+                "harbour"
+              ],
+              "correct": 0,
+              "decode": [
+                "das Erbe",
+                "die Heizung",
+                "der Hafen"
+              ]
+            },
+            ", which has been passed down over many generations."
+          ],
+          "solutionEn": "Britain is proud of its rich cultural heritage, which has been passed down over many generations.",
+          "solutionDe": "Großbritannien ist stolz auf sein reiches kulturelles Erbe, das über viele Generationen weitergegeben wurde.",
+          "read": "Britain is proud of its rich cultural heritage, which has been passed down over many generations."
+        },
+        {
+          "parts": [
+            "Many people in the UK now live far from their country of ",
+            {
+              "opts": [
+                "origin",
+                "original",
+                "organ"
+              ],
+              "correct": 0,
+              "decode": [
+                "die Herkunft",
+                "das Original",
+                "die Orgel"
+              ]
+            },
+            ", where their families originally came from."
+          ],
+          "solutionEn": "Many people in the UK now live far from their country of origin, where their families originally came from.",
+          "solutionDe": "Viele Menschen im UK leben heute weit entfernt von ihrem Herkunftsland, aus dem ihre Familien ursprünglich stammen.",
+          "read": "Many people in the UK now live far from their country of origin, where their families originally came from."
+        },
+        {
+          "parts": [
+            "Living in such a diverse city is very ",
+            {
+              "opts": [
+                "appealing",
+                "appalling",
+                "boring"
+              ],
+              "correct": 0,
+              "decode": [
+                "reizvoll, ansprechend",
+                "abscheulich",
+                "langweilig"
+              ]
+            },
+            " to young people who love meeting new cultures."
+          ],
+          "solutionEn": "Living in such a diverse city is very appealing to young people who love meeting new cultures.",
+          "solutionDe": "In einer so vielfältigen Stadt zu leben ist für junge Menschen, die es lieben, neue Kulturen kennenzulernen, sehr reizvoll.",
+          "read": "Living in such a diverse city is very appealing to young people who love meeting new cultures."
+        },
+        {
+          "parts": [
+            "One big ",
+            {
+              "opts": [
+                "advantage",
+                "disadvantage",
+                "adventure"
+              ],
+              "correct": 0,
+              "decode": [
+                "der Vorteil",
+                "der Nachteil",
+                "das Abenteuer"
+              ]
+            },
+            " of living in the UK is that public transport is cheap and reliable."
+          ],
+          "solutionEn": "One big advantage of living in the UK is that public transport is cheap and reliable.",
+          "solutionDe": "Ein großer Vorteil des Lebens im UK ist, dass die öffentlichen Verkehrsmittel günstig und zuverlässig sind.",
+          "read": "One big advantage of living in the UK is that public transport is cheap and reliable."
+        },
+        {
+          "parts": [
+            "Britain has a very ",
+            {
+              "opts": [
+                "diverse",
+                "uniform",
+                "difficult"
+              ],
+              "correct": 0,
+              "decode": [
+                "vielfältig",
+                "gleichförmig",
+                "schwierig"
+              ]
+            },
+            " society, with people from all over the world."
+          ],
+          "solutionEn": "Britain has a very diverse society, with people from all over the world.",
+          "solutionDe": "Großbritannien hat eine sehr vielfältige Gesellschaft, mit Menschen aus der ganzen Welt.",
+          "read": "Britain has a very diverse society, with people from all over the world."
+        },
+        {
+          "parts": [
+            "This mix of cultures makes London a ",
+            {
+              "opts": [
+                "vibrant",
+                "quiet",
+                "empty"
+              ],
+              "correct": 0,
+              "decode": [
+                "lebendig, pulsierend",
+                "leise",
+                "leer"
+              ]
+            },
+            " city that is full of life and energy."
+          ],
+          "solutionEn": "This mix of cultures makes London a vibrant city that is full of life and energy.",
+          "solutionDe": "Diese Mischung der Kulturen macht London zu einer lebendigen Stadt, die voller Leben und Energie ist.",
+          "read": "This mix of cultures makes London a vibrant city that is full of life and energy."
+        },
+        {
+          "parts": [
+            "When you move abroad, it is best to ",
+            {
+              "opts": [
+                "embrace",
+                "reject",
+                "ignore"
+              ],
+              "correct": 0,
+              "decode": [
+                "annehmen / sich zu eigen machen",
+                "ablehnen",
+                "ignorieren"
+              ]
+            },
+            " the local culture instead of fighting against it."
+          ],
+          "solutionEn": "When you move abroad, it is best to embrace the local culture instead of fighting against it.",
+          "solutionDe": "Wenn man ins Ausland zieht, ist es am besten, die örtliche Kultur anzunehmen, anstatt sich gegen sie zu wehren.",
+          "read": "When you move abroad, it is best to embrace the local culture instead of fighting against it."
+        },
+        {
+          "parts": [
+            "It usually takes a few weeks to ",
+            {
+              "opts": [
+                "settle in",
+                "leave",
+                "argue"
+              ],
+              "correct": 0,
+              "decode": [
+                "sich einleben",
+                "abreisen",
+                "sich streiten"
+              ]
+            },
+            " and feel at home in a new country."
+          ],
+          "solutionEn": "It usually takes a few weeks to settle in and feel at home in a new country.",
+          "solutionDe": "Es dauert normalerweise ein paar Wochen, um sich einzuleben und sich in einem neuen Land zu Hause zu fühlen.",
+          "read": "It usually takes a few weeks to settle in and feel at home in a new country."
+        },
+        {
+          "parts": [
+            "During her exchange year she stayed with a friendly ",
+            {
+              "opts": [
+                "host family",
+                "extended family",
+                "neighbourhood"
+              ],
+              "correct": 0,
+              "decode": [
+                "die Gastfamilie",
+                "die Großfamilie",
+                "die Nachbarschaft"
+              ]
+            },
+            " who treated her like one of their own children."
+          ],
+          "solutionEn": "During her exchange year she stayed with a friendly host family who treated her like one of their own children.",
+          "solutionDe": "Während ihres Austauschjahres wohnte sie bei einer freundlichen Gastfamilie, die sie wie eines ihrer eigenen Kinder behandelte.",
+          "read": "During her exchange year she stayed with a friendly host family who treated her like one of their own children."
+        },
+        {
+          "parts": [
+            "Every country has its own table ",
+            {
+              "opts": [
+                "etiquette",
+                "ticket",
+                "timetable"
+              ],
+              "correct": 0,
+              "decode": [
+                "die Umgangsformen / Etikette",
+                "die Eintrittskarte",
+                "der Zeitplan"
+              ]
+            },
+            ", so it helps to learn the local manners before you visit."
+          ],
+          "solutionEn": "Every country has its own table etiquette, so it helps to learn the local manners before you visit.",
+          "solutionDe": "Jedes Land hat seine eigenen Tischmanieren, daher hilft es, die örtlichen Umgangsformen zu lernen, bevor man zu Besuch kommt.",
+          "read": "Every country has its own table etiquette, so it helps to learn the local manners before you visit."
+        },
+        {
+          "parts": [
+            "It is important not to ",
+            {
+              "opts": [
+                "make judgments",
+                "make jokes",
+                "make plans"
+              ],
+              "correct": 0,
+              "decode": [
+                "(vor)urteilen",
+                "Witze machen",
+                "Pläne machen"
+              ]
+            },
+            " about people before you really get to know them."
+          ],
+          "solutionEn": "It is important not to make judgments about people before you really get to know them.",
+          "solutionDe": "Es ist wichtig, nicht über Menschen zu urteilen, bevor man sie wirklich kennenlernt.",
+          "read": "It is important not to make judgments about people before you really get to know them."
+        },
+        {
+          "parts": [
+            "If you are ",
+            {
+              "opts": [
+                "courteous",
+                "brave",
+                "curious"
+              ],
+              "correct": 0,
+              "decode": [
+                "höflich, zuvorkommend",
+                "mutig",
+                "neugierig"
+              ]
+            },
+            " and polite to everyone, it is much easier to make new friends."
+          ],
+          "solutionEn": "If you are courteous and polite to everyone, it is much easier to make new friends.",
+          "solutionDe": "Wenn man zu allen höflich und zuvorkommend ist, ist es viel leichter, neue Freunde zu finden.",
+          "read": "If you are courteous and polite to everyone, it is much easier to make new friends."
+        },
+        {
+          "parts": [
+            "We should not believe every ",
+            {
+              "opts": [
+                "stereotype",
+                "telescope",
+                "loudspeaker"
+              ],
+              "correct": 0,
+              "decode": [
+                "das Klischee / Stereotyp",
+                "das Fernrohr",
+                "der Lautsprecher"
+              ]
+            },
+            " about a country, because such clichés are often wrong."
+          ],
+          "solutionEn": "We should not believe every stereotype about a country, because such clichés are often wrong.",
+          "solutionDe": "Wir sollten nicht jedes Klischee über ein Land glauben, denn solche Stereotype sind oft falsch.",
+          "read": "We should not believe every stereotype about a country, because such clichés are often wrong."
+        },
+        {
+          "parts": [
+            "After school, many British students take a ",
+            {
+              "opts": [
+                "gap year",
+                "lunch break",
+                "leap year"
+              ],
+              "correct": 0,
+              "decode": [
+                "das Auslands-/Zwischenjahr",
+                "die Mittagspause",
+                "das Schaltjahr"
+              ]
+            },
+            " and travel abroad before they start university."
+          ],
+          "solutionEn": "After school, many British students take a gap year and travel abroad before they start university.",
+          "solutionDe": "Nach der Schule machen viele britische Schüler ein Zwischenjahr und reisen ins Ausland, bevor sie mit dem Studium beginnen.",
+          "read": "After school, many British students take a gap year and travel abroad before they start university."
+        },
+        {
+          "parts": [
+            "Students in the UK have to pay ",
+            {
+              "opts": [
+                "tuition fees",
+                "tips",
+                "rent costs"
+              ],
+              "correct": 0,
+              "decode": [
+                "die Studiengebühren",
+                "die Trinkgelder",
+                "die Mietkosten"
+              ]
+            },
+            ", which can cost several thousand pounds each year."
+          ],
+          "solutionEn": "Students in the UK have to pay tuition fees, which can cost several thousand pounds each year.",
+          "solutionDe": "Studierende im UK müssen Studiengebühren zahlen, die jedes Jahr mehrere tausend Pfund kosten können.",
+          "read": "Students in the UK have to pay tuition fees, which can cost several thousand pounds each year."
+        },
+        {
+          "parts": [
+            "It can take time to ",
+            {
+              "opts": [
+                "adapt",
+                "adopt",
+                "add up"
+              ],
+              "correct": 0,
+              "decode": [
+                "sich anpassen",
+                "adoptieren",
+                "addieren"
+              ]
+            },
+            " to a new culture and to the way people do things there."
+          ],
+          "solutionEn": "It can take time to adapt to a new culture and to the way people do things there.",
+          "solutionDe": "Es kann eine Weile dauern, sich an eine neue Kultur und an die Art, wie die Menschen dort Dinge tun, anzupassen.",
+          "read": "It can take time to adapt to a new culture and to the way people do things there."
+        }
       ]
-     ],
-     "de": "Meiner Meinung nach ist Großbritannien besser."
     },
     {
-     "id": "cult_t2_s04",
-     "en": "For example, the culture in Great Britain is more multicultural.",
-     "decode": [
-      [
-       "For",
-       "Zum"
-      ],
-      [
-       "example,",
-       "Beispiel,"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "culture",
-       "Kultur"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "Great",
-       "Groß-"
-      ],
-      [
-       "Britain",
-       "britannien"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "more",
-       "mehr"
-      ],
-      [
-       "multicultural.",
-       "multikulturell."
+      "id": "cult_ex04",
+      "title": "Reading: „Friends across cultures“ (richtig/falsch)",
+      "source": "Reading-Worksheet 2b – advice on getting to know another culture",
+      "type": "tf",
+      "instruction": "Welche Tipps gibt der Ratgeber? Entscheide richtig oder falsch (nach dem Lesetext).",
+      "questions": [
+        {
+          "parts": [
+            "Moving to a different country is a chance to learn about a new culture. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 0,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "TRUE – Moving to a different country is a chance to learn about a new culture.",
+          "solutionDe": "„see this as a chance to embrace a new culture.“",
+          "read": "TRUE – Moving to a different country is a chance to learn about a new culture."
+        },
+        {
+          "parts": [
+            "Taking part in extra-curricular activities isn't the best way to make new friends. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 1,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends.",
+          "solutionDe": "Falsch – der Text sagt, es IST „a great way to meet people“.",
+          "read": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends."
+        },
+        {
+          "parts": [
+            "Being polite and respectful allows you to build new relationships. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 0,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "TRUE – Being polite and respectful allows you to build new relationships.",
+          "solutionDe": "„Respect and politeness are generally very important … be courteous.“",
+          "read": "TRUE – Being polite and respectful allows you to build new relationships."
+        },
+        {
+          "parts": [
+            "Judging people before getting to know them isn't helpful. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 0,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "TRUE – Judging people before getting to know them isn't helpful.",
+          "solutionDe": "„It's important not to make judgments about people …“.",
+          "read": "TRUE – Judging people before getting to know them isn't helpful."
+        },
+        {
+          "parts": [
+            "When you become familiar with your new surroundings, you will mostly face new problems. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 1,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems.",
+          "solutionDe": "Falsch – der Text verspricht „a lifetime of memories“, nicht neue Probleme.",
+          "read": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems."
+        },
+        {
+          "parts": [
+            "You should show an interest in others so that they show an interest in you. — ",
+            {
+              "opts": [
+                "richtig (true)",
+                "falsch (false)"
+              ],
+              "correct": 0,
+              "decode": [
+                "stimmt",
+                "stimmt nicht"
+              ]
+            }
+          ],
+          "solutionEn": "TRUE – You should show an interest in others so that they show an interest in you.",
+          "solutionDe": "„show an interest in the students … they will be very interested in learning all about you.“",
+          "read": "TRUE – You should show an interest in others so that they show an interest in you."
+        }
       ]
-     ],
-     "de": "Zum Beispiel ist die Kultur in Großbritannien multikultureller."
     },
     {
-     "id": "cult_t2_s05",
-     "en": "I mean, it is not just British people.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "mean,",
-       "meine,"
-      ],
-      [
-       "it",
-       "es"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "not",
-       "nicht"
-      ],
-      [
-       "just",
-       "nur"
-      ],
-      [
-       "British",
-       "britische"
-      ],
-      [
-       "people.",
-       "Leute."
+      "id": "cult_ex05",
+      "title": "Deine Meinung: Redemittel zum Thema Culture",
+      "source": "Worksheet – „your own opinion on culture“",
+      "type": "opinion",
+      "instruction": "Übe die Sprache der Meinung. Nützliche Wendungen: In my opinion … / From my point of view … / I totally (partly) agree … / I (completely) disagree with this because … / On the one hand … on the other hand … – und IMMER eine Begründung mit because/as.",
+      "questions": [
+        {
+          "parts": [
+            "In my opinion, multiculturalism ",
+            {
+              "opts": [
+                "enriches",
+                "enrich",
+                "enriching"
+              ],
+              "correct": 0,
+              "decode": [
+                "bereichert",
+                "bereichern",
+                "bereichernd"
+              ],
+              "n": "enrich"
+            },
+            " a society because it brings new ideas and traditions."
+          ],
+          "solutionEn": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions.",
+          "solutionDe": "Meiner Meinung nach bereichert Multikulturalität eine Gesellschaft, weil sie neue Ideen und Traditionen bringt.",
+          "explain": "3. Person Singular: it enriches.",
+          "read": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions."
+        },
+        {
+          "parts": [
+            "I ",
+            {
+              "opts": [
+                "totally",
+                "total",
+                "totality"
+              ],
+              "correct": 0,
+              "decode": [
+                "völlig",
+                "gesamt",
+                "Gesamtheit"
+              ]
+            },
+            " agree that everyone should respect other cultures."
+          ],
+          "solutionEn": "I totally agree that everyone should respect other cultures.",
+          "solutionDe": "Ich stimme völlig zu, dass jeder andere Kulturen respektieren sollte.",
+          "explain": "Adverb totally beschreibt das Verb agree.",
+          "read": "I totally agree that everyone should respect other cultures."
+        },
+        {
+          "parts": [
+            "Living in a multicultural country ",
+            {
+              "opts": [
+                "allows",
+                "allow",
+                "allowing"
+              ],
+              "correct": 0,
+              "decode": [
+                "ermöglicht",
+                "ermöglichen",
+                "ermöglichend"
+              ],
+              "n": "allow"
+            },
+            " us to learn from each other."
+          ],
+          "solutionEn": "Living in a multicultural country allows us to learn from each other.",
+          "solutionDe": "In einem multikulturellen Land zu leben ermöglicht es uns, voneinander zu lernen.",
+          "explain": "Subjekt (Gerundium) = 3. Person Singular: allows.",
+          "read": "Living in a multicultural country allows us to learn from each other."
+        },
+        {
+          "parts": [
+            "I partly agree ",
+            {
+              "opts": [
+                "with",
+                "to",
+                "on"
+              ],
+              "correct": 0,
+              "decode": [
+                "mit",
+                "zu",
+                "auf"
+              ]
+            },
+            " this statement, but I also see some challenges."
+          ],
+          "solutionEn": "I partly agree with this statement, but I also see some challenges.",
+          "solutionDe": "Ich stimme dieser Aussage teilweise zu, sehe aber auch einige Herausforderungen.",
+          "explain": "agree WITH a statement/person (agree TO = einem Vorschlag zustimmen).",
+          "read": "I partly agree with this statement, but I also see some challenges."
+        },
+        {
+          "parts": [
+            "From my point of ",
+            {
+              "opts": [
+                "view",
+                "sight",
+                "look"
+              ],
+              "correct": 0,
+              "decode": [
+                "Sicht",
+                "Anblick",
+                "Blick"
+              ]
+            },
+            ", diversity makes life more interesting."
+          ],
+          "solutionEn": "From my point of view, diversity makes life more interesting.",
+          "solutionDe": "Aus meiner Sicht macht Vielfalt das Leben interessanter.",
+          "explain": "Feste Wendung: from my point of view.",
+          "read": "From my point of view, diversity makes life more interesting."
+        },
+        {
+          "parts": [
+            "In a multicultural society, people should be ",
+            {
+              "opts": [
+                "open-minded",
+                "narrow-minded",
+                "absent-minded"
+              ],
+              "correct": 0,
+              "decode": [
+                "aufgeschlossen",
+                "engstirnig",
+                "zerstreut"
+              ]
+            },
+            " towards other traditions."
+          ],
+          "solutionEn": "In a multicultural society, people should be open-minded towards other traditions.",
+          "solutionDe": "In einer multikulturellen Gesellschaft sollten Menschen anderen Traditionen gegenüber aufgeschlossen sein.",
+          "explain": "open-minded = aufgeschlossen.",
+          "read": "In a multicultural society, people should be open-minded towards other traditions."
+        },
+        {
+          "parts": [
+            "I completely ",
+            {
+              "opts": [
+                "disagree",
+                "disagrees",
+                "disagreeing"
+              ],
+              "correct": 0,
+              "decode": [
+                "bin anderer Meinung",
+                "—",
+                "—"
+              ],
+              "n": "disagree"
+            },
+            " with the idea that immigrants only take away jobs."
+          ],
+          "solutionEn": "I completely disagree with the idea that immigrants only take away jobs.",
+          "solutionDe": "Ich bin völlig anderer Meinung als die Idee, dass Einwanderer nur Arbeitsplätze wegnehmen.",
+          "explain": "I/you/we disagree (Grundform); to disagree with an idea.",
+          "read": "I completely disagree with the idea that immigrants only take away jobs."
+        }
       ]
-     ],
-     "de": "Ich meine, es sind nicht nur Briten."
-    },
-    {
-     "id": "cult_t2_s06",
-     "en": "There are also other cultures like Indians, Pakistani, Chinese, Caribbeans, and so on.",
-     "decode": [
-      [
-       "There",
-       "Es"
-      ],
-      [
-       "are",
-       "gibt"
-      ],
-      [
-       "also",
-       "auch"
-      ],
-      [
-       "other",
-       "andere"
-      ],
-      [
-       "cultures",
-       "Kulturen"
-      ],
-      [
-       "like",
-       "wie"
-      ],
-      [
-       "Indians,",
-       "Inder,"
-      ],
-      [
-       "Pakistani,",
-       "Pakistaner,"
-      ],
-      [
-       "Chinese,",
-       "Chinesen,"
-      ],
-      [
-       "Caribbeans,",
-       "Karibik-Bewohner,"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "so",
-       "so"
-      ],
-      [
-       "on.",
-       "weiter."
-      ]
-     ],
-     "de": "Es gibt auch andere Kulturen wie Inder, Pakistaner, Chinesen, Karibik-Bewohner und so weiter."
-    },
-    {
-     "id": "cult_t2_s07",
-     "en": "Mm, the population in my home country is mainly made up of Paraguayans.",
-     "decode": [
-      [
-       "Mm,",
-       "Mm,"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "population",
-       "Bevölkerung"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "my",
-       "meinem"
-      ],
-      [
-       "home",
-       "Heimat-"
-      ],
-      [
-       "country",
-       "land"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "mainly",
-       "hauptsächlich"
-      ],
-      [
-       "made",
-       "zusammen-"
-      ],
-      [
-       "up",
-       "gesetzt"
-      ],
-      [
-       "of",
-       "aus"
-      ],
-      [
-       "Paraguayans.",
-       "Paraguayern."
-      ]
-     ],
-     "de": "Die Bevölkerung in meinem Heimatland besteht hauptsächlich aus Paraguayern."
-    },
-    {
-     "id": "cult_t2_s08",
-     "en": "Another advantage of living in the UK is that people are safer and more equal compared to where I come from.",
-     "decode": [
-      [
-       "Another",
-       "Ein weiterer"
-      ],
-      [
-       "advantage",
-       "Vorteil"
-      ],
-      [
-       "of",
-       "des"
-      ],
-      [
-       "living",
-       "Lebens"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK",
-       "UK"
-      ],
-      [
-       "is",
-       "ist,"
-      ],
-      [
-       "that",
-       "dass"
-      ],
-      [
-       "people",
-       "Menschen"
-      ],
-      [
-       "are",
-       "sind"
-      ],
-      [
-       "safer",
-       "sicherer"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "more",
-       "mehr"
-      ],
-      [
-       "equal",
-       "gleichberechtigt"
-      ],
-      [
-       "compared",
-       "verglichen"
-      ],
-      [
-       "to",
-       "mit"
-      ],
-      [
-       "where",
-       "wo"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "come",
-       "komme"
-      ],
-      [
-       "from.",
-       "her."
-      ]
-     ],
-     "de": "Ein weiterer Vorteil des Lebens im UK ist, dass die Menschen sicherer und gleichberechtigter sind als dort, wo ich herkomme."
     }
-   ]
-  },
-  {
-   "id": "cult_t3",
-   "title": "3 · London & die Tube",
-   "sentences": [
-    {
-     "id": "cult_t3_s01",
-     "en": "I quite like London.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "quite",
-       "sehr"
-      ],
-      [
-       "like",
-       "mag"
-      ],
-      [
-       "London.",
-       "London."
-      ]
-     ],
-     "de": "Ich mag London sehr."
-    },
-    {
-     "id": "cult_t3_s02",
-     "en": "I like that it's busy and that it's on the go all the time.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "like",
-       "mag"
-      ],
-      [
-       "that",
-       "dass"
-      ],
-      [
-       "it's",
-       "es ist"
-      ],
-      [
-       "busy",
-       "belebt"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "that",
-       "dass"
-      ],
-      [
-       "it's",
-       "es ist"
-      ],
-      [
-       "on",
-       "in"
-      ],
-      [
-       "the",
-       "—"
-      ],
-      [
-       "go",
-       "Bewegung"
-      ],
-      [
-       "all",
-       "die ganze"
-      ],
-      [
-       "the",
-       "—"
-      ],
-      [
-       "time.",
-       "Zeit."
-      ]
-     ],
-     "de": "Ich mag, dass es belebt ist und dass ständig etwas los ist."
-    },
-    {
-     "id": "cult_t3_s03",
-     "en": "The best thing ever is the London Tube.",
-     "decode": [
-      [
-       "The",
-       "Das"
-      ],
-      [
-       "best",
-       "beste"
-      ],
-      [
-       "thing",
-       "Ding"
-      ],
-      [
-       "ever",
-       "überhaupt"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "London",
-       "Londoner"
-      ],
-      [
-       "Tube.",
-       "U-Bahn (Tube)."
-      ]
-     ],
-     "de": "Das Allerbeste ist die Londoner U-Bahn (die Tube)."
-    },
-    {
-     "id": "cult_t3_s04",
-     "en": "I hear people complain about the Tube all the time.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "hear",
-       "höre"
-      ],
-      [
-       "people",
-       "Leute"
-      ],
-      [
-       "complain",
-       "klagen"
-      ],
-      [
-       "about",
-       "über"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "Tube",
-       "Tube"
-      ],
-      [
-       "all",
-       "die ganze"
-      ],
-      [
-       "the",
-       "—"
-      ],
-      [
-       "time.",
-       "Zeit."
-      ]
-     ],
-     "de": "Ich höre die Leute ständig über die Tube schimpfen."
-    },
-    {
-     "id": "cult_t3_s05",
-     "en": "I tell them, \"Move to Ireland for two weeks, and when you are back, you will fall in love with London's underground.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "tell",
-       "sage"
-      ],
-      [
-       "them,",
-       "ihnen:"
-      ],
-      [
-       "\"Move",
-       "„Zieh"
-      ],
-      [
-       "to",
-       "nach"
-      ],
-      [
-       "Ireland",
-       "Irland"
-      ],
-      [
-       "for",
-       "für"
-      ],
-      [
-       "two",
-       "zwei"
-      ],
-      [
-       "weeks,",
-       "Wochen,"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "when",
-       "wenn"
-      ],
-      [
-       "you",
-       "du"
-      ],
-      [
-       "are",
-       "bist"
-      ],
-      [
-       "back,",
-       "zurück,"
-      ],
-      [
-       "you",
-       "du"
-      ],
-      [
-       "will",
-       "wirst"
-      ],
-      [
-       "fall",
-       "fallen"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "love",
-       "Liebe"
-      ],
-      [
-       "with",
-       "mit"
-      ],
-      [
-       "London's",
-       "Londons"
-      ],
-      [
-       "underground.",
-       "U-Bahn."
-      ]
-     ],
-     "de": "Ich sage ihnen: „Zieh für zwei Wochen nach Irland, und wenn du zurück bist, wirst du dich in Londons U-Bahn verlieben."
-    },
-    {
-     "id": "cult_t3_s06",
-     "en": "Trust me.\"",
-     "decode": [
-      [
-       "Trust",
-       "Vertrau"
-      ],
-      [
-       "me.\"",
-       "mir.\""
-      ]
-     ],
-     "de": "Glaub mir.“"
-    },
-    {
-     "id": "cult_t3_s07",
-     "en": "Public transport is terrible over there, but here in London, it is brilliant.",
-     "decode": [
-      [
-       "Public",
-       "Öffentlicher"
-      ],
-      [
-       "transport",
-       "Verkehr"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "terrible",
-       "schrecklich"
-      ],
-      [
-       "over",
-       "dort"
-      ],
-      [
-       "there,",
-       "drüben,"
-      ],
-      [
-       "but",
-       "aber"
-      ],
-      [
-       "here",
-       "hier"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "London,",
-       "London,"
-      ],
-      [
-       "it",
-       "er"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "brilliant.",
-       "brillant."
-      ]
-     ],
-     "de": "Die öffentlichen Verkehrsmittel sind dort drüben schrecklich, aber hier in London sind sie super."
-    },
-    {
-     "id": "cult_t3_s08",
-     "en": "I don't care if my Tube is delayed by five or ten minutes.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "don't",
-       "nicht"
-      ],
-      [
-       "care",
-       "kümmere mich"
-      ],
-      [
-       "if",
-       "ob"
-      ],
-      [
-       "my",
-       "meine"
-      ],
-      [
-       "Tube",
-       "Tube"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "delayed",
-       "verspätet"
-      ],
-      [
-       "by",
-       "um"
-      ],
-      [
-       "five",
-       "fünf"
-      ],
-      [
-       "or",
-       "oder"
-      ],
-      [
-       "ten",
-       "zehn"
-      ],
-      [
-       "minutes.",
-       "Minuten."
-      ]
-     ],
-     "de": "Es ist mir egal, ob meine Tube fünf oder zehn Minuten Verspätung hat."
-    },
-    {
-     "id": "cult_t3_s09",
-     "en": "I'll get there in the end.",
-     "decode": [
-      [
-       "I'll",
-       "Ich werde"
-      ],
-      [
-       "get",
-       "gelangen"
-      ],
-      [
-       "there",
-       "dorthin"
-      ],
-      [
-       "in",
-       "am"
-      ],
-      [
-       "the",
-       "—"
-      ],
-      [
-       "end.",
-       "Ende."
-      ]
-     ],
-     "de": "Ich komme am Ende schon dort an."
-    }
-   ]
-  },
-  {
-   "id": "cult_t4",
-   "title": "4 · „The gateway to Europe“",
-   "sentences": [
-    {
-     "id": "cult_t4_s01",
-     "en": "I have chosen to live in the UK because, first of all, it is where I was born.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "have",
-       "habe"
-      ],
-      [
-       "chosen",
-       "gewählt"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "live",
-       "leben"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK",
-       "UK"
-      ],
-      [
-       "because,",
-       "weil,"
-      ],
-      [
-       "first",
-       "zuerst"
-      ],
-      [
-       "of",
-       "von"
-      ],
-      [
-       "all,",
-       "allem,"
-      ],
-      [
-       "it",
-       "es"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "where",
-       "wo"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "was",
-       "wurde"
-      ],
-      [
-       "born.",
-       "geboren."
-      ]
-     ],
-     "de": "Ich habe mich entschieden, im UK zu leben, weil ich – zuallererst – hier geboren bin."
-    },
-    {
-     "id": "cult_t4_s02",
-     "en": "It is where I grew up.",
-     "decode": [
-      [
-       "It",
-       "Es"
-      ],
-      [
-       "is",
-       "ist,"
-      ],
-      [
-       "where",
-       "wo"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "grew",
-       "wuchs"
-      ],
-      [
-       "up.",
-       "auf."
-      ]
-     ],
-     "de": "Hier bin ich aufgewachsen."
-    },
-    {
-     "id": "cult_t4_s03",
-     "en": "Even though my parents moved back to the Caribbean, I decided to stay in the UK because it's the gateway to Europe.",
-     "decode": [
-      [
-       "Even",
-       "Auch"
-      ],
-      [
-       "though",
-       "obwohl"
-      ],
-      [
-       "my",
-       "meine"
-      ],
-      [
-       "parents",
-       "Eltern"
-      ],
-      [
-       "moved",
-       "zogen"
-      ],
-      [
-       "back",
-       "zurück"
-      ],
-      [
-       "to",
-       "in"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "Caribbean,",
-       "Karibik,"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "decided",
-       "entschied"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "stay",
-       "bleiben"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK",
-       "UK"
-      ],
-      [
-       "because",
-       "weil"
-      ],
-      [
-       "it's",
-       "es ist"
-      ],
-      [
-       "the",
-       "das"
-      ],
-      [
-       "gateway",
-       "Tor"
-      ],
-      [
-       "to",
-       "nach"
-      ],
-      [
-       "Europe.",
-       "Europa."
-      ]
-     ],
-     "de": "Obwohl meine Eltern zurück in die Karibik gezogen sind, habe ich beschlossen, im UK zu bleiben, weil es das Tor nach Europa ist."
-    },
-    {
-     "id": "cult_t4_s04",
-     "en": "I love traveling.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "love",
-       "liebe"
-      ],
-      [
-       "traveling.",
-       "Reisen."
-      ]
-     ],
-     "de": "Ich liebe das Reisen."
-    },
-    {
-     "id": "cult_t4_s05",
-     "en": "I love flying.",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "love",
-       "liebe"
-      ],
-      [
-       "flying.",
-       "Fliegen."
-      ]
-     ],
-     "de": "Ich liebe das Fliegen."
-    },
-    {
-     "id": "cult_t4_s06",
-     "en": "I've been to places like Australia.",
-     "decode": [
-      [
-       "I've",
-       "Ich bin"
-      ],
-      [
-       "been",
-       "gewesen"
-      ],
-      [
-       "to",
-       "in"
-      ],
-      [
-       "places",
-       "Orten"
-      ],
-      [
-       "like",
-       "wie"
-      ],
-      [
-       "Australia.",
-       "Australien."
-      ]
-     ],
-     "de": "Ich war schon an Orten wie Australien."
-    },
-    {
-     "id": "cult_t4_s07",
-     "en": "I've been to Germany.",
-     "decode": [
-      [
-       "I've",
-       "Ich bin"
-      ],
-      [
-       "been",
-       "gewesen"
-      ],
-      [
-       "to",
-       "in"
-      ],
-      [
-       "Germany.",
-       "Deutschland."
-      ]
-     ],
-     "de": "Ich war schon in Deutschland."
-    },
-    {
-     "id": "cult_t4_s08",
-     "en": "I have been to Sweden, and I've already been to Paris a few times, and I actually love Europe,",
-     "decode": [
-      [
-       "I",
-       "Ich"
-      ],
-      [
-       "have",
-       "bin"
-      ],
-      [
-       "been",
-       "gewesen"
-      ],
-      [
-       "to",
-       "in"
-      ],
-      [
-       "Sweden,",
-       "Schweden,"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "I've",
-       "ich bin"
-      ],
-      [
-       "already",
-       "schon"
-      ],
-      [
-       "been",
-       "gewesen"
-      ],
-      [
-       "to",
-       "in"
-      ],
-      [
-       "Paris",
-       "Paris"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "few",
-       "paar"
-      ],
-      [
-       "times,",
-       "Mal,"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "actually",
-       "tatsächlich"
-      ],
-      [
-       "love",
-       "liebe"
-      ],
-      [
-       "Europe,",
-       "Europa,"
-      ]
-     ],
-     "de": "Ich war in Schweden, und ich war schon ein paar Mal in Paris, und ich liebe Europa wirklich,"
-    },
-    {
-     "id": "cult_t4_s09",
-     "en": "and London is the gateway to Europe.",
-     "decode": [
-      [
-       "and",
-       "und"
-      ],
-      [
-       "London",
-       "London"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "the",
-       "das"
-      ],
-      [
-       "gateway",
-       "Tor"
-      ],
-      [
-       "to",
-       "nach"
-      ],
-      [
-       "Europe.",
-       "Europa."
-      ]
-     ],
-     "de": "und London ist das Tor nach Europa."
-    },
-    {
-     "id": "cult_t4_s10",
-     "en": "So that's one of the major reasons why I live in the UK.",
-     "decode": [
-      [
-       "So",
-       "Also"
-      ],
-      [
-       "that's",
-       "das ist"
-      ],
-      [
-       "one",
-       "einer"
-      ],
-      [
-       "of",
-       "von"
-      ],
-      [
-       "the",
-       "den"
-      ],
-      [
-       "major",
-       "wichtigsten"
-      ],
-      [
-       "reasons",
-       "Gründen,"
-      ],
-      [
-       "why",
-       "warum"
-      ],
-      [
-       "I",
-       "ich"
-      ],
-      [
-       "live",
-       "lebe"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK.",
-       "UK."
-      ]
-     ],
-     "de": "Das ist also einer der wichtigsten Gründe, warum ich im UK lebe."
-    },
-    {
-     "id": "cult_t4_s11",
-     "en": "Also, education in the UK is a bit cheaper compared to what you would have to pay when going to a university in the US or in the Caribbean.",
-     "decode": [
-      [
-       "Also,",
-       "Außerdem,"
-      ],
-      [
-       "education",
-       "Bildung"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK",
-       "UK"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "bit",
-       "bisschen"
-      ],
-      [
-       "cheaper",
-       "billiger"
-      ],
-      [
-       "compared",
-       "verglichen"
-      ],
-      [
-       "to",
-       "mit"
-      ],
-      [
-       "what",
-       "dem, was"
-      ],
-      [
-       "you",
-       "man"
-      ],
-      [
-       "would",
-       "würde"
-      ],
-      [
-       "have",
-       "müssen"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "pay",
-       "zahlen"
-      ],
-      [
-       "when",
-       "wenn"
-      ],
-      [
-       "going",
-       "gehend"
-      ],
-      [
-       "to",
-       "auf"
-      ],
-      [
-       "a",
-       "eine"
-      ],
-      [
-       "university",
-       "Universität"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "den"
-      ],
-      [
-       "US",
-       "USA"
-      ],
-      [
-       "or",
-       "oder"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "der"
-      ],
-      [
-       "Caribbean.",
-       "Karibik."
-      ]
-     ],
-     "de": "Außerdem ist die Ausbildung im UK etwas billiger als das, was man zahlen müsste, wenn man auf eine Universität in den USA oder in der Karibik geht."
-    },
-    {
-     "id": "cult_t4_s12",
-     "en": "It is a lot easier to get university grants for people who cannot afford education.",
-     "decode": [
-      [
-       "It",
-       "Es"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "lot",
-       "viel"
-      ],
-      [
-       "easier",
-       "leichter"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "get",
-       "bekommen"
-      ],
-      [
-       "university",
-       "Uni-"
-      ],
-      [
-       "grants",
-       "Stipendien"
-      ],
-      [
-       "for",
-       "für"
-      ],
-      [
-       "people",
-       "Leute,"
-      ],
-      [
-       "who",
-       "die"
-      ],
-      [
-       "cannot",
-       "nicht können"
-      ],
-      [
-       "afford",
-       "leisten"
-      ],
-      [
-       "education.",
-       "Bildung."
-      ]
-     ],
-     "de": "Es ist viel leichter, Uni-Stipendien für Leute zu bekommen, die sich Bildung nicht leisten können."
-    },
-    {
-     "id": "cult_t4_s13",
-     "en": "So these are my main reasons for living in the UK.",
-     "decode": [
-      [
-       "So",
-       "Also"
-      ],
-      [
-       "these",
-       "das"
-      ],
-      [
-       "are",
-       "sind"
-      ],
-      [
-       "my",
-       "meine"
-      ],
-      [
-       "main",
-       "Haupt-"
-      ],
-      [
-       "reasons",
-       "gründe"
-      ],
-      [
-       "for",
-       "fürs"
-      ],
-      [
-       "living",
-       "Leben"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK.",
-       "UK."
-      ]
-     ],
-     "de": "Das sind also meine Hauptgründe, im UK zu leben."
-    }
-   ]
-  },
-  {
-   "id": "cult_t5",
-   "title": "5 · Menschen & Orte in London",
-   "sentences": [
-    {
-     "id": "cult_t5_s01",
-     "en": "People here are very friendly.",
-     "decode": [
-      [
-       "People",
-       "Menschen"
-      ],
-      [
-       "here",
-       "hier"
-      ],
-      [
-       "are",
-       "sind"
-      ],
-      [
-       "very",
-       "sehr"
-      ],
-      [
-       "friendly.",
-       "freundlich."
-      ]
-     ],
-     "de": "Die Menschen hier sind sehr freundlich."
-    },
-    {
-     "id": "cult_t5_s02",
-     "en": "People are very good.",
-     "decode": [
-      [
-       "People",
-       "Menschen"
-      ],
-      [
-       "are",
-       "sind"
-      ],
-      [
-       "very",
-       "sehr"
-      ],
-      [
-       "good.",
-       "gut."
-      ]
-     ],
-     "de": "Die Menschen sind sehr gut."
-    },
-    {
-     "id": "cult_t5_s03",
-     "en": "The Tube, the planes, the buses are really good.",
-     "decode": [
-      [
-       "The",
-       "Die"
-      ],
-      [
-       "Tube,",
-       "Tube,"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "planes,",
-       "Flugzeuge,"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "buses",
-       "Busse"
-      ],
-      [
-       "are",
-       "sind"
-      ],
-      [
-       "really",
-       "wirklich"
-      ],
-      [
-       "good.",
-       "gut."
-      ]
-     ],
-     "de": "Die Tube, die Flugzeuge, die Busse sind wirklich gut."
-    },
-    {
-     "id": "cult_t5_s04",
-     "en": "The London Eye is a really good place and also the London Dungeon.",
-     "decode": [
-      [
-       "The",
-       "Das"
-      ],
-      [
-       "London",
-       "London"
-      ],
-      [
-       "Eye",
-       "Eye"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "really",
-       "wirklich"
-      ],
-      [
-       "good",
-       "guter"
-      ],
-      [
-       "place",
-       "Ort"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "also",
-       "auch"
-      ],
-      [
-       "the",
-       "das"
-      ],
-      [
-       "London",
-       "London"
-      ],
-      [
-       "Dungeon.",
-       "Dungeon."
-      ]
-     ],
-     "de": "Das London Eye ist ein wirklich guter Ort und auch das London Dungeon."
-    },
-    {
-     "id": "cult_t5_s05",
-     "en": "London is a really good place.",
-     "decode": [
-      [
-       "London",
-       "London"
-      ],
-      [
-       "is",
-       "ist"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "really",
-       "wirklich"
-      ],
-      [
-       "good",
-       "guter"
-      ],
-      [
-       "place.",
-       "Ort."
-      ]
-     ],
-     "de": "London ist ein wirklich guter Ort."
-    }
-   ]
-  },
-  {
-   "id": "cult_t6",
-   "title": "6 · Fazit – a vibrant culture",
-   "sentences": [
-    {
-     "id": "cult_t6_s01",
-     "en": "Our multicultural, multiracial society adds much color to our lives.",
-     "decode": [
-      [
-       "Our",
-       "Unsere"
-      ],
-      [
-       "multicultural,",
-       "multikulturelle,"
-      ],
-      [
-       "multiracial",
-       "multiethnische"
-      ],
-      [
-       "society",
-       "Gesellschaft"
-      ],
-      [
-       "adds",
-       "verleiht"
-      ],
-      [
-       "much",
-       "viel"
-      ],
-      [
-       "color",
-       "Farbe"
-      ],
-      [
-       "to",
-       "—"
-      ],
-      [
-       "our",
-       "unserem"
-      ],
-      [
-       "lives.",
-       "Leben."
-      ]
-     ],
-     "de": "Unsere multikulturelle, multiethnische Gesellschaft verleiht unserem Leben viel Farbe."
-    },
-    {
-     "id": "cult_t6_s02",
-     "en": "Britain's diverse society makes for a very interesting and vibrant culture.",
-     "decode": [
-      [
-       "Britain's",
-       "Großbritanniens"
-      ],
-      [
-       "diverse",
-       "vielfältige"
-      ],
-      [
-       "society",
-       "Gesellschaft"
-      ],
-      [
-       "makes",
-       "sorgt"
-      ],
-      [
-       "for",
-       "für"
-      ],
-      [
-       "a",
-       "eine"
-      ],
-      [
-       "very",
-       "sehr"
-      ],
-      [
-       "interesting",
-       "interessante"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "vibrant",
-       "lebendige"
-      ],
-      [
-       "culture.",
-       "Kultur."
-      ]
-     ],
-     "de": "Großbritanniens vielfältige Gesellschaft sorgt für eine sehr interessante und lebendige Kultur."
-    },
-    {
-     "id": "cult_t6_s03",
-     "en": "We can all enjoy the benefits of living together in the UK, a country with so many beautiful places and which has so much to offer to all of us.",
-     "decode": [
-      [
-       "We",
-       "Wir"
-      ],
-      [
-       "can",
-       "können"
-      ],
-      [
-       "all",
-       "alle"
-      ],
-      [
-       "enjoy",
-       "genießen"
-      ],
-      [
-       "the",
-       "die"
-      ],
-      [
-       "benefits",
-       "Vorteile"
-      ],
-      [
-       "of",
-       "des"
-      ],
-      [
-       "living",
-       "Lebens"
-      ],
-      [
-       "together",
-       "zusammen"
-      ],
-      [
-       "in",
-       "in"
-      ],
-      [
-       "the",
-       "dem"
-      ],
-      [
-       "UK,",
-       "UK,"
-      ],
-      [
-       "a",
-       "ein"
-      ],
-      [
-       "country",
-       "Land"
-      ],
-      [
-       "with",
-       "mit"
-      ],
-      [
-       "so",
-       "so"
-      ],
-      [
-       "many",
-       "vielen"
-      ],
-      [
-       "beautiful",
-       "schönen"
-      ],
-      [
-       "places",
-       "Orten"
-      ],
-      [
-       "and",
-       "und"
-      ],
-      [
-       "which",
-       "das"
-      ],
-      [
-       "has",
-       "hat"
-      ],
-      [
-       "so",
-       "so"
-      ],
-      [
-       "much",
-       "viel"
-      ],
-      [
-       "to",
-       "zu"
-      ],
-      [
-       "offer",
-       "bieten"
-      ],
-      [
-       "to",
-       "an"
-      ],
-      [
-       "all",
-       "alle"
-      ],
-      [
-       "of",
-       "von"
-      ],
-      [
-       "us.",
-       "uns."
-      ]
-     ],
-     "de": "Wir alle können die Vorteile des Zusammenlebens im UK genießen – ein Land mit so vielen schönen Orten, das uns allen so viel zu bieten hat."
-    }
-   ]
-  }
- ],
- "exercises": [
-  {
-   "id": "cult_ex01",
-   "title": "Hörverstehen: Reasons for living in the UK (A–D)",
-   "source": "Listening-Worksheet · Track 13 (Originalfragen 0–7)",
-   "type": "mc",
-   "instruction": "Wähle wie im Original-Hörverstehen die richtige Antwort. Tipp: Hör dir zuerst den Text unter „Lesen & Hören“ an.",
-   "questions": [
-    {
-     "parts": [
-      "(0) Britain is unique because ",
-      {
-       "opts": [
-        "of its fish and chips",
-        "many tourists visit it every year",
-        "it is home to a rich, diverse culture",
-        "it allows many immigrants to live there"
-       ],
-       "correct": 2,
-       "decode": [
-        "wegen Fish & Chips",
-        "viele Touristen besuchen es jedes Jahr",
-        "es beherbergt eine reiche, vielfältige Kultur",
-        "es lässt viele Einwanderer dort leben"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "Britain is unique because it is home to a rich, diverse culture.",
-     "solutionDe": "Großbritannien ist einzigartig, weil es eine reiche, vielfältige Kultur beherbergt.",
-     "explain": "Im Text: „home to a great heritage and many traditions … unique“. (Beispiel 0 – schon vorgegeben.)"
-    },
-    {
-     "parts": [
-      "(1) According to Juan, there is ",
-      {
-       "opts": [
-        "a big payment gap between Paraguay and the UK",
-        "a big difference between Paraguay and the UK",
-        "a greater number of males than females in Paraguay",
-        "a huge difference in all areas of life in Paraguay"
-       ],
-       "correct": 1,
-       "decode": [
-        "eine große Lohnlücke zwischen Paraguay und dem UK",
-        "ein großer Unterschied zwischen Paraguay und dem UK",
-        "mehr Männer als Frauen in Paraguay",
-        "ein riesiger Unterschied in allen Lebensbereichen in Paraguay"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "According to Juan, there is a big difference between Paraguay and the UK.",
-     "solutionDe": "Laut Juan gibt es einen großen Unterschied zwischen Paraguay und dem UK.",
-     "explain": "Juan vergleicht Kultur, Bevölkerung und Sicherheit/Gleichheit – also ein großer Unterschied zwischen den Ländern."
-    },
-    {
-     "parts": [
-      "(2) Juan believes that in the UK people are ",
-      {
-       "opts": [
-        "safer than in Paraguay",
-        "less safe than in Paraguay",
-        "more equal but less safe than in Paraguay",
-        "more equal and safer than in Paraguay"
-       ],
-       "correct": 3,
-       "decode": [
-        "sicherer als in Paraguay",
-        "weniger sicher als in Paraguay",
-        "gleichberechtigter, aber weniger sicher als in Paraguay",
-        "gleichberechtigter und sicherer als in Paraguay"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "Juan believes that in the UK people are more equal and safer than in Paraguay.",
-     "solutionDe": "Juan glaubt, dass die Menschen im UK gleichberechtigter und sicherer sind als in Paraguay.",
-     "explain": "Originalzitat: „people are safer and more equal compared to where I come from.“"
-    },
-    {
-     "parts": [
-      "(3) The next speaker admires London ",
-      {
-       "opts": [
-        "for its beautiful sights",
-        "for its awe-inspiring architecture",
-        "for the monarchy",
-        "because it is always busy"
-       ],
-       "correct": 3,
-       "decode": [
-        "für seine schönen Sehenswürdigkeiten",
-        "für seine beeindruckende Architektur",
-        "für die Monarchie",
-        "weil es immer geschäftig ist"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "The next speaker admires London because it is always busy.",
-     "solutionDe": "Der nächste Sprecher bewundert London, weil dort immer etwas los ist.",
-     "explain": "„I like that it's busy and that it's on the go all the time.“"
-    },
-    {
-     "parts": [
-      "(4) According to the same speaker, the best thing about London ",
-      {
-       "opts": [
-        "is the food",
-        "are the clubs",
-        "are the markets",
-        "is the underground (the Tube)"
-       ],
-       "correct": 3,
-       "decode": [
-        "ist das Essen",
-        "sind die Clubs",
-        "sind die Märkte",
-        "ist die U-Bahn (die Tube)"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "According to the same speaker, the best thing about London is the underground (the Tube).",
-     "solutionDe": "Laut demselben Sprecher ist das Beste an London die U-Bahn (die Tube).",
-     "explain": "„The best thing ever is the London Tube.“ Tube = underground."
-    },
-    {
-     "parts": [
-      "(5) Some people live in the UK because ",
-      {
-       "opts": [
-        "they are married here",
-        "it is a good starting point for travelling Europe",
-        "they were forced to leave their home country",
-        "they get good financial support from the government"
-       ],
-       "correct": 1,
-       "decode": [
-        "sie sind hier verheiratet",
-        "es ist ein guter Ausgangspunkt, um Europa zu bereisen",
-        "sie wurden gezwungen, ihr Heimatland zu verlassen",
-        "sie bekommen gute finanzielle Unterstützung vom Staat"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "Some people live in the UK because it is a good starting point for travelling Europe.",
-     "solutionDe": "Manche leben im UK, weil es ein guter Ausgangspunkt ist, um Europa zu bereisen.",
-     "explain": "„it's the gateway to Europe … London is the gateway to Europe.“ gateway = Tor/Ausgangspunkt."
-    },
-    {
-     "parts": [
-      "(6) Compared to the Caribbean, students in the UK ",
-      {
-       "opts": [
-        "enjoy better education",
-        "have better financial support at university",
-        "have to pay lower tuition fees",
-        "have a better course programme to choose from"
-       ],
-       "correct": 2,
-       "decode": [
-        "genießen eine bessere Bildung",
-        "haben bessere finanzielle Unterstützung an der Uni",
-        "müssen niedrigere Studiengebühren zahlen",
-        "haben ein besseres Kursangebot zur Auswahl"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "Compared to the Caribbean, students in the UK have to pay lower tuition fees.",
-     "solutionDe": "Verglichen mit der Karibik müssen Studierende im UK niedrigere Studiengebühren zahlen.",
-     "explain": "„education in the UK is a bit cheaper compared to … a university in the US or in the Caribbean.“ Der direkte Vergleich ist der Preis (cheaper). „grants“ wären zwar leichter zu bekommen, aber gefragt ist der Vergleich zur Karibik."
-    },
-    {
-     "parts": [
-      "(7) A multicultural society ",
-      {
-       "opts": [
-        "improves a culture",
-        "causes a lot of tension",
-        "does not make much difference",
-        "causes people to lose jobs"
-       ],
-       "correct": 0,
-       "decode": [
-        "bereichert eine Kultur",
-        "verursacht viel Spannung",
-        "macht keinen großen Unterschied",
-        "führt dazu, dass Menschen Jobs verlieren"
-       ]
-      },
-      "."
-     ],
-     "solutionEn": "A multicultural society improves a culture.",
-     "solutionDe": "Eine multikulturelle Gesellschaft bereichert eine Kultur.",
-     "explain": "Schluss: „adds much color … a very interesting and vibrant culture.“"
-    }
-   ]
-  },
-  {
-   "id": "cult_ex02",
-   "title": "Lückentext: Schlüsselwörter aus dem Hörtext",
-   "source": "Track 13 – Wortschatz im Kontext",
-   "type": "cloze",
-   "instruction": "Setze das fehlende Wort ein. Alle Sätze stammen direkt aus dem Hörtext.",
-   "questions": [
-    {
-     "parts": [
-      "As we know, Britain has a multiracial and ",
-      {
-       "opts": [
-        "multicultural",
-        "multinational",
-        "multipurpose"
-       ],
-       "correct": 0,
-       "decode": [
-        "multikulturell",
-        "multinational",
-        "Mehrzweck-"
-       ]
-      },
-      " society."
-     ],
-     "solutionEn": "…a multiracial and multicultural society.",
-     "solutionDe": "…eine multiethnische und multikulturelle Gesellschaft.",
-     "explain": "multicultural = multikulturell (viele Kulturen)."
-    },
-    {
-     "parts": [
-      "It is home to a great ",
-      {
-       "opts": [
-        "heritage",
-        "origin",
-        "tension"
-       ],
-       "correct": 0,
-       "decode": [
-        "Erbe",
-        "Herkunft",
-        "Spannung"
-       ]
-      },
-      " and many traditions."
-     ],
-     "solutionEn": "It is home to a great heritage and many traditions.",
-     "solutionDe": "Es ist Heimat eines großen Erbes und vieler Traditionen.",
-     "explain": "heritage = (kulturelles) Erbe."
-    },
-    {
-     "parts": [
-      "Why do people choose to live in Britain instead of in the country of their ",
-      {
-       "opts": [
-        "origin",
-        "region",
-        "religion"
-       ],
-       "correct": 0,
-       "decode": [
-        "Herkunft",
-        "Region",
-        "Religion"
-       ]
-      },
-      "?"
-     ],
-     "solutionEn": "…the country of their origin?",
-     "solutionDe": "…das Land ihrer Herkunft?",
-     "explain": "origin = Herkunft, Ursprung."
-    },
-    {
-     "parts": [
-      "What makes Britain so ",
-      {
-       "opts": [
-        "appealing",
-        "appalling",
-        "applying"
-       ],
-       "correct": 0,
-       "decode": [
-        "reizvoll",
-        "abscheulich",
-        "sich bewerbend"
-       ]
-      },
-      " to them?"
-     ],
-     "solutionEn": "What makes Britain so appealing to them?",
-     "solutionDe": "Was macht Großbritannien für sie so reizvoll?",
-     "explain": "appealing = reizvoll, ansprechend (nicht: appalling = abscheulich)."
-    },
-    {
-     "parts": [
-      "Another ",
-      {
-       "opts": [
-        "advantage",
-        "advance",
-        "adventure"
-       ],
-       "correct": 0,
-       "decode": [
-        "Vorteil",
-        "Fortschritt",
-        "Abenteuer"
-       ]
-      },
-      " of living in the UK is that people are safer."
-     ],
-     "solutionEn": "Another advantage of living in the UK…",
-     "solutionDe": "Ein weiterer Vorteil des Lebens im UK…",
-     "explain": "advantage = Vorteil."
-    },
-    {
-     "parts": [
-      "People are safer and more ",
-      {
-       "opts": [
-        "equal",
-        "equally",
-        "equality"
-       ],
-       "correct": 0,
-       "decode": [
-        "gleichberechtigt",
-        "gleichermaßen",
-        "Gleichheit"
-       ]
-      },
-      " compared to where I come from."
-     ],
-     "solutionEn": "…safer and more equal…",
-     "solutionDe": "…sicherer und gleichberechtigter…",
-     "explain": "equal (Adjektiv) = gleich(berechtigt)."
-    },
-    {
-     "parts": [
-      "London is the ",
-      {
-       "opts": [
-        "gateway",
-        "highway",
-        "doorway"
-       ],
-       "correct": 0,
-       "decode": [
-        "Tor",
-        "Autobahn",
-        "Türöffnung"
-       ]
-      },
-      " to Europe."
-     ],
-     "solutionEn": "London is the gateway to Europe.",
-     "solutionDe": "London ist das Tor nach Europa.",
-     "explain": "gateway to Europe = Tor nach Europa."
-    },
-    {
-     "parts": [
-      "It is a lot easier to get university ",
-      {
-       "opts": [
-        "grants",
-        "grades",
-        "guests"
-       ],
-       "correct": 0,
-       "decode": [
-        "Stipendien",
-        "Noten",
-        "Gäste"
-       ]
-      },
-      " for people who cannot afford education."
-     ],
-     "solutionEn": "…to get university grants…",
-     "solutionDe": "…Uni-Stipendien zu bekommen…",
-     "explain": "grant = Stipendium / Zuschuss."
-    },
-    {
-     "parts": [
-      "Our multicultural society adds much ",
-      {
-       "opts": [
-        "color",
-        "culture",
-        "comfort"
-       ],
-       "correct": 0,
-       "decode": [
-        "Farbe",
-        "Kultur",
-        "Komfort"
-       ]
-      },
-      " to our lives."
-     ],
-     "solutionEn": "…adds much color to our lives.",
-     "solutionDe": "…verleiht unserem Leben viel Farbe.",
-     "explain": "to add color = Farbe/Lebendigkeit verleihen."
-    },
-    {
-     "parts": [
-      "Britain's diverse society makes for a very interesting and ",
-      {
-       "opts": [
-        "vibrant",
-        "violent",
-        "vacant"
-       ],
-       "correct": 0,
-       "decode": [
-        "lebendig",
-        "gewalttätig",
-        "leerstehend"
-       ]
-      },
-      " culture."
-     ],
-     "solutionEn": "…interesting and vibrant culture.",
-     "solutionDe": "…interessante und lebendige Kultur.",
-     "explain": "vibrant = lebendig, pulsierend."
-    }
-   ]
-  },
-  {
-   "id": "cult_ex03",
-   "title": "Vokabeln Culture (Englisch → Deutsch)",
-   "source": "Listening + Reading „Friends across cultures“",
-   "type": "vocab",
-   "instruction": "Wähle die richtige deutsche Bedeutung. Wortschatz aus der Culture-Einheit (Hören + Lesen).",
-   "questions": [
-    {
-     "parts": [
-      "multicultural — ",
-      {
-       "opts": [
-        "multikulturell",
-        "einsprachig",
-        "altmodisch"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "multicultural = multikulturell",
-     "solutionDe": "z. B. „a multicultural society“."
-    },
-    {
-     "parts": [
-      "multiracial — ",
-      {
-       "opts": [
-        "multiethnisch (viele Ethnien)",
-        "einfarbig",
-        "ländlich"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "multiracial = multiethnisch (viele Ethnien)",
-     "solutionDe": "multiracial = aus vielen Ethnien."
-    },
-    {
-     "parts": [
-      "heritage — ",
-      {
-       "opts": [
-        "das Erbe",
-        "die Heizung",
-        "der Hafen"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "heritage = das Erbe",
-     "solutionDe": "(kulturelles) Erbe."
-    },
-    {
-     "parts": [
-      "origin — ",
-      {
-       "opts": [
-        "die Herkunft",
-        "das Original",
-        "die Orgel"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "origin = die Herkunft",
-     "solutionDe": "country of origin = Herkunftsland."
-    },
-    {
-     "parts": [
-      "appealing — ",
-      {
-       "opts": [
-        "reizvoll, ansprechend",
-        "abscheulich",
-        "langweilig"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "appealing = reizvoll, ansprechend",
-     "solutionDe": "appealing ≠ appalling (abscheulich)."
-    },
-    {
-     "parts": [
-      "advantage — ",
-      {
-       "opts": [
-        "der Vorteil",
-        "der Nachteil",
-        "das Abenteuer"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "advantage = der Vorteil",
-     "solutionDe": "Gegenteil: disadvantage = Nachteil."
-    },
-    {
-     "parts": [
-      "diverse — ",
-      {
-       "opts": [
-        "vielfältig",
-        "gleichförmig",
-        "schwierig"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "diverse = vielfältig",
-     "solutionDe": "diversity = Vielfalt."
-    },
-    {
-     "parts": [
-      "vibrant — ",
-      {
-       "opts": [
-        "lebendig, pulsierend",
-        "leise",
-        "leer"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "vibrant = lebendig, pulsierend",
-     "solutionDe": "a vibrant culture = eine lebendige Kultur."
-    },
-    {
-     "parts": [
-      "to embrace a culture — ",
-      {
-       "opts": [
-        "eine Kultur annehmen / sich zu eigen machen",
-        "eine Kultur ablehnen",
-        "eine Kultur ignorieren"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "to embrace a culture = eine Kultur annehmen / sich zu eigen machen",
-     "solutionDe": "Reading: „embrace a new culture“."
-    },
-    {
-     "parts": [
-      "to settle in — ",
-      {
-       "opts": [
-        "sich einleben",
-        "abreisen",
-        "sich streiten"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "to settle in = sich einleben",
-     "solutionDe": "Reading: „it shouldn't be difficult to settle in“."
-    },
-    {
-     "parts": [
-      "host family — ",
-      {
-       "opts": [
-        "die Gastfamilie",
-        "die Großfamilie",
-        "die Nachbarschaft"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "host family = die Gastfamilie",
-     "solutionDe": "Reading: „staying with a host family“."
-    },
-    {
-     "parts": [
-      "etiquette — ",
-      {
-       "opts": [
-        "die Umgangsformen / Etikette",
-        "die Eintrittskarte",
-        "der Zeitplan"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "etiquette = die Umgangsformen / Etikette",
-     "solutionDe": "Reading: „table etiquette“."
-    },
-    {
-     "parts": [
-      "to make judgments — ",
-      {
-       "opts": [
-        "(vor)urteilen",
-        "Witze machen",
-        "Pläne machen"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "to make judgments = (vor)urteilen",
-     "solutionDe": "Reading: „not to make judgments about people“."
-    },
-    {
-     "parts": [
-      "courteous — ",
-      {
-       "opts": [
-        "höflich, zuvorkommend",
-        "mutig",
-        "neugierig"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "courteous = höflich, zuvorkommend",
-     "solutionDe": "Reading: „Be courteous and show understanding.“"
-    },
-    {
-     "parts": [
-      "stereotype — ",
-      {
-       "opts": [
-        "das Klischee / Stereotyp",
-        "das Fernrohr",
-        "der Lautsprecher"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "stereotype = das Klischee / Stereotyp",
-     "solutionDe": "Reading: „easy to stereotype people“."
-    },
-    {
-     "parts": [
-      "gap year — ",
-      {
-       "opts": [
-        "das Auslands-/Zwischenjahr",
-        "die Mittagspause",
-        "das Schaltjahr"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "gap year = das Auslands-/Zwischenjahr",
-     "solutionDe": "Unit: „a gap year overseas“."
-    },
-    {
-     "parts": [
-      "tuition fees — ",
-      {
-       "opts": [
-        "die Studiengebühren",
-        "die Trinkgelder",
-        "die Mietkosten"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "tuition fees = die Studiengebühren",
-     "solutionDe": "Listening: „lower tuition fees“."
-    },
-    {
-     "parts": [
-      "to adapt — ",
-      {
-       "opts": [
-        "sich anpassen",
-        "adoptieren",
-        "addieren"
-       ],
-       "correct": 0
-      }
-     ],
-     "solutionEn": "to adapt = sich anpassen",
-     "solutionDe": "Warm-up: „adapt to the way we do things“."
-    }
-   ]
-  },
-  {
-   "id": "cult_ex04",
-   "title": "Reading: „Friends across cultures“ (richtig/falsch)",
-   "source": "Reading-Worksheet 2b – advice on getting to know another culture",
-   "type": "tf",
-   "instruction": "Welche Tipps gibt der Ratgeber? Entscheide richtig oder falsch (nach dem Lesetext).",
-   "questions": [
-    {
-     "parts": [
-      "Moving to a different country is a chance to learn about a new culture. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 0,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "TRUE – Moving to a different country is a chance to learn about a new culture.",
-     "solutionDe": "„see this as a chance to embrace a new culture.“"
-    },
-    {
-     "parts": [
-      "Taking part in extra-curricular activities isn't the best way to make new friends. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 1,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends.",
-     "solutionDe": "Falsch – der Text sagt, es IST „a great way to meet people“."
-    },
-    {
-     "parts": [
-      "Being polite and respectful allows you to build new relationships. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 0,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "TRUE – Being polite and respectful allows you to build new relationships.",
-     "solutionDe": "„Respect and politeness are generally very important … be courteous.“"
-    },
-    {
-     "parts": [
-      "Judging people before getting to know them isn't helpful. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 0,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "TRUE – Judging people before getting to know them isn't helpful.",
-     "solutionDe": "„It's important not to make judgments about people …“."
-    },
-    {
-     "parts": [
-      "When you become familiar with your new surroundings, you will mostly face new problems. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 1,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems.",
-     "solutionDe": "Falsch – der Text verspricht „a lifetime of memories“, nicht neue Probleme."
-    },
-    {
-     "parts": [
-      "You should show an interest in others so that they show an interest in you. — ",
-      {
-       "opts": [
-        "richtig (true)",
-        "falsch (false)"
-       ],
-       "correct": 0,
-       "decode": [
-        "stimmt",
-        "stimmt nicht"
-       ]
-      }
-     ],
-     "solutionEn": "TRUE – You should show an interest in others so that they show an interest in you.",
-     "solutionDe": "„show an interest in the students … they will be very interested in learning all about you.“"
-    }
-   ]
-  },
-  {
-   "id": "cult_ex05",
-   "title": "Deine Meinung: Redemittel zum Thema Culture",
-   "source": "Worksheet – „your own opinion on culture“",
-   "type": "opinion",
-   "instruction": "Übe die Sprache der Meinung. Nützliche Wendungen: In my opinion … / From my point of view … / I totally (partly) agree … / I (completely) disagree with this because … / On the one hand … on the other hand … – und IMMER eine Begründung mit because/as.",
-   "questions": [
-    {
-     "parts": [
-      "In my opinion, multiculturalism ",
-      {
-       "opts": [
-        "enriches",
-        "enrich",
-        "enriching"
-       ],
-       "correct": 0,
-       "decode": [
-        "bereichert",
-        "bereichern",
-        "bereichernd"
-       ]
-      },
-      " a society because it brings new ideas and traditions."
-     ],
-     "solutionEn": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions.",
-     "solutionDe": "Meiner Meinung nach bereichert Multikulturalität eine Gesellschaft, weil sie neue Ideen und Traditionen bringt.",
-     "explain": "3. Person Singular: it enriches."
-    },
-    {
-     "parts": [
-      "I ",
-      {
-       "opts": [
-        "totally",
-        "total",
-        "totality"
-       ],
-       "correct": 0,
-       "decode": [
-        "völlig",
-        "gesamt",
-        "Gesamtheit"
-       ]
-      },
-      " agree that everyone should respect other cultures."
-     ],
-     "solutionEn": "I totally agree that everyone should respect other cultures.",
-     "solutionDe": "Ich stimme völlig zu, dass jeder andere Kulturen respektieren sollte.",
-     "explain": "Adverb totally beschreibt das Verb agree."
-    },
-    {
-     "parts": [
-      "Living in a multicultural country ",
-      {
-       "opts": [
-        "allows",
-        "allow",
-        "allowing"
-       ],
-       "correct": 0,
-       "decode": [
-        "ermöglicht",
-        "ermöglichen",
-        "ermöglichend"
-       ]
-      },
-      " us to learn from each other."
-     ],
-     "solutionEn": "Living in a multicultural country allows us to learn from each other.",
-     "solutionDe": "In einem multikulturellen Land zu leben ermöglicht es uns, voneinander zu lernen.",
-     "explain": "Subjekt (Gerundium) = 3. Person Singular: allows."
-    },
-    {
-     "parts": [
-      "I partly agree ",
-      {
-       "opts": [
-        "with",
-        "to",
-        "on"
-       ],
-       "correct": 0,
-       "decode": [
-        "mit",
-        "zu",
-        "auf"
-       ]
-      },
-      " this statement, but I also see some challenges."
-     ],
-     "solutionEn": "I partly agree with this statement, but I also see some challenges.",
-     "solutionDe": "Ich stimme dieser Aussage teilweise zu, sehe aber auch einige Herausforderungen.",
-     "explain": "agree WITH a statement/person (agree TO = einem Vorschlag zustimmen)."
-    },
-    {
-     "parts": [
-      "From my point of ",
-      {
-       "opts": [
-        "view",
-        "sight",
-        "look"
-       ],
-       "correct": 0,
-       "decode": [
-        "Sicht",
-        "Anblick",
-        "Blick"
-       ]
-      },
-      ", diversity makes life more interesting."
-     ],
-     "solutionEn": "From my point of view, diversity makes life more interesting.",
-     "solutionDe": "Aus meiner Sicht macht Vielfalt das Leben interessanter.",
-     "explain": "Feste Wendung: from my point of view."
-    },
-    {
-     "parts": [
-      "In a multicultural society, people should be ",
-      {
-       "opts": [
-        "open-minded",
-        "narrow-minded",
-        "absent-minded"
-       ],
-       "correct": 0,
-       "decode": [
-        "aufgeschlossen",
-        "engstirnig",
-        "zerstreut"
-       ]
-      },
-      " towards other traditions."
-     ],
-     "solutionEn": "In a multicultural society, people should be open-minded towards other traditions.",
-     "solutionDe": "In einer multikulturellen Gesellschaft sollten Menschen anderen Traditionen gegenüber aufgeschlossen sein.",
-     "explain": "open-minded = aufgeschlossen."
-    },
-    {
-     "parts": [
-      "I completely ",
-      {
-       "opts": [
-        "disagree",
-        "disagrees",
-        "disagreeing"
-       ],
-       "correct": 0,
-       "decode": [
-        "bin anderer Meinung",
-        "—",
-        "—"
-       ]
-      },
-      " with the idea that immigrants only take away jobs."
-     ],
-     "solutionEn": "I completely disagree with the idea that immigrants only take away jobs.",
-     "solutionDe": "Ich bin völlig anderer Meinung als die Idee, dass Einwanderer nur Arbeitsplätze wegnehmen.",
-     "explain": "I/you/we disagree (Grundform); to disagree with an idea."
-    }
-   ]
-  }
- ]
+  ]
 }

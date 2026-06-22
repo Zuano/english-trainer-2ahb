@@ -1197,11 +1197,11 @@
       "title": "Wörter aus dem Lesetext",
       "source": "Unit 9, Reading Ex. 2",
       "type": "mc",
-      "instruction": "Welches Wort aus dem Text „Moved by music“ passt zur Definition?",
+      "instruction": "Vervollständige den Satz mit dem passenden Wort aus dem Text „Moved by music“.",
       "questions": [
         {
           "parts": [
-            "an excited or frightened feeling: ",
+            "When the choir started singing, the gorgeous harmony sent ",
             {
               "opts": [
                 "a shiver",
@@ -1216,75 +1216,17 @@
                 "ein fröhlicher Liedtext"
               ],
               "correct": 0
-            }
-          ],
-          "solutionEn": "a shiver",
-          "solutionDe": "ein Schauer (vor Aufregung oder Angst)",
-          "explain": "Im Text: 'music that sends a shiver down your spine' = Musik, die dir einen Schauer über den Rücken jagt.",
-          "decodeFull": [
-            [
-              "an",
-              "ein"
-            ],
-            [
-              "excited",
-              "aufgeregtes"
-            ],
-            [
-              "or",
-              "oder"
-            ],
-            [
-              "frightened",
-              "ängstliches"
-            ],
-            [
-              "feeling:",
-              "Gefühl:"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "shiver",
-              "Schauer"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "an",
-                  "ein"
-                ],
-                [
-                  "excited",
-                  "aufgeregtes"
-                ],
-                [
-                  "or",
-                  "oder"
-                ],
-                [
-                  "frightened",
-                  "ängstliches"
-                ],
-                [
-                  "feeling:",
-                  "Gefühl:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " down my spine."
+          ],
+          "solutionEn": "When the choir started singing, the gorgeous harmony sent a shiver down my spine.",
+          "solutionDe": "Als der Chor zu singen begann, jagte mir die wunderschöne Harmonie einen Schauer über den Rücken.",
+          "explain": "Im Text: 'music that sends a shiver down your spine' = Musik, die dir einen Schauer über den Rücken jagt.",
+          "read": "When the choir started singing, the gorgeous harmony sent a shiver down my spine."
         },
         {
           "parts": [
-            "words of a song full of hope, happiness and good feelings: ",
+            "The song 'Happy' is full of ",
             {
               "opts": [
                 "a shiver",
@@ -1299,123 +1241,17 @@
                 "ein fröhlicher Liedtext"
               ],
               "correct": 3
-            }
-          ],
-          "solutionEn": "upbeat lyrics",
-          "solutionDe": "fröhlicher, optimistischer Liedtext",
-          "explain": "upbeat = fröhlich, optimistisch; lyrics = Liedtext (immer Plural!).",
-          "decodeFull": [
-            [
-              "words",
-              "Worte"
-            ],
-            [
-              "of",
-              "eines"
-            ],
-            [
-              "a",
-              "-"
-            ],
-            [
-              "song",
-              "Liedes"
-            ],
-            [
-              "full",
-              "voll"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "hope,",
-              "Hoffnung,"
-            ],
-            [
-              "happiness",
-              "Freude"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "good",
-              "guten"
-            ],
-            [
-              "feelings:",
-              "Gefühlen:"
-            ],
-            [
-              "upbeat",
-              "optimistische"
-            ],
-            [
-              "lyrics",
-              "Liedtexte"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "words",
-                  "Worte"
-                ],
-                [
-                  "of",
-                  "eines"
-                ],
-                [
-                  "a",
-                  "-"
-                ],
-                [
-                  "song",
-                  "Liedes"
-                ],
-                [
-                  "full",
-                  "voll"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "hope,",
-                  "Hoffnung,"
-                ],
-                [
-                  "happiness",
-                  "Freude"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "good",
-                  "guten"
-                ],
-                [
-                  "feelings:",
-                  "Gefühlen:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " that make you feel positive and cheerful."
+          ],
+          "solutionEn": "The song 'Happy' is full of upbeat lyrics that make you feel positive and cheerful.",
+          "solutionDe": "Das Lied ‚Happy‘ ist voller fröhlicher Liedtexte, die einen positiv und gut gelaunt stimmen.",
+          "explain": "upbeat = fröhlich, optimistisch; lyrics = Liedtext (immer Plural!).",
+          "read": "The song 'Happy' is full of upbeat lyrics that make you feel positive and cheerful."
         },
         {
           "parts": [
-            "an unpleasant, loud, high sound: ",
+            "The broken microphone suddenly made ",
             {
               "opts": [
                 "a shiver",
@@ -1430,79 +1266,17 @@
                 "ein fröhlicher Liedtext"
               ],
               "correct": 1
-            }
-          ],
-          "solutionEn": "a screeching noise",
-          "solutionDe": "ein kreischendes Geräusch",
-          "explain": "screeching = kreischend. Im Text: das Geräusch des Nachbarn, der gerade Schlagzeug oder Geige lernt.",
-          "decodeFull": [
-            [
-              "an",
-              "ein"
-            ],
-            [
-              "unpleasant,",
-              "unangenehmer,"
-            ],
-            [
-              "loud,",
-              "lauter,"
-            ],
-            [
-              "high",
-              "hoher"
-            ],
-            [
-              "sound:",
-              "Klang:"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "screeching",
-              "kreischendes"
-            ],
-            [
-              "noise",
-              "Geräusch"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "an",
-                  "ein"
-                ],
-                [
-                  "unpleasant,",
-                  "unangenehmer,"
-                ],
-                [
-                  "loud,",
-                  "lauter,"
-                ],
-                [
-                  "high",
-                  "hoher"
-                ],
-                [
-                  "sound:",
-                  "Klang:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " that hurt everyone's ears."
+          ],
+          "solutionEn": "The broken microphone suddenly made a screeching noise that hurt everyone's ears.",
+          "solutionDe": "Das kaputte Mikrofon machte plötzlich ein kreischendes Geräusch, das allen in den Ohren wehtat.",
+          "explain": "screeching = kreischend. Im Text: das Geräusch des Nachbarn, der gerade Schlagzeug oder Geige lernt.",
+          "read": "The broken microphone suddenly made a screeching noise that hurt everyone's ears."
         },
         {
           "parts": [
-            "a pleasing and easy to remember song or piece of music: ",
+            "I can't stop humming that song – it has such ",
             {
               "opts": [
                 "a shiver",
@@ -1517,115 +1291,13 @@
                 "ein fröhlicher Liedtext"
               ],
               "correct": 2
-            }
-          ],
-          "solutionEn": "a catchy tune",
-          "solutionDe": "eine eingängige Melodie (ein Ohrwurm)",
-          "explain": "catchy = eingängig, bleibt im Ohr; tune = Melodie.",
-          "decodeFull": [
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "pleasing",
-              "gefälliges"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "easy",
-              "leicht"
-            ],
-            [
-              "to remember",
-              "zu merkendes"
-            ],
-            [
-              "song",
-              "Lied"
-            ],
-            [
-              "or",
-              "oder"
-            ],
-            [
-              "piece",
-              "Stück"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "music:",
-              "Musik:"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "catchy",
-              "eingängige"
-            ],
-            [
-              "tune",
-              "Melodie"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "pleasing",
-                  "gefälliges"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "easy",
-                  "leicht"
-                ],
-                [
-                  "to remember",
-                  "zu merkendes"
-                ],
-                [
-                  "song",
-                  "Lied"
-                ],
-                [
-                  "or",
-                  "oder"
-                ],
-                [
-                  "piece",
-                  "Stück"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "music:",
-                  "Musik:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " that it stays in your head all day."
+          ],
+          "solutionEn": "I can't stop humming that song – it has such a catchy tune that it stays in your head all day.",
+          "solutionDe": "Ich kann nicht aufhören, das Lied zu summen – es hat so eine eingängige Melodie, dass es einem den ganzen Tag im Kopf bleibt.",
+          "explain": "catchy = eingängig, bleibt im Ohr; tune = Melodie.",
+          "read": "I can't stop humming that song – it has such a catchy tune that it stays in your head all day."
         }
       ]
     },
@@ -1890,7 +1562,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Why did Pharrell Williams write so many versions of 'Happy'? He wanted to get just the right version to move people."
         },
         {
           "parts": [
@@ -2029,7 +1702,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "What is the main point of the whole text? Music influences the way people feel and act."
         }
       ]
     },
@@ -2212,7 +1886,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Relaxing music can encourage people to spend money."
         },
         {
           "parts": [
@@ -2335,7 +2010,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "In recent times, music has been used to make people feel patriotic."
         }
       ]
     },
@@ -2451,7 +2127,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "He only listens to rap to fit in with his friends."
         },
         {
           "parts": [
@@ -2574,7 +2251,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I know a lot of kids who are into electronic music."
         },
         {
           "parts": [
@@ -2693,7 +2371,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "In the USA, teenagers like to hang out in the big malls."
         },
         {
           "parts": [
@@ -2788,7 +2467,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "My mum wants me to take up the piano."
         }
       ]
     },
@@ -4550,7 +4230,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I've got a neighbour who has just taken up the violin."
         },
         {
           "parts": [
@@ -4665,7 +4346,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Mozart, who was born in Austria, was a great composer."
         },
         {
           "parts": [
@@ -4804,20 +4486,21 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Bob Marley, whose home was in Jamaica, was the most famous reggae singer."
         }
       ]
     },
     {
       "id": "mus_ex08",
-      "title": "American English vs. British English",
+      "title": "Wortschatz: britisches Englisch",
       "source": "Unit 9, Vocabulary (AE/BE) + Review Ex. 2",
       "type": "mc",
-      "instruction": "Wie heißt das Wort im britischen Englisch?",
+      "instruction": "Wähle das passende britische Wort für den Satz.",
       "questions": [
         {
           "parts": [
-            "American English: 'fall' → British English: ",
+            "In Britain, the leaves turn golden and fall from the trees in ",
             {
               "opts": [
                 "spring",
@@ -4830,79 +4513,17 @@
                 "Sonnenuntergang"
               ],
               "correct": 1
-            }
-          ],
-          "solutionEn": "autumn",
-          "solutionDe": "Herbst",
-          "explain": "AE fall = BE autumn. Weitere Paare aus der Unit: movies–cinema, parking lot–car park, gas–petrol.",
-          "decodeFull": [
-            [
-              "American",
-              "Amerikanisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "'fall'",
-              "'fall'"
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "British",
-              "Britisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "autumn",
-              "Herbst"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "American",
-                  "Amerikanisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ],
-                [
-                  "'fall'",
-                  "'fall'"
-                ],
-                [
-                  "→",
-                  "→"
-                ],
-                [
-                  "British",
-                  "Britisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "In Britain, the leaves turn golden and fall from the trees in autumn.",
+          "solutionDe": "In Großbritannien werden die Blätter golden und fallen im Herbst von den Bäumen.",
+          "explain": "AE fall = BE autumn. Weitere Paare aus der Unit: movies–cinema, parking lot–car park, gas–petrol.",
+          "read": "In Britain, the leaves turn golden and fall from the trees in autumn."
         },
         {
           "parts": [
-            "American English: 'sneakers' → British English: ",
+            "Before going for a run in the park, I put on my ",
             {
               "opts": [
                 "trainers",
@@ -4915,79 +4536,17 @@
                 "Gummistiefel"
               ],
               "correct": 0
-            }
-          ],
-          "solutionEn": "trainers",
-          "solutionDe": "Turnschuhe",
-          "explain": "AE sneakers = BE trainers. Auch wichtig: AE pants = BE trousers (Hose), AE sidewalk = BE pavement (Gehsteig).",
-          "decodeFull": [
-            [
-              "American",
-              "Amerikanisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "'sneakers'",
-              "'sneakers'"
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "British",
-              "Britisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "trainers",
-              "Turnschuhe"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "American",
-                  "Amerikanisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ],
-                [
-                  "'sneakers'",
-                  "'sneakers'"
-                ],
-                [
-                  "→",
-                  "→"
-                ],
-                [
-                  "British",
-                  "Britisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "Before going for a run in the park, I put on my trainers.",
+          "solutionDe": "Bevor ich im Park laufen gehe, ziehe ich meine Turnschuhe an.",
+          "explain": "AE sneakers = BE trainers. Auch wichtig: AE pants = BE trousers (Hose), AE sidewalk = BE pavement (Gehsteig).",
+          "read": "Before going for a run in the park, I put on my trainers."
         },
         {
           "parts": [
-            "American English: 'cookie' → British English: ",
+            "She dunked a chocolate ",
             {
               "opts": [
                 "muffin",
@@ -5000,79 +4559,17 @@
                 "Keks"
               ],
               "correct": 2
-            }
-          ],
-          "solutionEn": "biscuit",
-          "solutionDe": "Keks",
-          "explain": "AE cookie = BE biscuit. Auch: AE candy store = BE sweet shop, AE subway = BE underground.",
-          "decodeFull": [
-            [
-              "American",
-              "Amerikanisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "'cookie'",
-              "'cookie'"
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "British",
-              "Britisches"
-            ],
-            [
-              "English:",
-              "Englisch:"
-            ],
-            [
-              "biscuit",
-              "Keks"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "American",
-                  "Amerikanisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ],
-                [
-                  "'cookie'",
-                  "'cookie'"
-                ],
-                [
-                  "→",
-                  "→"
-                ],
-                [
-                  "British",
-                  "Britisches"
-                ],
-                [
-                  "English:",
-                  "Englisch:"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " into her cup of tea."
+          ],
+          "solutionEn": "She dunked a chocolate biscuit into her cup of tea.",
+          "solutionDe": "Sie tunkte einen Schokoladenkeks in ihre Tasse Tee.",
+          "explain": "AE cookie = BE biscuit. Auch: AE candy store = BE sweet shop, AE subway = BE underground.",
+          "read": "She dunked a chocolate biscuit into her cup of tea."
         },
         {
           "parts": [
-            "Which spelling is British English? ",
+            "My favourite ",
             {
               "opts": [
                 "color",
@@ -5083,67 +4580,13 @@
                 "Farbe (britische Schreibung)"
               ],
               "correct": 1
-            }
-          ],
-          "solutionEn": "colour",
-          "solutionDe": "Farbe – britische Schreibweise mit -our",
-          "explain": "BE: colour, humour, centre, theatre, tyre, traveller – AE: color, humor, center, theater, tire, traveler.",
-          "decodeFull": [
-            [
-              "Which",
-              "Welche"
-            ],
-            [
-              "spelling",
-              "Schreibweise"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "British",
-              "Britisches"
-            ],
-            [
-              "English?",
-              "Englisch?"
-            ],
-            [
-              "colour",
-              "colour"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "Welche"
-                ],
-                [
-                  "spelling",
-                  "Schreibweise"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "British",
-                  "Britisches"
-                ],
-                [
-                  "English?",
-                  "Englisch?"
-                ]
-              ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " is blue."
+          ],
+          "solutionEn": "My favourite colour is blue.",
+          "solutionDe": "Meine Lieblingsfarbe ist Blau.",
+          "explain": "BE: colour, humour, centre, theatre, tyre, traveller – AE: color, humor, center, theater, tire, traveler.",
+          "read": "My favourite colour is blue."
         }
       ]
     },
@@ -6459,7 +5902,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "One album that I really like is 'Divide' by Ed Sheeran. It was released in 2017. The album mainly belongs to the pop genre, but it also includes some folk and acoustic elements. Ed Sheeran is known for his expressive lyrics, catchy melodies, and clear vocals. Many of the songs are based on guitar music and have a strong beat and rhythm. My favourite track on the album is 'Perfect'. It is a romantic ballad with gentle instrumentals and emotional lyrics. Many listeners enjoy this song because it is calm, melodic, and pleasant to listen to. I like this album because it offers a variety of musical styles and tempos. Some tracks are lively and rhythmic, like 'Shape of You', while others are slower and more emotional. The album has strong songwriting and an enjoyable sound. I would definitely recommend it to people who like modern pop music."
         }
       ]
     }

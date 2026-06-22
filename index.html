@@ -334,7 +334,12 @@ function playText(ids){
     AUDIO.onended=()=>{ markHeard(id); step(); };
   }; step();
 }
-function stopSeq(){ if(seq) seq.stop=true; seq=null; AUDIO.pause(); AUDIO.onended=null; clearHi(); exClearHi(); document.querySelectorAll(".q.qplaying").forEach(x=>x.classList.remove("qplaying")); document.querySelectorAll(".qplay.playing").forEach(x=>x.classList.remove("playing")); }
+function stopSeq(){ if(seq) seq.stop=true; seq=null; AUDIO.pause(); AUDIO.onended=null; clearHi(); exClearHi(); document.querySelectorAll(".q.qplaying").forEach(x=>x.classList.remove("qplaying")); document.querySelectorAll(".qplay.playing").forEach(x=>x.classList.remove("playing")); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); }
+/* ---- Satz-Audio: ganze Übungssätze vorlesen (Aussprache, nur Englisch) ---- */
+function sentAudio(){ return window.SENT_AUDIO_READY===true; }
+function playSent(qid,row){ stopSeq(); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row) row.classList.add("playing"); AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>{ if(row)row.classList.remove("playing"); toast(sentAudio()?"Audio-Datei fehlt 🎧":"Satz-Audio wird noch erzeugt 🎧"); }); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); }; }
+function playSentSeq(ids){ stopSeq(); let i=0; seq={stop:false}; const step=()=>{ if(seq.stop||i>=ids.length){ stopSeq(); return; } const qid=ids[i++]; const row=document.getElementById("sent_q_"+qid); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row){ row.classList.add("playing"); row.scrollIntoView({block:"center",behavior:"smooth"}); } AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>step()); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); step(); }; }; step(); }
+function playSentenceBtn(qid, wrap, btn){ const was=btn.classList.contains("playing"); stopSeq(); if(was) return; if(wrap) wrap.classList.add("qplaying"); btn.classList.add("playing"); AUDIO.src="audio/sent/"+qid+".mp3"; const done=()=>{ if(wrap) wrap.classList.remove("qplaying"); btn.classList.remove("playing"); }; const p=AUDIO.play(); if(p) p.catch(()=>{ done(); toast(sentAudio()?"Audio-Datei fehlt 🎧":"Satz-Audio wird noch erzeugt 🎧"); }); AUDIO.onended=done; }
 /* Vorlesen einer Übungsaufgabe (Choose-Format-MP3) MIT Karaoke-Highlight im WfW-Panel */
 let exRaf=null, exPanel=null, exTm=null;
 function exClearHi(){ if(exPanel){ exPanel.querySelectorAll(".speak").forEach(x=>x.classList.remove("speak")); } if(exRaf){ cancelAnimationFrame(exRaf); exRaf=null; } exPanel=null; exTm=null; }
@@ -464,10 +469,30 @@ function renderTopic(v,t){
 }
 /* ---------- Birkenbihl ---------- */
 function subFilter(t,x){ return !Array.isArray(t.subtabs)||!t.subtabs.length||!x.sub||x.sub===CUR.subtab; }
+function renderSentList(v,t){
+  const sents=[];
+  (t.exercises||[]).filter(x=>subFilter(t,x)).forEach(ex=>{
+    ex.questions.forEach((q,i)=>{ if(q.read) sents.push({qid:ex.id+"_q"+i, en:q.read, de:q.solutionDe||""}); });
+  });
+  if(!sents.length) return;
+  const ids=sents.map(s=>s.qid);
+  const c=document.createElement("div"); c.className="card";
+  c.innerHTML=`<div class="exhead"><h3>🔊 Sätze zum Anhören (Aussprache)</h3>
+    ${sentAudio()?`<span><button class="btn ghost" data-act="alls">▶ Alle anhören</button> <button class="btn gray" data-act="stops">⏹</button></span>`:'<span class="small muted">🎧 Audio kommt bald</span>'}</div>
+    <div class="small muted" style="margin:-2px 0 8px">Die ganzen Sätze, in denen die Vokabeln vorkommen – nur Englisch. Tipp: anhören und laut nachsprechen.</div>`;
+  sents.forEach(s=>{
+    const row=document.createElement("div"); row.className="sent"; row.id="sent_q_"+s.qid;
+    row.innerHTML=`<div class="srow">${sentAudio()?`<button class="play">▶</button>`:""}<div><div style="font-size:16px;font-weight:600;line-height:1.45">${esc(s.en)}</div>${s.de?`<div class="de" style="margin-top:5px">💬 ${esc(s.de)}</div>`:""}</div></div>`;
+    if(sentAudio()) row.querySelector(".play").onclick=()=>playSent(s.qid,row);
+    c.appendChild(row);
+  });
+  if(sentAudio()){ c.querySelector('[data-act="alls"]').onclick=()=>playSentSeq(ids); c.querySelector('[data-act="stops"]').onclick=stopSeq; }
+  v.appendChild(c);
+}
 function renderBirkenbihl(v,t){
   const texts=(t.birkenbihl||[]).filter(x=>subFilter(t,x));
   if(!texts.length){ const c=document.createElement("div"); c.className="card";
-    c.innerHTML='<p class="muted">Für diesen Bereich gibt es keinen Lesetext – ab zu den Übungen! ✏️</p>'; v.appendChild(c); return; }
+    c.innerHTML='<p class="muted">Für diesen Bereich gibt es keinen Lesetext – hör dir unten die Übungssätze an, oder ab zu den Übungen! ✏️</p>'; v.appendChild(c); renderSentList(v,t); return; }
   const lvl=document.createElement("div"); lvl.className="card";
   lvl.innerHTML=`<h3>Lernstufe</h3><div class="seg" style="margin-bottom:4px">
     <button data-l="1">1 · Alles anzeigen</button>
@@ -497,6 +522,7 @@ function renderBirkenbihl(v,t){
     v.appendChild(c);
   });
   updateHearUI();
+  renderSentList(v,t);
 }
 /* ---------- Übungen ---------- */
 function renderExercises(v,t){
@@ -539,7 +565,7 @@ function addExerciseTools(wrap,q,qid){
   wrap.appendChild(panel);
   const openPanel=()=>{ panel.classList.add("show"); wfwBtn.classList.add("on"); wfwBtn.innerHTML="🔼 Wort für Wort ausblenden"; };
   wfwBtn.onclick=()=>{ if(panel.classList.contains("show")){ panel.classList.remove("show"); wfwBtn.classList.remove("on"); wfwBtn.innerHTML="🔤 Wort für Wort"; } else openPanel(); };
-  playBtn.onclick=()=>{ openPanel(); playExerciseAudio(qid, wrap, playBtn, panel); };
+  playBtn.onclick=()=>{ if(q.read){ playSentenceBtn(qid, wrap, playBtn); } else { openPanel(); playExerciseAudio(qid, wrap, playBtn, panel); } };
 }
 function questionEl(topic,ex,q,qid,examMode){
   const wrap=document.createElement("div"); wrap.className="q"; wrap.dataset.qid=qid;

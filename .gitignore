@@ -10,7 +10,7 @@ github-upload-neu/
 
 # Local tooling / Lokales Werkzeug
 lernstoff-trainer.skill
-gen_exercise_audio.py
+gen_*.py
 
 # Backups / Sicherungskopien (nicht Teil der Website)
 *.bak*

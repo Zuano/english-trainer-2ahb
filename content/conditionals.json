@@ -723,7 +723,8 @@
                 "wirst-aufhören",
                 "aufhörtest"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "stop"
             },
             " eating, you ",
             {
@@ -737,7 +738,8 @@
                 "wirst-verhungern",
                 "würdest-verhungern"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "starve"
             },
             "."
           ],
@@ -807,7 +809,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "If you stop eating, you starve."
         },
         {
           "parts": [
@@ -934,7 +937,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If there is a lot of snow, driving conditions are dangerous."
         },
         {
           "parts": [
@@ -950,7 +954,8 @@
                 "werden-essen",
                 "aßen"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "eat"
             },
             " too much junk food, they ",
             {
@@ -964,7 +969,8 @@
                 "werden-zunehmen",
                 "nahmen-zu"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "gain"
             },
             " weight."
           ],
@@ -1059,7 +1065,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If people eat too much junk food, they gain weight."
         },
         {
           "parts": [
@@ -1090,7 +1097,8 @@
                 "werden-verlassen",
                 "verließen"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "leave"
             },
             " the area."
           ],
@@ -1201,7 +1209,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If a serious hurricane hits Florida, the inhabitants leave the area."
         },
         {
           "parts": [
@@ -1217,7 +1226,8 @@
                 "werde-schauen",
                 "schaute"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "watch"
             },
             " the news in English, my English ",
             {
@@ -1351,7 +1361,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I regularly watch the news in English, my English improves a lot."
         },
         {
           "parts": [
@@ -1367,7 +1378,8 @@
                 "werden-haben",
                 "hatten"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "have"
             },
             " a pet, they ",
             {
@@ -1477,7 +1489,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If elderly people have a pet, they are happier."
         },
         {
           "parts": [
@@ -1493,7 +1506,8 @@
                 "werden-machen",
                 "machten"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "do"
             },
             " a lot of sports, we ",
             {
@@ -1611,7 +1625,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If we do a lot of sports, we are in good shape."
         },
         {
           "parts": [
@@ -1642,7 +1657,8 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "learn"
             },
             " to speak Chinese."
           ],
@@ -1745,7 +1761,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you grow up in China, you learn to speak Chinese."
         }
       ]
     },
@@ -1893,7 +1910,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I wake up late on Monday, I will miss the bus."
         },
         {
           "parts": [
@@ -1909,7 +1927,8 @@
                 "wirst-ziehen",
                 "zogst"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "move"
             },
             " to Cuba, you ",
             {
@@ -2015,7 +2034,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you move to Cuba, you must speak Spanish."
         },
         {
           "parts": [
@@ -2031,7 +2051,8 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "learn"
             },
             " hard, you ",
             {
@@ -2145,7 +2166,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you learn hard, you will pass your maths exam."
         },
         {
           "parts": [
@@ -2161,7 +2183,8 @@
                 "wirst-essen",
                 "aßest"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "eat"
             },
             " healthy food, you ",
             {
@@ -2275,7 +2298,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you eat healthy food, you will become quite old."
         },
         {
           "parts": [
@@ -2394,7 +2418,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you do not hurry up, you will miss your plane."
         },
         {
           "parts": [
@@ -2410,7 +2435,8 @@
                 "wirst-lernen",
                 "lerntest"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "study"
             },
             " English three times a week, you ",
             {
@@ -2540,7 +2566,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you study English three times a week, you will improve quickly."
         },
         {
           "parts": [
@@ -2687,7 +2714,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If it rains this weekend, we will not go on holiday to Hungary."
         },
         {
           "parts": [
@@ -2850,7 +2878,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you are too busy, I will not come round for a cup of coffee."
         },
         {
           "parts": [
@@ -3001,7 +3030,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you do not leave my flat at once, I will call the police."
         },
         {
           "parts": [
@@ -3172,7 +3202,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If she offers me the job of personal assistant, I will accept this new opportunity."
         }
       ]
     },
@@ -3320,7 +3351,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I were ten years younger, I would emigrate to Australia."
         },
         {
           "parts": [
@@ -3539,7 +3571,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "We are always late! If we left punctually at six o'clock, we would not have any stress catching the early morning train."
         },
         {
           "parts": [
@@ -3702,7 +3735,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I were a politician, I would fight for free health care and education."
         },
         {
           "parts": [
@@ -3718,7 +3752,8 @@
                 "trinkst",
                 "würdest-trinken"
               ],
-              "correct": 0
+              "correct": 0,
+              "n": "drink"
             },
             " too much alcohol, you ",
             {
@@ -3840,7 +3875,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you drank too much alcohol, you would feel sleepy quite easily."
         },
         {
           "parts": [
@@ -3971,7 +4007,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If you had a spanner, you could fix your bike."
         },
         {
           "parts": [
@@ -4126,7 +4163,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If we had more money, we would invest most of it in schools."
         },
         {
           "parts": [
@@ -4257,7 +4295,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I spoke Japanese fluently, I would travel to Japan."
         },
         {
           "parts": [
@@ -4380,7 +4419,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I were slimmer, I would buy designer clothes."
         },
         {
           "parts": [
@@ -4543,7 +4583,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I had more time and money, I could stop working and go abroad."
         },
         {
           "parts": [
@@ -4674,7 +4715,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I were you, I would buy that new car."
         }
       ]
     },
@@ -4847,7 +4889,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "According to the weather forecast, it might rain tonight. If it rains, I'll stay at home."
         },
         {
           "parts": [
@@ -4959,7 +5002,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I don't call you tonight, you can call me."
         },
         {
           "parts": [
@@ -5067,7 +5111,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Will you wait for me if I am late?"
         },
         {
           "parts": [
@@ -5203,7 +5248,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "At the moment, it's raining. If it was sunny, I would go out."
         },
         {
           "parts": [
@@ -5335,7 +5381,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "What would you do if you found a lot of money in the street?"
         },
         {
           "parts": [
@@ -5439,7 +5486,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If it wasn't dark outside, we could go out."
         },
         {
           "parts": [
@@ -5570,7 +5618,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "We are sure she will come. When she comes, I'll call you."
         },
         {
           "parts": [
@@ -5717,7 +5766,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "You don't get fit unless you exercise regularly."
         }
       ]
     },
@@ -5853,7 +5903,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If I had studied harder, I would have passed the exam."
         },
         {
           "parts": [
@@ -5980,7 +6031,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "They wouldn't have gotten lost if they had followed the map."
         },
         {
           "parts": [
@@ -6107,7 +6159,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If she had asked for help, someone would have assisted her."
         },
         {
           "parts": [
@@ -6242,7 +6295,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "We would have attended the concert if we had bought tickets earlier."
         },
         {
           "parts": [
@@ -6377,7 +6431,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If it hadn't rained yesterday, we would have gone for a picnic."
         },
         {
           "parts": [
@@ -6520,7 +6575,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "He would have been on time if his alarm clock hadn't broken down."
         },
         {
           "parts": [
@@ -6655,7 +6711,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If they hadn't missed the bus, they would have arrived on time."
         },
         {
           "parts": [
@@ -6790,7 +6847,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "She would have felt better if she had taken the medicine earlier."
         }
       ]
     },
@@ -7038,7 +7096,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If he had paid his internet bill, he would have been able to use the internet."
         },
         {
           "parts": [
@@ -7253,7 +7312,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If he had kept a diary, he would have remembered his best friend's birthday."
         },
         {
           "parts": [
@@ -7432,7 +7492,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "His car wouldn't have broken down if he had changed the oil."
         },
         {
           "parts": [
@@ -7615,7 +7676,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If he had done some shopping, he wouldn't have run out of coffee."
         },
         {
           "parts": [
@@ -7794,7 +7856,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If he had had an umbrella, he wouldn't have been soaking wet."
         },
         {
           "parts": [
@@ -8033,7 +8096,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If he had cooked his lunch properly, he wouldn't have got food poisoning in the evening."
         }
       ]
     },
@@ -8201,7 +8265,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If Emma had checked her alarm the night before, she would have woken up on time."
         },
         {
           "parts": [
@@ -8336,7 +8401,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If Emma had woken up on time, she would have caught the bus."
         },
         {
           "parts": [
@@ -8519,7 +8585,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If Emma had caught the bus, she would have arrived at the concert on time with her friends."
         },
         {
           "parts": [
@@ -8662,7 +8729,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "If Emma had set her alarm correctly, she would not have missed the concert."
         }
       ]
     },
@@ -8782,7 +8850,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type 0: If you strike a match, it starts burning."
         },
         {
           "parts": [
@@ -8925,7 +8994,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type I: If we learn Japanese, we will be able to communicate with people in Japan."
         },
         {
           "parts": [
@@ -9052,7 +9122,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type II: If you sent her a message, she would be happy."
         },
         {
           "parts": [
@@ -9179,7 +9250,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type III: If I hadn't broken my leg, I would have gone skiing."
         },
         {
           "parts": [
@@ -9298,7 +9370,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type I: Get ready if you want to catch the bus!"
         },
         {
           "parts": [
@@ -9449,7 +9522,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type II: It would be nice if we went to see Granny at the weekend."
         },
         {
           "parts": [
@@ -9568,7 +9642,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type III: I would have said hello if I had seen you."
         },
         {
           "parts": [
@@ -9735,7 +9810,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Type 0: If you want to study in the USA, you have to pass an exam in English."
         }
       ]
     },
@@ -9962,7 +10038,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "Typ II: If I passed my exam, I would celebrate."
         },
         {
           "parts": [
@@ -10213,7 +10290,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Typ III: If I had had the money, I would have paid my debts."
         },
         {
           "parts": [
@@ -10436,7 +10514,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Typ III: If it had rained, I would have stayed at home."
         },
         {
           "parts": [
@@ -10687,7 +10766,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Typ III: If I had been you, I would have bought that new car."
         },
         {
           "parts": [
@@ -10946,7 +11026,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Typ II: If I studied more, I would pass the exam."
         },
         {
           "parts": [
@@ -11197,7 +11278,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Typ II: If we saved enough money, we could go on holiday."
         }
       ]
     }

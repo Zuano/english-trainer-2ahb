@@ -503,1777 +503,325 @@
       "questions": [
         {
           "parts": [
-            "Which of the following things can an 'advertisement' do? ",
+            "I saw an ",
             {
               "opts": [
-                "put things in a bag for you",
-                "tell you how much something costs",
-                "spend a lot of money",
-                "all of the above"
+                "advertisement",
+                "receipt",
+                "bargain"
               ],
+              "correct": 0,
               "decode": [
-                "Dinge für dich einpacken",
-                "dir sagen, wie viel etwas kostet",
-                "viel Geld ausgeben",
-                "alles oben Genannte"
-              ],
-              "correct": 1
-            }
+                "Werbung / Werbeanzeige",
+                "Kassenbon",
+                "Schnäppchen"
+              ]
+            },
+            " for the new phone on television and decided to buy it."
           ],
-          "solutionEn": "tell you how much something costs",
-          "solutionDe": "dir sagen, wie viel etwas kostet",
+          "solutionEn": "I saw an advertisement for the new phone on television and decided to buy it.",
+          "solutionDe": "Ich habe im Fernsehen eine Werbung für das neue Handy gesehen und beschlossen, es zu kaufen.",
           "explain": "advertisement = Werbung. Werbung informiert (z. B. über den Preis) – sie packt nichts ein und gibt kein Geld aus.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "can",
-              "kann"
-            ],
-            [
-              "an",
-              "eine"
-            ],
-            [
-              "'advertisement'",
-              "'Werbeanzeige'"
-            ],
-            [
-              "do?",
-              "tun?"
-            ],
-            [
-              "tell",
-              "sagen"
-            ],
-            [
-              "you",
-              "dir"
-            ],
-            [
-              "how",
-              "wie"
-            ],
-            [
-              "much",
-              "viel"
-            ],
-            [
-              "something",
-              "etwas"
-            ],
-            [
-              "costs",
-              "kostet"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "can",
-                  "kann"
-                ],
-                [
-                  "an",
-                  "eine"
-                ],
-                [
-                  "'advertisement'",
-                  "'Werbeanzeige'"
-                ],
-                [
-                  "do?",
-                  "tun?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "I saw an advertisement for the new phone on television and decided to buy it."
         },
         {
           "parts": [
-            "If something you bought was a 'bargain', it wasn't … ",
+            "I bought these trainers for only 10 euros — what a ",
             {
               "opts": [
-                "expensive",
-                "on sale",
-                "big",
-                "bought with cash"
+                "bargain",
+                "refund",
+                "receipt"
               ],
+              "correct": 0,
               "decode": [
-                "teuer",
-                "im Angebot",
-                "groß",
-                "bar bezahlt"
-              ],
-              "correct": 0
-            }
+                "Schnäppchen",
+                "Rückerstattung",
+                "Kassenbon"
+              ]
+            },
+            "!"
           ],
-          "solutionEn": "expensive",
-          "solutionDe": "teuer",
+          "solutionEn": "I bought these trainers for only 10 euros — what a bargain!",
+          "solutionDe": "Ich habe diese Turnschuhe für nur 10 Euro gekauft — was für ein Schnäppchen!",
           "explain": "bargain = Schnäppchen. Ein Schnäppchen ist gerade NICHT teuer.",
-          "decodeFull": [
-            [
-              "If",
-              "wenn"
-            ],
-            [
-              "something",
-              "etwas"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "bought",
-              "kauftest"
-            ],
-            [
-              "was",
-              "war"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "'bargain',",
-              "'Schnäppchen',"
-            ],
-            [
-              "it",
-              "es"
-            ],
-            [
-              "wasn't",
-              "war-nicht"
-            ],
-            [
-              "…",
-              "…"
-            ],
-            [
-              "expensive",
-              "teuer"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "If",
-                  "wenn"
-                ],
-                [
-                  "something",
-                  "etwas"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "bought",
-                  "kauftest"
-                ],
-                [
-                  "was",
-                  "war"
-                ],
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "'bargain',",
-                  "'Schnäppchen',"
-                ],
-                [
-                  "it",
-                  "es"
-                ],
-                [
-                  "wasn't",
-                  "war-nicht"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "I bought these trainers for only 10 euros — what a bargain!"
         },
         {
           "parts": [
-            "Which of the following things does a 'cashier' usually do? ",
+            "At the checkout, the ",
             {
               "opts": [
-                "give away things for free",
-                "browse",
-                "go shopping",
-                "take your money"
+                "cashier",
+                "bargain",
+                "receipt"
               ],
+              "correct": 0,
               "decode": [
-                "Dinge gratis hergeben",
-                "stöbern",
-                "einkaufen gehen",
-                "dein Geld entgegennehmen"
-              ],
-              "correct": 3
-            }
+                "Kassier / Kassiererin",
+                "Schnäppchen",
+                "Kassenbon"
+              ]
+            },
+            " scans your items and takes your money."
           ],
-          "solutionEn": "take your money",
-          "solutionDe": "dein Geld entgegennehmen",
+          "solutionEn": "At the checkout, the cashier scans your items and takes your money.",
+          "solutionDe": "An der Kassa scannt der Kassier deine Artikel und nimmt dein Geld entgegen.",
           "explain": "cashier = Kassier/Kassiererin. An der Kassa nimmt er/sie dein Geld entgegen.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "does",
-              "tut"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "'cashier'",
-              "'Kassierer'"
-            ],
-            [
-              "usually",
-              "gewöhnlich"
-            ],
-            [
-              "do?",
-              "tun?"
-            ],
-            [
-              "take",
-              "nehmen"
-            ],
-            [
-              "your",
-              "dein"
-            ],
-            [
-              "money",
-              "Geld"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "does",
-                  "tut"
-                ],
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "'cashier'",
-                  "'Kassierer'"
-                ],
-                [
-                  "usually",
-                  "gewöhnlich"
-                ],
-                [
-                  "do?",
-                  "tun?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "At the checkout, the cashier scans your items and takes your money."
         },
         {
           "parts": [
-            "A book costs $5.99 and you pay $6. What should you get? ",
+            "The book cost 5.99 euros and I paid with a 10-euro note, so I got some ",
             {
               "opts": [
-                "special offers",
                 "change",
-                "a clerk",
-                "a cash register"
+                "receipt",
+                "weight"
               ],
+              "correct": 0,
               "decode": [
-                "Sonderangebote",
                 "Wechselgeld",
-                "einen Verkäufer",
-                "eine Registrierkasse"
-              ],
-              "correct": 1
-            }
+                "Kassenbon",
+                "Gewicht"
+              ]
+            },
+            " back."
           ],
-          "solutionEn": "change",
-          "solutionDe": "Wechselgeld",
+          "solutionEn": "The book cost 5.99 euros and I paid with a 10-euro note, so I got some change back.",
+          "solutionDe": "Das Buch kostete 5,99 Euro und ich zahlte mit einem 10-Euro-Schein, also bekam ich etwas Wechselgeld zurück.",
           "explain": "change = Wechselgeld. Du bekommst 1 Cent zurück. Achtung: change heißt auch 'wechseln/ändern'.",
-          "decodeFull": [
-            [
-              "A",
-              "ein"
-            ],
-            [
-              "book",
-              "Buch"
-            ],
-            [
-              "costs",
-              "kostet"
-            ],
-            [
-              "$5.99",
-              "$5.99"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "pay",
-              "zahlst"
-            ],
-            [
-              "$6.",
-              "$6."
-            ],
-            [
-              "What",
-              "was"
-            ],
-            [
-              "should",
-              "solltest"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "get?",
-              "bekommen?"
-            ],
-            [
-              "change",
-              "Wechselgeld"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "ein"
-                ],
-                [
-                  "book",
-                  "Buch"
-                ],
-                [
-                  "costs",
-                  "kostet"
-                ],
-                [
-                  "$5.99",
-                  "$5.99"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "pay",
-                  "zahlst"
-                ],
-                [
-                  "$6.",
-                  "$6."
-                ],
-                [
-                  "What",
-                  "was"
-                ],
-                [
-                  "should",
-                  "solltest"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "get?",
-                  "bekommen?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "The book cost 5.99 euros and I paid with a 10-euro note, so I got some change back."
         },
         {
           "parts": [
-            "Which of the following things can you do with a 'debit card'? ",
+            "I had no cash on me, so I paid for the groceries with my ",
             {
               "opts": [
-                "find a clerk to help you",
-                "find out someone's name",
-                "buy a bag of apples",
-                "find out the price of a sweater"
+                "debit card",
+                "shopping cart",
+                "receipt"
               ],
+              "correct": 0,
               "decode": [
-                "einen Verkäufer finden, der dir hilft",
-                "den Namen von jemandem herausfinden",
-                "ein Sackerl Äpfel kaufen",
-                "den Preis eines Pullovers herausfinden"
-              ],
-              "correct": 2
-            }
+                "Bankomatkarte / EC-Karte",
+                "Einkaufswagen",
+                "Kassenbon"
+              ]
+            },
+            "."
           ],
-          "solutionEn": "buy a bag of apples",
-          "solutionDe": "ein Sackerl Äpfel kaufen",
+          "solutionEn": "I had no cash on me, so I paid for the groceries with my debit card.",
+          "solutionDe": "Ich hatte kein Bargeld dabei, also bezahlte ich die Lebensmittel mit meiner Bankomatkarte.",
           "explain": "debit card = Bankomatkarte. Damit bezahlt man – also kann man damit etwas kaufen.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "can",
-              "kannst"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "with",
-              "mit"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "'debit card'?",
-              "'EC-Karte'?"
-            ],
-            [
-              "buy",
-              "kaufen"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "bag",
-              "Tüte"
-            ],
-            [
-              "of",
-              "mit"
-            ],
-            [
-              "apples",
-              "Äpfeln"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "can",
-                  "kannst"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "with",
-                  "mit"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "'debit card'?",
-                  "'EC-Karte'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "I had no cash on me, so I paid for the groceries with my debit card."
         },
         {
           "parts": [
-            "What do you do when you 'exchange' a product? ",
+            "The shirt was too small, so I took it back to the shop to ",
             {
               "opts": [
-                "you replace it with another product",
-                "you look at it very carefully",
-                "you sell it to a customer",
-                "you put it inside a box"
+                "exchange",
+                "purchase",
+                "shoplift"
               ],
+              "correct": 0,
               "decode": [
-                "du ersetzt es durch ein anderes Produkt",
-                "du schaust es dir sehr genau an",
-                "du verkaufst es an einen Kunden",
-                "du legst es in eine Schachtel"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "you replace it with another product",
-          "solutionDe": "du ersetzt es durch ein anderes Produkt",
-          "explain": "exchange = umtauschen, also ein Produkt durch ein anderes ersetzen.",
-          "decodeFull": [
-            [
-              "What",
-              "was"
-            ],
-            [
-              "do",
-              "tust"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "when",
-              "wenn"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "'exchange'",
-              "'umtauschst'"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "product?",
-              "Produkt?"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "replace",
-              "ersetzt"
-            ],
-            [
-              "it",
-              "es"
-            ],
-            [
-              "with",
-              "durch"
-            ],
-            [
-              "another",
-              "ein-anderes"
-            ],
-            [
-              "product",
-              "Produkt"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "What",
-                  "was"
-                ],
-                [
-                  "do",
-                  "tust"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "when",
-                  "wenn"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "'exchange'",
-                  "'umtauschst'"
-                ],
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "product?",
-                  "Produkt?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
-        },
-        {
-          "parts": [
-            "Which of the following things do people usually do in a 'fitting room'? ",
-            {
-              "opts": [
-                "they look at bar codes",
-                "they talk to other customers",
-                "they try on clothes",
-                "they buy things"
-              ],
-              "decode": [
-                "sie schauen sich Strichcodes an",
-                "sie reden mit anderen Kunden",
-                "sie probieren Kleidung an",
-                "sie kaufen Dinge"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "they try on clothes",
-          "solutionDe": "sie probieren Kleidung an",
-          "explain": "fitting room = Umkleidekabine; try on = anprobieren.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "people",
-              "Menschen"
-            ],
-            [
-              "usually",
-              "gewöhnlich"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "'fitting room'?",
-              "'Umkleidekabine'?"
-            ],
-            [
-              "they",
-              "sie"
-            ],
-            [
-              "try",
-              "probieren"
-            ],
-            [
-              "on",
-              "an"
-            ],
-            [
-              "clothes",
-              "Kleidung"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "people",
-                  "Menschen"
-                ],
-                [
-                  "usually",
-                  "gewöhnlich"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "'fitting room'?",
-                  "'Umkleidekabine'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
-        },
-        {
-          "parts": [
-            "Which of the following things do you do when you 'purchase' something? ",
-            {
-              "opts": [
-                "you return it",
-                "you advertise it",
-                "you sell it",
-                "you buy it"
-              ],
-              "decode": [
-                "du gibst es zurück",
-                "du bewirbst es",
-                "du verkaufst es",
-                "du kaufst es"
-              ],
-              "correct": 3
-            }
-          ],
-          "solutionEn": "you buy it",
-          "solutionDe": "du kaufst es",
-          "explain": "purchase = kaufen (formelleres Wort für buy). Als Nomen: a purchase = ein Kauf.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "do",
-              "tust"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "when",
-              "wenn"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "'purchase'",
-              "'erwirbst'"
-            ],
-            [
-              "something?",
-              "etwas?"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "buy",
-              "kaufst"
-            ],
-            [
-              "it",
-              "es"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "do",
-                  "tust"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "when",
-                  "wenn"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "'purchase'",
-                  "'erwirbst'"
-                ],
-                [
-                  "something?",
-                  "etwas?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
-        },
-        {
-          "parts": [
-            "When do people usually get a 'receipt'? ",
-            {
-              "opts": [
-                "before they buy a used car",
-                "before they check out",
-                "when they get a shopping basket",
-                "after they buy something"
-              ],
-              "decode": [
-                "bevor sie einen Gebrauchtwagen kaufen",
-                "bevor sie zur Kassa gehen",
-                "wenn sie einen Einkaufskorb nehmen",
-                "nachdem sie etwas gekauft haben"
-              ],
-              "correct": 3
-            }
-          ],
-          "solutionEn": "after they buy something",
-          "solutionDe": "nachdem sie etwas gekauft haben",
-          "explain": "receipt = Kassenbeleg/Rechnung. Den bekommt man NACH dem Bezahlen.",
-          "decodeFull": [
-            [
-              "When",
-              "wann"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "people",
-              "Menschen"
-            ],
-            [
-              "usually",
-              "gewöhnlich"
-            ],
-            [
-              "get",
-              "bekommen"
-            ],
-            [
-              "a",
-              "einen"
-            ],
-            [
-              "'receipt'?",
-              "'Kassenbon'?"
-            ],
-            [
-              "after",
-              "nachdem"
-            ],
-            [
-              "they",
-              "sie"
-            ],
-            [
-              "buy",
-              "kaufen"
-            ],
-            [
-              "something",
-              "etwas"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "When",
-                  "wann"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "people",
-                  "Menschen"
-                ],
-                [
-                  "usually",
-                  "gewöhnlich"
-                ],
-                [
-                  "get",
-                  "bekommen"
-                ],
-                [
-                  "a",
-                  "einen"
-                ],
-                [
-                  "'receipt'?",
-                  "'Kassenbon'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
-        },
-        {
-          "parts": [
-            "Which of the following words is closest in meaning to 'shoplift'? ",
-            {
-              "opts": [
-                "steal",
-                "break",
-                "buy",
-                "use"
-              ],
-              "decode": [
-                "stehlen",
-                "zerbrechen",
+                "umtauschen",
                 "kaufen",
-                "benutzen"
-              ],
-              "correct": 0
-            }
+                "stehlen (Ladendiebstahl)"
+              ]
+            },
+            " it for a bigger size."
           ],
-          "solutionEn": "steal",
-          "solutionDe": "stehlen",
+          "solutionEn": "The shirt was too small, so I took it back to the shop to exchange it for a bigger size.",
+          "solutionDe": "Das Hemd war zu klein, also brachte ich es ins Geschäft zurück, um es gegen eine größere Größe umzutauschen.",
+          "explain": "exchange = umtauschen, also ein Produkt durch ein anderes ersetzen.",
+          "read": "The shirt was too small, so I took it back to the shop to exchange it for a bigger size."
+        },
+        {
+          "parts": [
+            "She took three dresses into the ",
+            {
+              "opts": [
+                "fitting room",
+                "checkout",
+                "shopping cart"
+              ],
+              "correct": 0,
+              "decode": [
+                "Umkleidekabine",
+                "Kassa",
+                "Einkaufswagen"
+              ]
+            },
+            " to try them on."
+          ],
+          "solutionEn": "She took three dresses into the fitting room to try them on.",
+          "solutionDe": "Sie nahm drei Kleider mit in die Umkleidekabine, um sie anzuprobieren.",
+          "explain": "fitting room = Umkleidekabine; try on = anprobieren.",
+          "read": "She took three dresses into the fitting room to try them on."
+        },
+        {
+          "parts": [
+            "Please keep the receipt as proof of your ",
+            {
+              "opts": [
+                "purchase",
+                "bargain",
+                "fitting room"
+              ],
+              "correct": 0,
+              "decode": [
+                "Kauf",
+                "Schnäppchen",
+                "Umkleidekabine"
+              ]
+            },
+            " in case you want to return it."
+          ],
+          "solutionEn": "Please keep the receipt as proof of your purchase in case you want to return it.",
+          "solutionDe": "Bitte heben Sie den Kassenbon als Kaufnachweis auf, falls Sie den Artikel zurückgeben möchten.",
+          "explain": "purchase = kaufen (formelleres Wort für buy). Als Nomen: a purchase = ein Kauf.",
+          "read": "Please keep the receipt as proof of your purchase in case you want to return it."
+        },
+        {
+          "parts": [
+            "After paying at the till, the cashier gave me a ",
+            {
+              "opts": [
+                "receipt",
+                "bargain",
+                "shopping cart"
+              ],
+              "correct": 0,
+              "decode": [
+                "Kassenbon / Quittung",
+                "Schnäppchen",
+                "Einkaufswagen"
+              ]
+            },
+            " for my purchase."
+          ],
+          "solutionEn": "After paying at the till, the cashier gave me a receipt for my purchase.",
+          "solutionDe": "Nach dem Bezahlen an der Kassa gab mir der Kassier eine Quittung für meinen Einkauf.",
+          "explain": "receipt = Kassenbeleg/Rechnung. Den bekommt man NACH dem Bezahlen.",
+          "read": "After paying at the till, the cashier gave me a receipt for my purchase."
+        },
+        {
+          "parts": [
+            "Security cameras are everywhere because some people try to ",
+            {
+              "opts": [
+                "shoplift",
+                "exchange",
+                "purchase"
+              ],
+              "correct": 0,
+              "decode": [
+                "Ladendiebstahl begehen",
+                "umtauschen",
+                "kaufen"
+              ]
+            },
+            " and leave the shop without paying."
+          ],
+          "solutionEn": "Security cameras are everywhere because some people try to shoplift and leave the shop without paying.",
+          "solutionDe": "Überall hängen Überwachungskameras, weil manche Leute versuchen, Ladendiebstahl zu begehen und das Geschäft ohne zu bezahlen zu verlassen.",
           "explain": "shoplift = Ladendiebstahl begehen, also etwas aus einem Geschäft stehlen. shoplifter = Ladendieb.",
-          "decodeFull": [
-            [
-              "Which",
-              "welches"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "words",
-              "Wörtern"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "closest",
-              "am-nächsten"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "meaning",
-              "Bedeutung"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "'shoplift'?",
-              "'ladenstehlen'?"
-            ],
-            [
-              "steal",
-              "stehlen"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welches"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "words",
-                  "Wörtern"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "closest",
-                  "am-nächsten"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "meaning",
-                  "Bedeutung"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "'shoplift'?",
-                  "'ladenstehlen'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "Security cameras are everywhere because some people try to shoplift and leave the shop without paying."
         },
         {
           "parts": [
-            "Which of the following things can you do with a 'shopping cart'? ",
+            "At the supermarket I grabbed a ",
             {
               "opts": [
-                "you can give it your credit card",
-                "you can put things in it",
-                "you can ask it to help you",
-                "you can drive it"
+                "shopping cart",
+                "fitting room",
+                "debit card"
               ],
+              "correct": 0,
               "decode": [
-                "du kannst ihm deine Kreditkarte geben",
-                "du kannst Dinge hineinlegen",
-                "du kannst ihn um Hilfe bitten",
-                "du kannst ihn fahren (wie ein Auto)"
-              ],
-              "correct": 1
-            }
+                "Einkaufswagen",
+                "Umkleidekabine",
+                "Bankomatkarte"
+              ]
+            },
+            " and pushed it down the aisles, filling it with food."
           ],
-          "solutionEn": "you can put things in it",
-          "solutionDe": "du kannst Dinge hineinlegen",
+          "solutionEn": "At the supermarket I grabbed a shopping cart and pushed it down the aisles, filling it with food.",
+          "solutionDe": "Im Supermarkt nahm ich einen Einkaufswagen und schob ihn durch die Gänge, während ich ihn mit Lebensmitteln füllte.",
           "explain": "shopping cart = Einkaufswagen (BE: trolley). Man legt seine Waren hinein.",
-          "decodeFull": [
-            [
-              "Which",
-              "welche"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "can",
-              "kannst"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "do",
-              "tun"
-            ],
-            [
-              "with",
-              "mit"
-            ],
-            [
-              "a",
-              "einem"
-            ],
-            [
-              "'shopping cart'?",
-              "'Einkaufswagen'?"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "can",
-              "kannst"
-            ],
-            [
-              "put",
-              "legen"
-            ],
-            [
-              "things",
-              "Dinge"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "it",
-              "ihn"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welche"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "can",
-                  "kannst"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "do",
-                  "tun"
-                ],
-                [
-                  "with",
-                  "mit"
-                ],
-                [
-                  "a",
-                  "einem"
-                ],
-                [
-                  "'shopping cart'?",
-                  "'Einkaufswagen'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "At the supermarket I grabbed a shopping cart and pushed it down the aisles, filling it with food."
         },
         {
           "parts": [
-            "What does 'store hours' mean? ",
+            "The shop's ",
             {
               "opts": [
-                "the time when the store is open",
-                "the time when there is a sale",
-                "the time when the store is closed",
-                "the time when the store is very busy"
+                "store hours",
+                "bargains",
+                "receipts"
               ],
+              "correct": 0,
               "decode": [
-                "die Zeit, in der das Geschäft offen ist",
-                "die Zeit, in der es einen Ausverkauf gibt",
-                "die Zeit, in der das Geschäft geschlossen ist",
-                "die Zeit, in der das Geschäft sehr voll ist"
-              ],
-              "correct": 0
-            }
+                "Öffnungszeiten",
+                "Schnäppchen",
+                "Kassenbons"
+              ]
+            },
+            " are from 9 a.m. to 6 p.m., so we need to get there before it closes."
           ],
-          "solutionEn": "the time when the store is open",
-          "solutionDe": "die Zeit, in der das Geschäft geöffnet ist",
+          "solutionEn": "The shop's store hours are from 9 a.m. to 6 p.m., so we need to get there before it closes.",
+          "solutionDe": "Die Öffnungszeiten des Geschäfts sind von 9 bis 18 Uhr, also müssen wir dort sein, bevor es schließt.",
           "explain": "store hours = Öffnungszeiten (BE auch: opening hours).",
-          "decodeFull": [
-            [
-              "What",
-              "was"
-            ],
-            [
-              "does",
-              "tut"
-            ],
-            [
-              "'store hours'",
-              "'Öffnungszeiten'"
-            ],
-            [
-              "mean?",
-              "bedeuten?"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "time",
-              "Zeit"
-            ],
-            [
-              "when",
-              "wenn"
-            ],
-            [
-              "the",
-              "der"
-            ],
-            [
-              "store",
-              "Laden"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "open",
-              "geöffnet"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "What",
-                  "was"
-                ],
-                [
-                  "does",
-                  "tut"
-                ],
-                [
-                  "'store hours'",
-                  "'Öffnungszeiten'"
-                ],
-                [
-                  "mean?",
-                  "bedeuten?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "The shop's store hours are from 9 a.m. to 6 p.m., so we need to get there before it closes."
         },
         {
           "parts": [
-            "Which of the following things is an example of 'weight'? ",
+            "At the greengrocer's they put the apples on the scale to check their ",
             {
               "opts": [
-                "55 grams",
-                "14 kilograms",
-                "12 ounces",
-                "all of the above"
+                "weight",
+                "change",
+                "receipt"
               ],
+              "correct": 0,
               "decode": [
-                "55 Gramm",
-                "14 Kilogramm",
-                "12 Unzen",
-                "alles oben Genannte"
-              ],
-              "correct": 3
-            }
+                "Gewicht",
+                "Wechselgeld",
+                "Kassenbon"
+              ]
+            },
+            " before telling me the price."
           ],
-          "solutionEn": "all of the above",
-          "solutionDe": "alles oben Genannte",
+          "solutionEn": "At the greengrocer's they put the apples on the scale to check their weight before telling me the price.",
+          "solutionDe": "Beim Obst- und Gemüsehändler legten sie die Äpfel auf die Waage, um ihr Gewicht zu prüfen, bevor sie mir den Preis nannten.",
           "explain": "weight = Gewicht. Gramm, Kilogramm und Unzen (ounces) sind alle Gewichtseinheiten.",
-          "decodeFull": [
-            [
-              "Which",
-              "welches"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "following",
-              "folgenden"
-            ],
-            [
-              "things",
-              "Dingen"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "an",
-              "ein"
-            ],
-            [
-              "example",
-              "Beispiel"
-            ],
-            [
-              "of",
-              "für"
-            ],
-            [
-              "'weight'?",
-              "'Gewicht'?"
-            ],
-            [
-              "all",
-              "alle"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "above",
-              "obigen"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Which",
-                  "welches"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "following",
-                  "folgenden"
-                ],
-                [
-                  "things",
-                  "Dingen"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "an",
-                  "ein"
-                ],
-                [
-                  "example",
-                  "Beispiel"
-                ],
-                [
-                  "of",
-                  "für"
-                ],
-                [
-                  "'weight'?",
-                  "'Gewicht'?"
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "At the greengrocer's they put the apples on the scale to check their weight before telling me the price."
         },
         {
           "parts": [
-            "When they go 'window shopping', people usually … ",
+            "We had no money, so we just went ",
             {
               "opts": [
-                "buy windows",
-                "spend a lot of money",
-                "buy nothing",
-                "none of the above"
+                "window shopping",
+                "shoplifting",
+                "bargaining"
               ],
+              "correct": 0,
               "decode": [
-                "kaufen Fenster",
-                "geben viel Geld aus",
-                "kaufen nichts",
-                "nichts davon"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "buy nothing",
-          "solutionDe": "kaufen nichts",
-          "explain": "window shopping = Schaufensterbummel: nur schauen, nichts kaufen.",
-          "decodeFull": [
-            [
-              "When",
-              "wenn"
-            ],
-            [
-              "they",
-              "sie"
-            ],
-            [
-              "go",
-              "gehen"
-            ],
-            [
-              "'window shopping',",
-              "'Schaufensterbummeln',"
-            ],
-            [
-              "people",
-              "Menschen"
-            ],
-            [
-              "usually",
-              "gewöhnlich"
-            ],
-            [
-              "…",
-              "…"
-            ],
-            [
-              "buy",
-              "kaufen"
-            ],
-            [
-              "nothing",
-              "nichts"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "When",
-                  "wenn"
-                ],
-                [
-                  "they",
-                  "sie"
-                ],
-                [
-                  "go",
-                  "gehen"
-                ],
-                [
-                  "'window shopping',",
-                  "'Schaufensterbummeln',"
-                ],
-                [
-                  "people",
-                  "Menschen"
-                ],
-                [
-                  "usually",
-                  "gewöhnlich"
-                ]
+                "Schaufensterbummeln",
+                "Ladendiebstahl begehen",
+                "Feilschen / Handeln"
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " and looked at the displays in the shop windows."
+          ],
+          "solutionEn": "We had no money, so we just went window shopping and looked at the displays in the shop windows.",
+          "solutionDe": "Wir hatten kein Geld, also machten wir nur einen Schaufensterbummel und betrachteten die Auslagen in den Schaufenstern.",
+          "explain": "window shopping = Schaufensterbummel: nur schauen, nichts kaufen.",
+          "read": "We had no money, so we just went window shopping and looked at the displays in the shop windows."
         }
       ]
     },
@@ -2404,7 +952,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "If you want fresh salmon for dinner, go to the fishmonger's."
         },
         {
           "parts": [
@@ -2559,7 +1108,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I never buy fruit at the supermarket – I prefer the greengrocer's around the corner."
         },
         {
           "parts": [
@@ -2697,7 +1247,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "She bought a beautiful bunch of roses for her mum at the florist."
         },
         {
           "parts": [
@@ -2851,7 +1402,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "In Britain you can only buy wine and beer to take home at an off licence."
         },
         {
           "parts": [
@@ -3006,7 +1558,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "My eyesight has got worse, so I'm going to the optician to get new glasses."
         }
       ]
     },
@@ -3166,7 +1719,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Before buying a new laptop, you should shop around and compare prices in different stores."
         },
         {
           "parts": [
@@ -3349,7 +1903,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "We didn't want to buy anything – we just went window shopping and looked at the beautiful shop windows."
         },
         {
           "parts": [
@@ -3507,7 +2062,8 @@
               "t": "t",
               "w": []
             }
-          ]
+          ],
+          "read": "I didn't plan to buy this T-shirt at all – it was a typical impulse purchase."
         },
         {
           "parts": [
@@ -3650,7 +2206,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "The fridge is empty, so I have to do the grocery shopping this afternoon."
         },
         {
           "parts": [
@@ -3789,7 +2346,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "The trousers didn't fit, so I had to return them to the store."
         },
         {
           "parts": [
@@ -3920,7 +2478,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Many people take advantage of major shopping days like Black Friday in November."
         }
       ]
     }

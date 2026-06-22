@@ -1928,7 +1928,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Facebook and Twitter introduced fact-checkers to flag up any posts deemed to contain incorrect or misleading information."
         },
         {
           "parts": [
@@ -2223,7 +2224,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "In the era of post-truth politics, supporters of Brexit continued to refer to a potential £350 million extra per week for the health service even after this figure was widely proven to be false."
         },
         {
           "parts": [
@@ -2546,7 +2548,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Ofcom threw out hundreds of complaints against Channel 4's alternative Christmas speech, which depicted a 'deepfake' Queen Elizabeth II joking about her family and dancing, saying it was clearly satirical and no one would have believed it was real."
         },
         {
           "parts": [
@@ -2745,7 +2748,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Due to confirmation bias, even when it is proved that information is false, people will continue to believe that it is true."
         },
         {
           "parts": [
@@ -3188,7 +3192,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Ricky Vaughn, a social media troll, was charged with conspiring to disseminate disinformation with the intention of depriving people of their legal right to vote. His posts encouraged people to vote in the 2016 election by text or by social media posts, neither of which are legally valid ways of voting."
         },
         {
           "parts": [
@@ -3495,7 +3500,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Government propaganda was seen as a vital part of the war effort during World War 2 to increase public support for the allies of the United States and to foster hatred of the enemy."
         }
       ]
     },
@@ -3508,3376 +3514,486 @@
       "questions": [
         {
           "parts": [
-            "Maria heard about a new series because several of her friends kept recommending it to her in conversations. → ",
+            "Maria heard about a new series because several of her friends kept recommending it to her in conversations — this is a classic example of ",
             {
               "opts": [
                 "press",
                 "word of mouth",
                 "broadcast media"
               ],
+              "correct": 1,
               "decode": [
                 "Presse",
                 "Mundpropaganda",
                 "Rundfunkmedien (TV/Radio)"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "word of mouth = information spreads through personal conversations and recommendations. (Scenario T)",
-          "solutionDe": "word of mouth = Mundpropaganda: Informationen verbreiten sich durch persönliche Gespräche und Empfehlungen.",
-          "explain": "Maria erfährt von der Serie durch Empfehlungen von Freunden im Gespräch – wörtlich 'von Mund zu Mund'.",
-          "decodeFull": [
-            [
-              "Maria",
-              "Maria"
-            ],
-            [
-              "heard",
-              "hörte"
-            ],
-            [
-              "about",
-              "von"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "new",
-              "neuen"
-            ],
-            [
-              "series",
-              "Serie"
-            ],
-            [
-              "because",
-              "weil"
-            ],
-            [
-              "several",
-              "mehrere"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "her",
-              "ihren"
-            ],
-            [
-              "friends",
-              "Freunden"
-            ],
-            [
-              "kept",
-              "fortwährend"
-            ],
-            [
-              "recommending",
-              "empfahlen"
-            ],
-            [
-              "it",
-              "sie"
-            ],
-            [
-              "to",
-              "ihr"
-            ],
-            [
-              "her",
-              "ihr"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "conversations.",
-              "Gesprächen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "word of mouth",
-              "Mundpropaganda"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Maria",
-                  "Maria"
-                ],
-                [
-                  "heard",
-                  "hörte"
-                ],
-                [
-                  "about",
-                  "von"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "new",
-                  "neuen"
-                ],
-                [
-                  "series",
-                  "Serie"
-                ],
-                [
-                  "because",
-                  "weil"
-                ],
-                [
-                  "several",
-                  "mehrere"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "her",
-                  "ihren"
-                ],
-                [
-                  "friends",
-                  "Freunden"
-                ],
-                [
-                  "kept",
-                  "fortwährend"
-                ],
-                [
-                  "recommending",
-                  "empfahlen"
-                ],
-                [
-                  "it",
-                  "sie"
-                ],
-                [
-                  "to",
-                  "ihr"
-                ],
-                [
-                  "her",
-                  "ihr"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "conversations.",
-                  "Gesprächen."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "Maria heard about a new series because several of her friends kept recommending it to her in conversations — this is a classic example of word of mouth.",
+          "solutionDe": "Maria hörte von einer neuen Serie, weil mehrere ihrer Freunde sie ihr in Gesprächen immer wieder empfahlen — das ist ein klassisches Beispiel für Mundpropaganda.",
+          "explain": "Maria erfährt von der Serie durch Empfehlungen von Freunden im Gespräch – wörtlich 'von Mund zu Mund'.",
+          "read": "Maria heard about a new series because several of her friends kept recommending it to her in conversations — this is a classic example of word of mouth."
         },
         {
           "parts": [
-            "An elderly man prefers reading the newspaper every morning instead of using his phone for news. → ",
+            "An elderly man prefers reading the newspaper every morning instead of using his phone, because he still trusts traditional ",
             {
               "opts": [
                 "print media",
                 "broadcast media",
                 "media outlets"
               ],
+              "correct": 0,
               "decode": [
                 "Printmedien",
                 "Rundfunkmedien (TV/Radio)",
                 "Medienhäuser"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "print media = printed news like newspapers and magazines. (Scenario Q)",
-          "solutionDe": "print media = Printmedien: gedruckte Medien wie Zeitungen und Zeitschriften.",
-          "explain": "Zeitung auf Papier = print media. Fernsehen und Radio wären broadcast media.",
-          "decodeFull": [
-            [
-              "An",
-              "ein"
-            ],
-            [
-              "elderly",
-              "älterer"
-            ],
-            [
-              "man",
-              "Mann"
-            ],
-            [
-              "prefers",
-              "bevorzugt"
-            ],
-            [
-              "reading",
-              "Lesen"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "newspaper",
-              "Zeitung"
-            ],
-            [
-              "every",
-              "jeden"
-            ],
-            [
-              "morning",
-              "Morgen"
-            ],
-            [
-              "instead",
-              "statt"
-            ],
-            [
-              "of",
-              "des"
-            ],
-            [
-              "using",
-              "Benutzens"
-            ],
-            [
-              "his",
-              "seines"
-            ],
-            [
-              "phone",
-              "Telefons"
-            ],
-            [
-              "for",
-              "für"
-            ],
-            [
-              "news.",
-              "Nachrichten."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "print media",
-              "Printmedien"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "An",
-                  "ein"
-                ],
-                [
-                  "elderly",
-                  "älterer"
-                ],
-                [
-                  "man",
-                  "Mann"
-                ],
-                [
-                  "prefers",
-                  "bevorzugt"
-                ],
-                [
-                  "reading",
-                  "Lesen"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "newspaper",
-                  "Zeitung"
-                ],
-                [
-                  "every",
-                  "jeden"
-                ],
-                [
-                  "morning",
-                  "Morgen"
-                ],
-                [
-                  "instead",
-                  "statt"
-                ],
-                [
-                  "of",
-                  "des"
-                ],
-                [
-                  "using",
-                  "Benutzens"
-                ],
-                [
-                  "his",
-                  "seines"
-                ],
-                [
-                  "phone",
-                  "Telefons"
-                ],
-                [
-                  "for",
-                  "für"
-                ],
-                [
-                  "news.",
-                  "Nachrichten."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "An elderly man prefers reading the newspaper every morning instead of using his phone, because he still trusts traditional print media.",
+          "solutionDe": "Ein älterer Mann liest lieber jeden Morgen die Zeitung, statt sein Handy zu benutzen, weil er traditionellen Printmedien noch vertraut.",
+          "explain": "Zeitung auf Papier = print media. Fernsehen und Radio wären broadcast media.",
+          "read": "An elderly man prefers reading the newspaper every morning instead of using his phone, because he still trusts traditional print media."
         },
         {
           "parts": [
-            "A family watches the evening news on TV to stay updated about current events. → ",
+            "Every evening the whole family watches the news on TV, because they like to get their information from ",
             {
               "opts": [
                 "print media",
                 "word of mouth",
                 "broadcast media"
               ],
+              "correct": 2,
               "decode": [
                 "Printmedien",
                 "Mundpropaganda",
                 "Rundfunkmedien (TV/Radio)"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "broadcast media = TV and radio. (Scenario P)",
-          "solutionDe": "broadcast media = Rundfunkmedien: Fernsehen und Radio.",
-          "explain": "to broadcast = senden/ausstrahlen. Abendnachrichten im Fernsehen = broadcast media.",
-          "decodeFull": [
-            [
-              "A",
-              "eine"
-            ],
-            [
-              "family",
-              "Familie"
-            ],
-            [
-              "watches",
-              "schaut"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "evening",
-              "Abend-"
-            ],
-            [
-              "news",
-              "nachrichten"
-            ],
-            [
-              "on",
-              "im"
-            ],
-            [
-              "TV",
-              "TV"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "stay",
-              "bleiben"
-            ],
-            [
-              "updated",
-              "auf-dem-Laufenden"
-            ],
-            [
-              "about",
-              "über"
-            ],
-            [
-              "current",
-              "aktuelle"
-            ],
-            [
-              "events.",
-              "Ereignisse."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "broadcast media",
-              "Rundfunkmedien"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "eine"
-                ],
-                [
-                  "family",
-                  "Familie"
-                ],
-                [
-                  "watches",
-                  "schaut"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "evening",
-                  "Abend-"
-                ],
-                [
-                  "news",
-                  "nachrichten"
-                ],
-                [
-                  "on",
-                  "im"
-                ],
-                [
-                  "TV",
-                  "TV"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "stay",
-                  "bleiben"
-                ],
-                [
-                  "updated",
-                  "auf-dem-Laufenden"
-                ],
-                [
-                  "about",
-                  "über"
-                ],
-                [
-                  "current",
-                  "aktuelle"
-                ],
-                [
-                  "events.",
-                  "Ereignisse."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "Every evening the whole family watches the news on TV, because they like to get their information from broadcast media.",
+          "solutionDe": "Jeden Abend schaut die ganze Familie die Nachrichten im Fernsehen, weil sie ihre Informationen gerne aus Rundfunkmedien bezieht.",
+          "explain": "to broadcast = senden/ausstrahlen. Abendnachrichten im Fernsehen = broadcast media.",
+          "read": "Every evening the whole family watches the news on TV, because they like to get their information from broadcast media."
         },
         {
           "parts": [
-            "Different news companies report the same political event, but each presents it in a slightly different way. → ",
+            "Different news companies report the same political event in slightly different ways, which shows that we should compare several ",
             {
               "opts": [
                 "media outlets",
                 "echo chamber",
                 "press"
               ],
+              "correct": 0,
               "decode": [
                 "Medienhäuser / Nachrichtenanbieter",
                 "Echokammer",
                 "Presse"
-              ],
-              "correct": 0
-            }
+              ]
+            },
+            " before forming an opinion."
           ],
-          "solutionEn": "media outlets = the different companies that publish news (newspapers, TV stations, news websites). (Scenario O)",
-          "solutionDe": "media outlets = Medienhäuser/Nachrichtenanbieter: die verschiedenen Unternehmen, die Nachrichten veröffentlichen.",
+          "solutionEn": "Different news companies report the same political event in slightly different ways, which shows that we should compare several media outlets before forming an opinion.",
+          "solutionDe": "Verschiedene Nachrichtenunternehmen berichten über dasselbe politische Ereignis auf leicht unterschiedliche Weise, was zeigt, dass wir mehrere Medienhäuser vergleichen sollten, bevor wir uns eine Meinung bilden.",
           "explain": "Mehrere Nachrichten-FIRMEN berichten unterschiedlich über dasselbe Ereignis – jedes dieser Unternehmen ist ein 'media outlet'.",
-          "decodeFull": [
-            [
-              "Different",
-              "verschiedene"
-            ],
-            [
-              "news",
-              "Nachrichten-"
-            ],
-            [
-              "companies",
-              "unternehmen"
-            ],
-            [
-              "report",
-              "berichten-über"
-            ],
-            [
-              "the",
-              "das"
-            ],
-            [
-              "same",
-              "gleiche"
-            ],
-            [
-              "political",
-              "politische"
-            ],
-            [
-              "event,",
-              "Ereignis,"
-            ],
-            [
-              "but",
-              "aber"
-            ],
-            [
-              "each",
-              "jedes"
-            ],
-            [
-              "presents",
-              "stellt-dar"
-            ],
-            [
-              "it",
-              "es"
-            ],
-            [
-              "in",
-              "auf"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "slightly",
-              "leicht"
-            ],
-            [
-              "different",
-              "andere"
-            ],
-            [
-              "way.",
-              "Weise."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "media outlets",
-              "Medienanbieter"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Different",
-                  "verschiedene"
-                ],
-                [
-                  "news",
-                  "Nachrichten-"
-                ],
-                [
-                  "companies",
-                  "unternehmen"
-                ],
-                [
-                  "report",
-                  "berichten-über"
-                ],
-                [
-                  "the",
-                  "das"
-                ],
-                [
-                  "same",
-                  "gleiche"
-                ],
-                [
-                  "political",
-                  "politische"
-                ],
-                [
-                  "event,",
-                  "Ereignis,"
-                ],
-                [
-                  "but",
-                  "aber"
-                ],
-                [
-                  "each",
-                  "jedes"
-                ],
-                [
-                  "presents",
-                  "stellt-dar"
-                ],
-                [
-                  "it",
-                  "es"
-                ],
-                [
-                  "in",
-                  "auf"
-                ],
-                [
-                  "a",
-                  "eine"
-                ],
-                [
-                  "slightly",
-                  "leicht"
-                ],
-                [
-                  "different",
-                  "andere"
-                ],
-                [
-                  "way.",
-                  "Weise."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "Different news companies report the same political event in slightly different ways, which shows that we should compare several media outlets before forming an opinion."
         },
         {
           "parts": [
-            "While scrolling through Instagram, Tom accidentally finds an interesting article he wasn't looking for. → ",
+            "While scrolling through Instagram, Tom found an interesting article he wasn't even looking for, so you could say he was lucky enough ",
             {
               "opts": [
                 "to skim",
                 "to stumble upon",
                 "to cover"
               ],
+              "correct": 1,
               "decode": [
                 "überfliegen",
                 "zufällig stoßen auf",
                 "berichten über"
-              ],
-              "correct": 1
-            }
+              ]
+            },
+            " it."
           ],
-          "solutionEn": "to stumble upon = to find something by chance, without looking for it. (Scenario E)",
-          "solutionDe": "to stumble upon = zufällig auf etwas stoßen, ohne danach zu suchen.",
+          "solutionEn": "While scrolling through Instagram, Tom found an interesting article he wasn't even looking for, so you could say he was lucky enough to stumble upon it.",
+          "solutionDe": "Während Tom durch Instagram scrollte, fand er einen interessanten Artikel, den er gar nicht gesucht hatte — man könnte also sagen, er hatte das Glück, zufällig darauf zu stoßen.",
           "explain": "'accidentally finds' = zufällig finden → to stumble upon (wörtlich: darüber stolpern).",
-          "decodeFull": [
-            [
-              "While",
-              "während"
-            ],
-            [
-              "scrolling",
-              "Scrollens"
-            ],
-            [
-              "through",
-              "durch"
-            ],
-            [
-              "Instagram,",
-              "Instagram,"
-            ],
-            [
-              "Tom",
-              "Tom"
-            ],
-            [
-              "accidentally",
-              "zufällig"
-            ],
-            [
-              "finds",
-              "findet"
-            ],
-            [
-              "an",
-              "einen"
-            ],
-            [
-              "interesting",
-              "interessanten"
-            ],
-            [
-              "article",
-              "Artikel"
-            ],
-            [
-              "he",
-              "den-er"
-            ],
-            [
-              "wasn't",
-              "nicht'war"
-            ],
-            [
-              "looking",
-              "suchend"
-            ],
-            [
-              "for.",
-              "danach."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "to stumble upon",
-              "zufällig-stoßen-auf"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "While",
-                  "während"
-                ],
-                [
-                  "scrolling",
-                  "Scrollens"
-                ],
-                [
-                  "through",
-                  "durch"
-                ],
-                [
-                  "Instagram,",
-                  "Instagram,"
-                ],
-                [
-                  "Tom",
-                  "Tom"
-                ],
-                [
-                  "accidentally",
-                  "zufällig"
-                ],
-                [
-                  "finds",
-                  "findet"
-                ],
-                [
-                  "an",
-                  "einen"
-                ],
-                [
-                  "interesting",
-                  "interessanten"
-                ],
-                [
-                  "article",
-                  "Artikel"
-                ],
-                [
-                  "he",
-                  "den-er"
-                ],
-                [
-                  "wasn't",
-                  "nicht'war"
-                ],
-                [
-                  "looking",
-                  "suchend"
-                ],
-                [
-                  "for.",
-                  "danach."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "While scrolling through Instagram, Tom found an interesting article he wasn't even looking for, so you could say he was lucky enough to stumble upon it."
         },
         {
           "parts": [
-            "Sarah quickly reads through an online article to understand the main idea without focusing on details. → ",
+            "Sarah reads through an online article very quickly just to get the main idea without focusing on the details, which is exactly what it means ",
             {
               "opts": [
                 "to skim",
                 "to stumble upon",
                 "to cover"
               ],
+              "correct": 0,
               "decode": [
                 "überfliegen",
                 "zufällig stoßen auf",
                 "berichten über"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "to skim = to read something quickly to get the main idea. (Scenario G)",
-          "solutionDe": "to skim = einen Text überfliegen, um die Hauptidee zu erfassen.",
-          "explain": "Schnell lesen, Details überspringen = skimmen. Wichtige Lesetechnik – auch für deine Schularbeit!",
-          "decodeFull": [
-            [
-              "Sarah",
-              "Sarah"
-            ],
-            [
-              "quickly",
-              "schnell"
-            ],
-            [
-              "reads",
-              "liest"
-            ],
-            [
-              "through",
-              "durch"
-            ],
-            [
-              "an",
-              "einen"
-            ],
-            [
-              "online",
-              "Online-"
-            ],
-            [
-              "article",
-              "Artikel"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "understand",
-              "verstehen"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "main",
-              "Haupt-"
-            ],
-            [
-              "idea",
-              "idee"
-            ],
-            [
-              "without",
-              "ohne"
-            ],
-            [
-              "focusing",
-              "Konzentrieren"
-            ],
-            [
-              "on",
-              "auf"
-            ],
-            [
-              "details.",
-              "Details."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "to skim",
-              "überfliegen"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Sarah",
-                  "Sarah"
-                ],
-                [
-                  "quickly",
-                  "schnell"
-                ],
-                [
-                  "reads",
-                  "liest"
-                ],
-                [
-                  "through",
-                  "durch"
-                ],
-                [
-                  "an",
-                  "einen"
-                ],
-                [
-                  "online",
-                  "Online-"
-                ],
-                [
-                  "article",
-                  "Artikel"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "understand",
-                  "verstehen"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "main",
-                  "Haupt-"
-                ],
-                [
-                  "idea",
-                  "idee"
-                ],
-                [
-                  "without",
-                  "ohne"
-                ],
-                [
-                  "focusing",
-                  "Konzentrieren"
-                ],
-                [
-                  "on",
-                  "auf"
-                ],
-                [
-                  "details.",
-                  "Details."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " a text."
+          ],
+          "solutionEn": "Sarah reads through an online article very quickly just to get the main idea without focusing on the details, which is exactly what it means to skim a text.",
+          "solutionDe": "Sarah liest einen Online-Artikel sehr schnell durch, nur um die Hauptidee zu erfassen, ohne sich auf Details zu konzentrieren — genau das bedeutet, einen Text zu überfliegen.",
+          "explain": "Schnell lesen, Details überspringen = skimmen. Wichtige Lesetechnik – auch für deine Schularbeit!",
+          "read": "Sarah reads through an online article very quickly just to get the main idea without focusing on the details, which is exactly what it means to skim a text."
         },
         {
           "parts": [
-            "A website spreads a completely false story about a celebrity to influence people's opinions. → ",
+            "A website deliberately spreads a completely false story about a celebrity in order to influence people's opinions, which is a typical case of ",
             {
               "opts": [
                 "soft news",
                 "clickbait",
                 "fake news"
               ],
+              "correct": 2,
               "decode": [
                 "leichte Unterhaltungs-Nachrichten",
                 "Klickköder",
                 "Falschnachrichten"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "fake news = completely false stories that are presented as real news, often to influence people. (Scenario L)",
-          "solutionDe": "fake news = komplett falsche Geschichten, die wie echte Nachrichten präsentiert werden – oft, um Meinungen zu beeinflussen.",
-          "explain": "Die Geschichte ist 'completely false' und soll Meinungen beeinflussen → fake news. Clickbait will nur Klicks, soft news ist harmlose Unterhaltung.",
-          "decodeFull": [
-            [
-              "A",
-              "eine"
-            ],
-            [
-              "website",
-              "Website"
-            ],
-            [
-              "spreads",
-              "verbreitet"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "completely",
-              "völlig"
-            ],
-            [
-              "false",
-              "falsche"
-            ],
-            [
-              "story",
-              "Geschichte"
-            ],
-            [
-              "about",
-              "über"
-            ],
-            [
-              "a",
-              "einen"
-            ],
-            [
-              "celebrity",
-              "Promi"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "influence",
-              "beeinflussen"
-            ],
-            [
-              "people's",
-              "der-Leute"
-            ],
-            [
-              "opinions.",
-              "Meinungen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "fake news",
-              "Falschnachrichten"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "eine"
-                ],
-                [
-                  "website",
-                  "Website"
-                ],
-                [
-                  "spreads",
-                  "verbreitet"
-                ],
-                [
-                  "a",
-                  "eine"
-                ],
-                [
-                  "completely",
-                  "völlig"
-                ],
-                [
-                  "false",
-                  "falsche"
-                ],
-                [
-                  "story",
-                  "Geschichte"
-                ],
-                [
-                  "about",
-                  "über"
-                ],
-                [
-                  "a",
-                  "einen"
-                ],
-                [
-                  "celebrity",
-                  "Promi"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "influence",
-                  "beeinflussen"
-                ],
-                [
-                  "people's",
-                  "der-Leute"
-                ],
-                [
-                  "opinions.",
-                  "Meinungen."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "A website deliberately spreads a completely false story about a celebrity in order to influence people's opinions, which is a typical case of fake news.",
+          "solutionDe": "Eine Website verbreitet absichtlich eine völlig falsche Geschichte über einen Promi, um die Meinungen der Leute zu beeinflussen — ein typischer Fall von Falschnachrichten.",
+          "explain": "Die Geschichte ist 'completely false' und soll Meinungen beeinflussen → fake news. Clickbait will nur Klicks, soft news ist harmlose Unterhaltung.",
+          "read": "A website deliberately spreads a completely false story about a celebrity in order to influence people's opinions, which is a typical case of fake news."
         },
         {
           "parts": [
-            "A headline says: 'You won't believe what happened next!' to make people curious enough to click. → ",
+            "A headline that screams 'You won't believe what happened next!' only wants to make people curious enough to click, so it is pure ",
             {
               "opts": [
                 "clickbait",
                 "fake news",
                 "soft news"
               ],
+              "correct": 0,
               "decode": [
                 "Klickköder",
                 "Falschnachrichten",
                 "leichte Unterhaltungs-Nachrichten"
-              ],
-              "correct": 0
-            }
+              ]
+            },
+            "."
           ],
-          "solutionEn": "clickbait = a sensational headline whose only goal is to make you click. (Scenario K)",
-          "solutionDe": "clickbait = Klickköder: eine reißerische Überschrift, deren einziges Ziel es ist, Klicks zu erzeugen.",
+          "solutionEn": "A headline that screams 'You won't believe what happened next!' only wants to make people curious enough to click, so it is pure clickbait.",
+          "solutionDe": "Eine Schlagzeile, die 'Du wirst nicht glauben, was als Nächstes geschah!' herausschreit, will die Leute nur neugierig genug zum Klicken machen — also reiner Klickköder.",
           "explain": "'You won't believe...!' ist DIE typische Clickbait-Formel: neugierig machen → klicken.",
-          "decodeFull": [
-            [
-              "A",
-              "eine"
-            ],
-            [
-              "headline",
-              "Schlagzeile"
-            ],
-            [
-              "says:",
-              "sagt:"
-            ],
-            [
-              "'You",
-              "'Du"
-            ],
-            [
-              "won't",
-              "wirst'nicht"
-            ],
-            [
-              "believe",
-              "glauben"
-            ],
-            [
-              "what",
-              "was"
-            ],
-            [
-              "happened",
-              "geschah"
-            ],
-            [
-              "next!'",
-              "als-Nächstes!'"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "make",
-              "machen"
-            ],
-            [
-              "people",
-              "Menschen"
-            ],
-            [
-              "curious",
-              "neugierig"
-            ],
-            [
-              "enough",
-              "genug"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "click.",
-              "klicken."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "clickbait",
-              "Klickköder"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "eine"
-                ],
-                [
-                  "headline",
-                  "Schlagzeile"
-                ],
-                [
-                  "says:",
-                  "sagt:"
-                ],
-                [
-                  "'You",
-                  "'Du"
-                ],
-                [
-                  "won't",
-                  "wirst'nicht"
-                ],
-                [
-                  "believe",
-                  "glauben"
-                ],
-                [
-                  "what",
-                  "was"
-                ],
-                [
-                  "happened",
-                  "geschah"
-                ],
-                [
-                  "next!'",
-                  "als-Nächstes!'"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "make",
-                  "machen"
-                ],
-                [
-                  "people",
-                  "Menschen"
-                ],
-                [
-                  "curious",
-                  "neugierig"
-                ],
-                [
-                  "enough",
-                  "genug"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "click.",
-                  "klicken."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "A headline that screams 'You won't believe what happened next!' only wants to make people curious enough to click, so it is pure clickbait."
         },
         {
           "parts": [
-            "Lisa notices that her social media feed only shows posts that match her opinions and interests. → ",
+            "Lisa notices that her social media feed only shows posts that match her own opinions and interests, so she is clearly trapped in a ",
             {
               "opts": [
                 "algorithms",
                 "filter bubble",
                 "echo chamber"
               ],
+              "correct": 1,
               "decode": [
                 "Algorithmen",
                 "Filterblase",
                 "Echokammer"
-              ],
-              "correct": 1
-            }
+              ]
+            },
+            "."
           ],
-          "solutionEn": "filter bubble = you only see content that matches your own interests and opinions. (Scenario J)",
-          "solutionDe": "filter bubble = Filterblase: Du siehst nur noch Inhalte, die zu deinen eigenen Interessen und Meinungen passen.",
+          "solutionEn": "Lisa notices that her social media feed only shows posts that match her own opinions and interests, so she is clearly trapped in a filter bubble.",
+          "solutionDe": "Lisa bemerkt, dass ihr Social-Media-Feed nur noch Beiträge zeigt, die zu ihren eigenen Meinungen und Interessen passen — sie sitzt also eindeutig in einer Filterblase fest.",
           "explain": "Merkhilfe: algorithms = die Technik dahinter, filter bubble = das Ergebnis für DEINEN Feed, echo chamber = die Gruppe, in der alle gleich denken.",
-          "decodeFull": [
-            [
-              "Lisa",
-              "Lisa"
-            ],
-            [
-              "notices",
-              "bemerkt"
-            ],
-            [
-              "that",
-              "dass"
-            ],
-            [
-              "her",
-              "ihr"
-            ],
-            [
-              "social",
-              "sozialer"
-            ],
-            [
-              "media",
-              "Medien-"
-            ],
-            [
-              "feed",
-              "Feed"
-            ],
-            [
-              "only",
-              "nur"
-            ],
-            [
-              "shows",
-              "zeigt"
-            ],
-            [
-              "posts",
-              "Beiträge"
-            ],
-            [
-              "that",
-              "die"
-            ],
-            [
-              "match",
-              "passen-zu"
-            ],
-            [
-              "her",
-              "ihren"
-            ],
-            [
-              "opinions",
-              "Meinungen"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "interests.",
-              "Interessen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "filter bubble",
-              "Filterblase"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Lisa",
-                  "Lisa"
-                ],
-                [
-                  "notices",
-                  "bemerkt"
-                ],
-                [
-                  "that",
-                  "dass"
-                ],
-                [
-                  "her",
-                  "ihr"
-                ],
-                [
-                  "social",
-                  "sozialer"
-                ],
-                [
-                  "media",
-                  "Medien-"
-                ],
-                [
-                  "feed",
-                  "Feed"
-                ],
-                [
-                  "only",
-                  "nur"
-                ],
-                [
-                  "shows",
-                  "zeigt"
-                ],
-                [
-                  "posts",
-                  "Beiträge"
-                ],
-                [
-                  "that",
-                  "die"
-                ],
-                [
-                  "match",
-                  "passen-zu"
-                ],
-                [
-                  "her",
-                  "ihren"
-                ],
-                [
-                  "opinions",
-                  "Meinungen"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "interests.",
-                  "Interessen."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "Lisa notices that her social media feed only shows posts that match her own opinions and interests, so she is clearly trapped in a filter bubble."
         },
         {
           "parts": [
-            "A platform decides which posts appear in your feed based on what you liked and searched before. → ",
+            "The platform decides which posts appear in your feed based on what you liked and searched before, and these decisions are made by ",
             {
               "opts": [
                 "algorithms",
                 "filter bubble",
                 "echo chamber"
               ],
+              "correct": 0,
               "decode": [
                 "Algorithmen",
                 "Filterblase",
                 "Echokammer"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "algorithms = computer programs that decide which content you see. (Scenario I)",
-          "solutionDe": "algorithms = Algorithmen: Programme, die entscheiden, welche Inhalte du siehst.",
-          "explain": "Hier ENTSCHEIDET die Plattform aktiv (basierend auf Likes und Suchverlauf) – das machen die Algorithmen. Die Filterblase ist nur die Folge davon.",
-          "decodeFull": [
-            [
-              "A",
-              "eine"
-            ],
-            [
-              "platform",
-              "Plattform"
-            ],
-            [
-              "decides",
-              "entscheidet"
-            ],
-            [
-              "which",
-              "welche"
-            ],
-            [
-              "posts",
-              "Beiträge"
-            ],
-            [
-              "appear",
-              "erscheinen"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "your",
-              "deinem"
-            ],
-            [
-              "feed",
-              "Feed"
-            ],
-            [
-              "based",
-              "basierend"
-            ],
-            [
-              "on",
-              "auf"
-            ],
-            [
-              "what",
-              "dem-was"
-            ],
-            [
-              "you",
-              "du"
-            ],
-            [
-              "liked",
-              "mochtest"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "searched",
-              "suchtest"
-            ],
-            [
-              "before.",
-              "zuvor."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "algorithms",
-              "Algorithmen"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "eine"
-                ],
-                [
-                  "platform",
-                  "Plattform"
-                ],
-                [
-                  "decides",
-                  "entscheidet"
-                ],
-                [
-                  "which",
-                  "welche"
-                ],
-                [
-                  "posts",
-                  "Beiträge"
-                ],
-                [
-                  "appear",
-                  "erscheinen"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "your",
-                  "deinem"
-                ],
-                [
-                  "feed",
-                  "Feed"
-                ],
-                [
-                  "based",
-                  "basierend"
-                ],
-                [
-                  "on",
-                  "auf"
-                ],
-                [
-                  "what",
-                  "dem-was"
-                ],
-                [
-                  "you",
-                  "du"
-                ],
-                [
-                  "liked",
-                  "mochtest"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "searched",
-                  "suchtest"
-                ],
-                [
-                  "before.",
-                  "zuvor."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "The platform decides which posts appear in your feed based on what you liked and searched before, and these decisions are made by algorithms.",
+          "solutionDe": "Die Plattform entscheidet anhand dessen, was du zuvor gelikt und gesucht hast, welche Beiträge in deinem Feed erscheinen, und diese Entscheidungen werden von Algorithmen getroffen.",
+          "explain": "Hier ENTSCHEIDET die Plattform aktiv (basierend auf Likes und Suchverlauf) – das machen die Algorithmen. Die Filterblase ist nur die Folge davon.",
+          "read": "The platform decides which posts appear in your feed based on what you liked and searched before, and these decisions are made by algorithms."
         },
         {
           "parts": [
-            "On the bus, Anna watches 30-second videos and reads mini-posts – content that is short and easy to consume in between. → ",
+            "On the bus, Anna watches 30-second videos and reads mini-posts that are short and easy to consume in between, exactly the kind of ",
             {
               "opts": [
                 "snackable content",
                 "soft news",
                 "print media"
               ],
+              "correct": 0,
               "decode": [
                 "leicht konsumierbare Kurz-Inhalte",
                 "leichte Unterhaltungs-Nachrichten",
                 "Printmedien"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "snackable content = short, easy-to-consume content (like a snack). (No scenario on the worksheet – own example)",
-          "solutionDe": "snackable content = kurze, leicht konsumierbare Inhalte – wie ein Snack für zwischendurch.",
-          "explain": "Für dieses Wort gibt es im Arbeitsblatt kein Szenario (21 Wörter, nur 20 Szenarien A–T) – dieses Beispiel ist selbst erstellt. Merke: snack = kleiner Happen → Häppchen-Inhalte.",
-          "decodeFull": [
-            [
-              "On",
-              "im"
-            ],
-            [
-              "the",
-              "dem"
-            ],
-            [
-              "bus,",
-              "Bus,"
-            ],
-            [
-              "Anna",
-              "Anna"
-            ],
-            [
-              "watches",
-              "schaut"
-            ],
-            [
-              "30-second",
-              "30-Sekunden-"
-            ],
-            [
-              "videos",
-              "Videos"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "reads",
-              "liest"
-            ],
-            [
-              "mini-posts",
-              "Mini-Beiträge"
-            ],
-            [
-              "–",
-              "–"
-            ],
-            [
-              "content",
-              "Inhalt"
-            ],
-            [
-              "that",
-              "der"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "short",
-              "kurz"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "easy",
-              "leicht"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "consume",
-              "konsumieren"
-            ],
-            [
-              "in",
-              "zwischen-"
-            ],
-            [
-              "between.",
-              "durch."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "snackable content",
-              "häppchenweiser-Inhalt"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "On",
-                  "im"
-                ],
-                [
-                  "the",
-                  "dem"
-                ],
-                [
-                  "bus,",
-                  "Bus,"
-                ],
-                [
-                  "Anna",
-                  "Anna"
-                ],
-                [
-                  "watches",
-                  "schaut"
-                ],
-                [
-                  "30-second",
-                  "30-Sekunden-"
-                ],
-                [
-                  "videos",
-                  "Videos"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "reads",
-                  "liest"
-                ],
-                [
-                  "mini-posts",
-                  "Mini-Beiträge"
-                ],
-                [
-                  "–",
-                  "–"
-                ],
-                [
-                  "content",
-                  "Inhalt"
-                ],
-                [
-                  "that",
-                  "der"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "short",
-                  "kurz"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "easy",
-                  "leicht"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "consume",
-                  "konsumieren"
-                ],
-                [
-                  "in",
-                  "zwischen-"
-                ],
-                [
-                  "between.",
-                  "durch."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " that social media is full of."
+          ],
+          "solutionEn": "On the bus, Anna watches 30-second videos and reads mini-posts that are short and easy to consume in between, exactly the kind of snackable content that social media is full of.",
+          "solutionDe": "Im Bus schaut Anna 30-Sekunden-Videos und liest Mini-Beiträge, die kurz und leicht für zwischendurch zu konsumieren sind — genau die Art von häppchenweisem Inhalt, von dem Social Media voll ist.",
+          "explain": "Für dieses Wort gibt es im Arbeitsblatt kein Szenario (21 Wörter, nur 20 Szenarien A–T) – dieses Beispiel ist selbst erstellt. Merke: snack = kleiner Happen → Häppchen-Inhalte.",
+          "read": "On the bus, Anna watches 30-second videos and reads mini-posts that are short and easy to consume in between, exactly the kind of snackable content that social media is full of."
         },
         {
           "parts": [
-            "A news report exaggerates a story to make it more shocking and attract attention. → ",
+            "A news report that exaggerates a story to make it more shocking and to attract attention is what we call ",
             {
               "opts": [
                 "credible",
                 "misleading",
                 "sensational"
               ],
+              "correct": 2,
               "decode": [
                 "glaubwürdig",
                 "irreführend",
                 "reißerisch"
-              ],
-              "correct": 2
-            }
+              ]
+            },
+            "."
           ],
-          "solutionEn": "sensational = exaggerated and shocking in order to attract attention. (Scenario B)",
-          "solutionDe": "sensational = reißerisch: übertrieben und schockierend, um Aufmerksamkeit zu erregen.",
+          "solutionEn": "A news report that exaggerates a story to make it more shocking and to attract attention is what we call sensational.",
+          "solutionDe": "Ein Nachrichtenbericht, der eine Geschichte übertreibt, um sie schockierender zu machen und Aufmerksamkeit zu erregen, wird als reißerisch bezeichnet.",
           "explain": "'exaggerates' (übertreibt) + 'shocking' + 'attract attention' = sensational. misleading wäre: Es entsteht ein falscher Eindruck.",
-          "decodeFull": [
-            [
-              "A",
-              "ein"
-            ],
-            [
-              "news",
-              "Nachrichten-"
-            ],
-            [
-              "report",
-              "bericht"
-            ],
-            [
-              "exaggerates",
-              "übertreibt"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "story",
-              "Geschichte"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "make",
-              "machen"
-            ],
-            [
-              "it",
-              "sie"
-            ],
-            [
-              "more",
-              "schockierender"
-            ],
-            [
-              "shocking",
-              "schockierend"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "attract",
-              "erregen"
-            ],
-            [
-              "attention.",
-              "Aufmerksamkeit."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "sensational",
-              "reißerisch"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "ein"
-                ],
-                [
-                  "news",
-                  "Nachrichten-"
-                ],
-                [
-                  "report",
-                  "bericht"
-                ],
-                [
-                  "exaggerates",
-                  "übertreibt"
-                ],
-                [
-                  "a",
-                  "eine"
-                ],
-                [
-                  "story",
-                  "Geschichte"
-                ],
-                [
-                  "to",
-                  "um-zu"
-                ],
-                [
-                  "make",
-                  "machen"
-                ],
-                [
-                  "it",
-                  "sie"
-                ],
-                [
-                  "more",
-                  "schockierender"
-                ],
-                [
-                  "shocking",
-                  "schockierend"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "attract",
-                  "erregen"
-                ],
-                [
-                  "attention.",
-                  "Aufmerksamkeit."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "A news report that exaggerates a story to make it more shocking and to attract attention is what we call sensational."
         },
         {
           "parts": [
-            "Before believing an article, John checks whether the source is reliable and trustworthy. → ",
+            "Before believing an article, John always checks whether the source is reliable and trustworthy, in other words whether it is ",
             {
               "opts": [
                 "credible",
                 "sensational",
                 "misleading"
               ],
+              "correct": 0,
               "decode": [
                 "glaubwürdig",
                 "reißerisch",
                 "irreführend"
-              ],
-              "correct": 0
-            }
+              ]
+            },
+            "."
           ],
-          "solutionEn": "credible = believable, reliable and trustworthy. (Scenario S)",
-          "solutionDe": "credible = glaubwürdig: zuverlässig und vertrauenswürdig.",
+          "solutionEn": "Before believing an article, John always checks whether the source is reliable and trustworthy, in other words whether it is credible.",
+          "solutionDe": "Bevor John einen Artikel glaubt, prüft er immer, ob die Quelle verlässlich und vertrauenswürdig — mit anderen Worten glaubwürdig — ist.",
           "explain": "'reliable and trustworthy' ist genau die Definition von credible. John prüft die Glaubwürdigkeit der Quelle.",
-          "decodeFull": [
-            [
-              "Before",
-              "bevor"
-            ],
-            [
-              "believing",
-              "glaubend"
-            ],
-            [
-              "an",
-              "einen"
-            ],
-            [
-              "article,",
-              "Artikel,"
-            ],
-            [
-              "John",
-              "John"
-            ],
-            [
-              "checks",
-              "prüft"
-            ],
-            [
-              "whether",
-              "ob"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "source",
-              "Quelle"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "reliable",
-              "verlässlich"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "trustworthy.",
-              "vertrauenswürdig."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "credible",
-              "glaubwürdig"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Before",
-                  "bevor"
-                ],
-                [
-                  "believing",
-                  "glaubend"
-                ],
-                [
-                  "an",
-                  "einen"
-                ],
-                [
-                  "article,",
-                  "Artikel,"
-                ],
-                [
-                  "John",
-                  "John"
-                ],
-                [
-                  "checks",
-                  "prüft"
-                ],
-                [
-                  "whether",
-                  "ob"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "source",
-                  "Quelle"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "reliable",
-                  "verlässlich"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "trustworthy.",
-                  "vertrauenswürdig."
-                ]
-              ]
-            },
-            {
-              "t": "g"
-            }
-          ]
+          "read": "Before believing an article, John always checks whether the source is reliable and trustworthy, in other words whether it is credible."
         },
         {
           "parts": [
-            "The title of an article gives a completely wrong impression of what the article is actually about. → ",
+            "The title of the article gives a completely wrong impression of what the text is actually about, which makes the headline very ",
             {
               "opts": [
                 "sensational",
                 "credible",
                 "misleading"
               ],
+              "correct": 2,
               "decode": [
                 "reißerisch",
                 "glaubwürdig",
                 "irreführend"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "misleading = giving a wrong impression. (Scenario A)",
-          "solutionDe": "misleading = irreführend: Es entsteht ein falscher Eindruck.",
-          "explain": "'wrong impression' = falscher Eindruck → misleading (to mislead = in die Irre führen).",
-          "decodeFull": [
-            [
-              "The",
-              "der"
-            ],
-            [
-              "title",
-              "Titel"
-            ],
-            [
-              "of",
-              "eines"
-            ],
-            [
-              "an",
-              "eines"
-            ],
-            [
-              "article",
-              "Artikels"
-            ],
-            [
-              "gives",
-              "gibt"
-            ],
-            [
-              "a",
-              "einen"
-            ],
-            [
-              "completely",
-              "völlig"
-            ],
-            [
-              "wrong",
-              "falschen"
-            ],
-            [
-              "impression",
-              "Eindruck"
-            ],
-            [
-              "of",
-              "davon"
-            ],
-            [
-              "what",
-              "worum"
-            ],
-            [
-              "the",
-              "der"
-            ],
-            [
-              "article",
-              "Artikel"
-            ],
-            [
-              "is",
-              "es"
-            ],
-            [
-              "actually",
-              "eigentlich"
-            ],
-            [
-              "about.",
-              "geht."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "misleading",
-              "irreführend"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "The",
-                  "der"
-                ],
-                [
-                  "title",
-                  "Titel"
-                ],
-                [
-                  "of",
-                  "eines"
-                ],
-                [
-                  "an",
-                  "eines"
-                ],
-                [
-                  "article",
-                  "Artikels"
-                ],
-                [
-                  "gives",
-                  "gibt"
-                ],
-                [
-                  "a",
-                  "einen"
-                ],
-                [
-                  "completely",
-                  "völlig"
-                ],
-                [
-                  "wrong",
-                  "falschen"
-                ],
-                [
-                  "impression",
-                  "Eindruck"
-                ],
-                [
-                  "of",
-                  "davon"
-                ],
-                [
-                  "what",
-                  "worum"
-                ],
-                [
-                  "the",
-                  "der"
-                ],
-                [
-                  "article",
-                  "Artikel"
-                ],
-                [
-                  "is",
-                  "es"
-                ],
-                [
-                  "actually",
-                  "eigentlich"
-                ],
-                [
-                  "about.",
-                  "geht."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "The title of the article gives a completely wrong impression of what the text is actually about, which makes the headline very misleading.",
+          "solutionDe": "Der Titel des Artikels erweckt einen völlig falschen Eindruck davon, worum es im Text eigentlich geht, was die Schlagzeile sehr irreführend macht.",
+          "explain": "'wrong impression' = falscher Eindruck → misleading (to mislead = in die Irre führen).",
+          "read": "The title of the article gives a completely wrong impression of what the text is actually about, which makes the headline very misleading."
         },
         {
           "parts": [
-            "A student questions the information in an article instead of accepting it immediately. → ",
+            "A good student questions the information in an article instead of accepting it immediately, and this skill is called ",
             {
               "opts": [
                 "critical thinking",
                 "convenience",
                 "word of mouth"
               ],
+              "correct": 0,
               "decode": [
                 "kritisches Denken",
                 "Bequemlichkeit",
                 "Mundpropaganda"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "critical thinking = questioning information instead of believing it immediately. (Scenario H)",
-          "solutionDe": "critical thinking = kritisches Denken: Informationen hinterfragen, statt sie sofort zu glauben.",
-          "explain": "'questions the information' = hinterfragt die Information → kritisches Denken. Genau das fordert auch der Reading-Text am Ende.",
-          "decodeFull": [
-            [
-              "A",
-              "ein"
-            ],
-            [
-              "student",
-              "Schüler"
-            ],
-            [
-              "questions",
-              "hinterfragt"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "information",
-              "Information"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "an",
-              "einem"
-            ],
-            [
-              "article",
-              "Artikel"
-            ],
-            [
-              "instead",
-              "statt"
-            ],
-            [
-              "of",
-              "des"
-            ],
-            [
-              "accepting",
-              "Akzeptierens"
-            ],
-            [
-              "it",
-              "sie"
-            ],
-            [
-              "immediately.",
-              "sofort."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "critical thinking",
-              "kritisches-Denken"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "ein"
-                ],
-                [
-                  "student",
-                  "Schüler"
-                ],
-                [
-                  "questions",
-                  "hinterfragt"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "information",
-                  "Information"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "an",
-                  "einem"
-                ],
-                [
-                  "article",
-                  "Artikel"
-                ],
-                [
-                  "instead",
-                  "statt"
-                ],
-                [
-                  "of",
-                  "des"
-                ],
-                [
-                  "accepting",
-                  "Akzeptierens"
-                ],
-                [
-                  "it",
-                  "sie"
-                ],
-                [
-                  "immediately.",
-                  "sofort."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "A good student questions the information in an article instead of accepting it immediately, and this skill is called critical thinking.",
+          "solutionDe": "Ein guter Schüler hinterfragt die Information in einem Artikel, statt sie sofort zu akzeptieren, und diese Fähigkeit nennt man kritisches Denken.",
+          "explain": "'questions the information' = hinterfragt die Information → kritisches Denken. Genau das fordert auch der Reading-Text am Ende.",
+          "read": "A good student questions the information in an article instead of accepting it immediately, and this skill is called critical thinking."
         },
         {
           "parts": [
-            "In an online group, people only share and hear opinions that are similar to their own. → ",
+            "In this online group, people only share and hear opinions that are similar to their own, so the whole community has become an ",
             {
               "opts": [
                 "filter bubble",
                 "echo chamber",
                 "algorithms"
               ],
+              "correct": 1,
               "decode": [
                 "Filterblase",
                 "Echokammer",
                 "Algorithmen"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "echo chamber = a group or space where people only hear opinions similar to their own. (Scenario M)",
-          "solutionDe": "echo chamber = Echokammer: eine Gruppe, in der alle nur ähnliche Meinungen teilen und hören.",
-          "explain": "Hier geht es um eine GRUPPE von Menschen (nicht um deinen persönlichen Feed) → echo chamber. Die eigene Meinung kommt wie ein Echo zurück.",
-          "decodeFull": [
-            [
-              "In",
-              "in"
-            ],
-            [
-              "an",
-              "einer"
-            ],
-            [
-              "online",
-              "Online-"
-            ],
-            [
-              "group,",
-              "Gruppe,"
-            ],
-            [
-              "people",
-              "Menschen"
-            ],
-            [
-              "only",
-              "nur"
-            ],
-            [
-              "share",
-              "teilen"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "hear",
-              "hören"
-            ],
-            [
-              "opinions",
-              "Meinungen"
-            ],
-            [
-              "that",
-              "die"
-            ],
-            [
-              "are",
-              "sind"
-            ],
-            [
-              "similar",
-              "ähnlich"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "their",
-              "ihren"
-            ],
-            [
-              "own.",
-              "eigenen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "echo chamber",
-              "Echokammer"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "In",
-                  "in"
-                ],
-                [
-                  "an",
-                  "einer"
-                ],
-                [
-                  "online",
-                  "Online-"
-                ],
-                [
-                  "group,",
-                  "Gruppe,"
-                ],
-                [
-                  "people",
-                  "Menschen"
-                ],
-                [
-                  "only",
-                  "nur"
-                ],
-                [
-                  "share",
-                  "teilen"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "hear",
-                  "hören"
-                ],
-                [
-                  "opinions",
-                  "Meinungen"
-                ],
-                [
-                  "that",
-                  "die"
-                ],
-                [
-                  "are",
-                  "sind"
-                ],
-                [
-                  "similar",
-                  "ähnlich"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "their",
-                  "ihren"
-                ],
-                [
-                  "own.",
-                  "eigenen."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "In this online group, people only share and hear opinions that are similar to their own, so the whole community has become an echo chamber.",
+          "solutionDe": "In dieser Online-Gruppe teilen und hören die Menschen nur Meinungen, die ihren eigenen ähnlich sind, sodass die ganze Gemeinschaft zu einer Echokammer geworden ist.",
+          "explain": "Hier geht es um eine GRUPPE von Menschen (nicht um deinen persönlichen Feed) → echo chamber. Die eigene Meinung kommt wie ein Echo zurück.",
+          "read": "In this online group, people only share and hear opinions that are similar to their own, so the whole community has become an echo chamber."
         },
         {
           "parts": [
-            "A news story focuses on celebrity gossip rather than important political issues. → ",
+            "This news story focuses on celebrity gossip rather than on important political issues, so it is a good example of ",
             {
               "opts": [
                 "soft news",
                 "fake news",
                 "clickbait"
               ],
+              "correct": 0,
               "decode": [
                 "leichte Unterhaltungs-Nachrichten",
                 "Falschnachrichten",
                 "Klickköder"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "soft news = entertaining news (gossip, lifestyle) instead of hard, important facts. (Scenario F)",
-          "solutionDe": "soft news = leichte Nachrichten: Unterhaltung (Promi-Klatsch, Lifestyle) statt wichtiger politischer Themen.",
-          "explain": "Promi-Klatsch ist nicht falsch (also keine fake news), nur leichte Unterhaltung → soft news.",
-          "decodeFull": [
-            [
-              "A",
-              "eine"
-            ],
-            [
-              "news",
-              "Nachrichten-"
-            ],
-            [
-              "story",
-              "geschichte"
-            ],
-            [
-              "focuses",
-              "konzentriert-sich"
-            ],
-            [
-              "on",
-              "auf"
-            ],
-            [
-              "celebrity",
-              "Promi-"
-            ],
-            [
-              "gossip",
-              "klatsch"
-            ],
-            [
-              "rather",
-              "eher"
-            ],
-            [
-              "than",
-              "als"
-            ],
-            [
-              "important",
-              "wichtige"
-            ],
-            [
-              "political",
-              "politische"
-            ],
-            [
-              "issues.",
-              "Themen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "soft news",
-              "weiche-Nachrichten"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "eine"
-                ],
-                [
-                  "news",
-                  "Nachrichten-"
-                ],
-                [
-                  "story",
-                  "geschichte"
-                ],
-                [
-                  "focuses",
-                  "konzentriert-sich"
-                ],
-                [
-                  "on",
-                  "auf"
-                ],
-                [
-                  "celebrity",
-                  "Promi-"
-                ],
-                [
-                  "gossip",
-                  "klatsch"
-                ],
-                [
-                  "rather",
-                  "eher"
-                ],
-                [
-                  "than",
-                  "als"
-                ],
-                [
-                  "important",
-                  "wichtige"
-                ],
-                [
-                  "political",
-                  "politische"
-                ],
-                [
-                  "issues.",
-                  "Themen."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "This news story focuses on celebrity gossip rather than on important political issues, so it is a good example of soft news.",
+          "solutionDe": "Diese Nachricht konzentriert sich eher auf Promi-Klatsch als auf wichtige politische Themen, daher ist sie ein gutes Beispiel für leichte Unterhaltungs-Nachrichten.",
+          "explain": "Promi-Klatsch ist nicht falsch (also keine fake news), nur leichte Unterhaltung → soft news.",
+          "read": "This news story focuses on celebrity gossip rather than on important political issues, so it is a good example of soft news."
         },
         {
           "parts": [
-            "Journalists report on a major event from different locations and perspectives. → ",
+            "When a big event happens, journalists travel to different locations and report on it from many perspectives, because it is their job ",
             {
               "opts": [
                 "to stumble upon",
                 "to skim",
                 "to cover"
               ],
+              "correct": 2,
               "decode": [
                 "zufällig stoßen auf",
                 "überfliegen",
                 "berichten über"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "to cover (news) = to report on an event. (Scenario N)",
-          "solutionDe": "to cover (news) = über ein Ereignis berichten.",
-          "explain": "'report on a major event' = über ein Großereignis berichten → to cover. (coverage = die Berichterstattung)",
-          "decodeFull": [
-            [
-              "Journalists",
-              "Journalisten"
-            ],
-            [
-              "report",
-              "berichten"
-            ],
-            [
-              "on",
-              "über"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "major",
-              "großes"
-            ],
-            [
-              "event",
-              "Ereignis"
-            ],
-            [
-              "from",
-              "aus"
-            ],
-            [
-              "different",
-              "verschiedenen"
-            ],
-            [
-              "locations",
-              "Orten"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "perspectives.",
-              "Perspektiven."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "to cover",
-              "berichten-über"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Journalists",
-                  "Journalisten"
-                ],
-                [
-                  "report",
-                  "berichten"
-                ],
-                [
-                  "on",
-                  "über"
-                ],
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "major",
-                  "großes"
-                ],
-                [
-                  "event",
-                  "Ereignis"
-                ],
-                [
-                  "from",
-                  "aus"
-                ],
-                [
-                  "different",
-                  "verschiedenen"
-                ],
-                [
-                  "locations",
-                  "Orten"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "perspectives.",
-                  "Perspektiven."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " the story."
+          ],
+          "solutionEn": "When a big event happens, journalists travel to different locations and report on it from many perspectives, because it is their job to cover the story.",
+          "solutionDe": "Wenn ein großes Ereignis passiert, reisen Journalisten an verschiedene Orte und berichten aus vielen Perspektiven darüber, weil es ihre Aufgabe ist, über die Geschichte zu berichten.",
+          "explain": "'report on a major event' = über ein Großereignis berichten → to cover. (coverage = die Berichterstattung)",
+          "read": "When a big event happens, journalists travel to different locations and report on it from many perspectives, because it is their job to cover the story."
         },
         {
           "parts": [
-            "Reporters ask politicians difficult questions during a press conference. → ",
+            "At the press conference, reporters asked the politicians difficult questions, which is exactly the job of a free ",
             {
               "opts": [
                 "press",
                 "media outlets",
                 "broadcast media"
               ],
+              "correct": 0,
               "decode": [
                 "Presse",
                 "Medienhäuser",
                 "Rundfunkmedien (TV/Radio)"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "press = journalists and news organisations as an institution. (Scenario D)",
-          "solutionDe": "press = die Presse: Journalisten und Nachrichtenorganisationen als Institution.",
-          "explain": "Reporter auf einer PRESSEkonferenz = the press. Das Wort steckt schon in 'press conference'.",
-          "decodeFull": [
-            [
-              "Reporters",
-              "Reporter"
-            ],
-            [
-              "ask",
-              "stellen"
-            ],
-            [
-              "politicians",
-              "Politikern"
-            ],
-            [
-              "difficult",
-              "schwierige"
-            ],
-            [
-              "questions",
-              "Fragen"
-            ],
-            [
-              "during",
-              "während"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "press",
-              "Presse-"
-            ],
-            [
-              "conference.",
-              "konferenz."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "press",
-              "Presse"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Reporters",
-                  "Reporter"
-                ],
-                [
-                  "ask",
-                  "stellen"
-                ],
-                [
-                  "politicians",
-                  "Politikern"
-                ],
-                [
-                  "difficult",
-                  "schwierige"
-                ],
-                [
-                  "questions",
-                  "Fragen"
-                ],
-                [
-                  "during",
-                  "während"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "press",
-                  "Presse-"
-                ],
-                [
-                  "conference.",
-                  "konferenz."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "At the press conference, reporters asked the politicians difficult questions, which is exactly the job of a free press.",
+          "solutionDe": "Bei der Pressekonferenz stellten Reporter den Politikern schwierige Fragen, was genau die Aufgabe einer freien Presse ist.",
+          "explain": "Reporter auf einer PRESSEkonferenz = the press. Das Wort steckt schon in 'press conference'.",
+          "read": "At the press conference, reporters asked the politicians difficult questions, which is exactly the job of a free press."
         },
         {
           "parts": [
-            "A journalist supports their article with facts, data, and reliable sources. → ",
+            "A serious journalist supports every article with facts, data, and reliable sources, because strong arguments always need solid ",
             {
               "opts": [
                 "convenience",
                 "evidence",
                 "critical thinking"
               ],
+              "correct": 1,
               "decode": [
                 "Bequemlichkeit",
                 "Beweise / Belege",
                 "kritisches Denken"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "evidence = facts, data and sources that prove something. (Scenario C)",
-          "solutionDe": "evidence = Beweise/Belege: Fakten, Daten und Quellen, die etwas belegen.",
-          "explain": "'facts, data, and reliable sources' stützen den Artikel = evidence (Belege).",
-          "decodeFull": [
-            [
-              "A",
-              "ein"
-            ],
-            [
-              "journalist",
-              "Journalist"
-            ],
-            [
-              "supports",
-              "stützt"
-            ],
-            [
-              "their",
-              "seinen"
-            ],
-            [
-              "article",
-              "Artikel"
-            ],
-            [
-              "with",
-              "mit"
-            ],
-            [
-              "facts,",
-              "Fakten,"
-            ],
-            [
-              "data,",
-              "Daten,"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "reliable",
-              "verlässlichen"
-            ],
-            [
-              "sources.",
-              "Quellen."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "evidence",
-              "Belege"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "ein"
-                ],
-                [
-                  "journalist",
-                  "Journalist"
-                ],
-                [
-                  "supports",
-                  "stützt"
-                ],
-                [
-                  "their",
-                  "seinen"
-                ],
-                [
-                  "article",
-                  "Artikel"
-                ],
-                [
-                  "with",
-                  "mit"
-                ],
-                [
-                  "facts,",
-                  "Fakten,"
-                ],
-                [
-                  "data,",
-                  "Daten,"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "reliable",
-                  "verlässlichen"
-                ],
-                [
-                  "sources.",
-                  "Quellen."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "A serious journalist supports every article with facts, data, and reliable sources, because strong arguments always need solid evidence.",
+          "solutionDe": "Ein seriöser Journalist stützt jeden Artikel mit Fakten, Daten und verlässlichen Quellen, weil starke Argumente immer solide Belege brauchen.",
+          "explain": "'facts, data, and reliable sources' stützen den Artikel = evidence (Belege).",
+          "read": "A serious journalist supports every article with facts, data, and reliable sources, because strong arguments always need solid evidence."
         },
         {
           "parts": [
-            "A student uses a news app on their phone because it allows them to check updates anytime and anywhere. → ",
+            "A student uses a news app on their phone because it lets them check updates anytime and anywhere, and this kind of ",
             {
               "opts": [
                 "evidence",
                 "critical thinking",
                 "convenience"
               ],
+              "correct": 2,
               "decode": [
                 "Beweise / Belege",
                 "kritisches Denken",
                 "Bequemlichkeit"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "convenience = something is easy and comfortable to use. (Scenario R)",
-          "solutionDe": "convenience = Bequemlichkeit/Komfort: etwas ist einfach und praktisch nutzbar.",
-          "explain": "'anytime and anywhere' = jederzeit und überall → der Vorteil ist die Bequemlichkeit (convenient = praktisch/bequem).",
-          "decodeFull": [
-            [
-              "A",
-              "ein"
-            ],
-            [
-              "student",
-              "Schüler"
-            ],
-            [
-              "uses",
-              "benutzt"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "news",
-              "Nachrichten-"
-            ],
-            [
-              "app",
-              "App"
-            ],
-            [
-              "on",
-              "auf"
-            ],
-            [
-              "their",
-              "seinem"
-            ],
-            [
-              "phone",
-              "Telefon"
-            ],
-            [
-              "because",
-              "weil"
-            ],
-            [
-              "it",
-              "sie"
-            ],
-            [
-              "allows",
-              "erlaubt"
-            ],
-            [
-              "them",
-              "ihm"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "check",
-              "prüfen"
-            ],
-            [
-              "updates",
-              "Neuigkeiten"
-            ],
-            [
-              "anytime",
-              "jederzeit"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "anywhere.",
-              "überall."
-            ],
-            [
-              "→",
-              "→"
-            ],
-            [
-              "convenience",
-              "Bequemlichkeit"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "A",
-                  "ein"
-                ],
-                [
-                  "student",
-                  "Schüler"
-                ],
-                [
-                  "uses",
-                  "benutzt"
-                ],
-                [
-                  "a",
-                  "eine"
-                ],
-                [
-                  "news",
-                  "Nachrichten-"
-                ],
-                [
-                  "app",
-                  "App"
-                ],
-                [
-                  "on",
-                  "auf"
-                ],
-                [
-                  "their",
-                  "seinem"
-                ],
-                [
-                  "phone",
-                  "Telefon"
-                ],
-                [
-                  "because",
-                  "weil"
-                ],
-                [
-                  "it",
-                  "sie"
-                ],
-                [
-                  "allows",
-                  "erlaubt"
-                ],
-                [
-                  "them",
-                  "ihm"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "check",
-                  "prüfen"
-                ],
-                [
-                  "updates",
-                  "Neuigkeiten"
-                ],
-                [
-                  "anytime",
-                  "jederzeit"
-                ],
-                [
-                  "and",
-                  "und"
-                ],
-                [
-                  "anywhere.",
-                  "überall."
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            " is why so many people read the news online."
+          ],
+          "solutionEn": "A student uses a news app on their phone because it lets them check updates anytime and anywhere, and this kind of convenience is why so many people read the news online.",
+          "solutionDe": "Ein Schüler benutzt eine Nachrichten-App auf seinem Handy, weil er damit jederzeit und überall Neuigkeiten abrufen kann, und diese Art von Bequemlichkeit ist der Grund, warum so viele Menschen Nachrichten online lesen.",
+          "explain": "'anytime and anywhere' = jederzeit und überall → der Vorteil ist die Bequemlichkeit (convenient = praktisch/bequem).",
+          "read": "A student uses a news app on their phone because it lets them check updates anytime and anywhere, and this kind of convenience is why so many people read the news online."
         }
       ]
     },
@@ -7349,7 +4465,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Traditional media often has greater longevity because its reports are correct and reliable, so people trust them over time."
         },
         {
           "parts": [
@@ -7546,7 +4663,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "No. New media is often less controlled: anyone can publish content, so some information might not be true or complete. Because news is shared so quickly, it is sometimes not checked properly."
         },
         {
           "parts": [
@@ -7699,7 +4817,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Traditional media needs a longer lead time because journalists research their topics, write articles and check the facts before publishing them."
         },
         {
           "parts": [
@@ -8170,7 +5289,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "The cumulative effect: users collect information from many different sources and share it with others, which makes it easier to follow and track a story as it develops."
         },
         {
           "parts": [
@@ -8335,7 +5455,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "New media is instant and interactive because users can comment, like and share content immediately, which creates a fast exchange of ideas."
         }
       ]
     },
@@ -8457,7 +5578,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Fake news is false or misleading information that is presented as if it were real news, often spread on social media."
         },
         {
           "parts": [
@@ -8582,7 +5704,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "People often believe fake news because of confirmation bias: it confirms what they already believe. Emotional, sensational stories are also shared without checking."
         },
         {
           "parts": [
@@ -8739,7 +5862,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Fake news spreads faster because it is often sensational and emotional, so people share it quickly without checking it first. Algorithms then show popular posts to even more people."
         },
         {
           "parts": [
@@ -8884,7 +6008,8 @@
             {
               "t": "g"
             }
-          ]
+          ],
+          "read": "Fake news can create distrust in the media, divide society and influence opinions and even elections."
         }
       ]
     }

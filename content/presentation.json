@@ -590,789 +590,141 @@
       "questions": [
         {
           "parts": [
-            "'First of all, let me thank you all for coming here today.' ",
+            "When a speaker says 'First of all, let me thank you all for coming here today,' they are ",
             {
               "opts": [
                 "moving to the next point",
                 "welcoming the audience",
                 "ending the talk"
               ],
+              "correct": 1,
               "decode": [
                 "Übergang zum nächsten Punkt",
                 "Begrüßung des Publikums",
                 "Ende des Vortrags"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "welcoming the audience",
-          "solutionDe": "Begrüßung des Publikums (Einleitung)",
-          "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation.",
-          "decodeFull": [
-            [
-              "'First",
-              "'zuerst"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "all,",
-              "allem,"
-            ],
-            [
-              "let",
-              "lass"
-            ],
-            [
-              "me",
-              "mich"
-            ],
-            [
-              "thank",
-              "danken"
-            ],
-            [
-              "you",
-              "euch"
-            ],
-            [
-              "all",
-              "allen"
-            ],
-            [
-              "for",
-              "fürs"
-            ],
-            [
-              "coming",
-              "Kommen"
-            ],
-            [
-              "here",
-              "hierher"
-            ],
-            [
-              "today.'",
-              "heute.'"
-            ],
-            [
-              "welcoming",
-              "begrüßend"
-            ],
-            [
-              "the",
-              "das"
-            ],
-            [
-              "audience",
-              "Publikum"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'First",
-                  "'zuerst"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "all,",
-                  "allem,"
-                ],
-                [
-                  "let",
-                  "lass"
-                ],
-                [
-                  "me",
-                  "mich"
-                ],
-                [
-                  "thank",
-                  "danken"
-                ],
-                [
-                  "you",
-                  "euch"
-                ],
-                [
-                  "all",
-                  "allen"
-                ],
-                [
-                  "for",
-                  "fürs"
-                ],
-                [
-                  "coming",
-                  "Kommen"
-                ],
-                [
-                  "here",
-                  "hierher"
-                ],
-                [
-                  "today.'",
-                  "heute.'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'First of all, let me thank you all for coming here today,' they are welcoming the audience.",
+          "solutionDe": "Wenn eine Rednerin sagt 'First of all, let me thank you all for coming here today,', dann begrüßt sie das Publikum.",
+          "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation.",
+          "read": "When a speaker says 'First of all, let me thank you all for coming here today,' they are welcoming the audience."
         },
         {
           "parts": [
-            "'This leads directly to my next point.' ",
+            "When a speaker says 'This leads directly to my next point,' they are ",
             {
               "opts": [
                 "moving to the next point",
                 "dealing with questions",
                 "welcoming the audience"
               ],
+              "correct": 0,
               "decode": [
                 "Übergang zum nächsten Punkt",
                 "Umgang mit Fragen",
                 "Begrüßung des Publikums"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "moving to the next point",
-          "solutionDe": "Übergang zum nächsten Punkt (Hauptteil)",
-          "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'",
-          "decodeFull": [
-            [
-              "'This",
-              "'dies"
-            ],
-            [
-              "leads",
-              "führt"
-            ],
-            [
-              "directly",
-              "direkt"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "my",
-              "meinem"
-            ],
-            [
-              "next",
-              "nächsten"
-            ],
-            [
-              "point.'",
-              "Punkt.'"
-            ],
-            [
-              "moving",
-              "übergehend"
-            ],
-            [
-              "to",
-              "zum"
-            ],
-            [
-              "the",
-              "dem"
-            ],
-            [
-              "next",
-              "nächsten"
-            ],
-            [
-              "point",
-              "Punkt"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'This",
-                  "'dies"
-                ],
-                [
-                  "leads",
-                  "führt"
-                ],
-                [
-                  "directly",
-                  "direkt"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "my",
-                  "meinem"
-                ],
-                [
-                  "next",
-                  "nächsten"
-                ],
-                [
-                  "point.'",
-                  "Punkt.'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'This leads directly to my next point,' they are moving to the next point.",
+          "solutionDe": "Wenn eine Rednerin sagt 'This leads directly to my next point,', dann geht sie zum nächsten Punkt über.",
+          "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'",
+          "read": "When a speaker says 'This leads directly to my next point,' they are moving to the next point."
         },
         {
           "parts": [
-            "'Let's now look at the next slide, which shows our results.' ",
+            "When a speaker says 'Let's now look at the next slide, which shows our results,' they are ",
             {
               "opts": [
                 "introducing yourself",
                 "quoting a well-known person",
                 "introducing a visual"
               ],
+              "correct": 2,
               "decode": [
                 "sich vorstellen",
                 "eine berühmte Person zitieren",
                 "eine Folie/Grafik einführen"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "introducing a visual",
-          "solutionDe": "eine Folie/Grafik einführen",
-          "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'",
-          "decodeFull": [
-            [
-              "'Let's",
-              "'lasst'uns"
-            ],
-            [
-              "now",
-              "jetzt"
-            ],
-            [
-              "look",
-              "schauen"
-            ],
-            [
-              "at",
-              "auf"
-            ],
-            [
-              "the",
-              "die"
-            ],
-            [
-              "next",
-              "nächste"
-            ],
-            [
-              "slide,",
-              "Folie,"
-            ],
-            [
-              "which",
-              "welche"
-            ],
-            [
-              "shows",
-              "zeigt"
-            ],
-            [
-              "our",
-              "unsere"
-            ],
-            [
-              "results.'",
-              "Ergebnisse.'"
-            ],
-            [
-              "introducing",
-              "einführend"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "visual",
-              "Bildmaterial"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'Let's",
-                  "'lasst'uns"
-                ],
-                [
-                  "now",
-                  "jetzt"
-                ],
-                [
-                  "look",
-                  "schauen"
-                ],
-                [
-                  "at",
-                  "auf"
-                ],
-                [
-                  "the",
-                  "die"
-                ],
-                [
-                  "next",
-                  "nächste"
-                ],
-                [
-                  "slide,",
-                  "Folie,"
-                ],
-                [
-                  "which",
-                  "welche"
-                ],
-                [
-                  "shows",
-                  "zeigt"
-                ],
-                [
-                  "our",
-                  "unsere"
-                ],
-                [
-                  "results.'",
-                  "Ergebnisse.'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'Let's now look at the next slide, which shows our results,' they are introducing a visual.",
+          "solutionDe": "Wenn eine Rednerin sagt 'Let's now look at the next slide, which shows our results,', dann führt sie eine Folie/Grafik ein.",
+          "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'",
+          "read": "When a speaker says 'Let's now look at the next slide, which shows our results,' they are introducing a visual."
         },
         {
           "parts": [
-            "'To conclude, I'd like to run through my main points again.' ",
+            "When a speaker says 'To conclude, I'd like to run through my main points again,' they are ",
             {
               "opts": [
                 "stating your purpose",
                 "summarizing at the end",
                 "using an interesting fact as an opener"
               ],
+              "correct": 1,
               "decode": [
                 "das Ziel nennen",
                 "Zusammenfassung am Schluss",
                 "mit einem interessanten Fakt einsteigen"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "summarizing at the end",
-          "solutionDe": "Zusammenfassung am Schluss",
-          "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'",
-          "decodeFull": [
-            [
-              "'To",
-              "'zum"
-            ],
-            [
-              "conclude,",
-              "Abschluss,"
-            ],
-            [
-              "I'd",
-              "ich'würde"
-            ],
-            [
-              "like",
-              "mögen"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "run",
-              "durchgehen"
-            ],
-            [
-              "through",
-              "durch"
-            ],
-            [
-              "my",
-              "meine"
-            ],
-            [
-              "main",
-              "Haupt-"
-            ],
-            [
-              "points",
-              "punkte"
-            ],
-            [
-              "again.'",
-              "nochmals.'"
-            ],
-            [
-              "summarizing",
-              "zusammenfassend"
-            ],
-            [
-              "at",
-              "am"
-            ],
-            [
-              "the",
-              "dem"
-            ],
-            [
-              "end",
-              "Ende"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'To",
-                  "'zum"
-                ],
-                [
-                  "conclude,",
-                  "Abschluss,"
-                ],
-                [
-                  "I'd",
-                  "ich'würde"
-                ],
-                [
-                  "like",
-                  "mögen"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "run",
-                  "durchgehen"
-                ],
-                [
-                  "through",
-                  "durch"
-                ],
-                [
-                  "my",
-                  "meine"
-                ],
-                [
-                  "main",
-                  "Haupt-"
-                ],
-                [
-                  "points",
-                  "punkte"
-                ],
-                [
-                  "again.'",
-                  "nochmals.'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'To conclude, I'd like to run through my main points again,' they are summarizing at the end.",
+          "solutionDe": "Wenn eine Rednerin sagt 'To conclude, I'd like to run through my main points again,', dann fasst sie am Schluss zusammen.",
+          "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'",
+          "read": "When a speaker says 'To conclude, I'd like to run through my main points again,' they are summarizing at the end."
         },
         {
           "parts": [
-            "'I'm sorry, could you repeat your question, please?' ",
+            "When a speaker says 'I'm sorry, could you repeat your question, please?', they are ",
             {
               "opts": [
                 "dealing with questions",
                 "explaining a visual",
                 "introducing your topic"
               ],
+              "correct": 0,
               "decode": [
                 "Umgang mit Fragen",
                 "eine Grafik erklären",
                 "das Thema vorstellen"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "dealing with questions",
-          "solutionDe": "Umgang mit Fragen (nach der Präsentation)",
-          "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'",
-          "decodeFull": [
-            [
-              "'I'm",
-              "'ich'bin"
-            ],
-            [
-              "sorry,",
-              "entschuldige,"
-            ],
-            [
-              "could",
-              "könnten"
-            ],
-            [
-              "you",
-              "Sie"
-            ],
-            [
-              "repeat",
-              "wiederholen"
-            ],
-            [
-              "your",
-              "Ihre"
-            ],
-            [
-              "question,",
-              "Frage,"
-            ],
-            [
-              "please?'",
-              "bitte?'"
-            ],
-            [
-              "dealing",
-              "umgehend"
-            ],
-            [
-              "with",
-              "mit"
-            ],
-            [
-              "questions",
-              "Fragen"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'I'm",
-                  "'ich'bin"
-                ],
-                [
-                  "sorry,",
-                  "entschuldige,"
-                ],
-                [
-                  "could",
-                  "könnten"
-                ],
-                [
-                  "you",
-                  "Sie"
-                ],
-                [
-                  "repeat",
-                  "wiederholen"
-                ],
-                [
-                  "your",
-                  "Ihre"
-                ],
-                [
-                  "question,",
-                  "Frage,"
-                ],
-                [
-                  "please?'",
-                  "bitte?'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'I'm sorry, could you repeat your question, please?', they are dealing with questions.",
+          "solutionDe": "Wenn eine Rednerin sagt 'I'm sorry, could you repeat your question, please?', dann geht sie mit Fragen um.",
+          "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'",
+          "read": "When a speaker says 'I'm sorry, could you repeat your question, please?', they are dealing with questions."
         },
         {
           "parts": [
-            "'The purpose of this presentation is to give you an overview of our project.' ",
+            "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are ",
             {
               "opts": [
                 "indicating the end of your talk",
                 "going back to an earlier point",
                 "stating your purpose"
               ],
+              "correct": 2,
               "decode": [
                 "das Ende ankündigen",
                 "auf einen früheren Punkt zurückkommen",
                 "das Ziel/den Zweck nennen"
-              ],
-              "correct": 2
-            }
-          ],
-          "solutionEn": "stating your purpose",
-          "solutionDe": "das Ziel/den Zweck der Präsentation nennen (Einleitung)",
-          "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'",
-          "decodeFull": [
-            [
-              "'The",
-              "'der"
-            ],
-            [
-              "purpose",
-              "Zweck"
-            ],
-            [
-              "of",
-              "von"
-            ],
-            [
-              "this",
-              "dieser"
-            ],
-            [
-              "presentation",
-              "Präsentation"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "to",
-              "zu"
-            ],
-            [
-              "give",
-              "geben"
-            ],
-            [
-              "you",
-              "Ihnen"
-            ],
-            [
-              "an",
-              "einen"
-            ],
-            [
-              "overview",
-              "Überblick"
-            ],
-            [
-              "of",
-              "über"
-            ],
-            [
-              "our",
-              "unser"
-            ],
-            [
-              "project.'",
-              "Projekt.'"
-            ],
-            [
-              "stating",
-              "darlegend"
-            ],
-            [
-              "your",
-              "Ihren"
-            ],
-            [
-              "purpose",
-              "Zweck"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "'The",
-                  "'der"
-                ],
-                [
-                  "purpose",
-                  "Zweck"
-                ],
-                [
-                  "of",
-                  "von"
-                ],
-                [
-                  "this",
-                  "dieser"
-                ],
-                [
-                  "presentation",
-                  "Präsentation"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "to",
-                  "zu"
-                ],
-                [
-                  "give",
-                  "geben"
-                ],
-                [
-                  "you",
-                  "Ihnen"
-                ],
-                [
-                  "an",
-                  "einen"
-                ],
-                [
-                  "overview",
-                  "Überblick"
-                ],
-                [
-                  "of",
-                  "über"
-                ],
-                [
-                  "our",
-                  "unser"
-                ],
-                [
-                  "project.'",
-                  "Projekt.'"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are stating your purpose.",
+          "solutionDe": "Wenn eine Rednerin sagt 'The purpose of this presentation is to give you an overview of our project,', dann nennt sie das Ziel/den Zweck ihrer Präsentation.",
+          "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'",
+          "read": "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are stating your purpose."
         }
       ]
     },
@@ -1488,7 +840,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Let me introduce myself. My name is Lisa Berger."
         },
         {
           "parts": [
@@ -1587,7 +940,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I've divided my presentation into three main parts."
         },
         {
           "parts": [
@@ -1686,7 +1040,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Let's now move on to my next point."
         },
         {
           "parts": [
@@ -1825,7 +1180,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "By the end of this talk you will be familiar with the topic."
         },
         {
           "parts": [
@@ -1932,7 +1288,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "As you can see here, prices went up significantly."
         },
         {
           "parts": [
@@ -2039,7 +1396,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "This brings me to the end of my presentation."
         },
         {
           "parts": [
@@ -2146,7 +1504,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "I'd like to draw your attention to this chart."
         },
         {
           "parts": [
@@ -2245,7 +1604,8 @@
                 ]
               ]
             }
-          ]
+          ],
+          "read": "Feel free to ask questions at any time."
         }
       ]
     },
@@ -2917,483 +2277,94 @@
       "questions": [
         {
           "parts": [
-            "According to the slides, your slides should … ",
+            "According to the slides, your slides should ",
             {
               "opts": [
                 "be crowded and full of text",
                 "use minimal text and meaningful visuals",
                 "use as many animations and transitions as possible"
               ],
+              "correct": 1,
               "decode": [
                 "überladen und voller Text sein",
                 "wenig Text und aussagekräftige Bilder verwenden",
                 "so viele Animationen und Übergänge wie möglich verwenden"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "use minimal text and meaningful visuals",
-          "solutionDe": "wenig Text und aussagekräftige Bilder verwenden",
-          "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen.",
-          "decodeFull": [
-            [
-              "According",
-              "gemäß"
-            ],
-            [
-              "to",
-              "den"
-            ],
-            [
-              "the",
-              "den"
-            ],
-            [
-              "slides,",
-              "Folien,"
-            ],
-            [
-              "your",
-              "deine"
-            ],
-            [
-              "slides",
-              "Folien"
-            ],
-            [
-              "should",
-              "sollten"
-            ],
-            [
-              "…",
-              "…"
-            ],
-            [
-              "use",
-              "verwenden"
-            ],
-            [
-              "minimal",
-              "minimalen"
-            ],
-            [
-              "text",
-              "Text"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "meaningful",
-              "aussagekräftiges"
-            ],
-            [
-              "visuals",
-              "Bildmaterial"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "According",
-                  "gemäß"
-                ],
-                [
-                  "to",
-                  "den"
-                ],
-                [
-                  "the",
-                  "den"
-                ],
-                [
-                  "slides,",
-                  "Folien,"
-                ],
-                [
-                  "your",
-                  "deine"
-                ],
-                [
-                  "slides",
-                  "Folien"
-                ],
-                [
-                  "should",
-                  "sollten"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "According to the slides, your slides should use minimal text and meaningful visuals.",
+          "solutionDe": "Laut den Folien sollten deine Folien wenig Text und aussagekräftige Bilder verwenden.",
+          "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen.",
+          "read": "According to the slides, your slides should use minimal text and meaningful visuals."
         },
         {
           "parts": [
-            "What is a 'hook' in a presentation? ",
+            "A 'hook' in a presentation is ",
             {
               "opts": [
                 "a strategy to gain and maintain the audience's interest",
                 "a cable for the projector",
                 "a difficult question from the audience"
               ],
+              "correct": 0,
               "decode": [
                 "eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten",
                 "ein Kabel für den Beamer",
                 "eine schwierige Frage aus dem Publikum"
-              ],
-              "correct": 0
-            }
-          ],
-          "solutionEn": "a strategy to gain and maintain the audience's interest",
-          "solutionDe": "eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten",
-          "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'.",
-          "decodeFull": [
-            [
-              "What",
-              "was"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "a",
-              "ein"
-            ],
-            [
-              "'hook'",
-              "'Aufhänger'"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "presentation?",
-              "Präsentation?"
-            ],
-            [
-              "a",
-              "eine"
-            ],
-            [
-              "strategy",
-              "Strategie"
-            ],
-            [
-              "to",
-              "um-zu"
-            ],
-            [
-              "gain",
-              "gewinnen"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "maintain",
-              "aufrechterhalten"
-            ],
-            [
-              "the",
-              "das"
-            ],
-            [
-              "audience's",
-              "Publikums-"
-            ],
-            [
-              "interest",
-              "Interesse"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "What",
-                  "was"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "a",
-                  "ein"
-                ],
-                [
-                  "'hook'",
-                  "'Aufhänger'"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "presentation?",
-                  "Präsentation?"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "A 'hook' in a presentation is a strategy to gain and maintain the audience's interest.",
+          "solutionDe": "Ein 'Hook' in einer Präsentation ist eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten.",
+          "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'.",
+          "read": "A 'hook' in a presentation is a strategy to gain and maintain the audience's interest."
         },
         {
           "parts": [
-            "Good body language during a presentation means … ",
+            "Good body language during a presentation means ",
             {
               "opts": [
                 "reading from your notes all the time",
                 "an open stance, facial expressions and eye contact",
                 "standing completely still with your hands in your pockets"
               ],
+              "correct": 1,
               "decode": [
                 "die ganze Zeit von den Notizen ablesen",
                 "eine offene Haltung, Mimik und Blickkontakt",
                 "völlig still stehen mit den Händen in den Taschen"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "an open stance, facial expressions and eye contact",
-          "solutionDe": "eine offene Haltung, Mimik und Blickkontakt",
-          "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt.",
-          "decodeFull": [
-            [
-              "Good",
-              "gute"
-            ],
-            [
-              "body",
-              "Körper-"
-            ],
-            [
-              "language",
-              "sprache"
-            ],
-            [
-              "during",
-              "während"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "presentation",
-              "Präsentation"
-            ],
-            [
-              "means",
-              "bedeutet"
-            ],
-            [
-              "…",
-              "…"
-            ],
-            [
-              "an",
-              "eine"
-            ],
-            [
-              "open",
-              "offene"
-            ],
-            [
-              "stance,",
-              "Haltung,"
-            ],
-            [
-              "facial",
-              "Gesichts-"
-            ],
-            [
-              "expressions",
-              "ausdrücke"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "eye",
-              "Augen-"
-            ],
-            [
-              "contact",
-              "kontakt"
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Good",
-                  "gute"
-                ],
-                [
-                  "body",
-                  "Körper-"
-                ],
-                [
-                  "language",
-                  "sprache"
-                ],
-                [
-                  "during",
-                  "während"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "presentation",
-                  "Präsentation"
-                ],
-                [
-                  "means",
-                  "bedeutet"
-                ]
               ]
             },
-            {
-              "t": "g"
-            }
-          ]
+            "."
+          ],
+          "solutionEn": "Good body language during a presentation means an open stance, facial expressions and eye contact.",
+          "solutionDe": "Gute Körpersprache während einer Präsentation bedeutet eine offene Haltung, Mimik und Blickkontakt.",
+          "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt.",
+          "read": "Good body language during a presentation means an open stance, facial expressions and eye contact."
         },
         {
           "parts": [
-            "Why is repetition useful in a presentation? ",
+            "In a presentation, repetition is useful: ",
             {
               "opts": [
                 "It makes the talk longer.",
                 "It helps memory and creates emphasis.",
                 "It replaces the conclusion."
               ],
+              "correct": 1,
               "decode": [
                 "sie macht den Vortrag länger",
                 "sie hilft dem Gedächtnis und betont Wichtiges",
                 "sie ersetzt den Schluss"
-              ],
-              "correct": 1
-            }
-          ],
-          "solutionEn": "It helps memory and creates emphasis.",
-          "solutionDe": "Sie hilft dem Gedächtnis und betont Wichtiges.",
-          "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation.",
-          "decodeFull": [
-            [
-              "Why",
-              "warum"
-            ],
-            [
-              "is",
-              "ist"
-            ],
-            [
-              "repetition",
-              "Wiederholung"
-            ],
-            [
-              "useful",
-              "nützlich"
-            ],
-            [
-              "in",
-              "in"
-            ],
-            [
-              "a",
-              "einer"
-            ],
-            [
-              "presentation?",
-              "Präsentation?"
-            ],
-            [
-              "It",
-              "sie"
-            ],
-            [
-              "helps",
-              "hilft"
-            ],
-            [
-              "memory",
-              "dem-Gedächtnis"
-            ],
-            [
-              "and",
-              "und"
-            ],
-            [
-              "creates",
-              "schafft"
-            ],
-            [
-              "emphasis.",
-              "Betonung."
-            ]
-          ],
-          "wfw": [
-            {
-              "t": "t",
-              "w": [
-                [
-                  "Why",
-                  "warum"
-                ],
-                [
-                  "is",
-                  "ist"
-                ],
-                [
-                  "repetition",
-                  "Wiederholung"
-                ],
-                [
-                  "useful",
-                  "nützlich"
-                ],
-                [
-                  "in",
-                  "in"
-                ],
-                [
-                  "a",
-                  "einer"
-                ],
-                [
-                  "presentation?",
-                  "Präsentation?"
-                ]
               ]
-            },
-            {
-              "t": "g"
             }
-          ]
+          ],
+          "solutionEn": "In a presentation, repetition is useful: It helps memory and creates emphasis.",
+          "solutionDe": "In einer Präsentation ist Wiederholung nützlich: Sie hilft dem Gedächtnis und betont Wichtiges.",
+          "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation.",
+          "read": "In a presentation, repetition is useful: It helps memory and creates emphasis."
         }
       ]
     }
