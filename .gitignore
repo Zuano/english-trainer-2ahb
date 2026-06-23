@@ -12,6 +12,9 @@ github-upload-neu/
 lernstoff-trainer.skill
 gen_*.py
 
+# Timing work folder (source for timings_sent.js) / Arbeitsordner fuer die Zeitstempel
+.timings_sent/
+
 # Backups / Sicherungskopien (nicht Teil der Website)
 *.bak*
 content.bak/

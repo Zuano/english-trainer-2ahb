@@ -2368,7 +2368,57 @@
           "solutionEn": "Britain is unique because it is home to a rich, diverse culture.",
           "solutionDe": "Großbritannien ist einzigartig, weil es eine reiche, vielfältige Kultur beherbergt.",
           "explain": "Im Text: „home to a great heritage and many traditions … unique“. (Beispiel 0 – schon vorgegeben.)",
-          "read": "Britain is unique because it is home to a rich, diverse culture."
+          "read": "Britain is unique because it is home to a rich, diverse culture.",
+          "rdec": [
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "unique",
+              "einzigartig"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "home",
+              "Heimat"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "rich,",
+              "reiche,"
+            ],
+            [
+              "diverse",
+              "vielfältige"
+            ],
+            [
+              "culture.",
+              "Kultur."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2393,7 +2443,61 @@
           "solutionEn": "According to Juan, there is a big difference between Paraguay and the UK.",
           "solutionDe": "Laut Juan gibt es einen großen Unterschied zwischen Paraguay und dem UK.",
           "explain": "Juan vergleicht Kultur, Bevölkerung und Sicherheit/Gleichheit – also ein großer Unterschied zwischen den Ländern.",
-          "read": "According to Juan, there is a big difference between Paraguay and the UK."
+          "read": "According to Juan, there is a big difference between Paraguay and the UK.",
+          "rdec": [
+            [
+              "According",
+              "Laut"
+            ],
+            [
+              "to",
+              "–"
+            ],
+            [
+              "Juan,",
+              "Juan,"
+            ],
+            [
+              "there",
+              "es"
+            ],
+            [
+              "is",
+              "gibt"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "big",
+              "großer"
+            ],
+            [
+              "difference",
+              "Unterschied"
+            ],
+            [
+              "between",
+              "zwischen"
+            ],
+            [
+              "Paraguay",
+              "Paraguay"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK.",
+              "UK."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2418,7 +2522,69 @@
           "solutionEn": "Juan believes that in the UK people are more equal and safer than in Paraguay.",
           "solutionDe": "Juan glaubt, dass die Menschen im UK gleichberechtigter und sicherer sind als in Paraguay.",
           "explain": "Originalzitat: „people are safer and more equal compared to where I come from.“",
-          "read": "Juan believes that in the UK people are more equal and safer than in Paraguay."
+          "read": "Juan believes that in the UK people are more equal and safer than in Paraguay.",
+          "rdec": [
+            [
+              "Juan",
+              "Juan"
+            ],
+            [
+              "believes",
+              "glaubt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "equal",
+              "gleichberechtigt"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "safer",
+              "sicherer"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Paraguay.",
+              "Paraguay."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2443,7 +2609,49 @@
           "solutionEn": "The next speaker admires London because it is always busy.",
           "solutionDe": "Der nächste Sprecher bewundert London, weil dort immer etwas los ist.",
           "explain": "„I like that it's busy and that it's on the go all the time.“",
-          "read": "The next speaker admires London because it is always busy."
+          "read": "The next speaker admires London because it is always busy.",
+          "rdec": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "next",
+              "nächste"
+            ],
+            [
+              "speaker",
+              "Sprecher"
+            ],
+            [
+              "admires",
+              "bewundert"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "always",
+              "immer"
+            ],
+            [
+              "busy.",
+              "geschäftig."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2468,7 +2676,61 @@
           "solutionEn": "According to the same speaker, the best thing about London is the underground (the Tube).",
           "solutionDe": "Laut demselben Sprecher ist das Beste an London die U-Bahn (die Tube).",
           "explain": "„The best thing ever is the London Tube.“ Tube = underground.",
-          "read": "According to the same speaker, the best thing about London is the underground."
+          "read": "According to the same speaker, the best thing about London is the underground.",
+          "rdec": [
+            [
+              "According",
+              "Laut"
+            ],
+            [
+              "to",
+              "–"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "same",
+              "selben"
+            ],
+            [
+              "speaker,",
+              "Sprecher,"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "best",
+              "beste"
+            ],
+            [
+              "thing",
+              "Ding"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "underground.",
+              "U-Bahn."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2493,7 +2755,73 @@
           "solutionEn": "Some people live in the UK because it is a good starting point for travelling Europe.",
           "solutionDe": "Manche leben im UK, weil es ein guter Ausgangspunkt ist, um Europa zu bereisen.",
           "explain": "„it's the gateway to Europe … London is the gateway to Europe.“ gateway = Tor/Ausgangspunkt.",
-          "read": "Some people live in the UK because it is a good starting point for travelling Europe."
+          "read": "Some people live in the UK because it is a good starting point for travelling Europe.",
+          "rdec": [
+            [
+              "Some",
+              "Manche"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "live",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "good",
+              "guter"
+            ],
+            [
+              "starting",
+              "Ausgangs"
+            ],
+            [
+              "point",
+              "punkt"
+            ],
+            [
+              "for",
+              "zum"
+            ],
+            [
+              "travelling",
+              "Reisen"
+            ],
+            [
+              "Europe.",
+              "Europa."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2518,7 +2846,65 @@
           "solutionEn": "Compared to the Caribbean, students in the UK have to pay lower tuition fees.",
           "solutionDe": "Verglichen mit der Karibik müssen Studierende im UK niedrigere Studiengebühren zahlen.",
           "explain": "„education in the UK is a bit cheaper compared to … a university in the US or in the Caribbean.“ Der direkte Vergleich ist der Preis (cheaper). „grants“ wären zwar leichter zu bekommen, aber gefragt ist der Vergleich zur Karibik.",
-          "read": "Compared to the Caribbean, students in the UK have to pay lower tuition fees."
+          "read": "Compared to the Caribbean, students in the UK have to pay lower tuition fees.",
+          "rdec": [
+            [
+              "Compared",
+              "Verglichen"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "Caribbean,",
+              "Karibik,"
+            ],
+            [
+              "students",
+              "Studenten"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "have",
+              "müssen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "lower",
+              "niedrigere"
+            ],
+            [
+              "tuition",
+              "Studien"
+            ],
+            [
+              "fees.",
+              "gebühren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2543,7 +2929,33 @@
           "solutionEn": "A multicultural society improves a culture.",
           "solutionDe": "Eine multikulturelle Gesellschaft bereichert eine Kultur.",
           "explain": "Schluss: „adds much color … a very interesting and vibrant culture.“",
-          "read": "A multicultural society improves a culture."
+          "read": "A multicultural society improves a culture.",
+          "rdec": [
+            [
+              "A",
+              "Eine"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "improves",
+              "verbessert"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "culture.",
+              "Kultur."
+            ]
+          ]
         }
       ]
     },
@@ -2575,7 +2987,49 @@
           "solutionEn": "…a multiracial and multicultural society.",
           "solutionDe": "…eine multiethnische und multikulturelle Gesellschaft.",
           "explain": "multicultural = multikulturell (viele Kulturen).",
-          "read": "As we know, Britain has a multiracial and multicultural society."
+          "read": "As we know, Britain has a multiracial and multicultural society.",
+          "rdec": [
+            [
+              "As",
+              "Wie"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "know,",
+              "wissen,"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "multiracial",
+              "multiethnische"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society.",
+              "Gesellschaft."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2598,7 +3052,49 @@
           "solutionEn": "It is home to a great heritage and many traditions.",
           "solutionDe": "Es ist Heimat eines großen Erbes und vieler Traditionen.",
           "explain": "heritage = (kulturelles) Erbe.",
-          "read": "It is home to a great heritage and many traditions."
+          "read": "It is home to a great heritage and many traditions.",
+          "rdec": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "home",
+              "Heimat"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "great",
+              "großes"
+            ],
+            [
+              "heritage",
+              "Erbe"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "traditions.",
+              "Traditionen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2621,7 +3117,73 @@
           "solutionEn": "…the country of their origin?",
           "solutionDe": "…das Land ihrer Herkunft?",
           "explain": "origin = Herkunft, Ursprung.",
-          "read": "Why do people choose to live in Britain instead of in the country of their origin?"
+          "read": "Why do people choose to live in Britain instead of in the country of their origin?",
+          "rdec": [
+            [
+              "Why",
+              "Warum"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "choose",
+              "wählen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "live",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "instead",
+              "statt"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "their",
+              "ihrer"
+            ],
+            [
+              "origin?",
+              "Herkunft?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2644,7 +3206,37 @@
           "solutionEn": "What makes Britain so appealing to them?",
           "solutionDe": "Was macht Großbritannien für sie so reizvoll?",
           "explain": "appealing = reizvoll, ansprechend (nicht: appalling = abscheulich).",
-          "read": "What makes Britain so appealing to them?"
+          "read": "What makes Britain so appealing to them?",
+          "rdec": [
+            [
+              "What",
+              "Was"
+            ],
+            [
+              "makes",
+              "macht"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "appealing",
+              "reizvoll"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "them?",
+              "sie?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2667,7 +3259,57 @@
           "solutionEn": "Another advantage of living in the UK…",
           "solutionDe": "Ein weiterer Vorteil des Lebens im UK…",
           "explain": "advantage = Vorteil.",
-          "read": "Another advantage of living in the UK is that people are safer."
+          "read": "Another advantage of living in the UK is that people are safer.",
+          "rdec": [
+            [
+              "Another",
+              "Ein weiterer"
+            ],
+            [
+              "advantage",
+              "Vorteil"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "living",
+              "Lebens"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "safer.",
+              "sicherer."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2690,7 +3332,57 @@
           "solutionEn": "…safer and more equal…",
           "solutionDe": "…sicherer und gleichberechtigter…",
           "explain": "equal (Adjektiv) = gleich(berechtigt).",
-          "read": "People are safer and more equal compared to where I come from."
+          "read": "People are safer and more equal compared to where I come from.",
+          "rdec": [
+            [
+              "People",
+              "Menschen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "safer",
+              "sicherer"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "equal",
+              "gleichberechtigt"
+            ],
+            [
+              "compared",
+              "verglichen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "come",
+              "komme"
+            ],
+            [
+              "from.",
+              "her."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2713,7 +3405,33 @@
           "solutionEn": "London is the gateway to Europe.",
           "solutionDe": "London ist das Tor nach Europa.",
           "explain": "gateway to Europe = Tor nach Europa.",
-          "read": "London is the gateway to Europe."
+          "read": "London is the gateway to Europe.",
+          "rdec": [
+            [
+              "London",
+              "London"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "gateway",
+              "Tor"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "Europe.",
+              "Europa."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2736,7 +3454,69 @@
           "solutionEn": "…to get university grants…",
           "solutionDe": "…Uni-Stipendien zu bekommen…",
           "explain": "grant = Stipendium / Zuschuss.",
-          "read": "It is a lot easier to get university grants for people who cannot afford education."
+          "read": "It is a lot easier to get university grants for people who cannot afford education.",
+          "rdec": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "lot",
+              "viel"
+            ],
+            [
+              "easier",
+              "leichter"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "get",
+              "bekommen"
+            ],
+            [
+              "university",
+              "Universitäts-"
+            ],
+            [
+              "grants",
+              "Stipendien"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "cannot",
+              "nicht können"
+            ],
+            [
+              "afford",
+              "leisten"
+            ],
+            [
+              "education.",
+              "Bildung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2759,7 +3539,45 @@
           "solutionEn": "…adds much color to our lives.",
           "solutionDe": "…verleiht unserem Leben viel Farbe.",
           "explain": "to add color = Farbe/Lebendigkeit verleihen.",
-          "read": "Our multicultural society adds much color to our lives."
+          "read": "Our multicultural society adds much color to our lives.",
+          "rdec": [
+            [
+              "Our",
+              "Unsere"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "adds",
+              "verleiht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "color",
+              "Farbe"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "our",
+              "unserem"
+            ],
+            [
+              "lives.",
+              "Leben."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2782,7 +3600,53 @@
           "solutionEn": "…interesting and vibrant culture.",
           "solutionDe": "…interessante und lebendige Kultur.",
           "explain": "vibrant = lebendig, pulsierend.",
-          "read": "Britain's diverse society makes for a very interesting and vibrant culture."
+          "read": "Britain's diverse society makes for a very interesting and vibrant culture.",
+          "rdec": [
+            [
+              "Britain's",
+              "Großbritanniens"
+            ],
+            [
+              "diverse",
+              "vielfältige"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "makes",
+              "macht"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "interesting",
+              "interessante"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "vibrant",
+              "lebendige"
+            ],
+            [
+              "culture.",
+              "Kultur."
+            ]
+          ]
         }
       ]
     },
@@ -2813,7 +3677,53 @@
           ],
           "solutionEn": "Britain is a multicultural society with people from many different backgrounds.",
           "solutionDe": "Großbritannien ist eine multikulturelle Gesellschaft mit Menschen aus vielen verschiedenen Herkünften.",
-          "read": "Britain is a multicultural society with people from many different backgrounds."
+          "read": "Britain is a multicultural society with people from many different backgrounds.",
+          "rdec": [
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "multicultural",
+              "multikulturelle"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "from",
+              "aus"
+            ],
+            [
+              "many",
+              "vielen"
+            ],
+            [
+              "different",
+              "verschiedenen"
+            ],
+            [
+              "backgrounds.",
+              "Hintergründen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2835,7 +3745,73 @@
           ],
           "solutionEn": "London has a multiracial population, with people of many different ethnic backgrounds living side by side.",
           "solutionDe": "London hat eine multiethnische Bevölkerung, in der Menschen vieler verschiedener ethnischer Herkünfte Seite an Seite leben.",
-          "read": "London has a multiracial population, with people of many different ethnic backgrounds living side by side."
+          "read": "London has a multiracial population, with people of many different ethnic backgrounds living side by side.",
+          "rdec": [
+            [
+              "London",
+              "London"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "multiracial",
+              "multiethnische"
+            ],
+            [
+              "population,",
+              "Bevölkerung,"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "of",
+              "aus"
+            ],
+            [
+              "many",
+              "vielen"
+            ],
+            [
+              "different",
+              "verschiedenen"
+            ],
+            [
+              "ethnic",
+              "ethnischen"
+            ],
+            [
+              "backgrounds",
+              "Hintergründen"
+            ],
+            [
+              "living",
+              "die leben"
+            ],
+            [
+              "side",
+              "Seite"
+            ],
+            [
+              "by",
+              "an"
+            ],
+            [
+              "side.",
+              "Seite."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2857,7 +3833,73 @@
           ],
           "solutionEn": "Britain is proud of its rich cultural heritage, which has been passed down over many generations.",
           "solutionDe": "Großbritannien ist stolz auf sein reiches kulturelles Erbe, das über viele Generationen weitergegeben wurde.",
-          "read": "Britain is proud of its rich cultural heritage, which has been passed down over many generations."
+          "read": "Britain is proud of its rich cultural heritage, which has been passed down over many generations.",
+          "rdec": [
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "proud",
+              "stolz"
+            ],
+            [
+              "of",
+              "auf"
+            ],
+            [
+              "its",
+              "sein"
+            ],
+            [
+              "rich",
+              "reiches"
+            ],
+            [
+              "cultural",
+              "kulturelles"
+            ],
+            [
+              "heritage,",
+              "Erbe,"
+            ],
+            [
+              "which",
+              "das"
+            ],
+            [
+              "has",
+              "ist"
+            ],
+            [
+              "been",
+              "worden"
+            ],
+            [
+              "passed",
+              "weitergegeben"
+            ],
+            [
+              "down",
+              "hinunter"
+            ],
+            [
+              "over",
+              "über"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "generations.",
+              "Generationen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2879,7 +3921,85 @@
           ],
           "solutionEn": "Many people in the UK now live far from their country of origin, where their families originally came from.",
           "solutionDe": "Viele Menschen im UK leben heute weit entfernt von ihrem Herkunftsland, aus dem ihre Familien ursprünglich stammen.",
-          "read": "Many people in the UK now live far from their country of origin, where their families originally came from."
+          "read": "Many people in the UK now live far from their country of origin, where their families originally came from.",
+          "rdec": [
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "live",
+              "leben"
+            ],
+            [
+              "far",
+              "weit"
+            ],
+            [
+              "from",
+              "weg von"
+            ],
+            [
+              "their",
+              "ihrem"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "of",
+              "der"
+            ],
+            [
+              "origin,",
+              "Herkunft,"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "their",
+              "ihre"
+            ],
+            [
+              "families",
+              "Familien"
+            ],
+            [
+              "originally",
+              "ursprünglich"
+            ],
+            [
+              "came",
+              "kamen"
+            ],
+            [
+              "from.",
+              "her."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2901,7 +4021,77 @@
           ],
           "solutionEn": "Living in such a diverse city is very appealing to young people who love meeting new cultures.",
           "solutionDe": "In einer so vielfältigen Stadt zu leben ist für junge Menschen, die es lieben, neue Kulturen kennenzulernen, sehr reizvoll.",
-          "read": "Living in such a diverse city is very appealing to young people who love meeting new cultures."
+          "read": "Living in such a diverse city is very appealing to young people who love meeting new cultures.",
+          "rdec": [
+            [
+              "Living",
+              "Das Leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "such",
+              "so"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "diverse",
+              "vielfältigen"
+            ],
+            [
+              "city",
+              "Stadt"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "appealing",
+              "reizvoll"
+            ],
+            [
+              "to",
+              "für"
+            ],
+            [
+              "young",
+              "junge"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "love",
+              "lieben"
+            ],
+            [
+              "meeting",
+              "kennenzulernen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "cultures.",
+              "Kulturen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2923,7 +4113,73 @@
           ],
           "solutionEn": "One big advantage of living in the UK is that public transport is cheap and reliable.",
           "solutionDe": "Ein großer Vorteil des Lebens im UK ist, dass die öffentlichen Verkehrsmittel günstig und zuverlässig sind.",
-          "read": "One big advantage of living in the UK is that public transport is cheap and reliable."
+          "read": "One big advantage of living in the UK is that public transport is cheap and reliable.",
+          "rdec": [
+            [
+              "One",
+              "Ein"
+            ],
+            [
+              "big",
+              "großer"
+            ],
+            [
+              "advantage",
+              "Vorteil"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "living",
+              "Lebens"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "public",
+              "öffentliche"
+            ],
+            [
+              "transport",
+              "Verkehr"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "cheap",
+              "billig"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "reliable.",
+              "verlässlich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2945,7 +4201,61 @@
           ],
           "solutionEn": "Britain has a very diverse society, with people from all over the world.",
           "solutionDe": "Großbritannien hat eine sehr vielfältige Gesellschaft, mit Menschen aus der ganzen Welt.",
-          "read": "Britain has a very diverse society, with people from all over the world."
+          "read": "Britain has a very diverse society, with people from all over the world.",
+          "rdec": [
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "diverse",
+              "vielfältige"
+            ],
+            [
+              "society,",
+              "Gesellschaft,"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "from",
+              "aus"
+            ],
+            [
+              "all",
+              "der ganzen"
+            ],
+            [
+              "over",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "world.",
+              "Welt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2967,7 +4277,73 @@
           ],
           "solutionEn": "This mix of cultures makes London a vibrant city that is full of life and energy.",
           "solutionDe": "Diese Mischung der Kulturen macht London zu einer lebendigen Stadt, die voller Leben und Energie ist.",
-          "read": "This mix of cultures makes London a vibrant city that is full of life and energy."
+          "read": "This mix of cultures makes London a vibrant city that is full of life and energy.",
+          "rdec": [
+            [
+              "This",
+              "Diese"
+            ],
+            [
+              "mix",
+              "Mischung"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "cultures",
+              "Kulturen"
+            ],
+            [
+              "makes",
+              "macht"
+            ],
+            [
+              "London",
+              "London"
+            ],
+            [
+              "a",
+              "zu einer"
+            ],
+            [
+              "vibrant",
+              "lebendigen"
+            ],
+            [
+              "city",
+              "Stadt"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "full",
+              "voller"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "life",
+              "Leben"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "energy.",
+              "Energie."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2989,7 +4365,77 @@
           ],
           "solutionEn": "When you move abroad, it is best to embrace the local culture instead of fighting against it.",
           "solutionDe": "Wenn man ins Ausland zieht, ist es am besten, die örtliche Kultur anzunehmen, anstatt sich gegen sie zu wehren.",
-          "read": "When you move abroad, it is best to embrace the local culture instead of fighting against it."
+          "read": "When you move abroad, it is best to embrace the local culture instead of fighting against it.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "move",
+              "ziehst"
+            ],
+            [
+              "abroad,",
+              "ins Ausland,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "best",
+              "am besten"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "embrace",
+              "annehmen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "local",
+              "lokale"
+            ],
+            [
+              "culture",
+              "Kultur"
+            ],
+            [
+              "instead",
+              "statt"
+            ],
+            [
+              "of",
+              "zu"
+            ],
+            [
+              "fighting",
+              "ankämpfen"
+            ],
+            [
+              "against",
+              "gegen"
+            ],
+            [
+              "it.",
+              "es."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3011,7 +4457,77 @@
           ],
           "solutionEn": "It usually takes a few weeks to settle in and feel at home in a new country.",
           "solutionDe": "Es dauert normalerweise ein paar Wochen, um sich einzuleben und sich in einem neuen Land zu Hause zu fühlen.",
-          "read": "It usually takes a few weeks to settle in and feel at home in a new country."
+          "read": "It usually takes a few weeks to settle in and feel at home in a new country.",
+          "rdec": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "usually",
+              "normalerweise"
+            ],
+            [
+              "takes",
+              "dauert"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "few",
+              "paar"
+            ],
+            [
+              "weeks",
+              "Wochen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "settle",
+              "einleben"
+            ],
+            [
+              "in",
+              "sich"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home",
+              "Hause"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "country.",
+              "Land."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3033,7 +4549,89 @@
           ],
           "solutionEn": "During her exchange year she stayed with a friendly host family who treated her like one of their own children.",
           "solutionDe": "Während ihres Austauschjahres wohnte sie bei einer freundlichen Gastfamilie, die sie wie eines ihrer eigenen Kinder behandelte.",
-          "read": "During her exchange year she stayed with a friendly host family who treated her like one of their own children."
+          "read": "During her exchange year she stayed with a friendly host family who treated her like one of their own children.",
+          "rdec": [
+            [
+              "During",
+              "Während"
+            ],
+            [
+              "her",
+              "ihres"
+            ],
+            [
+              "exchange",
+              "Austausch-"
+            ],
+            [
+              "year",
+              "jahres"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "stayed",
+              "wohnte"
+            ],
+            [
+              "with",
+              "bei"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "friendly",
+              "freundlichen"
+            ],
+            [
+              "host",
+              "Gast-"
+            ],
+            [
+              "family",
+              "familie"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "treated",
+              "behandelte"
+            ],
+            [
+              "her",
+              "sie"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "one",
+              "eines"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "their",
+              "ihren"
+            ],
+            [
+              "own",
+              "eigenen"
+            ],
+            [
+              "children.",
+              "Kindern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3055,7 +4653,81 @@
           ],
           "solutionEn": "Every country has its own table etiquette, so it helps to learn the local manners before you visit.",
           "solutionDe": "Jedes Land hat seine eigenen Tischmanieren, daher hilft es, die örtlichen Umgangsformen zu lernen, bevor man zu Besuch kommt.",
-          "read": "Every country has its own table etiquette, so it helps to learn the local manners before you visit."
+          "read": "Every country has its own table etiquette, so it helps to learn the local manners before you visit.",
+          "rdec": [
+            [
+              "Every",
+              "Jedes"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "its",
+              "seine"
+            ],
+            [
+              "own",
+              "eigene"
+            ],
+            [
+              "table",
+              "Tisch-"
+            ],
+            [
+              "etiquette,",
+              "etikette,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "helps",
+              "hilft"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "learn",
+              "lernen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "local",
+              "lokalen"
+            ],
+            [
+              "manners",
+              "Umgangsformen"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "visit.",
+              "besuchst."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3077,7 +4749,73 @@
           ],
           "solutionEn": "It is important not to make judgments about people before you really get to know them.",
           "solutionDe": "Es ist wichtig, nicht über Menschen zu urteilen, bevor man sie wirklich kennenlernt.",
-          "read": "It is important not to make judgments about people before you really get to know them."
+          "read": "It is important not to make judgments about people before you really get to know them.",
+          "rdec": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "important",
+              "wichtig"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "judgments",
+              "Urteile"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "get",
+              "kommst dazu"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "know",
+              "kennen"
+            ],
+            [
+              "them.",
+              "sie."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3099,7 +4837,73 @@
           ],
           "solutionEn": "If you are courteous and polite to everyone, it is much easier to make new friends.",
           "solutionDe": "Wenn man zu allen höflich und zuvorkommend ist, ist es viel leichter, neue Freunde zu finden.",
-          "read": "If you are courteous and polite to everyone, it is much easier to make new friends."
+          "read": "If you are courteous and polite to everyone, it is much easier to make new friends.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "are",
+              "bist"
+            ],
+            [
+              "courteous",
+              "zuvorkommend"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "polite",
+              "höflich"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "everyone,",
+              "jedem,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "easier",
+              "leichter"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3121,7 +4925,69 @@
           ],
           "solutionEn": "We should not believe every stereotype about a country, because such clichés are often wrong.",
           "solutionDe": "Wir sollten nicht jedes Klischee über ein Land glauben, denn solche Stereotype sind oft falsch.",
-          "read": "We should not believe every stereotype about a country, because such clichés are often wrong."
+          "read": "We should not believe every stereotype about a country, because such clichés are often wrong.",
+          "rdec": [
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "believe",
+              "glauben"
+            ],
+            [
+              "every",
+              "jedes"
+            ],
+            [
+              "stereotype",
+              "Klischee"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "country,",
+              "Land,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "such",
+              "solche"
+            ],
+            [
+              "clichés",
+              "Klischees"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "often",
+              "oft"
+            ],
+            [
+              "wrong.",
+              "falsch."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3143,7 +5009,73 @@
           ],
           "solutionEn": "After school, many British students take a gap year and travel abroad before they start university.",
           "solutionDe": "Nach der Schule machen viele britische Schüler ein Zwischenjahr und reisen ins Ausland, bevor sie mit dem Studium beginnen.",
-          "read": "After school, many British students take a gap year and travel abroad before they start university."
+          "read": "After school, many British students take a gap year and travel abroad before they start university.",
+          "rdec": [
+            [
+              "After",
+              "Nach"
+            ],
+            [
+              "school,",
+              "der Schule,"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "British",
+              "britische"
+            ],
+            [
+              "students",
+              "Schüler"
+            ],
+            [
+              "take",
+              "nehmen"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "gap",
+              "Zwischen-"
+            ],
+            [
+              "year",
+              "jahr"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "travel",
+              "reisen"
+            ],
+            [
+              "abroad",
+              "ins Ausland"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "start",
+              "beginnen"
+            ],
+            [
+              "university.",
+              "die Universität."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3165,7 +5097,77 @@
           ],
           "solutionEn": "Students in the UK have to pay tuition fees, which can cost several thousand pounds each year.",
           "solutionDe": "Studierende im UK müssen Studiengebühren zahlen, die jedes Jahr mehrere tausend Pfund kosten können.",
-          "read": "Students in the UK have to pay tuition fees, which can cost several thousand pounds each year."
+          "read": "Students in the UK have to pay tuition fees, which can cost several thousand pounds each year.",
+          "rdec": [
+            [
+              "Students",
+              "Schüler"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "UK",
+              "UK"
+            ],
+            [
+              "have",
+              "müssen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "tuition",
+              "Studien-"
+            ],
+            [
+              "fees,",
+              "gebühren,"
+            ],
+            [
+              "which",
+              "die"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "cost",
+              "kosten"
+            ],
+            [
+              "several",
+              "mehrere"
+            ],
+            [
+              "thousand",
+              "tausend"
+            ],
+            [
+              "pounds",
+              "Pfund"
+            ],
+            [
+              "each",
+              "jedes"
+            ],
+            [
+              "year.",
+              "Jahr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3187,7 +5189,81 @@
           ],
           "solutionEn": "It can take time to adapt to a new culture and to the way people do things there.",
           "solutionDe": "Es kann eine Weile dauern, sich an eine neue Kultur und an die Art, wie die Menschen dort Dinge tun, anzupassen.",
-          "read": "It can take time to adapt to a new culture and to the way people do things there."
+          "read": "It can take time to adapt to a new culture and to the way people do things there.",
+          "rdec": [
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "take",
+              "brauchen"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "adapt",
+              "anpassen"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "culture",
+              "Kultur"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "to",
+              "an"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "way",
+              "Art"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "things",
+              "Dinge"
+            ],
+            [
+              "there.",
+              "dort."
+            ]
+          ]
         }
       ]
     },
@@ -3215,7 +5291,73 @@
           ],
           "solutionEn": "TRUE – Moving to a different country is a chance to learn about a new culture.",
           "solutionDe": "„see this as a chance to embrace a new culture.“",
-          "read": "TRUE – Moving to a different country is a chance to learn about a new culture."
+          "read": "TRUE – Moving to a different country is a chance to learn about a new culture.",
+          "rdec": [
+            [
+              "TRUE",
+              "RICHTIG"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Moving",
+              "Umziehen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "different",
+              "anderes"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "chance",
+              "Chance"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "learn",
+              "lernen"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "culture.",
+              "Kultur."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3234,7 +5376,69 @@
           ],
           "solutionEn": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends.",
           "solutionDe": "Falsch – der Text sagt, es IST „a great way to meet people“.",
-          "read": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends."
+          "read": "FALSE – Taking part in extra-curricular activities isn't the best way to make new friends.",
+          "rdec": [
+            [
+              "FALSE",
+              "FALSCH"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Taking",
+              "Teilnehmen"
+            ],
+            [
+              "part",
+              "teil"
+            ],
+            [
+              "in",
+              "an"
+            ],
+            [
+              "extra-curricular",
+              "außerschulischen"
+            ],
+            [
+              "activities",
+              "Aktivitäten"
+            ],
+            [
+              "isn't",
+              "ist nicht"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "best",
+              "beste"
+            ],
+            [
+              "way",
+              "Weg"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3253,7 +5457,57 @@
           ],
           "solutionEn": "TRUE – Being polite and respectful allows you to build new relationships.",
           "solutionDe": "„Respect and politeness are generally very important … be courteous.“",
-          "read": "TRUE – Being polite and respectful allows you to build new relationships."
+          "read": "TRUE – Being polite and respectful allows you to build new relationships.",
+          "rdec": [
+            [
+              "TRUE",
+              "RICHTIG"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Being",
+              "Sein"
+            ],
+            [
+              "polite",
+              "höflich"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "respectful",
+              "respektvoll"
+            ],
+            [
+              "allows",
+              "erlaubt"
+            ],
+            [
+              "you",
+              "dir"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "build",
+              "aufbauen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "relationships.",
+              "Beziehungen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3272,7 +5526,53 @@
           ],
           "solutionEn": "TRUE – Judging people before getting to know them isn't helpful.",
           "solutionDe": "„It's important not to make judgments about people …“.",
-          "read": "TRUE – Judging people before getting to know them isn't helpful."
+          "read": "TRUE – Judging people before getting to know them isn't helpful.",
+          "rdec": [
+            [
+              "TRUE",
+              "RICHTIG"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "Judging",
+              "Verurteilen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "getting",
+              "kennenlernen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "know",
+              "kennen"
+            ],
+            [
+              "them",
+              "sie"
+            ],
+            [
+              "isn't",
+              "ist nicht"
+            ],
+            [
+              "helpful.",
+              "hilfreich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3291,7 +5591,73 @@
           ],
           "solutionEn": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems.",
           "solutionDe": "Falsch – der Text verspricht „a lifetime of memories“, nicht neue Probleme.",
-          "read": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems."
+          "read": "FALSE – When you become familiar with your new surroundings, you will mostly face new problems.",
+          "rdec": [
+            [
+              "FALSE",
+              "FALSCH"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "become",
+              "wirst"
+            ],
+            [
+              "familiar",
+              "vertraut"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "your",
+              "deiner"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "surroundings,",
+              "Umgebung,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "mostly",
+              "meistens"
+            ],
+            [
+              "face",
+              "begegnen"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "problems.",
+              "Problemen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3310,7 +5676,77 @@
           ],
           "solutionEn": "TRUE – You should show an interest in others so that they show an interest in you.",
           "solutionDe": "„show an interest in the students … they will be very interested in learning all about you.“",
-          "read": "TRUE – You should show an interest in others so that they show an interest in you."
+          "read": "TRUE – You should show an interest in others so that they show an interest in you.",
+          "rdec": [
+            [
+              "TRUE",
+              "RICHTIG"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "You",
+              "Du"
+            ],
+            [
+              "should",
+              "solltest"
+            ],
+            [
+              "show",
+              "zeigst"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "interest",
+              "Interesse"
+            ],
+            [
+              "in",
+              "an"
+            ],
+            [
+              "others",
+              "anderen"
+            ],
+            [
+              "so",
+              "damit"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "show",
+              "zeigen"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "interest",
+              "Interesse"
+            ],
+            [
+              "in",
+              "an"
+            ],
+            [
+              "you.",
+              "dir."
+            ]
+          ]
         }
       ]
     },
@@ -3343,7 +5779,65 @@
           "solutionEn": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions.",
           "solutionDe": "Meiner Meinung nach bereichert Multikulturalität eine Gesellschaft, weil sie neue Ideen und Traditionen bringt.",
           "explain": "3. Person Singular: it enriches.",
-          "read": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions."
+          "read": "In my opinion, multiculturalism enriches a society because it brings new ideas and traditions.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "opinion,",
+              "Meinung,"
+            ],
+            [
+              "multiculturalism",
+              "Multikulturalität"
+            ],
+            [
+              "enriches",
+              "bereichert"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "society",
+              "Gesellschaft"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "sie"
+            ],
+            [
+              "brings",
+              "bringt"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "ideas",
+              "Ideen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "traditions.",
+              "Traditionen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3366,7 +5860,45 @@
           "solutionEn": "I totally agree that everyone should respect other cultures.",
           "solutionDe": "Ich stimme völlig zu, dass jeder andere Kulturen respektieren sollte.",
           "explain": "Adverb totally beschreibt das Verb agree.",
-          "read": "I totally agree that everyone should respect other cultures."
+          "read": "I totally agree that everyone should respect other cultures.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "totally",
+              "völlig"
+            ],
+            [
+              "agree",
+              "stimme zu"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "everyone",
+              "jeder"
+            ],
+            [
+              "should",
+              "sollte"
+            ],
+            [
+              "respect",
+              "respektieren"
+            ],
+            [
+              "other",
+              "andere"
+            ],
+            [
+              "cultures.",
+              "Kulturen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3390,7 +5922,57 @@
           "solutionEn": "Living in a multicultural country allows us to learn from each other.",
           "solutionDe": "In einem multikulturellen Land zu leben ermöglicht es uns, voneinander zu lernen.",
           "explain": "Subjekt (Gerundium) = 3. Person Singular: allows.",
-          "read": "Living in a multicultural country allows us to learn from each other."
+          "read": "Living in a multicultural country allows us to learn from each other.",
+          "rdec": [
+            [
+              "Living",
+              "Leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "multicultural",
+              "multikulturellen"
+            ],
+            [
+              "country",
+              "Land"
+            ],
+            [
+              "allows",
+              "erlaubt"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "learn",
+              "lernen"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "each",
+              "jedem"
+            ],
+            [
+              "other.",
+              "anderen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3413,7 +5995,57 @@
           "solutionEn": "I partly agree with this statement, but I also see some challenges.",
           "solutionDe": "Ich stimme dieser Aussage teilweise zu, sehe aber auch einige Herausforderungen.",
           "explain": "agree WITH a statement/person (agree TO = einem Vorschlag zustimmen).",
-          "read": "I partly agree with this statement, but I also see some challenges."
+          "read": "I partly agree with this statement, but I also see some challenges.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "partly",
+              "teilweise"
+            ],
+            [
+              "agree",
+              "stimme zu"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "statement,",
+              "Aussage,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "see",
+              "sehe"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "challenges.",
+              "Herausforderungen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3436,7 +6068,49 @@
           "solutionEn": "From my point of view, diversity makes life more interesting.",
           "solutionDe": "Aus meiner Sicht macht Vielfalt das Leben interessanter.",
           "explain": "Feste Wendung: from my point of view.",
-          "read": "From my point of view, diversity makes life more interesting."
+          "read": "From my point of view, diversity makes life more interesting.",
+          "rdec": [
+            [
+              "From",
+              "Aus"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "point",
+              "Punkt"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "view,",
+              "Sicht,"
+            ],
+            [
+              "diversity",
+              "Vielfalt"
+            ],
+            [
+              "makes",
+              "macht"
+            ],
+            [
+              "life",
+              "Leben"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "interesting.",
+              "interessant."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3459,7 +6133,53 @@
           "solutionEn": "In a multicultural society, people should be open-minded towards other traditions.",
           "solutionDe": "In einer multikulturellen Gesellschaft sollten Menschen anderen Traditionen gegenüber aufgeschlossen sein.",
           "explain": "open-minded = aufgeschlossen.",
-          "read": "In a multicultural society, people should be open-minded towards other traditions."
+          "read": "In a multicultural society, people should be open-minded towards other traditions.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "multicultural",
+              "multikulturellen"
+            ],
+            [
+              "society,",
+              "Gesellschaft,"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "open-minded",
+              "aufgeschlossen"
+            ],
+            [
+              "towards",
+              "gegenüber"
+            ],
+            [
+              "other",
+              "anderen"
+            ],
+            [
+              "traditions.",
+              "Traditionen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3483,7 +6203,57 @@
           "solutionEn": "I completely disagree with the idea that immigrants only take away jobs.",
           "solutionDe": "Ich bin völlig anderer Meinung als die Idee, dass Einwanderer nur Arbeitsplätze wegnehmen.",
           "explain": "I/you/we disagree (Grundform); to disagree with an idea.",
-          "read": "I completely disagree with the idea that immigrants only take away jobs."
+          "read": "I completely disagree with the idea that immigrants only take away jobs.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "completely",
+              "völlig"
+            ],
+            [
+              "disagree",
+              "bin anderer Meinung"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "idea",
+              "Idee"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "immigrants",
+              "Einwanderer"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "take",
+              "nehmen"
+            ],
+            [
+              "away",
+              "weg"
+            ],
+            [
+              "jobs.",
+              "Arbeitsplätze."
+            ]
+          ]
         }
       ]
     }
