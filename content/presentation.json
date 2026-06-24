@@ -609,7 +609,93 @@
           "solutionEn": "When a speaker says 'First of all, let me thank you all for coming here today,' they are welcoming the audience.",
           "solutionDe": "Wenn eine Rednerin sagt 'First of all, let me thank you all for coming here today,', dann begrüßt sie das Publikum.",
           "explain": "Dankes- und Begrüßungsphrasen ('thank you all for coming') stehen ganz am Anfang der Präsentation.",
-          "read": "When a speaker says 'First of all, let me thank you all for coming here today,' they are welcoming the audience."
+          "read": "When a speaker says 'First of all, let me thank you all for coming here today,' they are welcoming the audience.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'First",
+              "'Zuerst"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "all,",
+              "allem,"
+            ],
+            [
+              "let",
+              "lass"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "thank",
+              "danken"
+            ],
+            [
+              "you",
+              "euch"
+            ],
+            [
+              "all",
+              "allen"
+            ],
+            [
+              "for",
+              "fürs"
+            ],
+            [
+              "coming",
+              "Kommen"
+            ],
+            [
+              "here",
+              "hierher"
+            ],
+            [
+              "today,'",
+              "heute,'"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "welcoming",
+              "begrüßend"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "audience.",
+              "Publikum."
+            ]
+          ]
         },
         {
           "parts": [
@@ -632,7 +718,81 @@
           "solutionEn": "When a speaker says 'This leads directly to my next point,' they are moving to the next point.",
           "solutionDe": "Wenn eine Rednerin sagt 'This leads directly to my next point,', dann geht sie zum nächsten Punkt über.",
           "explain": "lead to = führen zu. Alternative Übergänge: 'Let's now move on to …', 'This brings us to the next question.'",
-          "read": "When a speaker says 'This leads directly to my next point,' they are moving to the next point."
+          "read": "When a speaker says 'This leads directly to my next point,' they are moving to the next point.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'This",
+              "'Dies"
+            ],
+            [
+              "leads",
+              "führt"
+            ],
+            [
+              "directly",
+              "direkt"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point,'",
+              "Punkt,'"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "moving",
+              "übergehend"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point.",
+              "Punkt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -655,7 +815,89 @@
           "solutionEn": "When a speaker says 'Let's now look at the next slide, which shows our results,' they are introducing a visual.",
           "solutionDe": "Wenn eine Rednerin sagt 'Let's now look at the next slide, which shows our results,', dann führt sie eine Folie/Grafik ein.",
           "explain": "slide = Folie. Weitere Visual-Phrasen: 'As you can see here, …', 'The chart on the following slide shows …'",
-          "read": "When a speaker says 'Let's now look at the next slide, which shows our results,' they are introducing a visual."
+          "read": "When a speaker says 'Let's now look at the next slide, which shows our results,' they are introducing a visual.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'Let's",
+              "'Lasst-uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "look",
+              "schauen"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "next",
+              "nächste"
+            ],
+            [
+              "slide,",
+              "Folie,"
+            ],
+            [
+              "which",
+              "welche"
+            ],
+            [
+              "shows",
+              "zeigt"
+            ],
+            [
+              "our",
+              "unsere"
+            ],
+            [
+              "results,'",
+              "Ergebnisse,'"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "introducing",
+              "vorstellend"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "visual.",
+              "Visualisierung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -678,7 +920,93 @@
           "solutionEn": "When a speaker says 'To conclude, I'd like to run through my main points again,' they are summarizing at the end.",
           "solutionDe": "Wenn eine Rednerin sagt 'To conclude, I'd like to run through my main points again,', dann fasst sie am Schluss zusammen.",
           "explain": "to conclude = abschließend; run through = durchgehen. Auch: 'To sum up …', 'Just to summarize the main points of my talk …'",
-          "read": "When a speaker says 'To conclude, I'd like to run through my main points again,' they are summarizing at the end."
+          "read": "When a speaker says 'To conclude, I'd like to run through my main points again,' they are summarizing at the end.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'To",
+              "'Zum"
+            ],
+            [
+              "conclude,",
+              "Abschließen,"
+            ],
+            [
+              "I'd",
+              "ich-würde"
+            ],
+            [
+              "like",
+              "mögen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "run",
+              "durchgehen"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "main",
+              "wichtigsten"
+            ],
+            [
+              "points",
+              "Punkte"
+            ],
+            [
+              "again,'",
+              "nochmal,'"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "summarizing",
+              "zusammenfassend"
+            ],
+            [
+              "at",
+              "am"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "end.",
+              "Ende."
+            ]
+          ]
         },
         {
           "parts": [
@@ -701,7 +1029,77 @@
           "solutionEn": "When a speaker says 'I'm sorry, could you repeat your question, please?', they are dealing with questions.",
           "solutionDe": "Wenn eine Rednerin sagt 'I'm sorry, could you repeat your question, please?', dann geht sie mit Fragen um.",
           "explain": "Wenn man eine Frage nicht verstanden hat: 'I'm afraid I didn't quite catch that.' / 'Could you repeat your question, please?'",
-          "read": "When a speaker says 'I'm sorry, could you repeat your question, please?', they are dealing with questions."
+          "read": "When a speaker says 'I'm sorry, could you repeat your question, please?', they are dealing with questions.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'I'm",
+              "'Es-tut-mir"
+            ],
+            [
+              "sorry,",
+              "leid,"
+            ],
+            [
+              "could",
+              "könnten"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "repeat",
+              "wiederholen"
+            ],
+            [
+              "your",
+              "Ihre"
+            ],
+            [
+              "question,",
+              "Frage,"
+            ],
+            [
+              "please?',",
+              "bitte?',"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "dealing",
+              "umgehend"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "questions.",
+              "Fragen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -724,7 +1122,101 @@
           "solutionEn": "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are stating your purpose.",
           "solutionDe": "Wenn eine Rednerin sagt 'The purpose of this presentation is to give you an overview of our project,', dann nennt sie das Ziel/den Zweck ihrer Präsentation.",
           "explain": "purpose = Zweck/Ziel. Auch: 'My objective is to …', 'Today I'd like to give you an overview of …'",
-          "read": "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are stating your purpose."
+          "read": "When a speaker says 'The purpose of this presentation is to give you an overview of our project,' they are stating your purpose.",
+          "rdec": [
+            [
+              "When",
+              "Wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "speaker",
+              "Redner"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "'The",
+              "'Der"
+            ],
+            [
+              "purpose",
+              "Zweck"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "give",
+              "geben"
+            ],
+            [
+              "you",
+              "euch"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "overview",
+              "Überblick"
+            ],
+            [
+              "of",
+              "über"
+            ],
+            [
+              "our",
+              "unser"
+            ],
+            [
+              "project,'",
+              "Projekt,'"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "stating",
+              "nennend"
+            ],
+            [
+              "your",
+              "euren"
+            ],
+            [
+              "purpose.",
+              "Zweck."
+            ]
+          ]
         }
       ]
     },
@@ -841,7 +1333,45 @@
               ]
             }
           ],
-          "read": "Let me introduce myself. My name is Lisa Berger."
+          "read": "Let me introduce myself. My name is Lisa Berger.",
+          "rdec": [
+            [
+              "Let",
+              "lass"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "introduce",
+              "vorstellen"
+            ],
+            [
+              "myself.",
+              "mich-selbst."
+            ],
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "Lisa",
+              "Lisa"
+            ],
+            [
+              "Berger.",
+              "Berger."
+            ]
+          ]
         },
         {
           "parts": [
@@ -941,7 +1471,41 @@
               ]
             }
           ],
-          "read": "I've divided my presentation into three main parts."
+          "read": "I've divided my presentation into three main parts.",
+          "rdec": [
+            [
+              "I've",
+              "ich'habe"
+            ],
+            [
+              "divided",
+              "aufgeteilt"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "three",
+              "drei"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "parts.",
+              "teile."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1041,7 +1605,41 @@
               ]
             }
           ],
-          "read": "Let's now move on to my next point."
+          "read": "Let's now move on to my next point.",
+          "rdec": [
+            [
+              "Let's",
+              "lasst'uns"
+            ],
+            [
+              "now",
+              "jetzt"
+            ],
+            [
+              "move",
+              "übergehen"
+            ],
+            [
+              "on",
+              "weiter"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "my",
+              "meinem"
+            ],
+            [
+              "next",
+              "nächsten"
+            ],
+            [
+              "point.",
+              "Punkt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1181,7 +1779,61 @@
               ]
             }
           ],
-          "read": "By the end of this talk you will be familiar with the topic."
+          "read": "By the end of this talk you will be familiar with the topic.",
+          "rdec": [
+            [
+              "By",
+              "bis"
+            ],
+            [
+              "the",
+              "zum"
+            ],
+            [
+              "end",
+              "Ende"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "this",
+              "diesem"
+            ],
+            [
+              "talk",
+              "Vortrag"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "will",
+              "werden"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "familiar",
+              "vertraut"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "topic.",
+              "Thema."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1289,7 +1941,45 @@
               ]
             }
           ],
-          "read": "As you can see here, prices went up significantly."
+          "read": "As you can see here, prices went up significantly.",
+          "rdec": [
+            [
+              "As",
+              "wie"
+            ],
+            [
+              "you",
+              "Sie"
+            ],
+            [
+              "can",
+              "können"
+            ],
+            [
+              "see",
+              "sehen"
+            ],
+            [
+              "here,",
+              "hier,"
+            ],
+            [
+              "prices",
+              "Preise"
+            ],
+            [
+              "went",
+              "gingen"
+            ],
+            [
+              "up",
+              "hoch"
+            ],
+            [
+              "significantly.",
+              "deutlich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1397,7 +2087,45 @@
               ]
             }
           ],
-          "read": "This brings me to the end of my presentation."
+          "read": "This brings me to the end of my presentation.",
+          "rdec": [
+            [
+              "This",
+              "dies"
+            ],
+            [
+              "brings",
+              "bringt"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "end",
+              "Ende"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "presentation.",
+              "Präsentation."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1505,7 +2233,45 @@
               ]
             }
           ],
-          "read": "I'd like to draw your attention to this chart."
+          "read": "I'd like to draw your attention to this chart.",
+          "rdec": [
+            [
+              "I'd",
+              "ich'würde"
+            ],
+            [
+              "like",
+              "mögen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "draw",
+              "lenken"
+            ],
+            [
+              "your",
+              "Ihre"
+            ],
+            [
+              "attention",
+              "Aufmerksamkeit"
+            ],
+            [
+              "to",
+              "auf"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "chart.",
+              "Diagramm."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1605,7 +2371,41 @@
               ]
             }
           ],
-          "read": "Feel free to ask questions at any time."
+          "read": "Feel free to ask questions at any time.",
+          "rdec": [
+            [
+              "Feel",
+              "fühlen"
+            ],
+            [
+              "free",
+              "frei"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "ask",
+              "fragen"
+            ],
+            [
+              "questions",
+              "Fragen"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "any",
+              "jeder"
+            ],
+            [
+              "time.",
+              "Zeit."
+            ]
+          ]
         }
       ]
     },
@@ -2296,7 +3096,61 @@
           "solutionEn": "According to the slides, your slides should use minimal text and meaningful visuals.",
           "solutionDe": "Laut den Folien sollten deine Folien wenig Text und aussagekräftige Bilder verwenden.",
           "explain": "Folie 15: 'Adopt a clean, uncluttered approach' – volle Folien lenken ab (crowded or dense = distracting). Animationen sparsam einsetzen.",
-          "read": "According to the slides, your slides should use minimal text and meaningful visuals."
+          "read": "According to the slides, your slides should use minimal text and meaningful visuals.",
+          "rdec": [
+            [
+              "According",
+              "Laut"
+            ],
+            [
+              "to",
+              "der"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "slides,",
+              "Folien,"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "slides",
+              "Folien"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "use",
+              "verwenden"
+            ],
+            [
+              "minimal",
+              "minimalen"
+            ],
+            [
+              "text",
+              "Text"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "meaningful",
+              "aussagekräftige"
+            ],
+            [
+              "visuals.",
+              "Visualisierungen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2319,7 +3173,69 @@
           "solutionEn": "A 'hook' in a presentation is a strategy to gain and maintain the audience's interest.",
           "solutionDe": "Ein 'Hook' in einer Präsentation ist eine Strategie, um das Interesse des Publikums zu gewinnen und zu halten.",
           "explain": "Folie 19: Hooks = ein Problem aufwerfen, eine Frage stellen oder ein Bild einsetzen. Beispiel-Titel: 'Music: The Soundtrack of Our Generation'.",
-          "read": "A 'hook' in a presentation is a strategy to gain and maintain the audience's interest."
+          "read": "A 'hook' in a presentation is a strategy to gain and maintain the audience's interest.",
+          "rdec": [
+            [
+              "A",
+              "Ein"
+            ],
+            [
+              "'hook'",
+              "'Aufhänger'"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "strategy",
+              "Strategie"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "gain",
+              "gewinnen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "maintain",
+              "aufrechterhalten"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "audience's",
+              "Publikums"
+            ],
+            [
+              "interest.",
+              "Interesse."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2342,7 +3258,69 @@
           "solutionEn": "Good body language during a presentation means an open stance, facial expressions and eye contact.",
           "solutionDe": "Gute Körpersprache während einer Präsentation bedeutet eine offene Haltung, Mimik und Blickkontakt.",
           "explain": "Folie 20: body language = Körpersprache; open stance = offene Haltung; eye contact = Blickkontakt.",
-          "read": "Good body language during a presentation means an open stance, facial expressions and eye contact."
+          "read": "Good body language during a presentation means an open stance, facial expressions and eye contact.",
+          "rdec": [
+            [
+              "Good",
+              "Gute"
+            ],
+            [
+              "body",
+              "Körper"
+            ],
+            [
+              "language",
+              "sprache"
+            ],
+            [
+              "during",
+              "während"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation",
+              "Präsentation"
+            ],
+            [
+              "means",
+              "bedeutet"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "open",
+              "offene"
+            ],
+            [
+              "stance,",
+              "Haltung,"
+            ],
+            [
+              "facial",
+              "Gesichts"
+            ],
+            [
+              "expressions",
+              "ausdrücke"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "eye",
+              "Augen"
+            ],
+            [
+              "contact.",
+              "kontakt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2364,7 +3342,57 @@
           "solutionEn": "In a presentation, repetition is useful: It helps memory and creates emphasis.",
           "solutionDe": "In einer Präsentation ist Wiederholung nützlich: Sie hilft dem Gedächtnis und betont Wichtiges.",
           "explain": "Folie 21: 'Repetition: repeating key phrases – memory and emphasis'. Bei der Stimme außerdem wichtig: pacing, pausing, stress and intonation.",
-          "read": "In a presentation, repetition is useful: It helps memory and creates emphasis."
+          "read": "In a presentation, repetition is useful: It helps memory and creates emphasis.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "a",
+              "einer"
+            ],
+            [
+              "presentation,",
+              "Präsentation,"
+            ],
+            [
+              "repetition",
+              "Wiederholung"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "useful:",
+              "nützlich:"
+            ],
+            [
+              "It",
+              "Sie"
+            ],
+            [
+              "helps",
+              "hilft"
+            ],
+            [
+              "memory",
+              "dem-Gedächtnis"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "creates",
+              "erzeugt"
+            ],
+            [
+              "emphasis.",
+              "Betonung."
+            ]
+          ]
         }
       ]
     }

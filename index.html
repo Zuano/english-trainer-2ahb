@@ -104,6 +104,8 @@
   body.lv2 .wfw .w span, body.lv3 .wfw .w span{display:inline !important}
   /* Highlight beim Vorlesen (auch auf Übungs-Zellen) */
   .wfw .w.speak b{background:var(--acc);color:#fff;box-shadow:0 0 0 2.5px var(--acc)}
+  /* Anhör-Liste: Wort-für-Wort immer mit deutscher Bedeutung zeigen (wie Birkenbihl) */
+  body.lv2 .rdecwords .w span, body.lv3 .rdecwords .w span{display:inline}
   .wfw .w.speak span{color:var(--acc)}
   /* Optionen als farbige Chips */
   .optset{display:inline-flex;flex-wrap:wrap;gap:5px;vertical-align:bottom;margin:0 3px}
@@ -349,8 +351,8 @@ function sentTick(){
   sentRaf=requestAnimationFrame(sentTick);
 }
 function sentStartHi(qid,row){ sentClearHi(); sentRow=row||null; sentTm=(window.SENT_TIMINGS||{})[qid]||null; if(sentRow&&sentTm&&!sentRaf) sentRaf=requestAnimationFrame(sentTick); }
-function playSent(qid,row){ stopSeq(); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row) row.classList.add("playing"); AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>{ if(row)row.classList.remove("playing"); sentClearHi(); toast(sentAudio()?"Audio-Datei fehlt 🎧":"Satz-Audio wird noch erzeugt 🎧"); }); sentStartHi(qid,row); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); sentClearHi(); }; }
-function playSentSeq(ids){ stopSeq(); let i=0; seq={stop:false}; const step=()=>{ if(seq.stop||i>=ids.length){ stopSeq(); return; } const qid=ids[i++]; const row=document.getElementById("sent_q_"+qid); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row){ row.classList.add("playing"); row.scrollIntoView({block:"center",behavior:"smooth"}); } AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>step()); sentStartHi(qid,row); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); sentClearHi(); step(); }; }; step(); }
+function playSent(qid,row){ stopSeq(); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row) row.classList.add("playing"); AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>{ if(row)row.classList.remove("playing"); sentClearHi(); toast(sentAudio()?"Audio-Datei fehlt 🎧":"Satz-Audio wird noch erzeugt 🎧"); }); sentStartHi(qid,row); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); sentClearHi(); markHeard(qid); }; }
+function playSentSeq(ids){ stopSeq(); let i=0; seq={stop:false}; const step=()=>{ if(seq.stop||i>=ids.length){ stopSeq(); return; } const qid=ids[i++]; const row=document.getElementById("sent_"+qid); document.querySelectorAll(".sent.playing").forEach(x=>x.classList.remove("playing")); if(row){ row.classList.add("playing"); row.scrollIntoView({block:"center",behavior:"smooth"}); } AUDIO.src="audio/sent/"+qid+".mp3"; const p=AUDIO.play(); if(p) p.catch(()=>step()); sentStartHi(qid,row); AUDIO.onended=()=>{ if(row) row.classList.remove("playing"); sentClearHi(); markHeard(qid); step(); }; }; step(); }
 function playSentenceBtn(qid, wrap, btn){ const was=btn.classList.contains("playing"); stopSeq(); if(was) return; if(wrap) wrap.classList.add("qplaying"); btn.classList.add("playing"); AUDIO.src="audio/sent/"+qid+".mp3"; const done=()=>{ if(wrap) wrap.classList.remove("qplaying"); btn.classList.remove("playing"); }; const p=AUDIO.play(); if(p) p.catch(()=>{ done(); toast(sentAudio()?"Audio-Datei fehlt 🎧":"Satz-Audio wird noch erzeugt 🎧"); }); AUDIO.onended=done; }
 /* Vorlesen einer Übungsaufgabe (Choose-Format-MP3) MIT Karaoke-Highlight im WfW-Panel */
 let exRaf=null, exPanel=null, exTm=null;
@@ -490,17 +492,18 @@ function renderSentList(v,t){
   const ids=sents.map(s=>s.qid);
   const hasDec=sents.some(s=>s.dec);
   const sentSub=hasDec
-    ? "Die ganzen Sätze – Wort für Wort (Birkenbihl). Beim Abspielen wird jedes Wort synchron mitmarkiert. Tipp: anhören und laut mitsprechen."
+    ? "Die ganzen Sätze – Wort für Wort (Birkenbihl), nur Englisch vorgelesen. Tipp: anhören und laut mitsprechen."
     : "Die ganzen Sätze, in denen die Vokabeln vorkommen – nur Englisch. Tipp: anhören und laut nachsprechen.";
   const c=document.createElement("div"); c.className="card";
   c.innerHTML=`<div class="exhead"><h3>🔊 Sätze zum Anhören (Aussprache)</h3>
     ${sentAudio()?`<span><button class="btn ghost" data-act="alls">▶ Alle anhören</button> <button class="btn gray" data-act="stops">⏹</button></span>`:'<span class="small muted">🎧 Audio kommt bald</span>'}</div>
-    <div class="small muted" style="margin:-2px 0 8px">${sentSub}</div>`;
+    <div class="hearline small muted" data-ids="${ids.join(",")}">🎧 <span class="hl"></span><div class="bar"><i></i></div></div>
+    <div class="small muted" style="margin:4px 0 8px">${sentSub}</div>`;
   sents.forEach(s=>{
-    const row=document.createElement("div"); row.className="sent"; row.id="sent_q_"+s.qid;
+    const row=document.createElement("div"); row.className="sent"; row.id="sent_"+s.qid;
     if(s.dec){
       const words=s.dec.map((p,k)=>`<span class="w" data-i="${k}"><b>${esc(p[0])}</b><span>${esc(p[1])}</span></span>`).join("");
-      row.innerHTML=`<div class="srow">${sentAudio()?`<button class="play">▶</button>`:""}<div class="words">${words}</div></div>${s.de?`<div class="de">💬 ${esc(s.de)}</div>`:""}`;
+      row.innerHTML=`<div class="srow">${sentAudio()?`<button class="play">▶</button>`:""}<div class="words rdecwords">${words}</div></div>${s.de?`<div class="de">💬 ${esc(s.de)}</div>`:""}`;
     } else {
       row.innerHTML=`<div class="srow">${sentAudio()?`<button class="play">▶</button>`:""}<div><div style="font-size:16px;font-weight:600;line-height:1.45">${esc(s.en)}</div>${s.de?`<div class="de" style="margin-top:5px">💬 ${esc(s.de)}</div>`:""}</div></div>`;
     }
@@ -508,7 +511,7 @@ function renderSentList(v,t){
     c.appendChild(row);
   });
   if(sentAudio()){ c.querySelector('[data-act="alls"]').onclick=()=>playSentSeq(ids); c.querySelector('[data-act="stops"]').onclick=stopSeq; }
-  v.appendChild(c);
+  v.appendChild(c); updateHearUI();
 }
 function renderBirkenbihl(v,t){
   const texts=(t.birkenbihl||[]).filter(x=>subFilter(t,x));

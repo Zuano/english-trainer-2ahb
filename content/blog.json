@@ -985,7 +985,125 @@
               "t": "g"
             }
           ],
-          "read": "Title (catchy, with name, date and time) → Introduction (greeting + interesting opening) → Main body (arguments and examples in paragraphs) → Conclusion (sum up + ask for comments)."
+          "read": "Title (catchy, with name, date and time) → Introduction (greeting + interesting opening) → Main body (arguments and examples in paragraphs) → Conclusion (sum up + ask for comments).",
+          "rdec": [
+            [
+              "Title",
+              "Titel"
+            ],
+            [
+              "(catchy,",
+              "(eingängig,"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "name,",
+              "Name,"
+            ],
+            [
+              "date",
+              "Datum"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "time)",
+              "Uhrzeit)"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Introduction",
+              "Einleitung"
+            ],
+            [
+              "(greeting",
+              "(Begrüßung"
+            ],
+            [
+              "+",
+              "+"
+            ],
+            [
+              "interesting",
+              "interessanter"
+            ],
+            [
+              "opening)",
+              "Einstieg)"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Main",
+              "Haupt-"
+            ],
+            [
+              "body",
+              "teil"
+            ],
+            [
+              "(arguments",
+              "(Argumente"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "examples",
+              "Beispiele"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "paragraphs)",
+              "Absätzen)"
+            ],
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Conclusion",
+              "Schluss"
+            ],
+            [
+              "(sum",
+              "(zusammen-"
+            ],
+            [
+              "up",
+              "fassen"
+            ],
+            [
+              "+",
+              "+"
+            ],
+            [
+              "ask",
+              "bitten"
+            ],
+            [
+              "for",
+              "um"
+            ],
+            [
+              "comments).",
+              "Kommentare)."
+            ]
+          ]
         }
       ]
     },
@@ -1101,7 +1219,45 @@
               ]
             }
           ],
-          "read": "Have you ever thought about how much time you spend on your phone?"
+          "read": "Have you ever thought about how much time you spend on your phone?",
+          "rdec": [
+            [
+              "Have you ever",
+              "hast-du jemals"
+            ],
+            [
+              "thought about",
+              "nachgedacht über"
+            ],
+            [
+              "how much",
+              "wie viel"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "spend",
+              "verbringst"
+            ],
+            [
+              "on",
+              "an"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "phone?",
+              "Handy?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1208,7 +1364,45 @@
               ]
             }
           ],
-          "read": "Hi guys, today I want to share some thoughts about social media."
+          "read": "Hi guys, today I want to share some thoughts about social media.",
+          "rdec": [
+            [
+              "Hi guys,",
+              "hallo Leute,"
+            ],
+            [
+              "today",
+              "heute"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "want",
+              "möchte"
+            ],
+            [
+              "to share",
+              "teilen"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "thoughts",
+              "Gedanken"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "social media.",
+              "soziale Medien."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1299,7 +1493,37 @@
               ]
             }
           ],
-          "read": "In my opinion, social media has more advantages than disadvantages."
+          "read": "In my opinion, social media has more advantages than disadvantages.",
+          "rdec": [
+            [
+              "In my opinion,",
+              "meiner Meinung-nach,"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "advantages",
+              "Vorteile"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "disadvantages.",
+              "Nachteile."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1456,7 +1680,61 @@
               ]
             }
           ],
-          "read": "On the one hand, social media connects people all over the world. On the other hand, it can be addictive and stressful."
+          "read": "On the one hand, social media connects people all over the world. On the other hand, it can be addictive and stressful.",
+          "rdec": [
+            [
+              "On the one hand,",
+              "einerseits,"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "connects",
+              "verbindet"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "all over",
+              "auf-der-ganzen"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ],
+            [
+              "On the other hand,",
+              "andererseits,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "addictive",
+              "süchtig-machend"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "stressful.",
+              "stressig."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1579,7 +1857,53 @@
               ]
             }
           ],
-          "read": "Summing up, it can be said that social media is both a blessing and a curse."
+          "read": "Summing up, it can be said that social media is both a blessing and a curse.",
+          "rdec": [
+            [
+              "Summing up,",
+              "zusammenfassend,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "be said",
+              "gesagt-werden"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "social media",
+              "soziale Medien"
+            ],
+            [
+              "is",
+              "sind"
+            ],
+            [
+              "both",
+              "sowohl"
+            ],
+            [
+              "a blessing",
+              "ein Segen"
+            ],
+            [
+              "and",
+              "als-auch"
+            ],
+            [
+              "a curse.",
+              "ein Fluch."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1677,7 +2001,49 @@
               "t": "g"
             }
           ],
-          "read": "I can't wait to read your opinion! Leave your comment below!"
+          "read": "I can't wait to read your opinion! Leave your comment below!",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can't",
+              "kann'nicht"
+            ],
+            [
+              "wait",
+              "warten"
+            ],
+            [
+              "to read",
+              "zu lesen"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "opinion!",
+              "Meinung!"
+            ],
+            [
+              "Leave",
+              "hinterlasse"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "comment",
+              "Kommentar"
+            ],
+            [
+              "below!",
+              "unten!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1769,7 +2135,37 @@
               ]
             }
           ],
-          "read": "Frankly speaking, I check my phone far too often."
+          "read": "Frankly speaking, I check my phone far too often.",
+          "rdec": [
+            [
+              "Frankly speaking,",
+              "ehrlich gesagt,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "check",
+              "schaue-auf"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "phone",
+              "Handy"
+            ],
+            [
+              "far",
+              "viel"
+            ],
+            [
+              "too often.",
+              "zu oft."
+            ]
+          ]
         }
       ]
     },
@@ -1896,7 +2292,45 @@
               "t": "g"
             }
           ],
-          "read": "The task says: Write a blog entry (140–180 words)."
+          "read": "The task says: Write a blog entry (140–180 words).",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "task",
+              "Aufgabe"
+            ],
+            [
+              "says:",
+              "sagt:"
+            ],
+            [
+              "Write",
+              "Schreibe"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "blog",
+              "Blog-"
+            ],
+            [
+              "entry",
+              "eintrag"
+            ],
+            [
+              "(140–180",
+              "(140–180"
+            ],
+            [
+              "words).",
+              "Wörter)."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2010,7 +2444,89 @@
               "t": "g"
             }
           ],
-          "read": "A blog entry is informal and personal: use the first person, contractions (I don't, I can't) and a friendly tone."
+          "read": "A blog entry is informal and personal: use the first person, contractions (I don't, I can't) and a friendly tone.",
+          "rdec": [
+            [
+              "A",
+              "Ein"
+            ],
+            [
+              "blog",
+              "Blog-"
+            ],
+            [
+              "entry",
+              "eintrag"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "informal",
+              "informell"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "personal:",
+              "persönlich:"
+            ],
+            [
+              "use",
+              "benutze"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "first",
+              "erste"
+            ],
+            [
+              "person,",
+              "Person,"
+            ],
+            [
+              "contractions",
+              "Kurzformen"
+            ],
+            [
+              "(I",
+              "(ich"
+            ],
+            [
+              "don't,",
+              "tu'nicht,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can't)",
+              "kann'nicht)"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "friendly",
+              "freundlichen"
+            ],
+            [
+              "tone.",
+              "Ton."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2253,7 +2769,121 @@
               "t": "g"
             }
           ],
-          "read": "At the top: a catchy title, your name, date and time – e.g. 'CHIPS, BURGERS AND COLA MAKE ME HAPPY, by PeterPan, 2 June 2023, at 5 pm'."
+          "read": "At the top: a catchy title, your name, date and time – e.g. 'CHIPS, BURGERS AND COLA MAKE ME HAPPY, by PeterPan, 2 June 2023, at 5 pm'.",
+          "rdec": [
+            [
+              "At",
+              "An"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "top:",
+              "Spitze:"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "catchy",
+              "eingängiger"
+            ],
+            [
+              "title,",
+              "Titel,"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "name,",
+              "Name,"
+            ],
+            [
+              "date",
+              "Datum"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "time",
+              "Uhrzeit"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "e.g.",
+              "z.B."
+            ],
+            [
+              "'CHIPS,",
+              "'CHIPS,"
+            ],
+            [
+              "BURGERS",
+              "BURGER"
+            ],
+            [
+              "AND",
+              "UND"
+            ],
+            [
+              "COLA",
+              "COLA"
+            ],
+            [
+              "MAKE",
+              "MACHEN"
+            ],
+            [
+              "ME",
+              "MICH"
+            ],
+            [
+              "HAPPY,",
+              "GLÜCKLICH,"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "PeterPan,",
+              "PeterPan,"
+            ],
+            [
+              "2",
+              "2."
+            ],
+            [
+              "June",
+              "Juni"
+            ],
+            [
+              "2023,",
+              "2023,"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "5",
+              "5"
+            ],
+            [
+              "pm'.",
+              "Uhr-nachmittags'."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2512,7 +3142,145 @@
               "t": "g"
             }
           ],
-          "read": "The task: respond to Jamie's comment, describe how social media affects young people, mention both positive and negative aspects, and explain whether social media is important in your life – plus a suitable title."
+          "read": "The task: respond to Jamie's comment, describe how social media affects young people, mention both positive and negative aspects, and explain whether social media is important in your life – plus a suitable title.",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "task:",
+              "Aufgabe:"
+            ],
+            [
+              "respond",
+              "antworte"
+            ],
+            [
+              "to",
+              "auf"
+            ],
+            [
+              "Jamie's",
+              "Jamies"
+            ],
+            [
+              "comment,",
+              "Kommentar,"
+            ],
+            [
+              "describe",
+              "beschreibe"
+            ],
+            [
+              "how",
+              "wie"
+            ],
+            [
+              "social",
+              "sozialen"
+            ],
+            [
+              "media",
+              "Medien"
+            ],
+            [
+              "affects",
+              "beeinflussen"
+            ],
+            [
+              "young",
+              "junge"
+            ],
+            [
+              "people,",
+              "Menschen,"
+            ],
+            [
+              "mention",
+              "erwähne"
+            ],
+            [
+              "both",
+              "sowohl"
+            ],
+            [
+              "positive",
+              "positive"
+            ],
+            [
+              "and",
+              "als-auch"
+            ],
+            [
+              "negative",
+              "negative"
+            ],
+            [
+              "aspects,",
+              "Aspekte,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "explain",
+              "erkläre"
+            ],
+            [
+              "whether",
+              "ob"
+            ],
+            [
+              "social",
+              "soziale"
+            ],
+            [
+              "media",
+              "Medien"
+            ],
+            [
+              "is",
+              "sind"
+            ],
+            [
+              "important",
+              "wichtig"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "life",
+              "Leben"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "plus",
+              "plus"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "suitable",
+              "passender"
+            ],
+            [
+              "title.",
+              "Titel."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2634,7 +3402,89 @@
               "t": "g"
             }
           ],
-          "read": "Paragraphs and linking words (however, on the one hand, summing up) make your text structured, logical and easy to read."
+          "read": "Paragraphs and linking words (however, on the one hand, summing up) make your text structured, logical and easy to read.",
+          "rdec": [
+            [
+              "Paragraphs",
+              "Absätze"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "linking",
+              "Verbindungs-"
+            ],
+            [
+              "words",
+              "wörter"
+            ],
+            [
+              "(however,",
+              "(jedoch,"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "one",
+              "einen"
+            ],
+            [
+              "hand,",
+              "Hand,"
+            ],
+            [
+              "summing",
+              "zusammen-"
+            ],
+            [
+              "up)",
+              "fassend)"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "text",
+              "Text"
+            ],
+            [
+              "structured,",
+              "strukturiert,"
+            ],
+            [
+              "logical",
+              "logisch"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "easy",
+              "leicht"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "read.",
+              "lesen."
+            ]
+          ]
         }
       ]
     }

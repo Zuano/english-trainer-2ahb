@@ -522,7 +522,69 @@
           "solutionEn": "I saw an advertisement for the new phone on television and decided to buy it.",
           "solutionDe": "Ich habe im Fernsehen eine Werbung für das neue Handy gesehen und beschlossen, es zu kaufen.",
           "explain": "advertisement = Werbung. Werbung informiert (z. B. über den Preis) – sie packt nichts ein und gibt kein Geld aus.",
-          "read": "I saw an advertisement for the new phone on television and decided to buy it."
+          "read": "I saw an advertisement for the new phone on television and decided to buy it.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "saw",
+              "sah"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "advertisement",
+              "Werbung"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "phone",
+              "Handy"
+            ],
+            [
+              "on",
+              "im"
+            ],
+            [
+              "television",
+              "Fernsehen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "decided",
+              "entschied"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "it.",
+              "es."
+            ]
+          ]
         },
         {
           "parts": [
@@ -545,7 +607,57 @@
           "solutionEn": "I bought these trainers for only 10 euros — what a bargain!",
           "solutionDe": "Ich habe diese Turnschuhe für nur 10 Euro gekauft — was für ein Schnäppchen!",
           "explain": "bargain = Schnäppchen. Ein Schnäppchen ist gerade NICHT teuer.",
-          "read": "I bought these trainers for only 10 euros — what a bargain!"
+          "read": "I bought these trainers for only 10 euros — what a bargain!",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "these",
+              "diese"
+            ],
+            [
+              "trainers",
+              "Turnschuhe"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "10",
+              "10"
+            ],
+            [
+              "euros",
+              "Euro"
+            ],
+            [
+              "—",
+              "—"
+            ],
+            [
+              "what",
+              "was"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "bargain!",
+              "Schnäppchen!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -568,7 +680,57 @@
           "solutionEn": "At the checkout, the cashier scans your items and takes your money.",
           "solutionDe": "An der Kassa scannt der Kassier deine Artikel und nimmt dein Geld entgegen.",
           "explain": "cashier = Kassier/Kassiererin. An der Kassa nimmt er/sie dein Geld entgegen.",
-          "read": "At the checkout, the cashier scans your items and takes your money."
+          "read": "At the checkout, the cashier scans your items and takes your money.",
+          "rdec": [
+            [
+              "At",
+              "An"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "checkout,",
+              "Kasse,"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "cashier",
+              "Kassierer(in)"
+            ],
+            [
+              "scans",
+              "scannt"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "items",
+              "Artikel"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "takes",
+              "nimmt"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "money.",
+              "Geld."
+            ]
+          ]
         },
         {
           "parts": [
@@ -591,7 +753,81 @@
           "solutionEn": "The book cost 5.99 euros and I paid with a 10-euro note, so I got some change back.",
           "solutionDe": "Das Buch kostete 5,99 Euro und ich zahlte mit einem 10-Euro-Schein, also bekam ich etwas Wechselgeld zurück.",
           "explain": "change = Wechselgeld. Du bekommst 1 Cent zurück. Achtung: change heißt auch 'wechseln/ändern'.",
-          "read": "The book cost 5.99 euros and I paid with a 10-euro note, so I got some change back."
+          "read": "The book cost 5.99 euros and I paid with a 10-euro note, so I got some change back.",
+          "rdec": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "book",
+              "Buch"
+            ],
+            [
+              "cost",
+              "kostete"
+            ],
+            [
+              "5.99",
+              "5,99"
+            ],
+            [
+              "euros",
+              "Euro"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "paid",
+              "zahlte"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "a",
+              "einem"
+            ],
+            [
+              "10-euro",
+              "10-Euro-"
+            ],
+            [
+              "note,",
+              "Schein,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "got",
+              "bekam"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "change",
+              "Wechselgeld"
+            ],
+            [
+              "back.",
+              "zurück."
+            ]
+          ]
         },
         {
           "parts": [
@@ -614,7 +850,73 @@
           "solutionEn": "I had no cash on me, so I paid for the groceries with my debit card.",
           "solutionDe": "Ich hatte kein Bargeld dabei, also bezahlte ich die Lebensmittel mit meiner Bankomatkarte.",
           "explain": "debit card = Bankomatkarte. Damit bezahlt man – also kann man damit etwas kaufen.",
-          "read": "I had no cash on me, so I paid for the groceries with my debit card."
+          "read": "I had no cash on me, so I paid for the groceries with my debit card.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "had",
+              "hatte"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "cash",
+              "Bargeld"
+            ],
+            [
+              "on",
+              "bei"
+            ],
+            [
+              "me,",
+              "mir,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "paid",
+              "zahlte"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "groceries",
+              "Lebensmittel"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "my",
+              "meiner"
+            ],
+            [
+              "debit",
+              "Bank"
+            ],
+            [
+              "card.",
+              "Bankkarte."
+            ]
+          ]
         },
         {
           "parts": [
@@ -637,7 +939,89 @@
           "solutionEn": "The shirt was too small, so I took it back to the shop to exchange it for a bigger size.",
           "solutionDe": "Das Hemd war zu klein, also brachte ich es ins Geschäft zurück, um es gegen eine größere Größe umzutauschen.",
           "explain": "exchange = umtauschen, also ein Produkt durch ein anderes ersetzen.",
-          "read": "The shirt was too small, so I took it back to the shop to exchange it for a bigger size."
+          "read": "The shirt was too small, so I took it back to the shop to exchange it for a bigger size.",
+          "rdec": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "shirt",
+              "Hemd"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "too",
+              "zu"
+            ],
+            [
+              "small,",
+              "klein,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "took",
+              "brachte"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "back",
+              "zurück"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "shop",
+              "Geschäft"
+            ],
+            [
+              "to",
+              "um"
+            ],
+            [
+              "exchange",
+              "umzutauschen"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "for",
+              "gegen"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "bigger",
+              "größere"
+            ],
+            [
+              "size.",
+              "Größe."
+            ]
+          ]
         },
         {
           "parts": [
@@ -660,7 +1044,57 @@
           "solutionEn": "She took three dresses into the fitting room to try them on.",
           "solutionDe": "Sie nahm drei Kleider mit in die Umkleidekabine, um sie anzuprobieren.",
           "explain": "fitting room = Umkleidekabine; try on = anprobieren.",
-          "read": "She took three dresses into the fitting room to try them on."
+          "read": "She took three dresses into the fitting room to try them on.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "took",
+              "nahm"
+            ],
+            [
+              "three",
+              "drei"
+            ],
+            [
+              "dresses",
+              "Kleider"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "fitting",
+              "Umkleide"
+            ],
+            [
+              "room",
+              "kabine"
+            ],
+            [
+              "to",
+              "um"
+            ],
+            [
+              "try",
+              "anzuprobieren"
+            ],
+            [
+              "them",
+              "sie"
+            ],
+            [
+              "on.",
+              "an."
+            ]
+          ]
         },
         {
           "parts": [
@@ -683,7 +1117,73 @@
           "solutionEn": "Please keep the receipt as proof of your purchase in case you want to return it.",
           "solutionDe": "Bitte heben Sie den Kassenbon als Kaufnachweis auf, falls Sie den Artikel zurückgeben möchten.",
           "explain": "purchase = kaufen (formelleres Wort für buy). Als Nomen: a purchase = ein Kauf.",
-          "read": "Please keep the receipt as proof of your purchase in case you want to return it."
+          "read": "Please keep the receipt as proof of your purchase in case you want to return it.",
+          "rdec": [
+            [
+              "Please",
+              "Bitte"
+            ],
+            [
+              "keep",
+              "behalte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "receipt",
+              "Kassenbon"
+            ],
+            [
+              "as",
+              "als"
+            ],
+            [
+              "proof",
+              "Nachweis"
+            ],
+            [
+              "of",
+              "für"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "purchase",
+              "Einkauf"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "case",
+              "Fall"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want",
+              "willst"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "return",
+              "zurückgeben"
+            ],
+            [
+              "it.",
+              "es."
+            ]
+          ]
         },
         {
           "parts": [
@@ -706,7 +1206,65 @@
           "solutionEn": "After paying at the till, the cashier gave me a receipt for my purchase.",
           "solutionDe": "Nach dem Bezahlen an der Kassa gab mir der Kassier eine Quittung für meinen Einkauf.",
           "explain": "receipt = Kassenbeleg/Rechnung. Den bekommt man NACH dem Bezahlen.",
-          "read": "After paying at the till, the cashier gave me a receipt for my purchase."
+          "read": "After paying at the till, the cashier gave me a receipt for my purchase.",
+          "rdec": [
+            [
+              "After",
+              "Nach"
+            ],
+            [
+              "paying",
+              "dem-Zahlen"
+            ],
+            [
+              "at",
+              "an"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "till,",
+              "Kasse,"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "cashier",
+              "Kassierer(in)"
+            ],
+            [
+              "gave",
+              "gab"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "receipt",
+              "Kassenbon"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "my",
+              "meinen"
+            ],
+            [
+              "purchase.",
+              "Einkauf."
+            ]
+          ]
         },
         {
           "parts": [
@@ -729,7 +1287,73 @@
           "solutionEn": "Security cameras are everywhere because some people try to shoplift and leave the shop without paying.",
           "solutionDe": "Überall hängen Überwachungskameras, weil manche Leute versuchen, Ladendiebstahl zu begehen und das Geschäft ohne zu bezahlen zu verlassen.",
           "explain": "shoplift = Ladendiebstahl begehen, also etwas aus einem Geschäft stehlen. shoplifter = Ladendieb.",
-          "read": "Security cameras are everywhere because some people try to shoplift and leave the shop without paying."
+          "read": "Security cameras are everywhere because some people try to shoplift and leave the shop without paying.",
+          "rdec": [
+            [
+              "Security",
+              "Sicherheits"
+            ],
+            [
+              "cameras",
+              "kameras"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "everywhere",
+              "überall"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "some",
+              "manche"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "try",
+              "versuchen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "shoplift",
+              "stehlen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "leave",
+              "verlassen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "shop",
+              "Geschäft"
+            ],
+            [
+              "without",
+              "ohne"
+            ],
+            [
+              "paying.",
+              "Zahlen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -752,7 +1376,81 @@
           "solutionEn": "At the supermarket I grabbed a shopping cart and pushed it down the aisles, filling it with food.",
           "solutionDe": "Im Supermarkt nahm ich einen Einkaufswagen und schob ihn durch die Gänge, während ich ihn mit Lebensmitteln füllte.",
           "explain": "shopping cart = Einkaufswagen (BE: trolley). Man legt seine Waren hinein.",
-          "read": "At the supermarket I grabbed a shopping cart and pushed it down the aisles, filling it with food."
+          "read": "At the supermarket I grabbed a shopping cart and pushed it down the aisles, filling it with food.",
+          "rdec": [
+            [
+              "At",
+              "Im"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "supermarket",
+              "Supermarkt"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "grabbed",
+              "griff"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "shopping",
+              "Einkaufs"
+            ],
+            [
+              "cart",
+              "wagen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "pushed",
+              "schob"
+            ],
+            [
+              "it",
+              "ihn"
+            ],
+            [
+              "down",
+              "entlang"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "aisles,",
+              "Gänge,"
+            ],
+            [
+              "filling",
+              "füllend"
+            ],
+            [
+              "it",
+              "ihn"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "food.",
+              "Lebensmitteln."
+            ]
+          ]
         },
         {
           "parts": [
@@ -775,7 +1473,89 @@
           "solutionEn": "The shop's store hours are from 9 a.m. to 6 p.m., so we need to get there before it closes.",
           "solutionDe": "Die Öffnungszeiten des Geschäfts sind von 9 bis 18 Uhr, also müssen wir dort sein, bevor es schließt.",
           "explain": "store hours = Öffnungszeiten (BE auch: opening hours).",
-          "read": "The shop's store hours are from 9 a.m. to 6 p.m., so we need to get there before it closes."
+          "read": "The shop's store hours are from 9 a.m. to 6 p.m., so we need to get there before it closes.",
+          "rdec": [
+            [
+              "The",
+              "Des"
+            ],
+            [
+              "shop's",
+              "Geschäfts"
+            ],
+            [
+              "store",
+              "Öffnungs"
+            ],
+            [
+              "hours",
+              "zeiten"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "9",
+              "9"
+            ],
+            [
+              "a.m.",
+              "Uhr"
+            ],
+            [
+              "to",
+              "bis"
+            ],
+            [
+              "6",
+              "6"
+            ],
+            [
+              "p.m.,",
+              "Uhr,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "need",
+              "müssen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "get",
+              "kommen"
+            ],
+            [
+              "there",
+              "dorthin"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "closes.",
+              "schließt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -798,7 +1578,85 @@
           "solutionEn": "At the greengrocer's they put the apples on the scale to check their weight before telling me the price.",
           "solutionDe": "Beim Obst- und Gemüsehändler legten sie die Äpfel auf die Waage, um ihr Gewicht zu prüfen, bevor sie mir den Preis nannten.",
           "explain": "weight = Gewicht. Gramm, Kilogramm und Unzen (ounces) sind alle Gewichtseinheiten.",
-          "read": "At the greengrocer's they put the apples on the scale to check their weight before telling me the price."
+          "read": "At the greengrocer's they put the apples on the scale to check their weight before telling me the price.",
+          "rdec": [
+            [
+              "At",
+              "Beim"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "greengrocer's",
+              "Gemüsehändler"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "put",
+              "legten"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "apples",
+              "Äpfel"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "scale",
+              "Waage"
+            ],
+            [
+              "to",
+              "um"
+            ],
+            [
+              "check",
+              "zu-prüfen"
+            ],
+            [
+              "their",
+              "ihr"
+            ],
+            [
+              "weight",
+              "Gewicht"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "telling",
+              "Nennen"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "price.",
+              "Preis."
+            ]
+          ]
         },
         {
           "parts": [
@@ -821,7 +1679,85 @@
           "solutionEn": "We had no money, so we just went window shopping and looked at the displays in the shop windows.",
           "solutionDe": "Wir hatten kein Geld, also machten wir nur einen Schaufensterbummel und betrachteten die Auslagen in den Schaufenstern.",
           "explain": "window shopping = Schaufensterbummel: nur schauen, nichts kaufen.",
-          "read": "We had no money, so we just went window shopping and looked at the displays in the shop windows."
+          "read": "We had no money, so we just went window shopping and looked at the displays in the shop windows.",
+          "rdec": [
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "had",
+              "hatten"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "just",
+              "gingen"
+            ],
+            [
+              "went",
+              "nur"
+            ],
+            [
+              "window",
+              "Schaufenster"
+            ],
+            [
+              "shopping",
+              "bummeln"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "looked",
+              "schauten"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "displays",
+              "Auslagen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "shop",
+              "Schaufenster"
+            ],
+            [
+              "windows.",
+              "Schaufenstern."
+            ]
+          ]
         }
       ]
     },
@@ -953,7 +1889,53 @@
               "w": []
             }
           ],
-          "read": "If you want fresh salmon for dinner, go to the fishmonger's."
+          "read": "If you want fresh salmon for dinner, go to the fishmonger's.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want",
+              "willst"
+            ],
+            [
+              "fresh",
+              "frischen"
+            ],
+            [
+              "salmon",
+              "Lachs"
+            ],
+            [
+              "for",
+              "zum"
+            ],
+            [
+              "dinner,",
+              "Abendessen,"
+            ],
+            [
+              "go",
+              "geh"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "fishmonger's.",
+              "Fischhändler."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1109,7 +2091,69 @@
               ]
             }
           ],
-          "read": "I never buy fruit at the supermarket – I prefer the greengrocer's around the corner."
+          "read": "I never buy fruit at the supermarket – I prefer the greengrocer's around the corner.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "buy",
+              "kaufe"
+            ],
+            [
+              "fruit",
+              "Obst"
+            ],
+            [
+              "at",
+              "im"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "supermarket",
+              "Supermarkt"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "prefer",
+              "bevorzuge"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "greengrocer's",
+              "Gemüsehändler"
+            ],
+            [
+              "around",
+              "um"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "corner.",
+              "Ecke."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1248,7 +2292,61 @@
               "w": []
             }
           ],
-          "read": "She bought a beautiful bunch of roses for her mum at the florist."
+          "read": "She bought a beautiful bunch of roses for her mum at the florist.",
+          "rdec": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "beautiful",
+              "schönen"
+            ],
+            [
+              "bunch",
+              "Strauß"
+            ],
+            [
+              "of",
+              "mit"
+            ],
+            [
+              "roses",
+              "Rosen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "mum",
+              "Mama"
+            ],
+            [
+              "at",
+              "bei"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "florist.",
+              "Blumenhändler."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1403,7 +2501,69 @@
               "w": []
             }
           ],
-          "read": "In Britain you can only buy wine and beer to take home at an off licence."
+          "read": "In Britain you can only buy wine and beer to take home at an off licence.",
+          "rdec": [
+            [
+              "In",
+              "in"
+            ],
+            [
+              "Britain",
+              "Großbritannien"
+            ],
+            [
+              "you",
+              "man"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "wine",
+              "Wein"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "beer",
+              "Bier"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "take",
+              "Mitnehmen"
+            ],
+            [
+              "home",
+              "nach-Hause"
+            ],
+            [
+              "at",
+              "in"
+            ],
+            [
+              "an",
+              "einem"
+            ],
+            [
+              "off licence.",
+              "Wein-und-Spirituosengeschäft."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1559,7 +2719,69 @@
               ]
             }
           ],
-          "read": "My eyesight has got worse, so I'm going to the optician to get new glasses."
+          "read": "My eyesight has got worse, so I'm going to the optician to get new glasses.",
+          "rdec": [
+            [
+              "My",
+              "meine"
+            ],
+            [
+              "eyesight",
+              "Sehkraft"
+            ],
+            [
+              "has",
+              "ist"
+            ],
+            [
+              "got",
+              "geworden"
+            ],
+            [
+              "worse,",
+              "schlechter,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I'm",
+              "ich"
+            ],
+            [
+              "going",
+              "gehe"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "optician",
+              "Optiker"
+            ],
+            [
+              "to",
+              "um-zu"
+            ],
+            [
+              "get",
+              "bekommen"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "glasses.",
+              "Brille."
+            ]
+          ]
         }
       ]
     },
@@ -1720,7 +2942,69 @@
               ]
             }
           ],
-          "read": "Before buying a new laptop, you should shop around and compare prices in different stores."
+          "read": "Before buying a new laptop, you should shop around and compare prices in different stores.",
+          "rdec": [
+            [
+              "Before",
+              "bevor"
+            ],
+            [
+              "buying",
+              "kaufst"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "laptop,",
+              "Laptop,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "should",
+              "solltest"
+            ],
+            [
+              "shop",
+              "Preise"
+            ],
+            [
+              "around",
+              "vergleichen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "compare",
+              "vergleichen"
+            ],
+            [
+              "prices",
+              "Preise"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "different",
+              "verschiedenen"
+            ],
+            [
+              "stores.",
+              "Geschäften."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1904,7 +3188,85 @@
               ]
             }
           ],
-          "read": "We didn't want to buy anything – we just went window shopping and looked at the beautiful shop windows."
+          "read": "We didn't want to buy anything – we just went window shopping and looked at the beautiful shop windows.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "didn't",
+              "wollten-nicht"
+            ],
+            [
+              "want",
+              "wollen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "anything",
+              "irgendetwas"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "just",
+              "einfach"
+            ],
+            [
+              "went",
+              "gingen"
+            ],
+            [
+              "window",
+              "Schaufenster"
+            ],
+            [
+              "shopping",
+              "bummeln"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "looked",
+              "schauten"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "beautiful",
+              "schönen"
+            ],
+            [
+              "shop",
+              "Schaufenster"
+            ],
+            [
+              "windows.",
+              "Schaufenster."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2063,7 +3425,73 @@
               "w": []
             }
           ],
-          "read": "I didn't plan to buy this T-shirt at all – it was a typical impulse purchase."
+          "read": "I didn't plan to buy this T-shirt at all – it was a typical impulse purchase.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "didn't",
+              "tat-nicht"
+            ],
+            [
+              "plan",
+              "planen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "T-shirt",
+              "T-Shirt"
+            ],
+            [
+              "at",
+              "über"
+            ],
+            [
+              "all",
+              "überhaupt"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "typical",
+              "typischer"
+            ],
+            [
+              "impulse",
+              "Impuls"
+            ],
+            [
+              "purchase.",
+              "kauf."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2207,7 +3635,65 @@
               ]
             }
           ],
-          "read": "The fridge is empty, so I have to do the grocery shopping this afternoon."
+          "read": "The fridge is empty, so I have to do the grocery shopping this afternoon.",
+          "rdec": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "fridge",
+              "Kühlschrank"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "empty,",
+              "leer,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "have",
+              "muss"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "do",
+              "erledigen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "grocery",
+              "Lebensmittel"
+            ],
+            [
+              "shopping",
+              "einkauf"
+            ],
+            [
+              "this",
+              "diesen"
+            ],
+            [
+              "afternoon.",
+              "Nachmittag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2347,7 +3833,61 @@
               ]
             }
           ],
-          "read": "The trousers didn't fit, so I had to return them to the store."
+          "read": "The trousers didn't fit, so I had to return them to the store.",
+          "rdec": [
+            [
+              "The",
+              "die"
+            ],
+            [
+              "trousers",
+              "Hose"
+            ],
+            [
+              "didn't",
+              "tat-nicht"
+            ],
+            [
+              "fit,",
+              "passen,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had",
+              "musste"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "return",
+              "zurückbringen"
+            ],
+            [
+              "them",
+              "sie"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "store.",
+              "Laden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2479,7 +4019,57 @@
               ]
             }
           ],
-          "read": "Many people take advantage of major shopping days like Black Friday in November."
+          "read": "Many people take advantage of major shopping days like Black Friday in November.",
+          "rdec": [
+            [
+              "Many",
+              "viele"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "take",
+              "nutzen"
+            ],
+            [
+              "advantage",
+              "Vorteil"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "major",
+              "großen"
+            ],
+            [
+              "shopping",
+              "Einkaufs"
+            ],
+            [
+              "days",
+              "tagen"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "Black Friday",
+              "Black Friday"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "November.",
+              "November."
+            ]
+          ]
         }
       ]
     }

@@ -778,7 +778,53 @@
               ]
             }
           ],
-          "read": "Daniella: But I thought you said you had your own business."
+          "read": "Daniella: But I thought you said you had your own business.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had",
+              "hattest"
+            ],
+            [
+              "your own",
+              "dein eigenes"
+            ],
+            [
+              "business.",
+              "Unternehmen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -995,7 +1041,57 @@
               ]
             }
           ],
-          "read": "Daniella: But I thought you told me you had travelled all over the world."
+          "read": "Daniella: But I thought you told me you had travelled all over the world.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "told",
+              "erzähltest"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had travelled",
+              "gereist-hattest"
+            ],
+            [
+              "all over",
+              "überall auf"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1188,7 +1284,45 @@
               ]
             }
           ],
-          "read": "Daniella: But didn't you say you had a Mercedes?"
+          "read": "Daniella: But didn't you say you had a Mercedes?",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "say",
+              "sagen"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had",
+              "hattest"
+            ],
+            [
+              "a Mercedes?",
+              "einen Mercedes?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1377,7 +1511,45 @@
               ]
             }
           ],
-          "read": "Daniella: But you said you didn't drink alcohol."
+          "read": "Daniella: But you said you didn't drink alcohol.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "alcohol.",
+              "Alkohol."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1606,7 +1778,57 @@
               ]
             }
           ],
-          "read": "Daniella: But I thought you said you could speak French fluently."
+          "read": "Daniella: But I thought you said you could speak French fluently.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "could",
+              "könntest"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "French",
+              "Französisch"
+            ],
+            [
+              "fluently.",
+              "fließend."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1815,7 +2037,45 @@
               ]
             }
           ],
-          "read": "Daniella: But you told me you lived alone."
+          "read": "Daniella: But you told me you lived alone.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "told",
+              "erzähltest"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "lived",
+              "wohntest"
+            ],
+            [
+              "alone.",
+              "allein."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2016,7 +2276,49 @@
               ]
             }
           ],
-          "read": "Daniella: But didn't you say you were going to Miami this summer?"
+          "read": "Daniella: But didn't you say you were going to Miami this summer?",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "But",
+              "Aber"
+            ],
+            [
+              "didn't",
+              "taten'nicht"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "say",
+              "sagen"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "were going",
+              "wärst-gehend"
+            ],
+            [
+              "to Miami",
+              "nach Miami"
+            ],
+            [
+              "this summer?",
+              "diesen Sommer?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2274,7 +2576,57 @@
               ]
             }
           ],
-          "read": "Daniella: It's Daniella! I thought you said you wouldn't forget my name."
+          "read": "Daniella: It's Daniella! I thought you said you wouldn't forget my name.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Daniella:",
+              "Daniella:"
+            ],
+            [
+              "It's",
+              "Es'ist"
+            ],
+            [
+              "Daniella!",
+              "Daniella!"
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "thought",
+              "dachte"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "said",
+              "sagtest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "wouldn't",
+              "würdest'nicht"
+            ],
+            [
+              "forget",
+              "vergessen"
+            ],
+            [
+              "my name.",
+              "meinen Namen."
+            ]
+          ]
         }
       ]
     },
@@ -2408,7 +2760,33 @@
               ]
             }
           ],
-          "read": "Joe said he was going away that week."
+          "read": "Joe said he was going away that week.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Joe",
+              "Joe"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was going away",
+              "weggehend-war"
+            ],
+            [
+              "that week.",
+              "jene Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2545,7 +2923,37 @@
               ]
             }
           ],
-          "read": "The athlete said he will win the race tomorrow."
+          "read": "The athlete said he will win the race tomorrow.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The athlete",
+              "Der Sportler"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "will win",
+              "wird gewinnen"
+            ],
+            [
+              "the race",
+              "das Rennen"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2686,7 +3094,37 @@
               ]
             }
           ],
-          "read": "The news reporter said people had been protesting in the streets that day."
+          "read": "The news reporter said people had been protesting in the streets that day.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The news reporter",
+              "Der Nachrichtensprecher"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "had been protesting",
+              "protestiert-hatten"
+            ],
+            [
+              "in the streets",
+              "auf den Straßen"
+            ],
+            [
+              "that day.",
+              "jenen Tag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2823,7 +3261,33 @@
               ]
             }
           ],
-          "read": "The director said the company will continue to grow next year."
+          "read": "The director said the company will continue to grow next year.",
+          "rdec": [
+            [
+              "The director",
+              "Der Direktor"
+            ],
+            [
+              "said,",
+              "sagte,"
+            ],
+            [
+              "\"The company",
+              "\"Das Unternehmen"
+            ],
+            [
+              "will continue",
+              "wird weiterhin"
+            ],
+            [
+              "to grow",
+              "wachsen"
+            ],
+            [
+              "next year.\"",
+              "nächstes Jahr.\""
+            ]
+          ]
         },
         {
           "parts": [
@@ -2979,7 +3443,45 @@
               "w": []
             }
           ],
-          "read": "Last year, the doctor told me I needed to rest more."
+          "read": "Last year, the doctor told me I needed to rest more.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Last year,",
+              "Letztes Jahr,"
+            ],
+            [
+              "the doctor",
+              "der Arzt"
+            ],
+            [
+              "told",
+              "erzählte"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "needed",
+              "müsste"
+            ],
+            [
+              "to rest",
+              "mich ausruhen"
+            ],
+            [
+              "more.",
+              "mehr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3136,7 +3638,49 @@
               ]
             }
           ],
-          "read": "The president said he wouldn't lose the election, but he did."
+          "read": "The president said he wouldn't lose the election, but he did.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The president",
+              "Der Präsident"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wouldn't",
+              "würde'nicht"
+            ],
+            [
+              "lose",
+              "verlieren"
+            ],
+            [
+              "the election,",
+              "die Wahl,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "did.",
+              "tat-es."
+            ]
+          ]
         }
       ]
     },
@@ -3286,7 +3830,37 @@
               ]
             }
           ],
-          "read": "She said that she drank a coke."
+          "read": "She said that she drank a coke.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "drank",
+              "trank"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3427,7 +4001,37 @@
               ]
             }
           ],
-          "read": "Sally said that she was walking the dog."
+          "read": "Sally said that she was walking the dog.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Sally",
+              "Sally"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was walking",
+              "gehend-war"
+            ],
+            [
+              "the dog.",
+              "den Hund."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3568,7 +4172,37 @@
               ]
             }
           ],
-          "read": "She said that she had drunk a coke."
+          "read": "She said that she had drunk a coke.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had drunk",
+              "getrunken-hatte"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3709,7 +4343,37 @@
               ]
             }
           ],
-          "read": "She said that she had drunk a coke."
+          "read": "She said that she had drunk a coke.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had drunk",
+              "getrunken-hatte"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3850,7 +4514,37 @@
               ]
             }
           ],
-          "read": "She said that she would drink a coke."
+          "read": "She said that she would drink a coke.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would drink",
+              "würde trinken"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4003,7 +4697,41 @@
               ]
             }
           ],
-          "read": "She said that she was going to drink a coke."
+          "read": "She said that she was going to drink a coke.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was going to",
+              "im-Begriff-war"
+            ],
+            [
+              "drink",
+              "trinken"
+            ],
+            [
+              "a coke.",
+              "eine Cola."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4156,7 +4884,41 @@
               ]
             }
           ],
-          "read": "Tom said that he could help me."
+          "read": "Tom said that he could help me.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "could",
+              "könnte"
+            ],
+            [
+              "help",
+              "helfen"
+            ],
+            [
+              "me.",
+              "mir."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4309,7 +5071,41 @@
               ]
             }
           ],
-          "read": "She said that she might be late."
+          "read": "She said that she might be late.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "might",
+              "könnte"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "late.",
+              "spät."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4466,7 +5262,41 @@
               ]
             }
           ],
-          "read": "He said that the Rhine flows through Vorarlberg."
+          "read": "He said that the Rhine flows through Vorarlberg.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "the Rhine",
+              "der Rhein"
+            ],
+            [
+              "flows",
+              "fließt"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "Vorarlberg.",
+              "Vorarlberg."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4607,7 +5437,37 @@
               ]
             }
           ],
-          "read": "Frank says that Mary buys new shoes."
+          "read": "Frank says that Mary buys new shoes.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Frank",
+              "Frank"
+            ],
+            [
+              "says",
+              "sagt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "Mary",
+              "Mary"
+            ],
+            [
+              "buys",
+              "kauft"
+            ],
+            [
+              "new shoes.",
+              "neue Schuhe."
+            ]
+          ]
         }
       ]
     },
@@ -4755,7 +5615,37 @@
               "w": []
             }
           ],
-          "read": "She said she was busy then."
+          "read": "She said she was busy then.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "busy",
+              "beschäftigt"
+            ],
+            [
+              "then.",
+              "damals."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4894,7 +5784,37 @@
               "w": []
             }
           ],
-          "read": "Tom said he had seen him the day before."
+          "read": "Tom said he had seen him the day before.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had seen",
+              "gesehen-hatte"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "the day before.",
+              "den-Tag-davor."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5017,7 +5937,33 @@
               "w": []
             }
           ],
-          "read": "They said they would meet the next day."
+          "read": "They said they would meet the next day.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "They",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagten"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "would meet",
+              "würden-sich-treffen"
+            ],
+            [
+              "the next day.",
+              "den-nächsten-Tag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5156,7 +6102,37 @@
               "w": []
             }
           ],
-          "read": "Ann said she liked it there."
+          "read": "Ann said she liked it there.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Ann",
+              "Ann"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "liked",
+              "mochte"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "there.",
+              "dort."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5279,7 +6255,33 @@
               "w": []
             }
           ],
-          "read": "He said he was leaving that day."
+          "read": "He said he was leaving that day.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was leaving",
+              "verlassend-war"
+            ],
+            [
+              "that day.",
+              "jenen Tag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5445,7 +6447,37 @@
               ]
             }
           ],
-          "read": "He said he had bought that car the week before."
+          "read": "He said he had bought that car the week before.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had bought",
+              "gekauft-hatte"
+            ],
+            [
+              "that car",
+              "jenes Auto"
+            ],
+            [
+              "the week before.",
+              "die-Woche-davor."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5568,7 +6600,33 @@
               "w": []
             }
           ],
-          "read": "She said they were moving the following week."
+          "read": "She said they were moving the following week.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "were moving",
+              "umziehend-waren"
+            ],
+            [
+              "the following week.",
+              "die-folgende-Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5707,7 +6765,37 @@
               "w": []
             }
           ],
-          "read": "He said he had started his job the previous year."
+          "read": "He said he had started his job the previous year.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "said",
+              "sagte"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had started",
+              "begonnen-hatte"
+            ],
+            [
+              "his job",
+              "seinen Job"
+            ],
+            [
+              "the previous year.",
+              "das-vorherige-Jahr."
+            ]
+          ]
         }
       ]
     },
@@ -5865,7 +6953,41 @@
               ]
             }
           ],
-          "read": "He wanted to know where I bought my car."
+          "read": "He wanted to know where I bought my car.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "wanted",
+              "wollte"
+            ],
+            [
+              "to know",
+              "wissen"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "my car.",
+              "mein Auto."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6016,7 +7138,37 @@
               ]
             }
           ],
-          "read": "She asked if I was tired."
+          "read": "She asked if I was tired.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "tired.",
+              "müde."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6145,7 +7297,41 @@
               ]
             }
           ],
-          "read": "The policeman asked the man where he had parked the car."
+          "read": "The policeman asked the man where he had parked the car.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The policeman",
+              "Der Polizist"
+            ],
+            [
+              "asked",
+              "fragte"
+            ],
+            [
+              "the man",
+              "den Mann"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had parked",
+              "geparkt-hatte"
+            ],
+            [
+              "the car.",
+              "das Auto."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6296,7 +7482,33 @@
               ]
             }
           ],
-          "read": "She asked me to help her."
+          "read": "She asked me to help her.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "to help",
+              "zu helfen"
+            ],
+            [
+              "her.",
+              "ihr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6420,7 +7632,33 @@
               ]
             }
           ],
-          "read": "She told me to help her."
+          "read": "She told me to help her.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "told",
+              "befahl"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "to help",
+              "zu helfen"
+            ],
+            [
+              "her.",
+              "ihr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6553,7 +7791,33 @@
               ]
             }
           ],
-          "read": "Jenny told Michael not to shout that way."
+          "read": "Jenny told Michael not to shout that way.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "told",
+              "befahl"
+            ],
+            [
+              "Michael",
+              "Michael"
+            ],
+            [
+              "not to shout",
+              "nicht-zu-schreien"
+            ],
+            [
+              "that way.",
+              "auf-diese-Weise."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6710,7 +7974,37 @@
               ]
             }
           ],
-          "read": "Billy asked his brother to take him to the movies."
+          "read": "Billy asked his brother to take him to the movies.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Billy",
+              "Billy"
+            ],
+            [
+              "asked",
+              "bat"
+            ],
+            [
+              "his brother",
+              "seinen Bruder"
+            ],
+            [
+              "to take",
+              "zu bringen"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "to the movies.",
+              "ins Kino."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6835,7 +8129,29 @@
               ]
             }
           ],
-          "read": "Alex suggested going to the cinema."
+          "read": "Alex suggested going to the cinema.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Alex",
+              "Alex"
+            ],
+            [
+              "suggested",
+              "schlug vor"
+            ],
+            [
+              "going",
+              "zu gehen"
+            ],
+            [
+              "to the cinema.",
+              "ins Kino."
+            ]
+          ]
         }
       ]
     }

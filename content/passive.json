@@ -506,7 +506,25 @@
               ]
             }
           ],
-          "read": "English is spoken in many countries."
+          "read": "English is spoken in many countries.",
+          "rdec": [
+            [
+              "English",
+              "Englisch"
+            ],
+            [
+              "is spoken",
+              "wird gesprochen"
+            ],
+            [
+              "in many",
+              "in vielen"
+            ],
+            [
+              "countries.",
+              "Ländern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -637,7 +655,41 @@
               ]
             }
           ],
-          "read": "The post is delivered at about 7 o'clock every morning."
+          "read": "The post is delivered at about 7 o'clock every morning.",
+          "rdec": [
+            [
+              "The",
+              "die"
+            ],
+            [
+              "post",
+              "Post"
+            ],
+            [
+              "is delivered",
+              "wird zugestellt"
+            ],
+            [
+              "at about",
+              "gegen etwa"
+            ],
+            [
+              "7",
+              "7"
+            ],
+            [
+              "o'clock",
+              "Uhr"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "morning.",
+              "Morgen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -739,7 +791,29 @@
               ]
             }
           ],
-          "read": "Is the building used any more?"
+          "read": "Is the building used any more?",
+          "rdec": [
+            [
+              "Is",
+              "wird"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "building",
+              "Gebäude"
+            ],
+            [
+              "used",
+              "benutzt"
+            ],
+            [
+              "any more?",
+              "noch?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -843,7 +917,29 @@
               ]
             }
           ],
-          "read": "How often are the Olympic Games held?"
+          "read": "How often are the Olympic Games held?",
+          "rdec": [
+            [
+              "How often",
+              "Wie oft"
+            ],
+            [
+              "are",
+              "werden"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "Olympic Games",
+              "Olympischen Spiele"
+            ],
+            [
+              "held?",
+              "abgehalten?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -947,7 +1043,29 @@
               ]
             }
           ],
-          "read": "How is your name spelled?"
+          "read": "How is your name spelled?",
+          "rdec": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "is",
+              "wird"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "spelled?",
+              "buchstabiert?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1054,7 +1172,29 @@
               ]
             }
           ],
-          "read": "My salary is paid every month."
+          "read": "My salary is paid every month.",
+          "rdec": [
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "salary",
+              "Gehalt"
+            ],
+            [
+              "is paid",
+              "wird bezahlt"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "month.",
+              "Monat."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1161,7 +1301,29 @@
               ]
             }
           ],
-          "read": "These cars are not made in Japan."
+          "read": "These cars are not made in Japan.",
+          "rdec": [
+            [
+              "These",
+              "Diese"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "are not made",
+              "werden nicht hergestellt"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Japan.",
+              "Japan."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1304,7 +1466,45 @@
               ]
             }
           ],
-          "read": "The name of the people who committed the crime is not known."
+          "read": "The name of the people who committed the crime is not known.",
+          "rdec": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "of the",
+              "der"
+            ],
+            [
+              "people",
+              "Leute"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "committed",
+              "begangen haben"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "crime",
+              "Verbrechen"
+            ],
+            [
+              "is not known.",
+              "ist nicht bekannt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1427,7 +1627,37 @@
               ]
             }
           ],
-          "read": "His travel expenses are not paid by his company."
+          "read": "His travel expenses are not paid by his company.",
+          "rdec": [
+            [
+              "His",
+              "seine"
+            ],
+            [
+              "travel",
+              "Reise-"
+            ],
+            [
+              "expenses",
+              "kosten"
+            ],
+            [
+              "are not paid",
+              "werden nicht bezahlt"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "his",
+              "seiner"
+            ],
+            [
+              "company.",
+              "Firma."
+            ]
+          ]
         }
       ]
     },
@@ -1543,7 +1773,29 @@
               ]
             }
           ],
-          "read": "My car was repaired last week."
+          "read": "My car was repaired last week.",
+          "rdec": [
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was repaired",
+              "wurde repariert"
+            ],
+            [
+              "last",
+              "letzte"
+            ],
+            [
+              "week.",
+              "Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1650,7 +1902,29 @@
               ]
             }
           ],
-          "read": "This song was not written by John Lennon."
+          "read": "This song was not written by John Lennon.",
+          "rdec": [
+            [
+              "This",
+              "dieses"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "was not written",
+              "wurde nicht geschrieben"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "John Lennon.",
+              "John Lennon."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1769,7 +2043,37 @@
               ]
             }
           ],
-          "read": "Was the phone answered by a young girl?"
+          "read": "Was the phone answered by a young girl?",
+          "rdec": [
+            [
+              "Was",
+              "wurde"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "phone",
+              "Telefon"
+            ],
+            [
+              "answered",
+              "beantwortet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "a young",
+              "einem jungen"
+            ],
+            [
+              "girl?",
+              "Mädchen?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1884,7 +2188,33 @@
               ]
             }
           ],
-          "read": "The film was made ten years ago."
+          "read": "The film was made ten years ago.",
+          "rdec": [
+            [
+              "The",
+              "der"
+            ],
+            [
+              "film",
+              "Film"
+            ],
+            [
+              "was made",
+              "wurde gemacht"
+            ],
+            [
+              "ten",
+              "zehn"
+            ],
+            [
+              "years",
+              "Jahre"
+            ],
+            [
+              "ago.",
+              "zuvor."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1980,7 +2310,25 @@
               ]
             }
           ],
-          "read": "When was tennis invented?"
+          "read": "When was tennis invented?",
+          "rdec": [
+            [
+              "When",
+              "Wann"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "tennis",
+              "Tennis"
+            ],
+            [
+              "invented?",
+              "erfunden?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2095,7 +2443,33 @@
               ]
             }
           ],
-          "read": "The car was not damaged in the accident."
+          "read": "The car was not damaged in the accident.",
+          "rdec": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was not damaged",
+              "wurde nicht beschädigt"
+            ],
+            [
+              "in",
+              "bei"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "accident.",
+              "Unfall."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2214,7 +2588,33 @@
               ]
             }
           ],
-          "read": "The original building was pulled down in 1965."
+          "read": "The original building was pulled down in 1965.",
+          "rdec": [
+            [
+              "The",
+              "das"
+            ],
+            [
+              "original",
+              "ursprüngliche"
+            ],
+            [
+              "building",
+              "Gebäude"
+            ],
+            [
+              "was pulled down",
+              "wurde abgerissen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "1965.",
+              "1965."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2318,7 +2718,29 @@
               ]
             }
           ],
-          "read": "Where was this pot made?"
+          "read": "Where was this pot made?",
+          "rdec": [
+            [
+              "Where",
+              "Wo"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "this",
+              "dieser"
+            ],
+            [
+              "pot",
+              "Topf"
+            ],
+            [
+              "made?",
+              "hergestellt?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2422,7 +2844,29 @@
               ]
             }
           ],
-          "read": "When was this bridge built?"
+          "read": "When was this bridge built?",
+          "rdec": [
+            [
+              "When",
+              "Wann"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "this",
+              "diese"
+            ],
+            [
+              "bridge",
+              "Brücke"
+            ],
+            [
+              "built?",
+              "gebaut?"
+            ]
+          ]
         }
       ]
     },
@@ -2562,7 +3006,57 @@
               ]
             }
           ],
-          "read": "Fiat was started by a group of Italian businessmen in 1899. In 1903, Fiat produced 132 cars."
+          "read": "Fiat was started by a group of Italian businessmen in 1899. In 1903, Fiat produced 132 cars.",
+          "rdec": [
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "was started",
+              "wurde gegründet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "a group",
+              "einer Gruppe"
+            ],
+            [
+              "of Italian",
+              "italienischer"
+            ],
+            [
+              "businessmen",
+              "Geschäftsmänner"
+            ],
+            [
+              "in 1899.",
+              "im Jahre 1899."
+            ],
+            [
+              "In 1903,",
+              "Im Jahre 1903,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "produced",
+              "produzierte"
+            ],
+            [
+              "132",
+              "132"
+            ],
+            [
+              "cars.",
+              "Autos."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2685,7 +3179,53 @@
               ]
             }
           ],
-          "read": "Some of these cars were exported by the company to the United States and Britain."
+          "read": "Some of these cars were exported by the company to the United States and Britain.",
+          "rdec": [
+            [
+              "Some",
+              "einige"
+            ],
+            [
+              "of these",
+              "dieser"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were exported",
+              "wurden exportiert"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "company",
+              "Firma"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the United States",
+              "die Vereinigten Staaten"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "Britain.",
+              "Großbritannien."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2800,7 +3340,49 @@
               ]
             }
           ],
-          "read": "In 1920, Fiat started making cars at a new factory at Lingotto, near Turin."
+          "read": "In 1920, Fiat started making cars at a new factory at Lingotto, near Turin.",
+          "rdec": [
+            [
+              "In 1920,",
+              "Im Jahre 1920,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "started",
+              "begann"
+            ],
+            [
+              "making",
+              "herzustellen"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "at a new",
+              "in einer neuen"
+            ],
+            [
+              "factory",
+              "Fabrik"
+            ],
+            [
+              "at Lingotto,",
+              "in Lingotto,"
+            ],
+            [
+              "near",
+              "in der Nähe von"
+            ],
+            [
+              "Turin.",
+              "Turin."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2915,7 +3497,49 @@
               ]
             }
           ],
-          "read": "There was a track on the roof where the cars were tested by technicians."
+          "read": "There was a track on the roof where the cars were tested by technicians.",
+          "rdec": [
+            [
+              "There was",
+              "es gab"
+            ],
+            [
+              "a track",
+              "eine Strecke"
+            ],
+            [
+              "on the",
+              "auf dem"
+            ],
+            [
+              "roof",
+              "Dach"
+            ],
+            [
+              "where",
+              "wo"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "were tested",
+              "wurden getestet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "technicians.",
+              "Technikern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3054,7 +3678,61 @@
               ]
             }
           ],
-          "read": "In 1936, Fiat launched the Fiat 500. This car was called the Topolino – the Italian name for Mickey Mouse."
+          "read": "In 1936, Fiat launched the Fiat 500. This car was called the Topolino – the Italian name for Mickey Mouse.",
+          "rdec": [
+            [
+              "In 1936,",
+              "Im Jahre 1936,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "launched",
+              "brachte heraus"
+            ],
+            [
+              "the Fiat 500.",
+              "den Fiat 500."
+            ],
+            [
+              "This",
+              "dieses"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "was called",
+              "wurde genannt"
+            ],
+            [
+              "the Topolino",
+              "der Topolino"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "the Italian",
+              "der italienische"
+            ],
+            [
+              "name",
+              "Name"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "Mickey Mouse.",
+              "Micky Maus."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3169,7 +3847,49 @@
               ]
             }
           ],
-          "read": "The company grew, and in 1963 Fiat exported more than 300,000 vehicles."
+          "read": "The company grew, and in 1963 Fiat exported more than 300,000 vehicles.",
+          "rdec": [
+            [
+              "The",
+              "die"
+            ],
+            [
+              "company",
+              "Firma"
+            ],
+            [
+              "grew,",
+              "wuchs,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "in 1963",
+              "im Jahre 1963"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "exported",
+              "exportierte"
+            ],
+            [
+              "more than",
+              "mehr als"
+            ],
+            [
+              "300,000",
+              "300.000"
+            ],
+            [
+              "vehicles.",
+              "Fahrzeuge."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3286,7 +4006,49 @@
               ]
             }
           ],
-          "read": "Today, Fiat is based in Turin, and its cars are sold all over the world."
+          "read": "Today, Fiat is based in Turin, and its cars are sold all over the world.",
+          "rdec": [
+            [
+              "Today,",
+              "heute,"
+            ],
+            [
+              "Fiat",
+              "Fiat"
+            ],
+            [
+              "is based",
+              "hat seinen Sitz"
+            ],
+            [
+              "in Turin,",
+              "in Turin,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "its",
+              "seine"
+            ],
+            [
+              "cars",
+              "Autos"
+            ],
+            [
+              "are sold",
+              "werden verkauft"
+            ],
+            [
+              "all over",
+              "überall auf"
+            ],
+            [
+              "the world.",
+              "der Welt."
+            ]
+          ]
         }
       ]
     },
@@ -3474,7 +4236,37 @@
               ]
             }
           ],
-          "read": "Tickets for all shows are sold at the Box Office."
+          "read": "Tickets for all shows are sold at the Box Office.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tickets",
+              "Tickets"
+            ],
+            [
+              "for all",
+              "für alle"
+            ],
+            [
+              "shows",
+              "Vorstellungen"
+            ],
+            [
+              "are sold",
+              "werden verkauft"
+            ],
+            [
+              "at the",
+              "an der"
+            ],
+            [
+              "Box Office.",
+              "Kasse."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3642,7 +4434,37 @@
               ]
             }
           ],
-          "read": "The electric light bulb was invented by Thomas Edison."
+          "read": "The electric light bulb was invented by Thomas Edison.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "electric",
+              "elektrische"
+            ],
+            [
+              "light bulb",
+              "Glühbirne"
+            ],
+            [
+              "was invented",
+              "wurde erfunden"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Thomas Edison.",
+              "Thomas Edison."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3789,7 +4611,29 @@
               ]
             }
           ],
-          "read": "The office was painted last week."
+          "read": "The office was painted last week.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "das"
+            ],
+            [
+              "office",
+              "Büro"
+            ],
+            [
+              "was painted",
+              "wurde gestrichen"
+            ],
+            [
+              "last week.",
+              "letzte Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3952,7 +4796,37 @@
               ]
             }
           ],
-          "read": "The accident was seen by several people."
+          "read": "The accident was seen by several people.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "der"
+            ],
+            [
+              "accident",
+              "Unfall"
+            ],
+            [
+              "was seen",
+              "wurde gesehen"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "several",
+              "mehreren"
+            ],
+            [
+              "people.",
+              "Leuten."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4103,7 +4977,33 @@
               "w": []
             }
           ],
-          "read": "Where are these video recorders made?"
+          "read": "Where are these video recorders made?",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Where",
+              "Wo"
+            ],
+            [
+              "are",
+              "werden"
+            ],
+            [
+              "these",
+              "diese"
+            ],
+            [
+              "video recorders",
+              "Videorekorder"
+            ],
+            [
+              "made?",
+              "hergestellt?"
+            ]
+          ]
         }
       ]
     },
@@ -4255,7 +5155,25 @@
               ]
             }
           ],
-          "read": "The letters will be delivered."
+          "read": "The letters will be delivered.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "will be delivered.",
+              "werden zugestellt-werden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4398,7 +5316,21 @@
               ]
             }
           ],
-          "read": "He has been arrested."
+          "read": "He has been arrested.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "has been arrested.",
+              "ist verhaftet-worden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4541,7 +5473,25 @@
               ]
             }
           ],
-          "read": "The letters must be delivered."
+          "read": "The letters must be delivered.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "must be delivered.",
+              "müssen zugestellt-werden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4684,7 +5634,25 @@
               ]
             }
           ],
-          "read": "The letters are being delivered."
+          "read": "The letters are being delivered.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "letters",
+              "Briefe"
+            ],
+            [
+              "are being delivered.",
+              "werden gerade zugestellt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4825,7 +5793,33 @@
               ]
             }
           ],
-          "read": "He is going to be helped by you."
+          "read": "He is going to be helped by you.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "is going to",
+              "wird"
+            ],
+            [
+              "be helped",
+              "geholfen-werden"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "you.",
+              "dir."
+            ]
+          ]
         }
       ]
     }

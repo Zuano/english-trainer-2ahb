@@ -1222,7 +1222,65 @@
           "solutionEn": "When the choir started singing, the gorgeous harmony sent a shiver down my spine.",
           "solutionDe": "Als der Chor zu singen begann, jagte mir die wunderschöne Harmonie einen Schauer über den Rücken.",
           "explain": "Im Text: 'music that sends a shiver down your spine' = Musik, die dir einen Schauer über den Rücken jagt.",
-          "read": "When the choir started singing, the gorgeous harmony sent a shiver down my spine."
+          "read": "When the choir started singing, the gorgeous harmony sent a shiver down my spine.",
+          "rdec": [
+            [
+              "When",
+              "Als"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "choir",
+              "Chor"
+            ],
+            [
+              "started",
+              "begann"
+            ],
+            [
+              "singing,",
+              "zu-singen,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "gorgeous",
+              "prachtvolle"
+            ],
+            [
+              "harmony",
+              "Harmonie"
+            ],
+            [
+              "sent",
+              "jagte"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "shiver",
+              "Schauer"
+            ],
+            [
+              "down",
+              "über"
+            ],
+            [
+              "my",
+              "meinen"
+            ],
+            [
+              "spine.",
+              "Rücken."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1247,7 +1305,69 @@
           "solutionEn": "The song 'Happy' is full of upbeat lyrics that make you feel positive and cheerful.",
           "solutionDe": "Das Lied ‚Happy‘ ist voller fröhlicher Liedtexte, die einen positiv und gut gelaunt stimmen.",
           "explain": "upbeat = fröhlich, optimistisch; lyrics = Liedtext (immer Plural!).",
-          "read": "The song 'Happy' is full of upbeat lyrics that make you feel positive and cheerful."
+          "read": "The song 'Happy' is full of upbeat lyrics that make you feel positive and cheerful.",
+          "rdec": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "'Happy'",
+              "'Happy'"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "full",
+              "voll"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "upbeat",
+              "fröhlichen"
+            ],
+            [
+              "lyrics",
+              "Liedtexten"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "make",
+              "machen"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "positive",
+              "positiv"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "cheerful.",
+              "heiter."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1272,7 +1392,57 @@
           "solutionEn": "The broken microphone suddenly made a screeching noise that hurt everyone's ears.",
           "solutionDe": "Das kaputte Mikrofon machte plötzlich ein kreischendes Geräusch, das allen in den Ohren wehtat.",
           "explain": "screeching = kreischend. Im Text: das Geräusch des Nachbarn, der gerade Schlagzeug oder Geige lernt.",
-          "read": "The broken microphone suddenly made a screeching noise that hurt everyone's ears."
+          "read": "The broken microphone suddenly made a screeching noise that hurt everyone's ears.",
+          "rdec": [
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "broken",
+              "kaputte"
+            ],
+            [
+              "microphone",
+              "Mikrofon"
+            ],
+            [
+              "suddenly",
+              "plötzlich"
+            ],
+            [
+              "made",
+              "machte"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "screeching",
+              "kreischendes"
+            ],
+            [
+              "noise",
+              "Geräusch"
+            ],
+            [
+              "that",
+              "das"
+            ],
+            [
+              "hurt",
+              "verletzte"
+            ],
+            [
+              "everyone's",
+              "jedermanns"
+            ],
+            [
+              "ears.",
+              "Ohren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1297,7 +1467,93 @@
           "solutionEn": "I can't stop humming that song – it has such a catchy tune that it stays in your head all day.",
           "solutionDe": "Ich kann nicht aufhören, das Lied zu summen – es hat so eine eingängige Melodie, dass es einem den ganzen Tag im Kopf bleibt.",
           "explain": "catchy = eingängig, bleibt im Ohr; tune = Melodie.",
-          "read": "I can't stop humming that song – it has such a catchy tune that it stays in your head all day."
+          "read": "I can't stop humming that song – it has such a catchy tune that it stays in your head all day.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "can't",
+              "kann'nicht"
+            ],
+            [
+              "stop",
+              "aufhören"
+            ],
+            [
+              "humming",
+              "zu-summen"
+            ],
+            [
+              "that",
+              "jenes"
+            ],
+            [
+              "song",
+              "Lied"
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "such",
+              "so"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "catchy",
+              "eingängige"
+            ],
+            [
+              "tune",
+              "Melodie"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "stays",
+              "bleibt"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "your",
+              "deinem"
+            ],
+            [
+              "head",
+              "Kopf"
+            ],
+            [
+              "all",
+              "den-ganzen"
+            ],
+            [
+              "day.",
+              "Tag."
+            ]
+          ]
         }
       ]
     },
@@ -1563,7 +1819,85 @@
               "t": "g"
             }
           ],
-          "read": "Why did Pharrell Williams write so many versions of 'Happy'? He wanted to get just the right version to move people."
+          "read": "Why did Pharrell Williams write so many versions of 'Happy'? He wanted to get just the right version to move people.",
+          "rdec": [
+            [
+              "Why",
+              "Warum"
+            ],
+            [
+              "did",
+              "-"
+            ],
+            [
+              "Pharrell",
+              "Pharrell"
+            ],
+            [
+              "Williams",
+              "Williams"
+            ],
+            [
+              "write",
+              "schrieb"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "versions",
+              "Versionen"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "'Happy'?",
+              "'Happy'?"
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "wanted",
+              "wollte"
+            ],
+            [
+              "to get",
+              "bekommen"
+            ],
+            [
+              "just",
+              "genau"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "right",
+              "richtige"
+            ],
+            [
+              "version",
+              "Version"
+            ],
+            [
+              "to move",
+              "um zu bewegen"
+            ],
+            [
+              "people.",
+              "Menschen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1703,7 +2037,77 @@
               "t": "g"
             }
           ],
-          "read": "What is the main point of the whole text? Music influences the way people feel and act."
+          "read": "What is the main point of the whole text? Music influences the way people feel and act.",
+          "rdec": [
+            [
+              "What",
+              "Was"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "main",
+              "Haupt-"
+            ],
+            [
+              "point",
+              "punkt"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "whole",
+              "ganzen"
+            ],
+            [
+              "text?",
+              "Textes?"
+            ],
+            [
+              "Music",
+              "Musik"
+            ],
+            [
+              "influences",
+              "beeinflusst"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "way",
+              "Art"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "act.",
+              "handeln."
+            ]
+          ]
         }
       ]
     },
@@ -1887,7 +2291,37 @@
               "t": "g"
             }
           ],
-          "read": "Relaxing music can encourage people to spend money."
+          "read": "Relaxing music can encourage people to spend money.",
+          "rdec": [
+            [
+              "Relaxing",
+              "Entspannende"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "encourage",
+              "ermutigen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "to spend",
+              "zu auszugeben"
+            ],
+            [
+              "money.",
+              "Geld."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2011,7 +2445,53 @@
               "t": "g"
             }
           ],
-          "read": "In recent times, music has been used to make people feel patriotic."
+          "read": "In recent times, music has been used to make people feel patriotic.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "recent",
+              "jüngster"
+            ],
+            [
+              "times,",
+              "Zeit,"
+            ],
+            [
+              "music",
+              "Musik"
+            ],
+            [
+              "has",
+              "ist"
+            ],
+            [
+              "been",
+              "-"
+            ],
+            [
+              "used",
+              "verwendet worden"
+            ],
+            [
+              "to make",
+              "um zu machen"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "patriotic.",
+              "patriotisch."
+            ]
+          ]
         }
       ]
     },
@@ -2128,7 +2608,45 @@
               ]
             }
           ],
-          "read": "He only listens to rap to fit in with his friends."
+          "read": "He only listens to rap to fit in with his friends.",
+          "rdec": [
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "listens",
+              "hört"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "rap",
+              "Rap"
+            ],
+            [
+              "to fit in",
+              "um sich anzupassen"
+            ],
+            [
+              "with",
+              "an"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2252,7 +2770,53 @@
               ]
             }
           ],
-          "read": "I know a lot of kids who are into electronic music."
+          "read": "I know a lot of kids who are into electronic music.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "know",
+              "kenne"
+            ],
+            [
+              "a",
+              "-"
+            ],
+            [
+              "lot",
+              "viele"
+            ],
+            [
+              "of",
+              "-"
+            ],
+            [
+              "kids",
+              "Kinder"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "are",
+              "-"
+            ],
+            [
+              "into",
+              "begeistert von"
+            ],
+            [
+              "electronic",
+              "elektronischer"
+            ],
+            [
+              "music.",
+              "Musik sind."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2372,7 +2936,49 @@
               ]
             }
           ],
-          "read": "In the USA, teenagers like to hang out in the big malls."
+          "read": "In the USA, teenagers like to hang out in the big malls.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "USA,",
+              "USA,"
+            ],
+            [
+              "teenagers",
+              "Teenager"
+            ],
+            [
+              "like",
+              "mögen es"
+            ],
+            [
+              "to hang out",
+              "abzuhängen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "big",
+              "großen"
+            ],
+            [
+              "malls.",
+              "Einkaufszentren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2468,7 +3074,37 @@
               ]
             }
           ],
-          "read": "My mum wants me to take up the piano."
+          "read": "My mum wants me to take up the piano.",
+          "rdec": [
+            [
+              "My",
+              "Meine"
+            ],
+            [
+              "mum",
+              "Mutter"
+            ],
+            [
+              "wants",
+              "will,"
+            ],
+            [
+              "me",
+              "dass ich"
+            ],
+            [
+              "to take up",
+              "anfange mit"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "piano.",
+              "Klavier."
+            ]
+          ]
         }
       ]
     },
@@ -4231,7 +4867,49 @@
               ]
             }
           ],
-          "read": "I've got a neighbour who has just taken up the violin."
+          "read": "I've got a neighbour who has just taken up the violin.",
+          "rdec": [
+            [
+              "I've",
+              "Ich'habe"
+            ],
+            [
+              "got",
+              "-"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "neighbour",
+              "Nachbarn,"
+            ],
+            [
+              "who",
+              "der"
+            ],
+            [
+              "has",
+              "-"
+            ],
+            [
+              "just",
+              "gerade"
+            ],
+            [
+              "taken up",
+              "angefangen hat mit"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "violin.",
+              "Geige."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4347,7 +5025,49 @@
               ]
             }
           ],
-          "read": "Mozart, who was born in Austria, was a great composer."
+          "read": "Mozart, who was born in Austria, was a great composer.",
+          "rdec": [
+            [
+              "Mozart,",
+              "Mozart,"
+            ],
+            [
+              "who",
+              "der"
+            ],
+            [
+              "was",
+              "-"
+            ],
+            [
+              "born",
+              "geboren wurde"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Austria,",
+              "Österreich,"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "great",
+              "großer"
+            ],
+            [
+              "composer.",
+              "Komponist."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4487,7 +5207,61 @@
               ]
             }
           ],
-          "read": "Bob Marley, whose home was in Jamaica, was the most famous reggae singer."
+          "read": "Bob Marley, whose home was in Jamaica, was the most famous reggae singer.",
+          "rdec": [
+            [
+              "Bob",
+              "Bob"
+            ],
+            [
+              "Marley,",
+              "Marley,"
+            ],
+            [
+              "whose",
+              "dessen"
+            ],
+            [
+              "home",
+              "Zuhause"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Jamaica,",
+              "Jamaika,"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "most",
+              "berühmteste"
+            ],
+            [
+              "famous",
+              "-"
+            ],
+            [
+              "reggae",
+              "Reggae-"
+            ],
+            [
+              "singer.",
+              "sänger."
+            ]
+          ]
         }
       ]
     },
@@ -4519,7 +5293,61 @@
           "solutionEn": "In Britain, the leaves turn golden and fall from the trees in autumn.",
           "solutionDe": "In Großbritannien werden die Blätter golden und fallen im Herbst von den Bäumen.",
           "explain": "AE fall = BE autumn. Weitere Paare aus der Unit: movies–cinema, parking lot–car park, gas–petrol.",
-          "read": "In Britain, the leaves turn golden and fall from the trees in autumn."
+          "read": "In Britain, the leaves turn golden and fall from the trees in autumn.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "Britain,",
+              "Großbritannien,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "leaves",
+              "Blätter"
+            ],
+            [
+              "turn",
+              "werden"
+            ],
+            [
+              "golden",
+              "golden"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "fall",
+              "fallen"
+            ],
+            [
+              "from",
+              "von"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "trees",
+              "Bäumen"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "autumn.",
+              "Herbst."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4542,7 +5370,61 @@
           "solutionEn": "Before going for a run in the park, I put on my trainers.",
           "solutionDe": "Bevor ich im Park laufen gehe, ziehe ich meine Turnschuhe an.",
           "explain": "AE sneakers = BE trainers. Auch wichtig: AE pants = BE trousers (Hose), AE sidewalk = BE pavement (Gehsteig).",
-          "read": "Before going for a run in the park, I put on my trainers."
+          "read": "Before going for a run in the park, I put on my trainers.",
+          "rdec": [
+            [
+              "Before",
+              "Bevor"
+            ],
+            [
+              "going",
+              "gehen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "run",
+              "Lauf"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "park,",
+              "Park,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "put",
+              "ziehe"
+            ],
+            [
+              "on",
+              "an"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "trainers.",
+              "Turnschuhe."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4565,7 +5447,49 @@
           "solutionEn": "She dunked a chocolate biscuit into her cup of tea.",
           "solutionDe": "Sie tunkte einen Schokoladenkeks in ihre Tasse Tee.",
           "explain": "AE cookie = BE biscuit. Auch: AE candy store = BE sweet shop, AE subway = BE underground.",
-          "read": "She dunked a chocolate biscuit into her cup of tea."
+          "read": "She dunked a chocolate biscuit into her cup of tea.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "dunked",
+              "tunkte"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "chocolate",
+              "Schokoladen-"
+            ],
+            [
+              "biscuit",
+              "keks"
+            ],
+            [
+              "into",
+              "in"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "cup",
+              "Tasse"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "tea.",
+              "Tee."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4586,7 +5510,29 @@
           "solutionEn": "My favourite colour is blue.",
           "solutionDe": "Meine Lieblingsfarbe ist Blau.",
           "explain": "BE: colour, humour, centre, theatre, tyre, traveller – AE: color, humor, center, theater, tire, traveler.",
-          "read": "My favourite colour is blue."
+          "read": "My favourite colour is blue.",
+          "rdec": [
+            [
+              "My",
+              "Meine"
+            ],
+            [
+              "favourite",
+              "Lieblings-"
+            ],
+            [
+              "colour",
+              "farbe"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "blue.",
+              "blau."
+            ]
+          ]
         }
       ]
     },
@@ -5903,7 +6849,593 @@
               ]
             }
           ],
-          "read": "One album that I really like is 'Divide' by Ed Sheeran. It was released in 2017. The album mainly belongs to the pop genre, but it also includes some folk and acoustic elements. Ed Sheeran is known for his expressive lyrics, catchy melodies, and clear vocals. Many of the songs are based on guitar music and have a strong beat and rhythm. My favourite track on the album is 'Perfect'. It is a romantic ballad with gentle instrumentals and emotional lyrics. Many listeners enjoy this song because it is calm, melodic, and pleasant to listen to. I like this album because it offers a variety of musical styles and tempos. Some tracks are lively and rhythmic, like 'Shape of You', while others are slower and more emotional. The album has strong songwriting and an enjoyable sound. I would definitely recommend it to people who like modern pop music."
+          "read": "One album that I really like is 'Divide' by Ed Sheeran. It was released in 2017. The album mainly belongs to the pop genre, but it also includes some folk and acoustic elements. Ed Sheeran is known for his expressive lyrics, catchy melodies, and clear vocals. Many of the songs are based on guitar music and have a strong beat and rhythm. My favourite track on the album is 'Perfect'. It is a romantic ballad with gentle instrumentals and emotional lyrics. Many listeners enjoy this song because it is calm, melodic, and pleasant to listen to. I like this album because it offers a variety of musical styles and tempos. Some tracks are lively and rhythmic, like 'Shape of You', while others are slower and more emotional. The album has strong songwriting and an enjoyable sound. I would definitely recommend it to people who like modern pop music.",
+          "rdec": [
+            [
+              "One",
+              "Ein"
+            ],
+            [
+              "album",
+              "Album,"
+            ],
+            [
+              "that",
+              "das"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "like",
+              "mag,"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "'Divide'",
+              "'Divide'"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "Ed",
+              "Ed"
+            ],
+            [
+              "Sheeran.",
+              "Sheeran."
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "was",
+              "wurde"
+            ],
+            [
+              "released",
+              "veröffentlicht"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "2017.",
+              "Jahr 2017."
+            ],
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "mainly",
+              "hauptsächlich"
+            ],
+            [
+              "belongs",
+              "gehört"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "pop",
+              "Pop-"
+            ],
+            [
+              "genre,",
+              "Genre,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "includes",
+              "enthält"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "folk",
+              "Folk-"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "acoustic",
+              "akustische"
+            ],
+            [
+              "elements.",
+              "Elemente."
+            ],
+            [
+              "Ed",
+              "Ed"
+            ],
+            [
+              "Sheeran",
+              "Sheeran"
+            ],
+            [
+              "is known",
+              "ist bekannt"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "expressive",
+              "ausdrucksstarken"
+            ],
+            [
+              "lyrics,",
+              "Texte,"
+            ],
+            [
+              "catchy",
+              "eingängigen"
+            ],
+            [
+              "melodies,",
+              "Melodien"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "clear",
+              "klaren"
+            ],
+            [
+              "vocals.",
+              "Gesang."
+            ],
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "of",
+              "der"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "songs",
+              "Lieder"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "based",
+              "basiert"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "guitar",
+              "Gitarren-"
+            ],
+            [
+              "music",
+              "musik"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "strong",
+              "starken"
+            ],
+            [
+              "beat",
+              "Beat"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "rhythm.",
+              "Rhythmus."
+            ],
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "favourite",
+              "Lieblings-"
+            ],
+            [
+              "track",
+              "stück"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "'Perfect'.",
+              "'Perfect'."
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "romantic",
+              "romantische"
+            ],
+            [
+              "ballad",
+              "Ballade"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "gentle",
+              "sanften"
+            ],
+            [
+              "instrumentals",
+              "Instrumentalteilen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "emotional",
+              "emotionalen"
+            ],
+            [
+              "lyrics.",
+              "Texten."
+            ],
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "listeners",
+              "Hörer"
+            ],
+            [
+              "enjoy",
+              "genießen"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "song",
+              "Lied,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "calm,",
+              "ruhig,"
+            ],
+            [
+              "melodic,",
+              "melodisch"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "pleasant",
+              "angenehm"
+            ],
+            [
+              "to listen",
+              "zu hören"
+            ],
+            [
+              "to.",
+              "-"
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "like",
+              "mag"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "album",
+              "Album,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "offers",
+              "bietet"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "variety",
+              "Vielfalt"
+            ],
+            [
+              "of",
+              "an"
+            ],
+            [
+              "musical",
+              "musikalischen"
+            ],
+            [
+              "styles",
+              "Stilen"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "tempos.",
+              "Tempi."
+            ],
+            [
+              "Some",
+              "Einige"
+            ],
+            [
+              "tracks",
+              "Stücke"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "lively",
+              "lebhaft"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "rhythmic,",
+              "rhythmisch,"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "'Shape",
+              "'Shape"
+            ],
+            [
+              "of",
+              "of"
+            ],
+            [
+              "You',",
+              "You',"
+            ],
+            [
+              "while",
+              "während"
+            ],
+            [
+              "others",
+              "andere"
+            ],
+            [
+              "are",
+              "-"
+            ],
+            [
+              "slower",
+              "langsamer"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "more",
+              "-"
+            ],
+            [
+              "emotional.",
+              "emotionaler sind."
+            ],
+            [
+              "The",
+              "Das"
+            ],
+            [
+              "album",
+              "Album"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "strong",
+              "starkes"
+            ],
+            [
+              "songwriting",
+              "Songwriting"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "enjoyable",
+              "angenehmen"
+            ],
+            [
+              "sound.",
+              "Klang."
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "definitely",
+              "definitiv"
+            ],
+            [
+              "recommend",
+              "empfehlen"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "people",
+              "Menschen,"
+            ],
+            [
+              "who",
+              "die"
+            ],
+            [
+              "like",
+              "mögen."
+            ],
+            [
+              "modern",
+              "moderne"
+            ],
+            [
+              "pop",
+              "Pop-"
+            ],
+            [
+              "music.",
+              "musik"
+            ]
+          ]
         }
       ]
     }

@@ -692,7 +692,49 @@
               ]
             }
           ],
-          "read": "If I have the money, I will buy an electric car."
+          "read": "If I have the money, I will buy an electric car.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will buy",
+              "werde-kaufen"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "electric",
+              "elektrisches"
+            ],
+            [
+              "car.",
+              "Auto."
+            ]
+          ]
         },
         {
           "parts": [
@@ -825,7 +867,61 @@
               ]
             }
           ],
-          "read": "If I were you, I would try to stop eating so much junk food."
+          "read": "If I were you, I would try to stop eating so much junk food.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "you,",
+              "du,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would try",
+              "würde-versuchen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "stop",
+              "aufhören"
+            ],
+            [
+              "eating",
+              "zu-essen"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "junk",
+              "Schund-"
+            ],
+            [
+              "food.",
+              "Essen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -938,7 +1034,49 @@
               ]
             }
           ],
-          "read": "You could talk talk to Jorge if you had learnt some Spanish."
+          "read": "You could talk talk to Jorge if you had learnt some Spanish.",
+          "rdec": [
+            [
+              "You",
+              "Du"
+            ],
+            [
+              "could talk",
+              "könntest-reden"
+            ],
+            [
+              "talk",
+              "reden"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "Jorge",
+              "Jorge"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had learnt",
+              "gelernt-hättest"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "Spanish.",
+              "Spanisch."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1047,7 +1185,41 @@
               ]
             }
           ],
-          "read": "Phosphorus burns if you expose it to air."
+          "read": "Phosphorus burns if you expose it to air.",
+          "rdec": [
+            [
+              "Phosphorus",
+              "Phosphor"
+            ],
+            [
+              "burns",
+              "brennt"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "expose",
+              "aussetzt"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "to",
+              "der"
+            ],
+            [
+              "air.",
+              "Luft."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1164,7 +1336,49 @@
               ]
             }
           ],
-          "read": "If it stops snowing, we will go skiing in the afternoon."
+          "read": "If it stops snowing, we will go skiing in the afternoon.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "stops",
+              "aufhört"
+            ],
+            [
+              "snowing,",
+              "zu-schneien,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will go",
+              "werden-gehen"
+            ],
+            [
+              "skiing",
+              "Ski-fahren"
+            ],
+            [
+              "in",
+              "am"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "afternoon.",
+              "Nachmittag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1273,7 +1487,53 @@
               ]
             }
           ],
-          "read": "If the gunman had come through the garden, he would have left some footprints."
+          "read": "If the gunman had come through the garden, he would have left some footprints.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "gunman",
+              "Schütze"
+            ],
+            [
+              "had come",
+              "gekommen-wäre"
+            ],
+            [
+              "through",
+              "durch"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "garden,",
+              "Garten,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have left",
+              "hätte-hinterlassen"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "footprints.",
+              "Fußspuren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1390,7 +1650,53 @@
               ]
             }
           ],
-          "read": "If the president were here, he would tell us what to do."
+          "read": "If the president were here, he would tell us what to do.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "president",
+              "Präsident"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "here,",
+              "hier,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would tell",
+              "würde-sagen"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "what",
+              "was"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "do.",
+              "tun."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1547,7 +1853,77 @@
               ]
             }
           ],
-          "read": "She probably would not have developed an eating disorder if her parents had supported her more when she was a teenager."
+          "read": "She probably would not have developed an eating disorder if her parents had supported her more when she was a teenager.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "probably",
+              "wahrscheinlich"
+            ],
+            [
+              "would not have developed",
+              "hätte'nicht-entwickelt"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "eating",
+              "Ess-"
+            ],
+            [
+              "disorder",
+              "Störung"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "parents",
+              "Eltern"
+            ],
+            [
+              "had supported",
+              "unterstützt-hätten"
+            ],
+            [
+              "her",
+              "sie"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "teenager.",
+              "Teenager."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1664,7 +2040,73 @@
               ]
             }
           ],
-          "read": "If you had not bought this big old house, you would not have to pay such high costs every month."
+          "read": "If you had not bought this big old house, you would not have to pay such high costs every month.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had not bought",
+              "hättest'nicht-gekauft"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "big",
+              "große"
+            ],
+            [
+              "old",
+              "alte"
+            ],
+            [
+              "house,",
+              "Haus,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "would not have",
+              "müsstest'nicht"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "pay",
+              "zahlen"
+            ],
+            [
+              "such",
+              "so"
+            ],
+            [
+              "high",
+              "hohe"
+            ],
+            [
+              "costs",
+              "Kosten"
+            ],
+            [
+              "every",
+              "jeden"
+            ],
+            [
+              "month.",
+              "Monat."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1789,7 +2231,53 @@
               ]
             }
           ],
-          "read": "We will need another planet if we go on wasting resources like that."
+          "read": "We will need another planet if we go on wasting resources like that.",
+          "rdec": [
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "will need",
+              "werden-brauchen"
+            ],
+            [
+              "another",
+              "einen-weiteren"
+            ],
+            [
+              "planet",
+              "Planeten"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "go on",
+              "weiter-machen"
+            ],
+            [
+              "wasting",
+              "zu-verschwenden"
+            ],
+            [
+              "resources",
+              "Ressourcen"
+            ],
+            [
+              "like",
+              "wie"
+            ],
+            [
+              "that.",
+              "das."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1930,7 +2418,97 @@
               ]
             }
           ],
-          "read": "If the government had not passed laws to cut down emissions, more than half of our woods would have died due to acid rain in the 1970s."
+          "read": "If the government had not passed laws to cut down emissions, more than half of our woods would have died due to acid rain in the 1970s.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "government",
+              "Regierung"
+            ],
+            [
+              "had not passed",
+              "hätte'nicht-erlassen"
+            ],
+            [
+              "laws",
+              "Gesetze"
+            ],
+            [
+              "to",
+              "um-zu"
+            ],
+            [
+              "cut down",
+              "reduzieren"
+            ],
+            [
+              "emissions,",
+              "Emissionen,"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "half",
+              "Hälfte"
+            ],
+            [
+              "of",
+              "der"
+            ],
+            [
+              "our",
+              "unserer"
+            ],
+            [
+              "woods",
+              "Wälder"
+            ],
+            [
+              "would have died",
+              "wäre-gestorben"
+            ],
+            [
+              "due",
+              "wegen"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "acid",
+              "saurem"
+            ],
+            [
+              "rain",
+              "Regen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "1970s.",
+              "1970ern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2063,7 +2641,93 @@
               ]
             }
           ],
-          "read": "If the film 'The Sound of Music' were not watched all over the world, a lot fewer tourists would come to Austria every year."
+          "read": "If the film 'The Sound of Music' were not watched all over the world, a lot fewer tourists would come to Austria every year.",
+          "rdec": [
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "film",
+              "Film"
+            ],
+            [
+              "'The",
+              "'The"
+            ],
+            [
+              "Sound",
+              "Sound"
+            ],
+            [
+              "of",
+              "of"
+            ],
+            [
+              "Music'",
+              "Music'"
+            ],
+            [
+              "were not watched",
+              "nicht-geschaut-würde"
+            ],
+            [
+              "all",
+              "überall"
+            ],
+            [
+              "over",
+              "auf"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "world,",
+              "Welt,"
+            ],
+            [
+              "a",
+              "-"
+            ],
+            [
+              "lot",
+              "viel"
+            ],
+            [
+              "fewer",
+              "weniger"
+            ],
+            [
+              "tourists",
+              "Touristen"
+            ],
+            [
+              "would come",
+              "würden-kommen"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Austria",
+              "Österreich"
+            ],
+            [
+              "every",
+              "jedes"
+            ],
+            [
+              "year.",
+              "Jahr."
+            ]
+          ]
         }
       ]
     },
@@ -2181,7 +2845,45 @@
               "w": []
             }
           ],
-          "read": "Do not do that. You will get into trouble if you do it again."
+          "read": "Do not do that. You will get into trouble if you do it again.",
+          "rdec": [
+            [
+              "Do not do",
+              "tu'nicht"
+            ],
+            [
+              "that.",
+              "das."
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "will get",
+              "wirst geraten"
+            ],
+            [
+              "into trouble",
+              "in Schwierigkeiten"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "do it",
+              "es tust"
+            ],
+            [
+              "again.",
+              "wieder."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2336,7 +3038,73 @@
               "w": []
             }
           ],
-          "read": "We cannot leave Grandpa alone anymore. If he had not dropped in at his flat this morning, nobody would have noticed that Grandpa needed help."
+          "read": "We cannot leave Grandpa alone anymore. If he had not dropped in at his flat this morning, nobody would have noticed that Grandpa needed help.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "cannot",
+              "können'nicht"
+            ],
+            [
+              "leave",
+              "lassen"
+            ],
+            [
+              "Grandpa",
+              "Opa"
+            ],
+            [
+              "alone",
+              "allein"
+            ],
+            [
+              "anymore.",
+              "mehr."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had not dropped in",
+              "nicht vorbeigeschaut-hätte"
+            ],
+            [
+              "at his flat",
+              "in seiner Wohnung"
+            ],
+            [
+              "this morning,",
+              "heute Morgen,"
+            ],
+            [
+              "nobody",
+              "niemand"
+            ],
+            [
+              "would have noticed",
+              "hätte bemerkt"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "Grandpa",
+              "Opa"
+            ],
+            [
+              "needed help.",
+              "Hilfe benötigte."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2436,7 +3204,41 @@
               "w": []
             }
           ],
-          "read": "To be honest, your suit would look a lot better if you ironed it."
+          "read": "To be honest, your suit would look a lot better if you ironed it.",
+          "rdec": [
+            [
+              "To be honest,",
+              "um ehrlich zu sein,"
+            ],
+            [
+              "your suit",
+              "dein Anzug"
+            ],
+            [
+              "would look",
+              "würde aussehen"
+            ],
+            [
+              "a lot better",
+              "viel besser"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "ironed",
+              "bügeltest"
+            ],
+            [
+              "it.",
+              "ihn."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2575,7 +3377,61 @@
               "w": []
             }
           ],
-          "read": "I think he is only after her money. He would not have proposed to her if she had not been so rich."
+          "read": "I think he is only after her money. He would not have proposed to her if she had not been so rich.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "think",
+              "denke"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "is only",
+              "ist nur"
+            ],
+            [
+              "after",
+              "hinter"
+            ],
+            [
+              "her money.",
+              "ihrem Geld."
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "would not have proposed",
+              "hätte nicht angehalten"
+            ],
+            [
+              "to her",
+              "ihr"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had not been",
+              "nicht gewesen-wäre"
+            ],
+            [
+              "so rich.",
+              "so reich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2702,7 +3558,57 @@
               "w": []
             }
           ],
-          "read": "He is not fit enough for the Olympics. If he trained harder, he would have a chance to qualify."
+          "read": "He is not fit enough for the Olympics. If he trained harder, he would have a chance to qualify.",
+          "rdec": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "is not",
+              "ist'nicht"
+            ],
+            [
+              "fit enough",
+              "fit genug"
+            ],
+            [
+              "for the Olympics.",
+              "für die Olympischen Spiele."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "trained",
+              "trainierte"
+            ],
+            [
+              "harder,",
+              "härter,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have",
+              "würde haben"
+            ],
+            [
+              "a chance",
+              "eine Chance"
+            ],
+            [
+              "to qualify.",
+              "sich zu qualifizieren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2829,7 +3735,57 @@
               "w": []
             }
           ],
-          "read": "I had to do a lot of overtime this week. I would have learnt more if I had had more time to study."
+          "read": "I had to do a lot of overtime this week. I would have learnt more if I had had more time to study.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had to do",
+              "musste machen"
+            ],
+            [
+              "a lot of overtime",
+              "viele Überstunden"
+            ],
+            [
+              "this week.",
+              "diese Woche."
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would have learnt",
+              "hätte gelernt"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had had",
+              "gehabt-hätte"
+            ],
+            [
+              "more time",
+              "mehr Zeit"
+            ],
+            [
+              "to study.",
+              "zum Lernen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2948,7 +3904,53 @@
               "w": []
             }
           ],
-          "read": "You must look after your garden better. The flowers will die if you do not water them regularly."
+          "read": "You must look after your garden better. The flowers will die if you do not water them regularly.",
+          "rdec": [
+            [
+              "You",
+              "du"
+            ],
+            [
+              "must look after",
+              "musst kümmern-um"
+            ],
+            [
+              "your garden",
+              "deinen Garten"
+            ],
+            [
+              "better.",
+              "besser."
+            ],
+            [
+              "The flowers",
+              "die Blumen"
+            ],
+            [
+              "will die",
+              "werden sterben"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "do not water",
+              "nicht gießt"
+            ],
+            [
+              "them",
+              "sie"
+            ],
+            [
+              "regularly.",
+              "regelmäßig."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3064,7 +4066,49 @@
               "w": []
             }
           ],
-          "read": "We had to stay at home all weekend. If it had not been raining, we would have gone hiking."
+          "read": "We had to stay at home all weekend. If it had not been raining, we would have gone hiking.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "had to stay",
+              "mussten bleiben"
+            ],
+            [
+              "at home",
+              "zu Hause"
+            ],
+            [
+              "all weekend.",
+              "das ganze Wochenende."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "had not been raining,",
+              "nicht geregnet-hätte,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "would have gone",
+              "wären gegangen"
+            ],
+            [
+              "hiking.",
+              "wandern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3187,7 +4231,53 @@
               "w": []
             }
           ],
-          "read": "Tom refuses to share housework. If his wife had a full-time job, he would have to help in the household."
+          "read": "Tom refuses to share housework. If his wife had a full-time job, he would have to help in the household.",
+          "rdec": [
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "refuses",
+              "weigert sich"
+            ],
+            [
+              "to share",
+              "zu teilen"
+            ],
+            [
+              "housework.",
+              "Hausarbeit."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "his wife",
+              "seine Frau"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "a full-time job,",
+              "einen Vollzeitjob,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have to help",
+              "müsste helfen"
+            ],
+            [
+              "in the household.",
+              "im Haushalt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3291,7 +4381,41 @@
               "w": []
             }
           ],
-          "read": "Global warming is a serious problem. If the polar ice caps melt, sea levels will rise."
+          "read": "Global warming is a serious problem. If the polar ice caps melt, sea levels will rise.",
+          "rdec": [
+            [
+              "Global warming",
+              "die Erderwärmung"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a serious problem.",
+              "ein ernstes Problem."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "the polar ice caps",
+              "die polaren Eiskappen"
+            ],
+            [
+              "melt,",
+              "schmelzen,"
+            ],
+            [
+              "sea levels",
+              "Meeresspiegel"
+            ],
+            [
+              "will rise.",
+              "werden steigen."
+            ]
+          ]
         }
       ]
     },
@@ -3425,7 +4549,65 @@
               ]
             }
           ],
-          "read": "Mr Brown broke his leg last week. So he could not go out for seven days."
+          "read": "Mr Brown broke his leg last week. So he could not go out for seven days.",
+          "rdec": [
+            [
+              "Mr",
+              "Herr"
+            ],
+            [
+              "Brown",
+              "Brown"
+            ],
+            [
+              "broke",
+              "brach"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "leg",
+              "Bein"
+            ],
+            [
+              "last",
+              "letzte"
+            ],
+            [
+              "week.",
+              "Woche."
+            ],
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "could not",
+              "konnte'nicht"
+            ],
+            [
+              "go out",
+              "ausgehen"
+            ],
+            [
+              "for",
+              "-"
+            ],
+            [
+              "seven",
+              "sieben"
+            ],
+            [
+              "days.",
+              "Tage."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3517,7 +4699,37 @@
               ]
             }
           ],
-          "read": "In parks dogs must be kept on a lead."
+          "read": "In parks dogs must be kept on a lead.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "parks",
+              "Parks"
+            ],
+            [
+              "dogs",
+              "Hunde"
+            ],
+            [
+              "must be kept",
+              "müssen-gehalten-werden"
+            ],
+            [
+              "on",
+              "an"
+            ],
+            [
+              "a",
+              "der"
+            ],
+            [
+              "lead.",
+              "Leine."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3601,7 +4813,25 @@
               ]
             }
           ],
-          "read": "Even experts can make mistakes."
+          "read": "Even experts can make mistakes.",
+          "rdec": [
+            [
+              "Even",
+              "Sogar"
+            ],
+            [
+              "experts",
+              "Experten"
+            ],
+            [
+              "can make",
+              "können-machen"
+            ],
+            [
+              "mistakes.",
+              "Fehler."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3709,7 +4939,41 @@
               ]
             }
           ],
-          "read": "When Joe was younger, he could swim pretty fast."
+          "read": "When Joe was younger, he could swim pretty fast.",
+          "rdec": [
+            [
+              "When",
+              "Als"
+            ],
+            [
+              "Joe",
+              "Joe"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "younger,",
+              "jünger,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "could swim",
+              "konnte-schwimmen"
+            ],
+            [
+              "pretty",
+              "ziemlich"
+            ],
+            [
+              "fast.",
+              "schnell."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4223,7 +5487,81 @@
               ]
             }
           ],
-          "read": "Mr Brown will not be able to help us tomorrow. He is ill. That is why we will have to work alone."
+          "read": "Mr Brown will not be able to help us tomorrow. He is ill. That is why we will have to work alone.",
+          "rdec": [
+            [
+              "Mr",
+              "Herr"
+            ],
+            [
+              "Brown",
+              "Brown"
+            ],
+            [
+              "will not be able",
+              "wird'nicht-fähig-sein"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "help",
+              "helfen"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "ill.",
+              "krank."
+            ],
+            [
+              "That",
+              "Das"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "why",
+              "warum"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will have",
+              "werden-müssen"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "work",
+              "arbeiten"
+            ],
+            [
+              "alone.",
+              "allein."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4339,7 +5677,61 @@
               ]
             }
           ],
-          "read": "You need not phone her, because she is not at home at the moment."
+          "read": "You need not phone her, because she is not at home at the moment.",
+          "rdec": [
+            [
+              "You",
+              "Du"
+            ],
+            [
+              "need not",
+              "brauchst'nicht"
+            ],
+            [
+              "phone",
+              "anzurufen"
+            ],
+            [
+              "her,",
+              "sie,"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home",
+              "Hause"
+            ],
+            [
+              "at",
+              "im"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "moment.",
+              "Moment."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4423,7 +5815,33 @@
               ]
             }
           ],
-          "read": "You must do as I say."
+          "read": "You must do as I say.",
+          "rdec": [
+            [
+              "You",
+              "Du"
+            ],
+            [
+              "must",
+              "musst"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "as",
+              "wie"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "say.",
+              "sage."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4507,7 +5925,41 @@
               ]
             }
           ],
-          "read": "Pat does not have to be at home before midnight."
+          "read": "Pat does not have to be at home before midnight.",
+          "rdec": [
+            [
+              "Pat",
+              "Pat"
+            ],
+            [
+              "does not have",
+              "muss'nicht"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home",
+              "Hause"
+            ],
+            [
+              "before",
+              "vor"
+            ],
+            [
+              "midnight.",
+              "Mitternacht."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4649,7 +6101,53 @@
               ]
             }
           ],
-          "read": "Children should not eat many sweets. Instead, they should eat more fruit."
+          "read": "Children should not eat many sweets. Instead, they should eat more fruit.",
+          "rdec": [
+            [
+              "Children",
+              "Kinder"
+            ],
+            [
+              "should not",
+              "sollten'nicht"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "sweets.",
+              "Süßigkeiten."
+            ],
+            [
+              "Instead,",
+              "Stattdessen,"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "should",
+              "sollten"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "fruit.",
+              "Obst."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4783,7 +6281,61 @@
               ]
             }
           ],
-          "read": "Pat can play the piano. He has been able to play the piano for five years."
+          "read": "Pat can play the piano. He has been able to play the piano for five years.",
+          "rdec": [
+            [
+              "Pat",
+              "Pat"
+            ],
+            [
+              "can play",
+              "kann-spielen"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "piano.",
+              "Klavier."
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "has been able",
+              "ist-fähig-gewesen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "play",
+              "spielen"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "piano",
+              "Klavier"
+            ],
+            [
+              "for",
+              "seit"
+            ],
+            [
+              "five",
+              "fünf"
+            ],
+            [
+              "years.",
+              "Jahren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4867,7 +6419,25 @@
               ]
             }
           ],
-          "read": "There must be a mistake."
+          "read": "There must be a mistake.",
+          "rdec": [
+            [
+              "There",
+              "Es"
+            ],
+            [
+              "must be",
+              "muss-geben"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "mistake.",
+              "Fehler."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4968,7 +6538,57 @@
               ]
             }
           ],
-          "read": "The students will have to work very hard for their A-levels next year."
+          "read": "The students will have to work very hard for their A-levels next year.",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "students",
+              "Schüler"
+            ],
+            [
+              "will have",
+              "werden-müssen"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "work",
+              "arbeiten"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "hard",
+              "hart"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "their",
+              "ihr"
+            ],
+            [
+              "A-levels",
+              "Abitur"
+            ],
+            [
+              "next",
+              "nächstes"
+            ],
+            [
+              "year.",
+              "Jahr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5134,7 +6754,61 @@
               ]
             }
           ],
-          "read": "We must be quiet. Otherwise, we could wake up the baby, and then mother will be angry."
+          "read": "We must be quiet. Otherwise, we could wake up the baby, and then mother will be angry.",
+          "rdec": [
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "must be",
+              "müssen-sein"
+            ],
+            [
+              "quiet.",
+              "leise."
+            ],
+            [
+              "Otherwise,",
+              "Sonst,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "could wake up",
+              "könnten-aufwecken"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "baby,",
+              "Baby,"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "then",
+              "dann"
+            ],
+            [
+              "mother",
+              "Mutter"
+            ],
+            [
+              "will be",
+              "wird-sein"
+            ],
+            [
+              "angry.",
+              "wütend."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5309,7 +6983,97 @@
               ]
             }
           ],
-          "read": "Mr Smith missed the train. He could not go to Vienna at seven and had to wait for the nine o'clock train instead."
+          "read": "Mr Smith missed the train. He could not go to Vienna at seven and had to wait for the nine o'clock train instead.",
+          "rdec": [
+            [
+              "Mr",
+              "Herr"
+            ],
+            [
+              "Smith",
+              "Smith"
+            ],
+            [
+              "missed",
+              "verpasste"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "train.",
+              "Zug."
+            ],
+            [
+              "He",
+              "Er"
+            ],
+            [
+              "could not",
+              "konnte'nicht"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Vienna",
+              "Wien"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "seven",
+              "sieben"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "had",
+              "musste"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "wait",
+              "warten"
+            ],
+            [
+              "for",
+              "auf"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "nine",
+              "neun"
+            ],
+            [
+              "o'clock",
+              "Uhr"
+            ],
+            [
+              "train",
+              "Zug"
+            ],
+            [
+              "instead.",
+              "stattdessen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5433,7 +7197,57 @@
               ]
             }
           ],
-          "read": "Alice got top marks in her A-levels. So she must be very clever."
+          "read": "Alice got top marks in her A-levels. So she must be very clever.",
+          "rdec": [
+            [
+              "Alice",
+              "Alice"
+            ],
+            [
+              "got",
+              "bekam"
+            ],
+            [
+              "top",
+              "Spitzen-"
+            ],
+            [
+              "marks",
+              "Noten"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "her",
+              "ihrem"
+            ],
+            [
+              "A-levels.",
+              "Abitur."
+            ],
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "must be",
+              "muss-sein"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "clever.",
+              "klug."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5599,7 +7413,81 @@
               ]
             }
           ],
-          "read": "She will be able to swim the English Channel soon. They did not need to clean everything before they started to paint."
+          "read": "She will be able to swim the English Channel soon. They did not need to clean everything before they started to paint.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "will be able",
+              "wird-fähig-sein"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "swim",
+              "durchschwimmen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "English",
+              "Ärmelkanal"
+            ],
+            [
+              "Channel",
+              "-"
+            ],
+            [
+              "soon.",
+              "bald."
+            ],
+            [
+              "They",
+              "Sie"
+            ],
+            [
+              "did not need",
+              "mussten'nicht"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "clean",
+              "putzen"
+            ],
+            [
+              "everything",
+              "alles"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "started",
+              "anfingen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "paint.",
+              "streichen."
+            ]
+          ]
         }
       ]
     },
@@ -6359,7 +8247,41 @@
               ]
             }
           ],
-          "read": "Tom said to me that he would wait for me at the train station."
+          "read": "Tom said to me that he would wait for me at the train station.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "said to me",
+              "sagte zu mir,"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would wait",
+              "warten würde"
+            ],
+            [
+              "for me",
+              "auf mich"
+            ],
+            [
+              "at the train station.",
+              "am Bahnhof."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6512,7 +8434,37 @@
               "w": []
             }
           ],
-          "read": "Pat asked me what I was going to do the next day."
+          "read": "Pat asked me what I was going to do the next day.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Pat",
+              "Pat"
+            ],
+            [
+              "asked me",
+              "fragte mich,"
+            ],
+            [
+              "what",
+              "was"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "was going to do",
+              "tun würde"
+            ],
+            [
+              "the next day.",
+              "den nächsten Tag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6720,7 +8672,45 @@
               ]
             }
           ],
-          "read": "Jason says that he wants to be a famous actor when he has grown up."
+          "read": "Jason says that he wants to be a famous actor when he has grown up.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Jason",
+              "Jason"
+            ],
+            [
+              "says that",
+              "sagt, dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wants to be",
+              "sein möchte"
+            ],
+            [
+              "a famous actor",
+              "ein berühmter Schauspieler"
+            ],
+            [
+              "when",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "has grown up.",
+              "aufgewachsen ist."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6890,7 +8880,37 @@
               ]
             }
           ],
-          "read": "Mr Smith told his secretary that she could phone from that office."
+          "read": "Mr Smith told his secretary that she could phone from that office.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Mr Smith",
+              "Herr Smith"
+            ],
+            [
+              "told his secretary",
+              "sagte seiner Sekretärin,"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "could phone",
+              "telefonieren könnte"
+            ],
+            [
+              "from that office.",
+              "von jenem Büro."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7170,7 +9190,65 @@
               ]
             }
           ],
-          "read": "Pat said that he was living with his parents at that time, but he hoped that he would have his own flat soon."
+          "read": "Pat said that he was living with his parents at that time, but he hoped that he would have his own flat soon.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Pat",
+              "Pat"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was living",
+              "lebte"
+            ],
+            [
+              "with his parents",
+              "bei seinen Eltern"
+            ],
+            [
+              "at that time,",
+              "zu jener Zeit,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "hoped that",
+              "hoffte, dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have",
+              "haben würde"
+            ],
+            [
+              "his own flat",
+              "seine eigene Wohnung"
+            ],
+            [
+              "soon.",
+              "bald."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7339,7 +9417,41 @@
               ]
             }
           ],
-          "read": "Jill said that she usually took her dog for a walk after work."
+          "read": "Jill said that she usually took her dog for a walk after work.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Jill",
+              "Jill"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "usually took",
+              "normalerweise nahm"
+            ],
+            [
+              "her dog",
+              "ihren Hund"
+            ],
+            [
+              "for a walk",
+              "spazieren"
+            ],
+            [
+              "after work.",
+              "nach der Arbeit."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7496,7 +9608,41 @@
               ]
             }
           ],
-          "read": "He asked me if I had ever met her before."
+          "read": "He asked me if I had ever met her before.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "asked me",
+              "fragte mich,"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had ever met",
+              "je getroffen hatte"
+            ],
+            [
+              "her",
+              "sie"
+            ],
+            [
+              "before.",
+              "schon einmal."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7729,7 +9875,53 @@
               ]
             }
           ],
-          "read": "Mary said that the party the Saturday before had been great and that they had been dancing all night long."
+          "read": "Mary said that the party the Saturday before had been great and that they had been dancing all night long.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Mary",
+              "Mary"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "the party",
+              "die Party"
+            ],
+            [
+              "the Saturday before",
+              "den Samstag zuvor"
+            ],
+            [
+              "had been",
+              "gewesen war"
+            ],
+            [
+              "great",
+              "toll"
+            ],
+            [
+              "and that",
+              "und dass"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "had been dancing",
+              "getanzt hatten"
+            ],
+            [
+              "all night long.",
+              "die ganze Nacht."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7908,7 +10100,37 @@
               ]
             }
           ],
-          "read": "Lucy said that in that village nothing ever happened."
+          "read": "Lucy said that in that village nothing ever happened.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Lucy",
+              "Lucy"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "that village",
+              "jenem Dorf"
+            ],
+            [
+              "nothing",
+              "nichts"
+            ],
+            [
+              "ever happened.",
+              "je passierte."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8157,7 +10379,53 @@
               "w": []
             }
           ],
-          "read": "Tim said that he had missed his train, so he would be late for work that day."
+          "read": "Tim said that he had missed his train, so he would be late for work that day.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Tim",
+              "Tim"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had missed",
+              "verpasst hatte"
+            ],
+            [
+              "his train,",
+              "seinen Zug,"
+            ],
+            [
+              "so",
+              "also"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would be",
+              "sein würde"
+            ],
+            [
+              "late for work",
+              "zu spät zur Arbeit"
+            ],
+            [
+              "that day.",
+              "an jenem Tag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8306,7 +10574,33 @@
               "w": []
             }
           ],
-          "read": "The shop assistant said that the sales had already started the weekend before."
+          "read": "The shop assistant said that the sales had already started the weekend before.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The shop assistant",
+              "die Verkäuferin"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "the sales",
+              "die Ausverkäufe"
+            ],
+            [
+              "had already started",
+              "bereits begonnen hatten"
+            ],
+            [
+              "the weekend before.",
+              "das Wochenende zuvor."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8454,7 +10748,41 @@
               ]
             }
           ],
-          "read": "Father says to John that tomorrow they are going to meet Granny."
+          "read": "Father says to John that tomorrow they are going to meet Granny.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Father",
+              "Vater"
+            ],
+            [
+              "says to John",
+              "sagt zu John,"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "tomorrow",
+              "morgen"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are going to meet",
+              "werden treffen"
+            ],
+            [
+              "Granny.",
+              "Oma."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8595,7 +10923,37 @@
               ]
             }
           ],
-          "read": "Sue asked Ann if she had liked her last holiday."
+          "read": "Sue asked Ann if she had liked her last holiday.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Sue",
+              "Sue"
+            ],
+            [
+              "asked Ann",
+              "fragte Ann,"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had liked",
+              "gemocht hatte"
+            ],
+            [
+              "her last holiday.",
+              "ihren letzten Urlaub."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8744,7 +11102,37 @@
               ]
             }
           ],
-          "read": "Mr Johnson asked if he might use his phone."
+          "read": "Mr Johnson asked if he might use his phone.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Mr Johnson",
+              "Herr Johnson"
+            ],
+            [
+              "asked",
+              "fragte,"
+            ],
+            [
+              "if",
+              "ob"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "might use",
+              "benutzen dürfe"
+            ],
+            [
+              "his phone.",
+              "sein Telefon."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8976,7 +11364,57 @@
               ]
             }
           ],
-          "read": "Father told mum that she did not have to water the flowers because he had already done it for her."
+          "read": "Father told mum that she did not have to water the flowers because he had already done it for her.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Father",
+              "Vater"
+            ],
+            [
+              "told mum",
+              "sagte Mama,"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "did not have to",
+              "nicht musste"
+            ],
+            [
+              "water the flowers",
+              "die Blumen gießen"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had already done",
+              "bereits erledigt hatte"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "for her.",
+              "für sie."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9109,7 +11547,33 @@
               ]
             }
           ],
-          "read": "Paul said that he had just bought a new car."
+          "read": "Paul said that he had just bought a new car.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Paul",
+              "Paul"
+            ],
+            [
+              "said that",
+              "sagte, dass"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had just bought",
+              "gerade gekauft hatte"
+            ],
+            [
+              "a new car.",
+              "ein neues Auto."
+            ]
+          ]
         }
       ]
     },
@@ -9204,7 +11668,37 @@
               ]
             }
           ],
-          "read": "Look! A spider is climbing up the wall."
+          "read": "Look! A spider is climbing up the wall.",
+          "rdec": [
+            [
+              "Look!",
+              "Schau!"
+            ],
+            [
+              "A",
+              "Eine"
+            ],
+            [
+              "spider",
+              "Spinne"
+            ],
+            [
+              "is climbing",
+              "klettert"
+            ],
+            [
+              "up",
+              "hinauf"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "wall.",
+              "Wand."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9348,7 +11842,53 @@
               ]
             }
           ],
-          "read": "Yesterday, while father was doing the washing up, mother was working in the garden."
+          "read": "Yesterday, while father was doing the washing up, mother was working in the garden.",
+          "rdec": [
+            [
+              "Yesterday,",
+              "Gestern,"
+            ],
+            [
+              "while",
+              "während"
+            ],
+            [
+              "father",
+              "Vater"
+            ],
+            [
+              "was doing",
+              "machte"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "washing up,",
+              "Abwasch,"
+            ],
+            [
+              "mother",
+              "Mutter"
+            ],
+            [
+              "was working",
+              "arbeitete"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "garden.",
+              "Garten."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9781,7 +12321,89 @@
               ]
             }
           ],
-          "read": "John usually gets up at six in the morning, but today he is not getting that early because it is Sunday."
+          "read": "John usually gets up at six in the morning, but today he is not getting that early because it is Sunday.",
+          "rdec": [
+            [
+              "John",
+              "John"
+            ],
+            [
+              "usually",
+              "normalerweise"
+            ],
+            [
+              "gets up",
+              "steht-auf"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "six",
+              "sechs"
+            ],
+            [
+              "in",
+              "am"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "morning,",
+              "Morgen,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "today",
+              "heute"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "is",
+              "steht"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "getting",
+              "auf"
+            ],
+            [
+              "that",
+              "so"
+            ],
+            [
+              "early",
+              "früh"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "Sunday.",
+              "Sonntag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9882,7 +12504,37 @@
               ]
             }
           ],
-          "read": "I hope the weather will be fine tomorrow."
+          "read": "I hope the weather will be fine tomorrow.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "hope",
+              "hoffe"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "weather",
+              "Wetter"
+            ],
+            [
+              "will be",
+              "wird-sein"
+            ],
+            [
+              "fine",
+              "schön"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10018,7 +12670,49 @@
               ]
             }
           ],
-          "read": "Sue was doing the ironing, when someone rang at the door."
+          "read": "Sue was doing the ironing, when someone rang at the door.",
+          "rdec": [
+            [
+              "Sue",
+              "Sue"
+            ],
+            [
+              "was doing",
+              "machte"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "ironing,",
+              "Bügeln,"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "someone",
+              "jemand"
+            ],
+            [
+              "rang",
+              "läutete"
+            ],
+            [
+              "at",
+              "an"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "door.",
+              "Tür."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10189,7 +12883,41 @@
               ]
             }
           ],
-          "read": "She stood up, went downstairs and opened the door."
+          "read": "She stood up, went downstairs and opened the door.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "stood up,",
+              "stand-auf,"
+            ],
+            [
+              "went",
+              "ging"
+            ],
+            [
+              "downstairs",
+              "hinunter"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "opened",
+              "öffnete"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "door.",
+              "Tür."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10341,7 +13069,69 @@
               ]
             }
           ],
-          "read": "The students have an English exam tomorrow. So they have been studying a lot since last week."
+          "read": "The students have an English exam tomorrow. So they have been studying a lot since last week.",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "students",
+              "Schüler"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "English",
+              "Englisch-"
+            ],
+            [
+              "exam",
+              "Prüfung"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ],
+            [
+              "So",
+              "Also"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "have been studying",
+              "haben-gelernt"
+            ],
+            [
+              "a",
+              "-"
+            ],
+            [
+              "lot",
+              "viel"
+            ],
+            [
+              "since",
+              "seit"
+            ],
+            [
+              "last",
+              "letzter"
+            ],
+            [
+              "week.",
+              "Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10485,7 +13275,57 @@
               ]
             }
           ],
-          "read": "After Tom had finished work, he went to the cinema with his friends."
+          "read": "After Tom had finished work, he went to the cinema with his friends.",
+          "rdec": [
+            [
+              "After",
+              "Nachdem"
+            ],
+            [
+              "Tom",
+              "Tom"
+            ],
+            [
+              "had finished",
+              "beendet-hatte"
+            ],
+            [
+              "work,",
+              "Arbeit,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "went",
+              "ging"
+            ],
+            [
+              "to",
+              "ins"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "cinema",
+              "Kino"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "his",
+              "seinen"
+            ],
+            [
+              "friends.",
+              "Freunden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10578,7 +13418,57 @@
               ]
             }
           ],
-          "read": "At the moment the members of the team are listening to their boss."
+          "read": "At the moment the members of the team are listening to their boss.",
+          "rdec": [
+            [
+              "At",
+              "Im"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "moment",
+              "Moment"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "members",
+              "Mitglieder"
+            ],
+            [
+              "of",
+              "des"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "team",
+              "Teams"
+            ],
+            [
+              "are listening",
+              "hören-zu"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "their",
+              "ihrem"
+            ],
+            [
+              "boss.",
+              "Chef."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10722,7 +13612,65 @@
               ]
             }
           ],
-          "read": "Ben and Jenny moved to Australia in 2005. Since then they have been living in Sydney."
+          "read": "Ben and Jenny moved to Australia in 2005. Since then they have been living in Sydney.",
+          "rdec": [
+            [
+              "Ben",
+              "Ben"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "Jenny",
+              "Jenny"
+            ],
+            [
+              "moved",
+              "zogen"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Australia",
+              "Australien"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "2005.",
+              "2005."
+            ],
+            [
+              "Since",
+              "Seit"
+            ],
+            [
+              "then",
+              "damals"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "have been living",
+              "leben"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Sydney.",
+              "Sydney."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10849,7 +13797,37 @@
               ]
             }
           ],
-          "read": "When they were watching TV, the telephone rang."
+          "read": "When they were watching TV, the telephone rang.",
+          "rdec": [
+            [
+              "When",
+              "Als"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "were watching",
+              "schauten"
+            ],
+            [
+              "TV,",
+              "Fernsehen,"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "telephone",
+              "Telefon"
+            ],
+            [
+              "rang.",
+              "läutete."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11044,7 +14022,81 @@
               ]
             }
           ],
-          "read": "Granny will be 80 next week. \"What are you doing in your holidays?\" – \"Well, we do not know."
+          "read": "Granny will be 80 next week. \"What are you doing in your holidays?\" – \"Well, we do not know.",
+          "rdec": [
+            [
+              "Granny",
+              "Oma"
+            ],
+            [
+              "will be",
+              "wird-sein"
+            ],
+            [
+              "80",
+              "80"
+            ],
+            [
+              "next",
+              "nächste"
+            ],
+            [
+              "week.",
+              "Woche."
+            ],
+            [
+              "\"What",
+              "\"Was"
+            ],
+            [
+              "are",
+              "machst"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "doing",
+              "-"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "your",
+              "deinen"
+            ],
+            [
+              "holidays?\"",
+              "Ferien?\""
+            ],
+            [
+              "–",
+              "–"
+            ],
+            [
+              "\"Well,",
+              "\"Nun,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "do",
+              "wissen"
+            ],
+            [
+              "not",
+              "-"
+            ],
+            [
+              "know.",
+              "nicht."
+            ]
+          ]
         }
       ]
     },
@@ -11206,7 +14258,69 @@
               ]
             }
           ],
-          "read": "I do not want to go to Italy again as we were there last year."
+          "read": "I do not want to go to Italy again as we were there last year.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "do",
+              "will"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "want",
+              "-"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Italy",
+              "Italien"
+            ],
+            [
+              "again",
+              "wieder"
+            ],
+            [
+              "as",
+              "da"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "were",
+              "waren"
+            ],
+            [
+              "there",
+              "dort"
+            ],
+            [
+              "last",
+              "letztes"
+            ],
+            [
+              "year.",
+              "Jahr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11429,7 +14543,117 @@
               ]
             }
           ],
-          "read": "I want to go to Sweden or Norway, but the children loved swimming in the sea and playing on the beach. They really enjoyed it last year."
+          "read": "I want to go to Sweden or Norway, but the children loved swimming in the sea and playing on the beach. They really enjoyed it last year.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "want",
+              "will"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Sweden",
+              "Schweden"
+            ],
+            [
+              "or",
+              "oder"
+            ],
+            [
+              "Norway,",
+              "Norwegen,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "children",
+              "Kinder"
+            ],
+            [
+              "loved",
+              "liebten"
+            ],
+            [
+              "swimming",
+              "Schwimmen"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "sea",
+              "Meer"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "playing",
+              "Spielen"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "beach.",
+              "Strand."
+            ],
+            [
+              "They",
+              "Sie"
+            ],
+            [
+              "really",
+              "wirklich"
+            ],
+            [
+              "enjoyed",
+              "genossen"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "last",
+              "letztes"
+            ],
+            [
+              "year.",
+              "Jahr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11597,7 +14821,81 @@
               ]
             }
           ],
-          "read": "Therefore we have not made up our minds, but I hope that we will agree on a destination next weekend."
+          "read": "Therefore we have not made up our minds, but I hope that we will agree on a destination next weekend.",
+          "rdec": [
+            [
+              "Therefore",
+              "Deshalb"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "made up",
+              "entschieden"
+            ],
+            [
+              "our",
+              "uns"
+            ],
+            [
+              "minds,",
+              "-"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "hope",
+              "hoffe"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will agree",
+              "uns-einigen-werden"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "destination",
+              "Reiseziel"
+            ],
+            [
+              "next",
+              "nächstes"
+            ],
+            [
+              "weekend.",
+              "Wochenende."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11698,7 +14996,53 @@
               ]
             }
           ],
-          "read": "I promise that I will not tell anybody about the accident."
+          "read": "I promise that I will not tell anybody about the accident.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "promise",
+              "verspreche"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will",
+              "werde"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "tell",
+              "erzählen"
+            ],
+            [
+              "anybody",
+              "niemandem"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "accident.",
+              "Unfall."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12044,7 +15388,53 @@
               ]
             }
           ],
-          "read": "When we were playing tennis last Sunday it suddenly started to rain."
+          "read": "When we were playing tennis last Sunday it suddenly started to rain.",
+          "rdec": [
+            [
+              "When",
+              "Als"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "were playing",
+              "spielten"
+            ],
+            [
+              "tennis",
+              "Tennis"
+            ],
+            [
+              "last",
+              "letzten"
+            ],
+            [
+              "Sunday",
+              "Sonntag"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "suddenly",
+              "plötzlich"
+            ],
+            [
+              "started",
+              "begann"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "rain.",
+              "regnen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12129,7 +15519,45 @@
               ]
             }
           ],
-          "read": "The dancing club has its summer party in July."
+          "read": "The dancing club has its summer party in July.",
+          "rdec": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "dancing",
+              "Tanz-"
+            ],
+            [
+              "club",
+              "Klub"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "its",
+              "seine"
+            ],
+            [
+              "summer",
+              "Sommer-"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "July.",
+              "Juli."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12257,7 +15685,37 @@
               ]
             }
           ],
-          "read": "Our friends had organised everything before they left."
+          "read": "Our friends had organised everything before they left.",
+          "rdec": [
+            [
+              "Our",
+              "Unsere"
+            ],
+            [
+              "friends",
+              "Freunde"
+            ],
+            [
+              "had organised",
+              "hatten-organisiert"
+            ],
+            [
+              "everything",
+              "alles"
+            ],
+            [
+              "before",
+              "bevor"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "left.",
+              "abreisten."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12401,7 +15859,61 @@
               ]
             }
           ],
-          "read": "The travel agent recommended the hotel which was renovated last March to the couple."
+          "read": "The travel agent recommended the hotel which was renovated last March to the couple.",
+          "rdec": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "travel",
+              "Reise-"
+            ],
+            [
+              "agent",
+              "Vermittler"
+            ],
+            [
+              "recommended",
+              "empfahl"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "hotel",
+              "Hotel"
+            ],
+            [
+              "which",
+              "das"
+            ],
+            [
+              "was renovated",
+              "renoviert-wurde"
+            ],
+            [
+              "last",
+              "letzten"
+            ],
+            [
+              "March",
+              "März"
+            ],
+            [
+              "to",
+              "-"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "couple.",
+              "Paar."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12529,7 +16041,45 @@
               ]
             }
           ],
-          "read": "Sue had already finished her work when Jim called."
+          "read": "Sue had already finished her work when Jim called.",
+          "rdec": [
+            [
+              "Sue",
+              "Sue"
+            ],
+            [
+              "had",
+              "hatte"
+            ],
+            [
+              "already",
+              "schon"
+            ],
+            [
+              "finished",
+              "beendet"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "work",
+              "Arbeit"
+            ],
+            [
+              "when",
+              "als"
+            ],
+            [
+              "Jim",
+              "Jim"
+            ],
+            [
+              "called.",
+              "anrief."
+            ]
+          ]
         },
         {
           "parts": [
@@ -12816,7 +16366,53 @@
               ]
             }
           ],
-          "read": "Granny did not tell us that she had been ill last week."
+          "read": "Granny did not tell us that she had been ill last week.",
+          "rdec": [
+            [
+              "Granny",
+              "Oma"
+            ],
+            [
+              "did",
+              "erzählte"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "tell",
+              "-"
+            ],
+            [
+              "us",
+              "uns"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had been",
+              "gewesen-war"
+            ],
+            [
+              "ill",
+              "krank"
+            ],
+            [
+              "last",
+              "letzte"
+            ],
+            [
+              "week.",
+              "Woche."
+            ]
+          ]
         }
       ]
     },
@@ -12927,7 +16523,49 @@
               ]
             }
           ],
-          "read": "Mother expects that her children will be at home for lunch."
+          "read": "Mother expects that her children will be at home for lunch.",
+          "rdec": [
+            [
+              "Mother",
+              "Mutter"
+            ],
+            [
+              "expects",
+              "erwartet"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "children",
+              "Kinder"
+            ],
+            [
+              "will be",
+              "sein-werden"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home",
+              "Hause"
+            ],
+            [
+              "for",
+              "zum"
+            ],
+            [
+              "lunch.",
+              "Mittagessen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13020,7 +16658,49 @@
               ]
             }
           ],
-          "read": "Many people believe that humankind will never fly to Mars."
+          "read": "Many people believe that humankind will never fly to Mars.",
+          "rdec": [
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "believe",
+              "glauben"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "humankind",
+              "Menschheit"
+            ],
+            [
+              "will",
+              "wird"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "fly",
+              "fliegen"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "Mars.",
+              "Mars."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13374,7 +17054,73 @@
               ]
             }
           ],
-          "read": "Since 1990 we have been living in the country, but next year we will move to a big city."
+          "read": "Since 1990 we have been living in the country, but next year we will move to a big city.",
+          "rdec": [
+            [
+              "Since",
+              "Seit"
+            ],
+            [
+              "1990",
+              "1990"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "have been living",
+              "leben"
+            ],
+            [
+              "in",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "country,",
+              "Land,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "next",
+              "nächstes"
+            ],
+            [
+              "year",
+              "Jahr"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will move",
+              "ziehen-um"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "big",
+              "große"
+            ],
+            [
+              "city.",
+              "Stadt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13467,7 +17213,45 @@
               ]
             }
           ],
-          "read": "Many years ago John studied Spanish and French abroad."
+          "read": "Many years ago John studied Spanish and French abroad.",
+          "rdec": [
+            [
+              "Many",
+              "Viele"
+            ],
+            [
+              "years",
+              "Jahre"
+            ],
+            [
+              "ago",
+              "vor"
+            ],
+            [
+              "John",
+              "John"
+            ],
+            [
+              "studied",
+              "studierte"
+            ],
+            [
+              "Spanish",
+              "Spanisch"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "French",
+              "Französisch"
+            ],
+            [
+              "abroad.",
+              "im-Ausland."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13544,7 +17328,41 @@
               ]
             }
           ],
-          "read": "The secretary has just finished writing the letters."
+          "read": "The secretary has just finished writing the letters.",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "secretary",
+              "Sekretärin"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "just",
+              "gerade"
+            ],
+            [
+              "finished",
+              "beendet"
+            ],
+            [
+              "writing",
+              "Schreiben"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "letters.",
+              "Briefe."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13696,7 +17514,53 @@
               ]
             }
           ],
-          "read": "When I came home yesterday, he was sitting asleep in his armchair."
+          "read": "When I came home yesterday, he was sitting asleep in his armchair.",
+          "rdec": [
+            [
+              "When",
+              "Als"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "came",
+              "kam"
+            ],
+            [
+              "home",
+              "heim"
+            ],
+            [
+              "yesterday,",
+              "gestern,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was sitting",
+              "saß"
+            ],
+            [
+              "asleep",
+              "schlafend"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "his",
+              "seinem"
+            ],
+            [
+              "armchair.",
+              "Sessel."
+            ]
+          ]
         },
         {
           "parts": [
@@ -13848,7 +17712,65 @@
               ]
             }
           ],
-          "read": "After the children had gone home for lunch, they had an appointment with the dentist."
+          "read": "After the children had gone home for lunch, they had an appointment with the dentist.",
+          "rdec": [
+            [
+              "After",
+              "Nachdem"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "children",
+              "Kinder"
+            ],
+            [
+              "had gone",
+              "gegangen-waren"
+            ],
+            [
+              "home",
+              "heim"
+            ],
+            [
+              "for",
+              "zum"
+            ],
+            [
+              "lunch,",
+              "Mittagessen,"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "had",
+              "hatten"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "appointment",
+              "Termin"
+            ],
+            [
+              "with",
+              "beim"
+            ],
+            [
+              "the",
+              "-"
+            ],
+            [
+              "dentist.",
+              "Zahnarzt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -14135,7 +18057,57 @@
               ]
             }
           ],
-          "read": "Jason told the police that there had been an accident in Park Avenue."
+          "read": "Jason told the police that there had been an accident in Park Avenue.",
+          "rdec": [
+            [
+              "Jason",
+              "Jason"
+            ],
+            [
+              "told",
+              "erzählte"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "police",
+              "Polizei"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "there",
+              "es"
+            ],
+            [
+              "had been",
+              "gegeben-hatte"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "accident",
+              "Unfall"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Park",
+              "Park"
+            ],
+            [
+              "Avenue.",
+              "Avenue."
+            ]
+          ]
         },
         {
           "parts": [
@@ -14244,7 +18216,53 @@
               ]
             }
           ],
-          "read": "Since his wife left home, Patrick has been preparing breakfast on his own."
+          "read": "Since his wife left home, Patrick has been preparing breakfast on his own.",
+          "rdec": [
+            [
+              "Since",
+              "Seit"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "wife",
+              "Frau"
+            ],
+            [
+              "left",
+              "verließ"
+            ],
+            [
+              "home,",
+              "Zuhause,"
+            ],
+            [
+              "Patrick",
+              "Patrick"
+            ],
+            [
+              "has been preparing",
+              "bereitet-zu"
+            ],
+            [
+              "breakfast",
+              "Frühstück"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "own.",
+              "eigene-Art."
+            ]
+          ]
         }
       ]
     }

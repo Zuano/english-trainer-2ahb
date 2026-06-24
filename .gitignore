@@ -21,3 +21,6 @@ content.bak/
 
 # Temporary files / Temporaere Dateien
 *.tmp
+
+# Internal dev templates/notes (not part of the app) / Interne Entwickler-Vorlagen/Notizen
+VORLAGE-*.md

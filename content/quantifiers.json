@@ -519,7 +519,73 @@
               ]
             }
           ],
-          "read": "Anna is planning a party for her friends. She bought some snacks and a few bottles of juice."
+          "read": "Anna is planning a party for her friends. She bought some snacks and a few bottles of juice.",
+          "rdec": [
+            [
+              "Anna",
+              "Anna"
+            ],
+            [
+              "is planning",
+              "plant"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "her",
+              "ihre"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "snacks",
+              "Snacks"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "a few",
+              "ein-paar"
+            ],
+            [
+              "bottles",
+              "Flaschen"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "juice.",
+              "Saft."
+            ]
+          ]
         },
         {
           "parts": [
@@ -669,7 +735,57 @@
               ]
             }
           ],
-          "read": "She didn't buy much soda because many of her friends prefer water."
+          "read": "She didn't buy much soda because many of her friends prefer water.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "didn't",
+              "tat'nicht"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "soda",
+              "Limonade"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "her",
+              "ihren"
+            ],
+            [
+              "friends",
+              "Freunden"
+            ],
+            [
+              "prefer",
+              "bevorzugen"
+            ],
+            [
+              "water.",
+              "Wasser."
+            ]
+          ]
         },
         {
           "parts": [
@@ -893,7 +1009,85 @@
               ]
             }
           ],
-          "read": "There are also a lot of sandwiches, but there aren't any vegetarian options yet. She still has a little time to go to the supermarket."
+          "read": "There are also a lot of sandwiches, but there aren't any vegetarian options yet. She still has a little time to go to the supermarket.",
+          "rdec": [
+            [
+              "There are",
+              "es-gibt"
+            ],
+            [
+              "also",
+              "auch"
+            ],
+            [
+              "a lot of",
+              "viele"
+            ],
+            [
+              "sandwiches,",
+              "Sandwiches,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "any",
+              "irgendwelche"
+            ],
+            [
+              "vegetarian",
+              "vegetarischen"
+            ],
+            [
+              "options",
+              "Optionen"
+            ],
+            [
+              "yet.",
+              "noch."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "still",
+              "noch"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "a little",
+              "ein-wenig"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "to go",
+              "zu gehen"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "supermarket.",
+              "Supermarkt."
+            ]
+          ]
         }
       ]
     },
@@ -1002,7 +1196,41 @@
               ]
             }
           ],
-          "read": "There aren't many honest people in the world these days."
+          "read": "There aren't many honest people in the world these days.",
+          "rdec": [
+            [
+              "There aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "honest",
+              "ehrliche"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "world",
+              "Welt"
+            ],
+            [
+              "these days.",
+              "heutzutage."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1150,7 +1378,65 @@
               ]
             }
           ],
-          "read": "This man is a mystery. We have very little information about his private life."
+          "read": "This man is a mystery. We have very little information about his private life.",
+          "rdec": [
+            [
+              "This",
+              "Dieser"
+            ],
+            [
+              "man",
+              "Mann"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "mystery.",
+              "Rätsel."
+            ],
+            [
+              "We",
+              "Wir"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "information",
+              "Information"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "private",
+              "privates"
+            ],
+            [
+              "life.",
+              "Leben."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1290,7 +1576,61 @@
               ]
             }
           ],
-          "read": "She isn't the most popular person in the class. She has very few friends."
+          "read": "She isn't the most popular person in the class. She has very few friends.",
+          "rdec": [
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "isn't",
+              "ist'nicht"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "most popular",
+              "beliebteste"
+            ],
+            [
+              "person",
+              "Person"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "class.",
+              "Klasse."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "has",
+              "hat"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "few",
+              "wenige"
+            ],
+            [
+              "friends.",
+              "Freunde."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1446,7 +1786,69 @@
               ]
             }
           ],
-          "read": "Our team is losing 1:0 but there is still some hope that they'll turn the game around."
+          "read": "Our team is losing 1:0 but there is still some hope that they'll turn the game around.",
+          "rdec": [
+            [
+              "Our",
+              "Unser"
+            ],
+            [
+              "team",
+              "Team"
+            ],
+            [
+              "is losing",
+              "verliert"
+            ],
+            [
+              "1:0",
+              "1:0"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there is",
+              "es-gibt"
+            ],
+            [
+              "still",
+              "noch"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "hope",
+              "Hoffnung"
+            ],
+            [
+              "that",
+              "dass"
+            ],
+            [
+              "they'll",
+              "sie'werden"
+            ],
+            [
+              "turn",
+              "drehen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "game",
+              "Spiel"
+            ],
+            [
+              "around.",
+              "herum."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1569,7 +1971,53 @@
               ]
             }
           ],
-          "read": "Few students have such good marks. She is an unmatched genius."
+          "read": "Few students have such good marks. She is an unmatched genius.",
+          "rdec": [
+            [
+              "Few",
+              "Wenige"
+            ],
+            [
+              "students",
+              "Schüler"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "such",
+              "solch"
+            ],
+            [
+              "good",
+              "gute"
+            ],
+            [
+              "marks.",
+              "Noten."
+            ],
+            [
+              "She",
+              "Sie"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "an",
+              "ein"
+            ],
+            [
+              "unmatched",
+              "unübertroffenes"
+            ],
+            [
+              "genius.",
+              "Genie."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1717,7 +2165,65 @@
               ]
             }
           ],
-          "read": "I've read only the first chapter, that's why I don't have much to say about the characters."
+          "read": "I've read only the first chapter, that's why I don't have much to say about the characters.",
+          "rdec": [
+            [
+              "I've read",
+              "ich'habe-gelesen"
+            ],
+            [
+              "only",
+              "nur"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "first",
+              "erste"
+            ],
+            [
+              "chapter,",
+              "Kapitel,"
+            ],
+            [
+              "that's why",
+              "deshalb"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "tu'nicht"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "to say",
+              "zu sagen"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "characters.",
+              "Charaktere."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1825,7 +2331,45 @@
               ]
             }
           ],
-          "read": "There is no cake left! Ben's eaten the whole thing!"
+          "read": "There is no cake left! Ben's eaten the whole thing!",
+          "rdec": [
+            [
+              "There is",
+              "es-gibt"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "cake",
+              "Kuchen"
+            ],
+            [
+              "left!",
+              "übrig!"
+            ],
+            [
+              "Ben's",
+              "Ben'hat"
+            ],
+            [
+              "eaten",
+              "gegessen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "whole",
+              "ganze"
+            ],
+            [
+              "thing!",
+              "Ding!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1965,7 +2509,61 @@
               ]
             }
           ],
-          "read": "Can I ask you for a little patience? I'll be back in 5 minutes."
+          "read": "Can I ask you for a little patience? I'll be back in 5 minutes.",
+          "rdec": [
+            [
+              "Can",
+              "Kann"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "ask",
+              "bitten"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "for",
+              "um"
+            ],
+            [
+              "a little",
+              "ein-wenig"
+            ],
+            [
+              "patience?",
+              "Geduld?"
+            ],
+            [
+              "I'll",
+              "ich'werde"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "back",
+              "zurück"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "5",
+              "5"
+            ],
+            [
+              "minutes.",
+              "Minuten."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2097,7 +2695,57 @@
               ]
             }
           ],
-          "read": "Science doesn't interest me. It's the subject I know very little about."
+          "read": "Science doesn't interest me. It's the subject I know very little about.",
+          "rdec": [
+            [
+              "Science",
+              "Wissenschaft"
+            ],
+            [
+              "doesn't",
+              "tut'nicht"
+            ],
+            [
+              "interest",
+              "interessieren"
+            ],
+            [
+              "me.",
+              "mich."
+            ],
+            [
+              "It's",
+              "es'ist"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "subject",
+              "Fach"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "know",
+              "weiß"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "about.",
+              "über."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2197,7 +2845,41 @@
               ]
             }
           ],
-          "read": "The party was ok but there wasn't much dancing."
+          "read": "The party was ok but there wasn't much dancing.",
+          "rdec": [
+            [
+              "The",
+              "Die"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "ok",
+              "okay"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "there wasn't",
+              "es-gab'nicht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "dancing.",
+              "Tanzen."
+            ]
+          ]
         }
       ]
     },
@@ -2322,7 +3004,49 @@
               ]
             }
           ],
-          "read": "We'd better go to the petrol station. We've got very little petrol left."
+          "read": "We'd better go to the petrol station. We've got very little petrol left.",
+          "rdec": [
+            [
+              "We'd better",
+              "wir-sollten-besser"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "to",
+              "zur"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "petrol station.",
+              "Tankstelle."
+            ],
+            [
+              "We've got",
+              "wir'haben"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "petrol",
+              "Benzin"
+            ],
+            [
+              "left.",
+              "übrig."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2414,7 +3138,37 @@
               ]
             }
           ],
-          "read": "Tomorrow's party will be legendary! There'll be a lot of people!"
+          "read": "Tomorrow's party will be legendary! There'll be a lot of people!",
+          "rdec": [
+            [
+              "Tomorrow's",
+              "Morgens"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "will be",
+              "wird-sein"
+            ],
+            [
+              "legendary!",
+              "legendär!"
+            ],
+            [
+              "There'll be",
+              "es-wird-geben"
+            ],
+            [
+              "a lot of",
+              "viele"
+            ],
+            [
+              "people!",
+              "Leute!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2522,7 +3276,45 @@
               ]
             }
           ],
-          "read": "My wallet is empty. I have no money whatsoever."
+          "read": "My wallet is empty. I have no money whatsoever.",
+          "rdec": [
+            [
+              "My",
+              "Mein"
+            ],
+            [
+              "wallet",
+              "Geldbeutel"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "empty.",
+              "leer."
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "have",
+              "habe"
+            ],
+            [
+              "no",
+              "kein"
+            ],
+            [
+              "money",
+              "Geld"
+            ],
+            [
+              "whatsoever.",
+              "überhaupt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2670,7 +3462,65 @@
               ]
             }
           ],
-          "read": "In his new flat there is little furniture. Maybe one chair and a small table."
+          "read": "In his new flat there is little furniture. Maybe one chair and a small table.",
+          "rdec": [
+            [
+              "In",
+              "In"
+            ],
+            [
+              "his",
+              "seiner"
+            ],
+            [
+              "new",
+              "neuen"
+            ],
+            [
+              "flat",
+              "Wohnung"
+            ],
+            [
+              "there is",
+              "es-gibt"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "furniture.",
+              "Möbel."
+            ],
+            [
+              "Maybe",
+              "Vielleicht"
+            ],
+            [
+              "one",
+              "einen"
+            ],
+            [
+              "chair",
+              "Stuhl"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "small",
+              "kleinen"
+            ],
+            [
+              "table.",
+              "Tisch."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2762,7 +3612,37 @@
               ]
             }
           ],
-          "read": "Her grades have improved greatly. She's made a lot of progress."
+          "read": "Her grades have improved greatly. She's made a lot of progress.",
+          "rdec": [
+            [
+              "Her",
+              "Ihre"
+            ],
+            [
+              "grades",
+              "Noten"
+            ],
+            [
+              "have improved",
+              "haben-sich-verbessert"
+            ],
+            [
+              "greatly.",
+              "stark."
+            ],
+            [
+              "She's made",
+              "sie'hat-gemacht"
+            ],
+            [
+              "a lot of",
+              "viel"
+            ],
+            [
+              "progress.",
+              "Fortschritt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2870,7 +3750,45 @@
               ]
             }
           ],
-          "read": "Norway is a very rich country. There isn't much poverty."
+          "read": "Norway is a very rich country. There isn't much poverty.",
+          "rdec": [
+            [
+              "Norway",
+              "Norwegen"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "very",
+              "sehr"
+            ],
+            [
+              "rich",
+              "reiches"
+            ],
+            [
+              "country.",
+              "Land."
+            ],
+            [
+              "There isn't",
+              "es-gibt'nicht"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "poverty.",
+              "Armut."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2961,7 +3879,37 @@
               ]
             }
           ],
-          "read": "Some school subjects are easier than others."
+          "read": "Some school subjects are easier than others.",
+          "rdec": [
+            [
+              "Some",
+              "Einige"
+            ],
+            [
+              "school",
+              "Schul-"
+            ],
+            [
+              "subjects",
+              "fächer"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "easier",
+              "leichter"
+            ],
+            [
+              "than",
+              "als"
+            ],
+            [
+              "others.",
+              "andere."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3125,7 +4073,73 @@
               ]
             }
           ],
-          "read": "I could rely on him in the past but this time he offered me no help."
+          "read": "I could rely on him in the past but this time he offered me no help.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "could",
+              "konnte"
+            ],
+            [
+              "rely",
+              "verlassen"
+            ],
+            [
+              "on",
+              "auf"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "past",
+              "Vergangenheit"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "time",
+              "Mal"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "offered",
+              "bot"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "no",
+              "keine"
+            ],
+            [
+              "help.",
+              "Hilfe."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3225,7 +4239,41 @@
               ]
             }
           ],
-          "read": "The suspect was released because too little evidence was presented."
+          "read": "The suspect was released because too little evidence was presented.",
+          "rdec": [
+            [
+              "The",
+              "Der"
+            ],
+            [
+              "suspect",
+              "Verdächtige"
+            ],
+            [
+              "was released",
+              "wurde-freigelassen"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "too",
+              "zu"
+            ],
+            [
+              "little",
+              "wenig"
+            ],
+            [
+              "evidence",
+              "Beweise"
+            ],
+            [
+              "was presented.",
+              "vorgelegt-wurden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3333,7 +4381,45 @@
               ]
             }
           ],
-          "read": "There aren't many things to do in Egypt that are free of charge."
+          "read": "There aren't many things to do in Egypt that are free of charge.",
+          "rdec": [
+            [
+              "There aren't",
+              "es-gibt'nicht"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "things",
+              "Dinge"
+            ],
+            [
+              "to do",
+              "zu tun"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Egypt",
+              "Ägypten"
+            ],
+            [
+              "that",
+              "die"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "free of charge.",
+              "kostenlos."
+            ]
+          ]
         }
       ]
     },
@@ -3424,7 +4510,33 @@
               ]
             }
           ],
-          "read": "How much money do you need?"
+          "read": "How much money do you need?",
+          "rdec": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "much",
+              "viel"
+            ],
+            [
+              "money",
+              "Geld"
+            ],
+            [
+              "do",
+              "tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "need?",
+              "brauchen?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -3506,7 +4618,33 @@
               ]
             }
           ],
-          "read": "How many apples do you want?"
+          "read": "How many apples do you want?",
+          "rdec": [
+            [
+              "How",
+              "Wie"
+            ],
+            [
+              "many",
+              "viele"
+            ],
+            [
+              "apples",
+              "Äpfel"
+            ],
+            [
+              "do",
+              "tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want?",
+              "wollen?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -3588,7 +4726,33 @@
               ]
             }
           ],
-          "read": "Do you have any milk left?"
+          "read": "Do you have any milk left?",
+          "rdec": [
+            [
+              "Do",
+              "Tust"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "any",
+              "irgendwelche"
+            ],
+            [
+              "milk",
+              "Milch"
+            ],
+            [
+              "left?",
+              "übrig?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -3678,7 +4842,37 @@
               ]
             }
           ],
-          "read": "I bought some apples at the market."
+          "read": "I bought some apples at the market.",
+          "rdec": [
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "bought",
+              "kaufte"
+            ],
+            [
+              "some",
+              "einige"
+            ],
+            [
+              "apples",
+              "Äpfel"
+            ],
+            [
+              "at",
+              "auf"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "market.",
+              "Markt."
+            ]
+          ]
         }
       ]
     }

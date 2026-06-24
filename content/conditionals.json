@@ -810,7 +810,33 @@
               "w": []
             }
           ],
-          "read": "If you stop eating, you starve."
+          "read": "If you stop eating, you starve.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "stop",
+              "aufhörst"
+            ],
+            [
+              "eating,",
+              "zu-essen,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "starve.",
+              "verhungerst."
+            ]
+          ]
         },
         {
           "parts": [
@@ -938,7 +964,45 @@
               ]
             }
           ],
-          "read": "If there is a lot of snow, driving conditions are dangerous."
+          "read": "If there is a lot of snow, driving conditions are dangerous.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "there",
+              "es"
+            ],
+            [
+              "is",
+              "gibt"
+            ],
+            [
+              "a lot of",
+              "viel"
+            ],
+            [
+              "snow,",
+              "Schnee,"
+            ],
+            [
+              "driving",
+              "Fahr-"
+            ],
+            [
+              "conditions",
+              "bedingungen"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "dangerous.",
+              "gefährlich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1066,7 +1130,45 @@
               ]
             }
           ],
-          "read": "If people eat too much junk food, they gain weight."
+          "read": "If people eat too much junk food, they gain weight.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "too much",
+              "zu-viel"
+            ],
+            [
+              "junk",
+              "Junk-"
+            ],
+            [
+              "food,",
+              "Essen,"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "gain",
+              "nehmen-zu"
+            ],
+            [
+              "weight.",
+              "Gewicht."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1210,7 +1312,53 @@
               ]
             }
           ],
-          "read": "If a serious hurricane hits Florida, the inhabitants leave the area."
+          "read": "If a serious hurricane hits Florida, the inhabitants leave the area.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "serious",
+              "schwerer"
+            ],
+            [
+              "hurricane",
+              "Hurrikan"
+            ],
+            [
+              "hits",
+              "trifft"
+            ],
+            [
+              "Florida,",
+              "Florida,"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "inhabitants",
+              "Einwohner"
+            ],
+            [
+              "leave",
+              "verlassen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "area.",
+              "Gebiet."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1362,7 +1510,57 @@
               ]
             }
           ],
-          "read": "If I regularly watch the news in English, my English improves a lot."
+          "read": "If I regularly watch the news in English, my English improves a lot.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "regularly",
+              "regelmäßig"
+            ],
+            [
+              "watch",
+              "schaue"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "news",
+              "Nachrichten"
+            ],
+            [
+              "in",
+              "auf"
+            ],
+            [
+              "English,",
+              "Englisch,"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "English",
+              "Englisch"
+            ],
+            [
+              "improves",
+              "verbessert-sich"
+            ],
+            [
+              "a lot.",
+              "sehr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1490,7 +1688,45 @@
               ]
             }
           ],
-          "read": "If elderly people have a pet, they are happier."
+          "read": "If elderly people have a pet, they are happier.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "elderly",
+              "ältere"
+            ],
+            [
+              "people",
+              "Menschen"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "pet,",
+              "Haustier,"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "happier.",
+              "glücklicher."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1626,7 +1862,49 @@
               ]
             }
           ],
-          "read": "If we do a lot of sports, we are in good shape."
+          "read": "If we do a lot of sports, we are in good shape.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "do",
+              "treiben"
+            ],
+            [
+              "a lot of",
+              "viel"
+            ],
+            [
+              "sports,",
+              "Sport,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "good",
+              "guter"
+            ],
+            [
+              "shape.",
+              "Form."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1762,7 +2040,49 @@
               ]
             }
           ],
-          "read": "If you grow up in China, you learn to speak Chinese."
+          "read": "If you grow up in China, you learn to speak Chinese.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "grow up",
+              "aufwächst"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "China,",
+              "China,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "learn",
+              "lernst"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "Chinese.",
+              "Chinesisch."
+            ]
+          ]
         }
       ]
     },
@@ -1911,7 +2231,53 @@
               ]
             }
           ],
-          "read": "If I wake up late on Monday, I will miss the bus."
+          "read": "If I wake up late on Monday, I will miss the bus.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "wake up",
+              "aufwache"
+            ],
+            [
+              "late",
+              "spät"
+            ],
+            [
+              "on",
+              "am"
+            ],
+            [
+              "Monday,",
+              "Montag,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will",
+              "werde"
+            ],
+            [
+              "miss",
+              "verpassen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus.",
+              "Bus."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2035,7 +2401,45 @@
               ]
             }
           ],
-          "read": "If you move to Cuba, you must speak Spanish."
+          "read": "If you move to Cuba, you must speak Spanish.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "move",
+              "ziehst"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Cuba,",
+              "Kuba,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "must",
+              "musst"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "Spanish.",
+              "Spanisch."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2167,7 +2571,49 @@
               ]
             }
           ],
-          "read": "If you learn hard, you will pass your maths exam."
+          "read": "If you learn hard, you will pass your maths exam.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "learn",
+              "lernst"
+            ],
+            [
+              "hard,",
+              "fleißig,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "pass",
+              "bestehen"
+            ],
+            [
+              "your",
+              "deine"
+            ],
+            [
+              "maths",
+              "Mathe-"
+            ],
+            [
+              "exam.",
+              "Prüfung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2299,7 +2745,49 @@
               ]
             }
           ],
-          "read": "If you eat healthy food, you will become quite old."
+          "read": "If you eat healthy food, you will become quite old.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "eat",
+              "isst"
+            ],
+            [
+              "healthy",
+              "gesundes"
+            ],
+            [
+              "food,",
+              "Essen,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "become",
+              "werden"
+            ],
+            [
+              "quite",
+              "ziemlich"
+            ],
+            [
+              "old.",
+              "alt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2419,7 +2907,45 @@
               ]
             }
           ],
-          "read": "If you do not hurry up, you will miss your plane."
+          "read": "If you do not hurry up, you will miss your plane.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "do not",
+              "tust'nicht"
+            ],
+            [
+              "hurry up,",
+              "dich-beeilst,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "miss",
+              "verpassen"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "plane.",
+              "Flugzeug."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2567,7 +3093,57 @@
               ]
             }
           ],
-          "read": "If you study English three times a week, you will improve quickly."
+          "read": "If you study English three times a week, you will improve quickly.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "study",
+              "lernst"
+            ],
+            [
+              "English",
+              "Englisch"
+            ],
+            [
+              "three",
+              "drei"
+            ],
+            [
+              "times",
+              "Mal"
+            ],
+            [
+              "a",
+              "pro"
+            ],
+            [
+              "week,",
+              "Woche,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "will",
+              "wirst"
+            ],
+            [
+              "improve",
+              "dich-verbessern"
+            ],
+            [
+              "quickly.",
+              "schnell."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2715,7 +3291,57 @@
               ]
             }
           ],
-          "read": "If it rains this weekend, we will not go on holiday to Hungary."
+          "read": "If it rains this weekend, we will not go on holiday to Hungary.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "rains",
+              "regnet"
+            ],
+            [
+              "this",
+              "dieses"
+            ],
+            [
+              "weekend,",
+              "Wochenende,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will not",
+              "werden'nicht"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "on",
+              "in"
+            ],
+            [
+              "holiday",
+              "Urlaub"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Hungary.",
+              "Ungarn."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2879,7 +3505,65 @@
               ]
             }
           ],
-          "read": "If you are too busy, I will not come round for a cup of coffee."
+          "read": "If you are too busy, I will not come round for a cup of coffee.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "are",
+              "bist"
+            ],
+            [
+              "too",
+              "zu"
+            ],
+            [
+              "busy,",
+              "beschäftigt,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will not",
+              "werde'nicht"
+            ],
+            [
+              "come",
+              "vorbeikommen"
+            ],
+            [
+              "round",
+              "vorbei"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "cup",
+              "Tasse"
+            ],
+            [
+              "of",
+              ""
+            ],
+            [
+              "coffee.",
+              "Kaffee."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3031,7 +3715,61 @@
               ]
             }
           ],
-          "read": "If you do not leave my flat at once, I will call the police."
+          "read": "If you do not leave my flat at once, I will call the police.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "do not",
+              "tust'nicht"
+            ],
+            [
+              "leave",
+              "verlassen"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "flat",
+              "Wohnung"
+            ],
+            [
+              "at",
+              "sofort,"
+            ],
+            [
+              "once,",
+              ""
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will",
+              "werde"
+            ],
+            [
+              "call",
+              "rufen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "police.",
+              "Polizei."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3203,7 +3941,69 @@
               ]
             }
           ],
-          "read": "If she offers me the job of personal assistant, I will accept this new opportunity."
+          "read": "If she offers me the job of personal assistant, I will accept this new opportunity.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "offers",
+              "anbietet"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "job",
+              "Stelle"
+            ],
+            [
+              "of",
+              "als"
+            ],
+            [
+              "personal",
+              "persönliche"
+            ],
+            [
+              "assistant,",
+              "Assistentin,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will",
+              "werde"
+            ],
+            [
+              "accept",
+              "annehmen"
+            ],
+            [
+              "this",
+              "diese"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "opportunity.",
+              "Gelegenheit."
+            ]
+          ]
         }
       ]
     },
@@ -3352,7 +4152,53 @@
               ]
             }
           ],
-          "read": "If I were ten years younger, I would emigrate to Australia."
+          "read": "If I were ten years younger, I would emigrate to Australia.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "ten",
+              "zehn"
+            ],
+            [
+              "years",
+              "Jahre"
+            ],
+            [
+              "younger,",
+              "jünger,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "emigrate",
+              "auswandern"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Australia.",
+              "Australien."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3572,7 +4418,93 @@
               ]
             }
           ],
-          "read": "We are always late! If we left punctually at six o'clock, we would not have any stress catching the early morning train."
+          "read": "We are always late! If we left punctually at six o'clock, we would not have any stress catching the early morning train.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "always",
+              "immer"
+            ],
+            [
+              "late!",
+              "zu-spät!"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "left",
+              "aufbrächen"
+            ],
+            [
+              "punctually",
+              "pünktlich"
+            ],
+            [
+              "at",
+              "um"
+            ],
+            [
+              "six",
+              "sechs"
+            ],
+            [
+              "o'clock,",
+              "Uhr,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "would not",
+              "würden'nicht"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "any",
+              "irgendeinen"
+            ],
+            [
+              "stress",
+              "Stress"
+            ],
+            [
+              "catching",
+              "zu-erwischen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "early",
+              "frühen"
+            ],
+            [
+              "morning",
+              "Morgen-"
+            ],
+            [
+              "train.",
+              "Zug."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3736,7 +4668,65 @@
               ]
             }
           ],
-          "read": "If I were a politician, I would fight for free health care and education."
+          "read": "If I were a politician, I would fight for free health care and education.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "politician,",
+              "Politiker,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "fight",
+              "kämpfen"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "free",
+              "kostenlose"
+            ],
+            [
+              "health",
+              "Gesundheits-"
+            ],
+            [
+              "care",
+              "versorgung"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "education.",
+              "Bildung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3876,7 +4866,53 @@
               ]
             }
           ],
-          "read": "If you drank too much alcohol, you would feel sleepy quite easily."
+          "read": "If you drank too much alcohol, you would feel sleepy quite easily.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "drank",
+              "tränkest"
+            ],
+            [
+              "too much",
+              "zu-viel"
+            ],
+            [
+              "alcohol,",
+              "Alkohol,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "would",
+              "würdest"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "sleepy",
+              "schläfrig"
+            ],
+            [
+              "quite",
+              "ziemlich"
+            ],
+            [
+              "easily.",
+              "leicht."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4008,7 +5044,49 @@
               ]
             }
           ],
-          "read": "If you had a spanner, you could fix your bike."
+          "read": "If you had a spanner, you could fix your bike.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "had",
+              "hättest"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "spanner,",
+              "Schraubenschlüssel,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "could",
+              "könntest"
+            ],
+            [
+              "fix",
+              "reparieren"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "bike.",
+              "Fahrrad."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4164,7 +5242,61 @@
               ]
             }
           ],
-          "read": "If we had more money, we would invest most of it in schools."
+          "read": "If we had more money, we would invest most of it in schools.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "had",
+              "hätten"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "would",
+              "würden"
+            ],
+            [
+              "invest",
+              "investieren"
+            ],
+            [
+              "most",
+              "das-meiste"
+            ],
+            [
+              "of",
+              "davon"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "schools.",
+              "Schulen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4296,7 +5428,49 @@
               ]
             }
           ],
-          "read": "If I spoke Japanese fluently, I would travel to Japan."
+          "read": "If I spoke Japanese fluently, I would travel to Japan.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "spoke",
+              "spräche"
+            ],
+            [
+              "Japanese",
+              "Japanisch"
+            ],
+            [
+              "fluently,",
+              "fließend,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "travel",
+              "reisen"
+            ],
+            [
+              "to",
+              "nach"
+            ],
+            [
+              "Japan.",
+              "Japan."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4420,7 +5594,45 @@
               ]
             }
           ],
-          "read": "If I were slimmer, I would buy designer clothes."
+          "read": "If I were slimmer, I would buy designer clothes.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "slimmer,",
+              "schlanker,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "designer",
+              "Designer-"
+            ],
+            [
+              "clothes.",
+              "Kleidung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4584,7 +5796,65 @@
               ]
             }
           ],
-          "read": "If I had more time and money, I could stop working and go abroad."
+          "read": "If I had more time and money, I could stop working and go abroad.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "more",
+              "mehr"
+            ],
+            [
+              "time",
+              "Zeit"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "could",
+              "könnte"
+            ],
+            [
+              "stop",
+              "aufhören"
+            ],
+            [
+              "working",
+              "zu-arbeiten"
+            ],
+            [
+              "and",
+              "und"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "abroad.",
+              "ins-Ausland."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4716,7 +5986,49 @@
               ]
             }
           ],
-          "read": "If I were you, I would buy that new car."
+          "read": "If I were you, I would buy that new car.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "were",
+              "wäre"
+            ],
+            [
+              "you,",
+              "du,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "buy",
+              "kaufen"
+            ],
+            [
+              "that",
+              "dieses"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "car.",
+              "Auto."
+            ]
+          ]
         }
       ]
     },
@@ -4890,7 +6202,73 @@
               ]
             }
           ],
-          "read": "According to the weather forecast, it might rain tonight. If it rains, I'll stay at home."
+          "read": "According to the weather forecast, it might rain tonight. If it rains, I'll stay at home.",
+          "rdec": [
+            [
+              "According",
+              "gemäß"
+            ],
+            [
+              "to",
+              "dem"
+            ],
+            [
+              "the",
+              ""
+            ],
+            [
+              "weather",
+              "Wetter-"
+            ],
+            [
+              "forecast,",
+              "bericht,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "might",
+              "könnte"
+            ],
+            [
+              "rain",
+              "regnen"
+            ],
+            [
+              "tonight.",
+              "heute-Abend."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "rains,",
+              "regnet,"
+            ],
+            [
+              "I'll",
+              "ich'werde"
+            ],
+            [
+              "stay",
+              "bleiben"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home.",
+              "Hause."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5003,7 +6381,49 @@
               ]
             }
           ],
-          "read": "If I don't call you tonight, you can call me."
+          "read": "If I don't call you tonight, you can call me.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "tun'nicht"
+            ],
+            [
+              "call",
+              "anrufen"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "tonight,",
+              "heute-Abend,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "can",
+              "kannst"
+            ],
+            [
+              "call",
+              "anrufen"
+            ],
+            [
+              "me.",
+              "mich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5112,7 +6532,45 @@
               ]
             }
           ],
-          "read": "Will you wait for me if I am late?"
+          "read": "Will you wait for me if I am late?",
+          "rdec": [
+            [
+              "Will",
+              "wirst"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "wait",
+              "warten"
+            ],
+            [
+              "for",
+              "auf"
+            ],
+            [
+              "me",
+              "mich"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "am",
+              "bin"
+            ],
+            [
+              "late?",
+              "zu-spät?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -5249,7 +6707,61 @@
               ]
             }
           ],
-          "read": "At the moment, it's raining. If it was sunny, I would go out."
+          "read": "At the moment, it's raining. If it was sunny, I would go out.",
+          "rdec": [
+            [
+              "At",
+              "im"
+            ],
+            [
+              "the",
+              ""
+            ],
+            [
+              "moment,",
+              "Moment,"
+            ],
+            [
+              "it's",
+              "es'ist"
+            ],
+            [
+              "raining.",
+              "am-regnen."
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "was",
+              "wäre"
+            ],
+            [
+              "sunny,",
+              "sonnig,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "out.",
+              "raus."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5382,7 +6894,57 @@
               ]
             }
           ],
-          "read": "What would you do if you found a lot of money in the street?"
+          "read": "What would you do if you found a lot of money in the street?",
+          "rdec": [
+            [
+              "What",
+              "was"
+            ],
+            [
+              "would",
+              "würdest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "do",
+              "tun"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "found",
+              "fändest"
+            ],
+            [
+              "a lot of",
+              "viel"
+            ],
+            [
+              "money",
+              "Geld"
+            ],
+            [
+              "in",
+              "auf"
+            ],
+            [
+              "the",
+              "der"
+            ],
+            [
+              "street?",
+              "Straße?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -5487,7 +7049,45 @@
               ]
             }
           ],
-          "read": "If it wasn't dark outside, we could go out."
+          "read": "If it wasn't dark outside, we could go out.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "wasn't",
+              "wäre'nicht"
+            ],
+            [
+              "dark",
+              "dunkel"
+            ],
+            [
+              "outside,",
+              "draußen,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "could",
+              "könnten"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "out.",
+              "raus."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5619,7 +7219,57 @@
               ]
             }
           ],
-          "read": "We are sure she will come. When she comes, I'll call you."
+          "read": "We are sure she will come. When she comes, I'll call you.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "are",
+              "sind"
+            ],
+            [
+              "sure",
+              "sicher"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "will",
+              "wird"
+            ],
+            [
+              "come.",
+              "kommen."
+            ],
+            [
+              "When",
+              "wenn"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "comes,",
+              "kommt,"
+            ],
+            [
+              "I'll",
+              "ich'werde"
+            ],
+            [
+              "call",
+              "anrufen"
+            ],
+            [
+              "you.",
+              "dich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5767,7 +7417,41 @@
               ]
             }
           ],
-          "read": "You don't get fit unless you exercise regularly."
+          "read": "You don't get fit unless you exercise regularly.",
+          "rdec": [
+            [
+              "You",
+              "du"
+            ],
+            [
+              "don't",
+              "wirst'nicht"
+            ],
+            [
+              "get",
+              "fit-werden"
+            ],
+            [
+              "fit",
+              ""
+            ],
+            [
+              "unless",
+              "außer-wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "exercise",
+              "trainierst"
+            ],
+            [
+              "regularly.",
+              "regelmäßig."
+            ]
+          ]
         }
       ]
     },
@@ -5904,7 +7588,49 @@
               ]
             }
           ],
-          "read": "If I had studied harder, I would have passed the exam."
+          "read": "If I had studied harder, I would have passed the exam.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "studied",
+              "gelernt"
+            ],
+            [
+              "harder,",
+              "fleißiger,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "passed",
+              "bestanden"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "exam.",
+              "Prüfung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6032,7 +7758,49 @@
               ]
             }
           ],
-          "read": "They wouldn't have gotten lost if they had followed the map."
+          "read": "They wouldn't have gotten lost if they had followed the map.",
+          "rdec": [
+            [
+              "They",
+              "sie"
+            ],
+            [
+              "wouldn't have",
+              "hätten'nicht"
+            ],
+            [
+              "gotten",
+              "sich-verirrt"
+            ],
+            [
+              "lost",
+              ""
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "had",
+              "hätten"
+            ],
+            [
+              "followed",
+              "befolgt"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "map.",
+              "Karte."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6160,7 +7928,49 @@
               ]
             }
           ],
-          "read": "If she had asked for help, someone would have assisted her."
+          "read": "If she had asked for help, someone would have assisted her.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "asked",
+              "gebeten"
+            ],
+            [
+              "for",
+              "um"
+            ],
+            [
+              "help,",
+              "Hilfe,"
+            ],
+            [
+              "someone",
+              "jemand"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "assisted",
+              "geholfen"
+            ],
+            [
+              "her.",
+              "ihr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6296,7 +8106,53 @@
               ]
             }
           ],
-          "read": "We would have attended the concert if we had bought tickets earlier."
+          "read": "We would have attended the concert if we had bought tickets earlier.",
+          "rdec": [
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "would have",
+              "hätten"
+            ],
+            [
+              "attended",
+              "besucht"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "concert",
+              "Konzert"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "had",
+              "hätten"
+            ],
+            [
+              "bought",
+              "gekauft"
+            ],
+            [
+              "tickets",
+              "Tickets"
+            ],
+            [
+              "earlier.",
+              "früher."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6432,7 +8288,53 @@
               ]
             }
           ],
-          "read": "If it hadn't rained yesterday, we would have gone for a picnic."
+          "read": "If it hadn't rained yesterday, we would have gone for a picnic.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "hadn't",
+              "hätte'nicht"
+            ],
+            [
+              "rained",
+              "geregnet"
+            ],
+            [
+              "yesterday,",
+              "gestern,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "would have",
+              "hätten"
+            ],
+            [
+              "gone",
+              "gemacht"
+            ],
+            [
+              "for",
+              "ein"
+            ],
+            [
+              "a",
+              ""
+            ],
+            [
+              "picnic.",
+              "Picknick."
+            ]
+          ]
         },
         {
           "parts": [
@@ -6576,7 +8478,57 @@
               ]
             }
           ],
-          "read": "He would have been on time if his alarm clock hadn't broken down."
+          "read": "He would have been on time if his alarm clock hadn't broken down.",
+          "rdec": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "on",
+              "pünktlich"
+            ],
+            [
+              "time",
+              ""
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "alarm",
+              "Wecker"
+            ],
+            [
+              "clock",
+              ""
+            ],
+            [
+              "hadn't",
+              "hätte'nicht"
+            ],
+            [
+              "broken",
+              "kaputt-gegangen"
+            ],
+            [
+              "down.",
+              ""
+            ]
+          ]
         },
         {
           "parts": [
@@ -6712,7 +8664,53 @@
               ]
             }
           ],
-          "read": "If they hadn't missed the bus, they would have arrived on time."
+          "read": "If they hadn't missed the bus, they would have arrived on time.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "hadn't",
+              "hätten'nicht"
+            ],
+            [
+              "missed",
+              "verpasst"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus,",
+              "Bus,"
+            ],
+            [
+              "they",
+              "sie"
+            ],
+            [
+              "would have",
+              "hätten"
+            ],
+            [
+              "arrived",
+              "angekommen"
+            ],
+            [
+              "on",
+              "pünktlich."
+            ],
+            [
+              "time.",
+              ""
+            ]
+          ]
         },
         {
           "parts": [
@@ -6848,7 +8846,53 @@
               ]
             }
           ],
-          "read": "She would have felt better if she had taken the medicine earlier."
+          "read": "She would have felt better if she had taken the medicine earlier.",
+          "rdec": [
+            [
+              "She",
+              "sie"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "felt",
+              "sich-gefühlt"
+            ],
+            [
+              "better",
+              "besser"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "taken",
+              "genommen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "medicine",
+              "Medikament"
+            ],
+            [
+              "earlier.",
+              "früher."
+            ]
+          ]
         }
       ]
     },
@@ -7097,7 +9141,73 @@
               ]
             }
           ],
-          "read": "If he had paid his internet bill, he would have been able to use the internet."
+          "read": "If he had paid his internet bill, he would have been able to use the internet.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "paid",
+              "bezahlt"
+            ],
+            [
+              "his",
+              "seine"
+            ],
+            [
+              "internet",
+              "Internet-"
+            ],
+            [
+              "bill,",
+              "Rechnung,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "able",
+              "in-der-Lage"
+            ],
+            [
+              "to",
+              "das"
+            ],
+            [
+              "use",
+              "zu-nutzen"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "internet.",
+              "Internet."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7313,7 +9423,65 @@
               ]
             }
           ],
-          "read": "If he had kept a diary, he would have remembered his best friend's birthday."
+          "read": "If he had kept a diary, he would have remembered his best friend's birthday.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "kept",
+              "geführt"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "diary,",
+              "Tagebuch,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "remembered",
+              "erinnert"
+            ],
+            [
+              "his",
+              "seines"
+            ],
+            [
+              "best",
+              "besten"
+            ],
+            [
+              "friend's",
+              "Freundes"
+            ],
+            [
+              "birthday.",
+              "Geburtstag."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7493,7 +9661,57 @@
               ]
             }
           ],
-          "read": "His car wouldn't have broken down if he had changed the oil."
+          "read": "His car wouldn't have broken down if he had changed the oil.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "His",
+              "sein"
+            ],
+            [
+              "car",
+              "Auto"
+            ],
+            [
+              "wouldn't have",
+              "hätte'nicht"
+            ],
+            [
+              "broken",
+              "kaputt-gegangen"
+            ],
+            [
+              "down",
+              ""
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "changed",
+              "gewechselt"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "oil.",
+              "Öl."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7677,7 +9895,57 @@
               ]
             }
           ],
-          "read": "If he had done some shopping, he wouldn't have run out of coffee."
+          "read": "If he had done some shopping, he wouldn't have run out of coffee.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "done",
+              "gemacht"
+            ],
+            [
+              "some",
+              "etwas"
+            ],
+            [
+              "shopping,",
+              "Einkaufen,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wouldn't have",
+              "hätte'nicht"
+            ],
+            [
+              "run out",
+              "ausgegangen"
+            ],
+            [
+              "of",
+              ""
+            ],
+            [
+              "coffee.",
+              "Kaffee."
+            ]
+          ]
         },
         {
           "parts": [
@@ -7857,7 +10125,53 @@
               ]
             }
           ],
-          "read": "If he had had an umbrella, he wouldn't have been soaking wet."
+          "read": "If he had had an umbrella, he wouldn't have been soaking wet.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had had",
+              "hätte-gehabt"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "umbrella,",
+              "Regenschirm,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wouldn't have",
+              "wäre'nicht"
+            ],
+            [
+              "been",
+              "gewesen"
+            ],
+            [
+              "soaking",
+              "klatschnass."
+            ],
+            [
+              "wet.",
+              ""
+            ]
+          ]
         },
         {
           "parts": [
@@ -8097,7 +10411,73 @@
               ]
             }
           ],
-          "read": "If he had cooked his lunch properly, he wouldn't have got food poisoning in the evening."
+          "read": "If he had cooked his lunch properly, he wouldn't have got food poisoning in the evening.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "cooked",
+              "gekocht"
+            ],
+            [
+              "his",
+              "sein"
+            ],
+            [
+              "lunch",
+              "Mittagessen"
+            ],
+            [
+              "properly,",
+              "richtig,"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "wouldn't have",
+              "hätte'nicht"
+            ],
+            [
+              "got",
+              "bekommen"
+            ],
+            [
+              "food",
+              "Lebensmittel-"
+            ],
+            [
+              "poisoning",
+              "vergiftung"
+            ],
+            [
+              "in",
+              "am"
+            ],
+            [
+              "the",
+              ""
+            ],
+            [
+              "evening.",
+              "Abend."
+            ]
+          ]
         }
       ]
     },
@@ -8266,7 +10646,65 @@
               ]
             }
           ],
-          "read": "If Emma had checked her alarm the night before, she would have woken up on time."
+          "read": "If Emma had checked her alarm the night before, she would have woken up on time.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "Emma",
+              "Emma"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "checked",
+              "überprüft"
+            ],
+            [
+              "her",
+              "ihren"
+            ],
+            [
+              "alarm",
+              "Wecker"
+            ],
+            [
+              "the",
+              "am"
+            ],
+            [
+              "night",
+              "Abend"
+            ],
+            [
+              "before,",
+              "davor,"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "woken up",
+              "aufgewacht"
+            ],
+            [
+              "on",
+              "pünktlich."
+            ],
+            [
+              "time.",
+              ""
+            ]
+          ]
         },
         {
           "parts": [
@@ -8402,7 +10840,53 @@
               ]
             }
           ],
-          "read": "If Emma had woken up on time, she would have caught the bus."
+          "read": "If Emma had woken up on time, she would have caught the bus.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "Emma",
+              "Emma"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "woken up",
+              "aufgewacht"
+            ],
+            [
+              "on",
+              "pünktlich,"
+            ],
+            [
+              "time,",
+              ""
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "caught",
+              "erwischt"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus.",
+              "Bus."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8586,7 +11070,77 @@
               ]
             }
           ],
-          "read": "If Emma had caught the bus, she would have arrived at the concert on time with her friends."
+          "read": "If Emma had caught the bus, she would have arrived at the concert on time with her friends.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "Emma",
+              "Emma"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "caught",
+              "erwischt"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus,",
+              "Bus,"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "arrived",
+              "angekommen"
+            ],
+            [
+              "at",
+              "beim"
+            ],
+            [
+              "the",
+              ""
+            ],
+            [
+              "concert",
+              "Konzert"
+            ],
+            [
+              "on",
+              "pünktlich"
+            ],
+            [
+              "time",
+              ""
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "her",
+              "ihren"
+            ],
+            [
+              "friends.",
+              "Freundinnen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8730,7 +11284,57 @@
               ]
             }
           ],
-          "read": "If Emma had set her alarm correctly, she would not have missed the concert."
+          "read": "If Emma had set her alarm correctly, she would not have missed the concert.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "Emma",
+              "Emma"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "set",
+              "gestellt"
+            ],
+            [
+              "her",
+              "ihren"
+            ],
+            [
+              "alarm",
+              "Wecker"
+            ],
+            [
+              "correctly,",
+              "richtig,"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would not have",
+              "hätte'nicht"
+            ],
+            [
+              "missed",
+              "verpasst"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "concert.",
+              "Konzert."
+            ]
+          ]
         }
       ]
     },
@@ -8851,7 +11455,49 @@
               "t": "g"
             }
           ],
-          "read": "Type 0: If you strike a match, it starts burning."
+          "read": "Type 0: If you strike a match, it starts burning.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "0:",
+              "0:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "strike",
+              "anzündest"
+            ],
+            [
+              "a",
+              "ein"
+            ],
+            [
+              "match,",
+              "Streichholz,"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "starts",
+              "beginnt"
+            ],
+            [
+              "burning.",
+              "zu-brennen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -8995,7 +11641,73 @@
               "t": "g"
             }
           ],
-          "read": "Type I: If we learn Japanese, we will be able to communicate with people in Japan."
+          "read": "Type I: If we learn Japanese, we will be able to communicate with people in Japan.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "I:",
+              "I:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "learn",
+              "lernen"
+            ],
+            [
+              "Japanese,",
+              "Japanisch,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "will",
+              "werden"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "able",
+              "fähig"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "communicate",
+              "kommunizieren"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "people",
+              "Leuten"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "Japan.",
+              "Japan."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9123,7 +11835,57 @@
               "t": "g"
             }
           ],
-          "read": "Type II: If you sent her a message, she would be happy."
+          "read": "Type II: If you sent her a message, she would be happy.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "II:",
+              "II:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "sent",
+              "schicktest"
+            ],
+            [
+              "her",
+              "ihr"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "message,",
+              "Nachricht,"
+            ],
+            [
+              "she",
+              "sie"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "happy.",
+              "glücklich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9251,7 +12013,61 @@
               "t": "g"
             }
           ],
-          "read": "Type III: If I hadn't broken my leg, I would have gone skiing."
+          "read": "Type III: If I hadn't broken my leg, I would have gone skiing.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "III:",
+              "III:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "hadn't",
+              "hätte'nicht"
+            ],
+            [
+              "broken",
+              "gebrochen"
+            ],
+            [
+              "my",
+              "mein"
+            ],
+            [
+              "leg,",
+              "Bein,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "gone",
+              "gegangen"
+            ],
+            [
+              "skiing.",
+              "Ski-fahren."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9371,7 +12187,53 @@
               "t": "g"
             }
           ],
-          "read": "Type I: Get ready if you want to catch the bus!"
+          "read": "Type I: Get ready if you want to catch the bus!",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "I:",
+              "I:"
+            ],
+            [
+              "Get",
+              "Mach"
+            ],
+            [
+              "ready",
+              "fertig"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want",
+              "willst"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "catch",
+              "erwischen"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus!",
+              "Bus!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -9523,7 +12385,69 @@
               "t": "g"
             }
           ],
-          "read": "Type II: It would be nice if we went to see Granny at the weekend."
+          "read": "Type II: It would be nice if we went to see Granny at the weekend.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "II:",
+              "II:"
+            ],
+            [
+              "It",
+              "Es"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "nice",
+              "schön"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "went",
+              "gingen"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "see",
+              "sehen"
+            ],
+            [
+              "Granny",
+              "Oma"
+            ],
+            [
+              "at",
+              "am"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "weekend.",
+              "Wochenende."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9643,7 +12567,57 @@
               "t": "g"
             }
           ],
-          "read": "Type III: I would have said hello if I had seen you."
+          "read": "Type III: I would have said hello if I had seen you.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "III:",
+              "III:"
+            ],
+            [
+              "I",
+              "Ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "said",
+              "gesagt"
+            ],
+            [
+              "hello",
+              "Hallo"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "seen",
+              "gesehen"
+            ],
+            [
+              "you.",
+              "dich."
+            ]
+          ]
         },
         {
           "parts": [
@@ -9811,7 +12785,81 @@
               "t": "g"
             }
           ],
-          "read": "Type 0: If you want to study in the USA, you have to pass an exam in English."
+          "read": "Type 0: If you want to study in the USA, you have to pass an exam in English.",
+          "rdec": [
+            [
+              "Type",
+              "Typ"
+            ],
+            [
+              "0:",
+              "0:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "want",
+              "willst"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "study",
+              "studieren"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "USA,",
+              "USA,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "have",
+              "musst"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "pass",
+              "bestehen"
+            ],
+            [
+              "an",
+              "eine"
+            ],
+            [
+              "exam",
+              "Prüfung"
+            ],
+            [
+              "in",
+              "in"
+            ],
+            [
+              "English.",
+              "Englisch."
+            ]
+          ]
         }
       ]
     },
@@ -10039,7 +13087,53 @@
               "w": []
             }
           ],
-          "read": "Typ II: If I passed my exam, I would celebrate."
+          "read": "Typ II: If I passed my exam, I would celebrate.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "II:",
+              "II:"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "passed",
+              "bestünde"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "exam,",
+              "Prüfung,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "celebrate.",
+              "feiern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10291,7 +13385,61 @@
               ]
             }
           ],
-          "read": "Typ III: If I had had the money, I would have paid my debts."
+          "read": "Typ III: If I had had the money, I would have paid my debts.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "III:",
+              "III:"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had had",
+              "hätte-gehabt"
+            ],
+            [
+              "the",
+              "das"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "paid",
+              "bezahlt"
+            ],
+            [
+              "my",
+              "meine"
+            ],
+            [
+              "debts.",
+              "Schulden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10515,7 +13663,57 @@
               ]
             }
           ],
-          "read": "Typ III: If it had rained, I would have stayed at home."
+          "read": "Typ III: If it had rained, I would have stayed at home.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "III:",
+              "III:"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "had",
+              "hätte"
+            ],
+            [
+              "rained,",
+              "geregnet,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "stayed",
+              "geblieben"
+            ],
+            [
+              "at",
+              "zu"
+            ],
+            [
+              "home.",
+              "Hause."
+            ]
+          ]
         },
         {
           "parts": [
@@ -10767,7 +13965,61 @@
               ]
             }
           ],
-          "read": "Typ III: If I had been you, I would have bought that new car."
+          "read": "Typ III: If I had been you, I would have bought that new car.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "III:",
+              "III:"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had been",
+              "gewesen-wäre"
+            ],
+            [
+              "you,",
+              "du,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would have",
+              "hätte"
+            ],
+            [
+              "bought",
+              "gekauft"
+            ],
+            [
+              "that",
+              "dieses"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "car.",
+              "Auto."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11027,7 +14279,53 @@
               ]
             }
           ],
-          "read": "Typ II: If I studied more, I would pass the exam."
+          "read": "Typ II: If I studied more, I would pass the exam.",
+          "rdec": [
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "II:",
+              "II:"
+            ],
+            [
+              "If",
+              "Wenn"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "studied",
+              "lernte"
+            ],
+            [
+              "more,",
+              "mehr,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "would",
+              "würde"
+            ],
+            [
+              "pass",
+              "bestehen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "exam.",
+              "Prüfung."
+            ]
+          ]
         },
         {
           "parts": [
@@ -11279,7 +14577,61 @@
               ]
             }
           ],
-          "read": "Typ II: If we saved enough money, we could go on holiday."
+          "read": "Typ II: If we saved enough money, we could go on holiday.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Typ",
+              "Typ"
+            ],
+            [
+              "II:",
+              "II:"
+            ],
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "saved",
+              "sparten"
+            ],
+            [
+              "enough",
+              "genug"
+            ],
+            [
+              "money,",
+              "Geld,"
+            ],
+            [
+              "we",
+              "wir"
+            ],
+            [
+              "could",
+              "könnten"
+            ],
+            [
+              "go",
+              "fahren"
+            ],
+            [
+              "on",
+              "in"
+            ],
+            [
+              "holiday.",
+              "Urlaub."
+            ]
+          ]
         }
       ]
     }

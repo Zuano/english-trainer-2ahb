@@ -1330,7 +1330,53 @@
               ]
             }
           ],
-          "read": "My son should be home by now. Where can he be?"
+          "read": "My son should be home by now. Where can he be?",
+          "rdec": [
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "son",
+              "Sohn"
+            ],
+            [
+              "should",
+              "sollte"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "home",
+              "zu-Hause"
+            ],
+            [
+              "by",
+              "bis"
+            ],
+            [
+              "now.",
+              "jetzt."
+            ],
+            [
+              "Where",
+              "wo"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "be?",
+              "sein?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1472,7 +1518,61 @@
               ]
             }
           ],
-          "read": "I think your thumb is broken. You ought to go to the emergency room."
+          "read": "I think your thumb is broken. You ought to go to the emergency room.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "think",
+              "denke"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "thumb",
+              "Daumen"
+            ],
+            [
+              "is",
+              "ist"
+            ],
+            [
+              "broken.",
+              "gebrochen."
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "ought to",
+              "solltest"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "to",
+              "in"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "emergency",
+              "Notaufnahme"
+            ],
+            [
+              "room.",
+              "Raum/Zimmer."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1614,7 +1714,61 @@
               ]
             }
           ],
-          "read": "If you are interested in losing weight, you could try this new diet."
+          "read": "If you are interested in losing weight, you could try this new diet.",
+          "rdec": [
+            [
+              "If",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "are",
+              "bist"
+            ],
+            [
+              "interested",
+              "interessiert"
+            ],
+            [
+              "in",
+              "daran,"
+            ],
+            [
+              "losing",
+              "abzunehmen/zu-verlieren"
+            ],
+            [
+              "weight,",
+              "Gewicht,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "could",
+              "könntest"
+            ],
+            [
+              "try",
+              "ausprobieren"
+            ],
+            [
+              "this",
+              "diese"
+            ],
+            [
+              "new",
+              "neue"
+            ],
+            [
+              "diet.",
+              "Diät."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1732,7 +1886,49 @@
               ]
             }
           ],
-          "read": "John's fallen down the stairs! I will call an ambulance!"
+          "read": "John's fallen down the stairs! I will call an ambulance!",
+          "rdec": [
+            [
+              "John's",
+              "John-ist"
+            ],
+            [
+              "fallen",
+              "gefallen"
+            ],
+            [
+              "down",
+              "hinunter"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "stairs!",
+              "Treppe!"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "will",
+              "werde"
+            ],
+            [
+              "call",
+              "rufen"
+            ],
+            [
+              "an",
+              "einen"
+            ],
+            [
+              "ambulance!",
+              "Krankenwagen!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -1858,7 +2054,53 @@
               ]
             }
           ],
-          "read": "You needn't come too early. We won't leave until 9 o'clock."
+          "read": "You needn't come too early. We won't leave until 9 o'clock.",
+          "rdec": [
+            [
+              "You",
+              "du"
+            ],
+            [
+              "needn't",
+              "brauchst'nicht"
+            ],
+            [
+              "come",
+              "kommen"
+            ],
+            [
+              "too",
+              "zu"
+            ],
+            [
+              "early.",
+              "früh."
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "won't",
+              "werden'nicht"
+            ],
+            [
+              "leave",
+              "abfahren"
+            ],
+            [
+              "until",
+              "bis"
+            ],
+            [
+              "9",
+              "9"
+            ],
+            [
+              "o'clock.",
+              "Uhr."
+            ]
+          ]
         },
         {
           "parts": [
@@ -1976,7 +2218,49 @@
               ]
             }
           ],
-          "read": "Children must be accompanied by an adult at the zoo."
+          "read": "Children must be accompanied by an adult at the zoo.",
+          "rdec": [
+            [
+              "Children",
+              "Kinder"
+            ],
+            [
+              "must",
+              "müssen"
+            ],
+            [
+              "be",
+              "begleitet-werden"
+            ],
+            [
+              "accompanied",
+              "begleitet"
+            ],
+            [
+              "by",
+              "von"
+            ],
+            [
+              "an",
+              "einem"
+            ],
+            [
+              "adult",
+              "Erwachsenen"
+            ],
+            [
+              "at",
+              "im"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "zoo.",
+              "Zoo."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2070,7 +2354,37 @@
               ]
             }
           ],
-          "read": "You mustn't talk during tests. It's forbidden!"
+          "read": "You mustn't talk during tests. It's forbidden!",
+          "rdec": [
+            [
+              "You",
+              "du"
+            ],
+            [
+              "mustn't",
+              "darfst'nicht"
+            ],
+            [
+              "talk",
+              "reden"
+            ],
+            [
+              "during",
+              "während"
+            ],
+            [
+              "tests.",
+              "Prüfungen."
+            ],
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "forbidden!",
+              "verboten!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2196,7 +2510,53 @@
               ]
             }
           ],
-          "read": "I can feel the heat. We must be near the fire."
+          "read": "I can feel the heat. We must be near the fire.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "feel",
+              "fühlen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "heat.",
+              "Hitze."
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "must",
+              "müssen"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "near",
+              "nahe"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "fire.",
+              "Feuer."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2298,7 +2658,41 @@
               ]
             }
           ],
-          "read": "They couldn't hear him because he was whispering."
+          "read": "They couldn't hear him because he was whispering.",
+          "rdec": [
+            [
+              "They",
+              "sie"
+            ],
+            [
+              "couldn't",
+              "konnten'nicht"
+            ],
+            [
+              "hear",
+              "hören"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "he",
+              "er"
+            ],
+            [
+              "was",
+              "war"
+            ],
+            [
+              "whispering.",
+              "am-Flüstern."
+            ]
+          ]
         },
         {
           "parts": [
@@ -2416,7 +2810,49 @@
               ]
             }
           ],
-          "read": "You've never heard of Britney Spears? You can't be serious!"
+          "read": "You've never heard of Britney Spears? You can't be serious!",
+          "rdec": [
+            [
+              "You've",
+              "du-hast"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "heard",
+              "gehört"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "Britney",
+              "Britney"
+            ],
+            [
+              "Spears?",
+              "Spears?"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "can't",
+              "kann'nicht"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "serious!",
+              "ernst!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2520,7 +2956,45 @@
               ]
             }
           ],
-          "read": "Would you like to have dinner with me tonight?"
+          "read": "Would you like to have dinner with me tonight?",
+          "rdec": [
+            [
+              "Would",
+              "würdest"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "like",
+              "gerne"
+            ],
+            [
+              "to",
+              "zu"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "dinner",
+              "Abendessen"
+            ],
+            [
+              "with",
+              "mit"
+            ],
+            [
+              "me",
+              "mir"
+            ],
+            [
+              "tonight?",
+              "heute-Abend?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2654,7 +3128,57 @@
               ]
             }
           ],
-          "read": "You mustn't let him hear about the party tomorrow. It's a surprise!"
+          "read": "You mustn't let him hear about the party tomorrow. It's a surprise!",
+          "rdec": [
+            [
+              "You",
+              "du"
+            ],
+            [
+              "mustn't",
+              "darfst'nicht"
+            ],
+            [
+              "let",
+              "lassen"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "hear",
+              "hören"
+            ],
+            [
+              "about",
+              "über"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "party",
+              "Party"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ],
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "surprise!",
+              "Überraschung!"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2750,7 +3274,41 @@
               ]
             }
           ],
-          "read": "May I speak to the Chief Councellor, please?"
+          "read": "May I speak to the Chief Councellor, please?",
+          "rdec": [
+            [
+              "May",
+              "darf"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "speak",
+              "sprechen"
+            ],
+            [
+              "to",
+              "mit"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "Chief",
+              "Haupt-"
+            ],
+            [
+              "Councellor,",
+              "Berater,"
+            ],
+            [
+              "please?",
+              "bitte?"
+            ]
+          ]
         },
         {
           "parts": [
@@ -2861,7 +3419,45 @@
               ]
             }
           ],
-          "read": "He has arrived late. He must have missed the bus."
+          "read": "He has arrived late. He must have missed the bus.",
+          "rdec": [
+            [
+              "He",
+              "er"
+            ],
+            [
+              "has",
+              "ist"
+            ],
+            [
+              "arrived",
+              "angekommen"
+            ],
+            [
+              "late.",
+              "spät."
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "must have",
+              "muss-gehabt-haben/wird-wohl"
+            ],
+            [
+              "missed",
+              "verpasst"
+            ],
+            [
+              "the",
+              "den"
+            ],
+            [
+              "bus.",
+              "Bus."
+            ]
+          ]
         }
       ]
     },
@@ -3023,7 +3619,37 @@
               ]
             }
           ],
-          "read": "You should get a good lawyer."
+          "read": "You should get a good lawyer.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "should",
+              "solltest"
+            ],
+            [
+              "get",
+              "dir-holen"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "good",
+              "guten"
+            ],
+            [
+              "lawyer.",
+              "Anwalt."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3200,7 +3826,49 @@
               ]
             }
           ],
-          "read": "You don't have to have a university degree for that job."
+          "read": "You don't have to have a university degree for that job.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "don't have to",
+              "musst'nicht"
+            ],
+            [
+              "have",
+              "haben"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "university",
+              "Universitäts-"
+            ],
+            [
+              "degree",
+              "Abschluss"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "that",
+              "diese"
+            ],
+            [
+              "job.",
+              "Stelle."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3345,7 +4013,37 @@
               ]
             }
           ],
-          "read": "My father may pick you up."
+          "read": "My father may pick you up.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "My",
+              "mein"
+            ],
+            [
+              "father",
+              "Vater"
+            ],
+            [
+              "may",
+              "darf/könnte"
+            ],
+            [
+              "pick",
+              "abholen"
+            ],
+            [
+              "you",
+              "dich"
+            ],
+            [
+              "up.",
+              "auf."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3466,7 +4164,33 @@
               ]
             }
           ],
-          "read": "You mustn't eat in class."
+          "read": "You mustn't eat in class.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "mustn't",
+              "darfst'nicht"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "class.",
+              "Unterricht."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3651,7 +4375,37 @@
               ]
             }
           ],
-          "read": "He must be a poor person."
+          "read": "He must be a poor person.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "He",
+              "er"
+            ],
+            [
+              "must",
+              "muss"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "poor",
+              "arme"
+            ],
+            [
+              "person.",
+              "Person."
+            ]
+          ]
         },
         {
           "parts": [
@@ -3868,7 +4622,41 @@
               ]
             }
           ],
-          "read": "The legend of Hercules can't be true."
+          "read": "The legend of Hercules can't be true.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "legend",
+              "Legende"
+            ],
+            [
+              "of",
+              "von"
+            ],
+            [
+              "Hercules",
+              "Hercules"
+            ],
+            [
+              "can't",
+              "kann'nicht"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "true.",
+              "wahr."
+            ]
+          ]
         }
       ]
     },
@@ -4001,7 +4789,37 @@
               "t": "g"
             }
           ],
-          "read": "We may know the answers tomorrow."
+          "read": "We may know the answers tomorrow.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "may",
+              "könnten"
+            ],
+            [
+              "know",
+              "wissen"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "answers",
+              "Antworten"
+            ],
+            [
+              "tomorrow.",
+              "morgen."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4161,7 +4979,49 @@
               "t": "g"
             }
           ],
-          "read": "You'd better not ring him now. It's rather late."
+          "read": "You'd better not ring him now. It's rather late.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You'd",
+              "du-würdest"
+            ],
+            [
+              "better",
+              "besser"
+            ],
+            [
+              "not",
+              "nicht"
+            ],
+            [
+              "ring",
+              "anrufen"
+            ],
+            [
+              "him",
+              "ihn"
+            ],
+            [
+              "now.",
+              "jetzt."
+            ],
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "rather",
+              "ziemlich"
+            ],
+            [
+              "late.",
+              "spät."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4293,7 +5153,45 @@
               "t": "g"
             }
           ],
-          "read": "You don't have to come if you don't want to."
+          "read": "You don't have to come if you don't want to.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "don't have to",
+              "musst'nicht"
+            ],
+            [
+              "come",
+              "kommen"
+            ],
+            [
+              "if",
+              "wenn"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "don't",
+              "nicht"
+            ],
+            [
+              "want",
+              "willst"
+            ],
+            [
+              "to.",
+              "zu."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4429,7 +5327,33 @@
               "t": "g"
             }
           ],
-          "read": "You shouldn't work so hard."
+          "read": "You shouldn't work so hard.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "You",
+              "du"
+            ],
+            [
+              "shouldn't",
+              "solltest'nicht"
+            ],
+            [
+              "work",
+              "arbeiten"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "hard.",
+              "hart."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4525,7 +5449,33 @@
               "t": "g"
             }
           ],
-          "read": "These might be the keys."
+          "read": "These might be the keys.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "These",
+              "diese"
+            ],
+            [
+              "might",
+              "könnten"
+            ],
+            [
+              "be",
+              "sein"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "keys.",
+              "Schlüssel."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4733,7 +5683,57 @@
               "t": "g"
             }
           ],
-          "read": "We can't lock the cat in the house for a week."
+          "read": "We can't lock the cat in the house for a week.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "can't",
+              "können'nicht"
+            ],
+            [
+              "lock",
+              "einsperren"
+            ],
+            [
+              "the",
+              "die"
+            ],
+            [
+              "cat",
+              "Katze"
+            ],
+            [
+              "in",
+              "im"
+            ],
+            [
+              "the",
+              "dem"
+            ],
+            [
+              "house",
+              "Haus"
+            ],
+            [
+              "for",
+              "für"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "week.",
+              "Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -4877,7 +5877,41 @@
               "t": "g"
             }
           ],
-          "read": "The decision might be announced next week."
+          "read": "The decision might be announced next week.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "The",
+              "die"
+            ],
+            [
+              "decision",
+              "Entscheidung"
+            ],
+            [
+              "might",
+              "könnte"
+            ],
+            [
+              "be",
+              "bekannt-gegeben-werden"
+            ],
+            [
+              "announced",
+              "bekannt-gegeben"
+            ],
+            [
+              "next",
+              "nächste"
+            ],
+            [
+              "week.",
+              "Woche."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5045,7 +6079,57 @@
               "t": "g"
             }
           ],
-          "read": "Try as I may, I can never solve The Times crossword."
+          "read": "Try as I may, I can never solve The Times crossword.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "Try",
+              "versuche"
+            ],
+            [
+              "as",
+              "wie"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "may,",
+              "auch-kann,"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "can",
+              "kann"
+            ],
+            [
+              "never",
+              "nie"
+            ],
+            [
+              "solve",
+              "lösen"
+            ],
+            [
+              "The",
+              "The"
+            ],
+            [
+              "Times",
+              "Times"
+            ],
+            [
+              "crossword.",
+              "Kreuzworträtsel."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5197,7 +6281,49 @@
               "t": "g"
             }
           ],
-          "read": "I know. We could go out to eat instead."
+          "read": "I know. We could go out to eat instead.",
+          "rdec": [
+            [
+              "→",
+              "→"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "know.",
+              "weiß."
+            ],
+            [
+              "We",
+              "wir"
+            ],
+            [
+              "could",
+              "könnten"
+            ],
+            [
+              "go",
+              "gehen"
+            ],
+            [
+              "out",
+              "aus"
+            ],
+            [
+              "to",
+              "zum"
+            ],
+            [
+              "eat",
+              "essen"
+            ],
+            [
+              "instead.",
+              "stattdessen."
+            ]
+          ]
         }
       ]
     },
@@ -5289,7 +6415,33 @@
               ]
             }
           ],
-          "read": "That can't have been Nick that you saw."
+          "read": "That can't have been Nick that you saw.",
+          "rdec": [
+            [
+              "That",
+              "das"
+            ],
+            [
+              "can't have been",
+              "kann'nicht-gewesen-sein"
+            ],
+            [
+              "Nick",
+              "Nick"
+            ],
+            [
+              "that",
+              "den"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "saw.",
+              "gesehen-hast."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5408,7 +6560,53 @@
               ]
             }
           ],
-          "read": "I caught a later train because I had to see a client."
+          "read": "I caught a later train because I had to see a client.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "caught",
+              "nahm"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "later",
+              "späteren"
+            ],
+            [
+              "train",
+              "Zug"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "had to",
+              "musste"
+            ],
+            [
+              "see",
+              "treffen"
+            ],
+            [
+              "a",
+              "einen"
+            ],
+            [
+              "client.",
+              "Kunden."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5515,7 +6713,45 @@
               ]
             }
           ],
-          "read": "I don't know who rang, but it could have been Jim."
+          "read": "I don't know who rang, but it could have been Jim.",
+          "rdec": [
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "don't",
+              "weiß'nicht"
+            ],
+            [
+              "know",
+              "weiß"
+            ],
+            [
+              "who",
+              "wer"
+            ],
+            [
+              "rang,",
+              "angerufen-hat,"
+            ],
+            [
+              "but",
+              "aber"
+            ],
+            [
+              "it",
+              "es"
+            ],
+            [
+              "could have been",
+              "könnte-gewesen-sein"
+            ],
+            [
+              "Jim.",
+              "Jim."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5630,7 +6866,49 @@
               ]
             }
           ],
-          "read": "It's a pity you didn't ask because I could have helped you."
+          "read": "It's a pity you didn't ask because I could have helped you.",
+          "rdec": [
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "a",
+              "eine"
+            ],
+            [
+              "pity",
+              "Schade"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "didn't",
+              "nicht-gefragt-hast"
+            ],
+            [
+              "ask",
+              "gefragt-hast"
+            ],
+            [
+              "because",
+              "weil"
+            ],
+            [
+              "I",
+              "ich"
+            ],
+            [
+              "could have helped",
+              "hätte-helfen-können"
+            ],
+            [
+              "you.",
+              "dir."
+            ]
+          ]
         },
         {
           "parts": [
@@ -5753,7 +7031,53 @@
               ]
             }
           ],
-          "read": "It's your own fault, you shouldn't have gone to bed so late."
+          "read": "It's your own fault, you shouldn't have gone to bed so late.",
+          "rdec": [
+            [
+              "It's",
+              "es-ist"
+            ],
+            [
+              "your",
+              "dein"
+            ],
+            [
+              "own",
+              "eigener"
+            ],
+            [
+              "fault,",
+              "Fehler,"
+            ],
+            [
+              "you",
+              "du"
+            ],
+            [
+              "shouldn't have",
+              "hättest'nicht-sollen"
+            ],
+            [
+              "gone",
+              "gegangen"
+            ],
+            [
+              "to",
+              "ins"
+            ],
+            [
+              "bed",
+              "Bett"
+            ],
+            [
+              "so",
+              "so"
+            ],
+            [
+              "late.",
+              "spät."
+            ]
+          ]
         }
       ]
     }
